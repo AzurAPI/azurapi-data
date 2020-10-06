@@ -55,6 +55,9 @@ function readFilesFromLanguage(lang = "EN") {
         if (compiled[ship.group_type].tags && JSON.stringify(compiled[ship.group_type].tags) !== JSON.stringify(stat.tag_list)) console.log("DIED: " + ship.id);
         compiled[ship.group_type].tags = stat.tag_list;
 
+        // https://github.com/minhducsun2002/boomer/blob/92c21b3624b539068ef3758d7f4c879fc8401952/src/db/al/models/ship_data_statistics.ts
+        let [hp, fp, trp, aa, av, rld, _, acc, eva, spd, luk, asw] = stat.attrs;
+
         let specificShip = compiled[ship.group_type].data[ship.id];
         if (!specificShip) compiled[ship.group_type].data[ship.id] = specificShip = {
             id: ship.id,
@@ -65,7 +68,10 @@ function readFilesFromLanguage(lang = "EN") {
             rarity_text: rarity[stat.rarity],
             stars: ship.star,
             oil: ship.oil_at_end,
-            max_level: ship.max_level
+            max_level: ship.max_level,
+            stats: {
+                hp, fp, trp, aa, av, rld, acc, eva, spd, luk, asw
+            }
         };
         specificShip.type[lang.toLowerCase()] = types[ship.type].type_name;
         specificShip.names[lang.toLowerCase()] = stat.name;
