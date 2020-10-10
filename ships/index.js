@@ -1,3 +1,5 @@
+const fs = require("fs");
+
 const RARITY = {
     2: "Common",
     3: "Rare",
@@ -12,6 +14,8 @@ const NATIONALITY = {
     9: "Vichya Dominion", 98: "Universal", 101: "Neptunia",
     104: "Kizuna AI", 105: "Hololive"
 };
+
+let TYPES = {};
 
 let compiled = {};
 
@@ -29,16 +33,14 @@ function readFilesFromLanguage(lang = "EN") {
             code: group.code,
 
             name: {},
+            property_hexagon: group.property_hexagon,
 
             type: group.type,
-            type_text: {},
             nationality: group.nationality,
-
-            property_hexagon: group.property_hexagon,
-            // rarity: [],
             data: {}
         };
-        ship.type_text[lang.toLowerCase()] = types[group.type].type_name;
+        if (!TYPES[group.type]) TYPES[group.type] = {};
+        if (!TYPES[group.type][lang.toLowerCase()]) TYPES[group.type][lang.toLowerCase()] = types[group.type].type_name.trim();
     }
 
     for (let id of Object.keys(ships)) {
@@ -71,14 +73,26 @@ function readFilesFromLanguage(lang = "EN") {
             max_level: ship.max_level,
             stats: {hp, fp, trp, aa, av, rld, acc, eva, spd, luk, asw}
         };
-        if (specificShip.type !== ship.type) console.log("SHIP TYPE NOT MATCH ", id, ship.group_type, stat.name, lang)
-        if (compiled[ship.group_type].name[lang.toLowerCase()] && compiled[ship.group_type].name[lang.toLowerCase()] !== stat.name) { // name not matching, probably retrofit
+
+        if (specificShip.type !== ship.type) console.log("SHIP TYPE NOT MATCH ", id, ship.group_type, stat.name, lang);
+
+        stat.name = stat.name.trim();
+        if (!compiled[ship.group_type].name[lang.toLowerCase()]) compiled[ship.group_type].name[lang.toLowerCase()] = stat.name;
+        if (compiled[ship.group_type].name[lang.toLowerCase()] !== stat.name) { // name not matching, probably retrofit
             if (!specificShip.name) specificShip.name = {};
             specificShip.name[lang.toLowerCase()] = stat.name;
         }
-        compiled[ship.group_type].name[lang.toLowerCase()] = stat.name;
     }
-    return compiled;
 }
 
-module.exports = {readFilesFromLanguage, compiled};
+function parseShips() {
+    readFilesFromLanguage("EN");
+    readFilesFromLanguage("CN");
+    readFilesFromLanguage("JP");
+    readFilesFromLanguage("KR");
+    readFilesFromLanguage("TW");
+    fs.writeFileSync("./dist/ships.json", JSON.stringify(compiled, null, '\t'));
+    fs.writeFileSync("./dist/types.json", JSON.stringify(TYPES, null, '\t'));
+}
+
+module.exports = {parseShips};

@@ -9,15 +9,6 @@
 			"kr": "범용형 부린",
 			"tw": "泛用型布里"
 		},
-		"type": 1,
-		"type_text": {
-			"en": "Destroyer",
-			"cn": "驱逐",
-			"jp": "駆逐",
-			"kr": "구축",
-			"tw": "驅逐"
-		},
-		"nationality": 98,
 		"property_hexagon": [
 			"D",
 			"D",
@@ -26,6 +17,8 @@
 			"D",
 			"D"
 		],
+		"type": 1,
+		"nationality": 98,
 		"data": {
 			"100001": {
 				"id": 100001,
@@ -61,15 +54,6 @@
 			"kr": "시제형 부린 MKⅡ",
 			"tw": "試作型布里MKII"
 		},
-		"type": 1,
-		"type_text": {
-			"en": "Destroyer",
-			"cn": "驱逐",
-			"jp": "駆逐",
-			"kr": "구축",
-			"tw": "驅逐"
-		},
-		"nationality": 98,
 		"property_hexagon": [
 			"D",
 			"D",
@@ -78,6 +62,8 @@
 			"D",
 			"D"
 		],
+		"type": 1,
+		"nationality": 98,
 		"data": {
 			"100011": {
 				"id": 100011,
@@ -107,19 +93,11 @@
 		"id": 10002,
 		"code": 3,
 		"name": {
-			"en": "Specialized Bulin Custom MKIII ",
+			"en": "Specialized Bulin Custom MKIII",
 			"cn": "特装型布里MKIII",
 			"jp": "特装型ブリMKⅢ",
 			"kr": "특장형 부린 MKIII"
 		},
-		"type": 1,
-		"type_text": {
-			"en": "Destroyer",
-			"cn": "驱逐",
-			"jp": "駆逐",
-			"kr": "구축"
-		},
-		"nationality": 98,
 		"property_hexagon": [
 			"D",
 			"D",
@@ -128,6 +106,8 @@
 			"D",
 			"D"
 		],
+		"type": 1,
+		"nationality": 98,
 		"data": {
 			"100021": {
 				"id": 100021,
@@ -160,18 +140,9 @@
 			"en": "Dewey",
 			"cn": "杜威",
 			"jp": "デューイ",
-			"kr": "듀이 ",
+			"kr": "듀이",
 			"tw": "杜威"
 		},
-		"type": 1,
-		"type_text": {
-			"en": "Destroyer",
-			"cn": "驱逐",
-			"jp": "駆逐",
-			"kr": "구축",
-			"tw": "驅逐"
-		},
-		"nationality": 1,
 		"property_hexagon": [
 			"C",
 			"C",
@@ -180,6 +151,8 @@
 			"C",
 			"C"
 		],
+		"type": 1,
+		"nationality": 1,
 		"data": {
 			"101021": {
 				"id": 101021,
@@ -278,15 +251,6 @@
 			"kr": "캐신",
 			"tw": "卡辛"
 		},
-		"type": 1,
-		"type_text": {
-			"en": "Destroyer",
-			"cn": "驱逐",
-			"jp": "駆逐",
-			"kr": "구축",
-			"tw": "驅逐"
-		},
-		"nationality": 1,
 		"property_hexagon": [
 			"C",
 			"C",
@@ -295,6 +259,8 @@
 			"C",
 			"C"
 		],
+		"type": 1,
+		"nationality": 1,
 		"data": {
 			"101031": {
 				"id": 101031,
@@ -393,15 +359,6 @@
 			"kr": "다운즈",
 			"tw": "唐斯"
 		},
-		"type": 1,
-		"type_text": {
-			"en": "Destroyer",
-			"cn": "驱逐",
-			"jp": "駆逐",
-			"kr": "구축",
-			"tw": "驅逐"
-		},
-		"nationality": 1,
 		"property_hexagon": [
 			"C",
 			"C",
@@ -410,6 +367,8 @@
 			"C",
 			"C"
 		],
+		"type": 1,
+		"nationality": 1,
 		"data": {
 			"101041": {
 				"id": 101041,
@@ -508,15 +467,6 @@
 			"kr": "그리들리",
 			"tw": "格里德利"
 		},
-		"type": 1,
-		"type_text": {
-			"en": "Destroyer",
-			"cn": "驱逐",
-			"jp": "駆逐",
-			"kr": "구축",
-			"tw": "驅逐"
-		},
-		"nationality": 1,
 		"property_hexagon": [
 			"C",
 			"B",
@@ -525,6 +475,8 @@
 			"C",
 			"C"
 		],
+		"type": 1,
+		"nationality": 1,
 		"data": {
 			"101051": {
 				"id": 101051,
@@ -635,15 +587,6 @@
 			"kr": "크레이븐",
 			"tw": "克雷文"
 		},
-		"type": 1,
-		"type_text": {
-			"en": "Destroyer",
-			"cn": "驱逐",
-			"jp": "駆逐",
-			"kr": "구축",
-			"tw": "驅逐"
-		},
-		"nationality": 1,
 		"property_hexagon": [
 			"C",
 			"B",
@@ -652,6 +595,8 @@
 			"C",
 			"C"
 		],
+		"type": 1,
+		"nationality": 1,
 		"data": {
 			"101061": {
 				"id": 101061,
@@ -750,15 +695,6 @@
 			"kr": "맥콜",
 			"tw": "麥考爾"
 		},
-		"type": 1,
-		"type_text": {
-			"en": "Destroyer",
-			"cn": "驱逐",
-			"jp": "駆逐",
-			"kr": "구축",
-			"tw": "驅逐"
-		},
-		"nationality": 1,
 		"property_hexagon": [
 			"C",
 			"B",
@@ -767,6 +703,8 @@
 			"C",
 			"C"
 		],
+		"type": 1,
+		"nationality": 1,
 		"data": {
 			"101071": {
 				"id": 101071,
@@ -865,15 +803,6 @@
 			"kr": "모리",
 			"tw": "莫里"
 		},
-		"type": 1,
-		"type_text": {
-			"en": "Destroyer",
-			"cn": "驱逐",
-			"jp": "駆逐",
-			"kr": "구축",
-			"tw": "驅逐"
-		},
-		"nationality": 1,
 		"property_hexagon": [
 			"C",
 			"A",
@@ -882,6 +811,8 @@
 			"C",
 			"C"
 		],
+		"type": 1,
+		"nationality": 1,
 		"data": {
 			"101081": {
 				"id": 101081,
@@ -980,15 +911,6 @@
 			"kr": "플레처",
 			"tw": "佛萊契爾"
 		},
-		"type": 1,
-		"type_text": {
-			"en": "Destroyer",
-			"cn": "驱逐",
-			"jp": "駆逐",
-			"kr": "구축",
-			"tw": "驅逐"
-		},
-		"nationality": 1,
 		"property_hexagon": [
 			"C",
 			"C",
@@ -997,6 +919,8 @@
 			"C",
 			"C"
 		],
+		"type": 1,
+		"nationality": 1,
 		"data": {
 			"101091": {
 				"id": 101091,
@@ -1107,15 +1031,6 @@
 			"kr": "찰스 오스본",
 			"tw": "查爾斯·奧斯本"
 		},
-		"type": 1,
-		"type_text": {
-			"en": "Destroyer",
-			"cn": "驱逐",
-			"jp": "駆逐",
-			"kr": "구축",
-			"tw": "驅逐"
-		},
-		"nationality": 1,
 		"property_hexagon": [
 			"C",
 			"C",
@@ -1124,6 +1039,8 @@
 			"C",
 			"C"
 		],
+		"type": 1,
+		"nationality": 1,
 		"data": {
 			"101111": {
 				"id": 101111,
@@ -1234,15 +1151,6 @@
 			"kr": "대처",
 			"tw": "柴契爾"
 		},
-		"type": 1,
-		"type_text": {
-			"en": "Destroyer",
-			"cn": "驱逐",
-			"jp": "駆逐",
-			"kr": "구축",
-			"tw": "驅逐"
-		},
-		"nationality": 1,
 		"property_hexagon": [
 			"C",
 			"C",
@@ -1251,6 +1159,8 @@
 			"C",
 			"C"
 		],
+		"type": 1,
+		"nationality": 1,
 		"data": {
 			"101121": {
 				"id": 101121,
@@ -1361,15 +1271,6 @@
 			"kr": "얼릭",
 			"tw": "奧利克"
 		},
-		"type": 1,
-		"type_text": {
-			"en": "Destroyer",
-			"cn": "驱逐",
-			"jp": "駆逐",
-			"kr": "구축",
-			"tw": "驅逐"
-		},
-		"nationality": 1,
 		"property_hexagon": [
 			"C",
 			"C",
@@ -1378,6 +1279,8 @@
 			"C",
 			"C"
 		],
+		"type": 1,
+		"nationality": 1,
 		"data": {
 			"101131": {
 				"id": 101131,
@@ -1488,15 +1391,6 @@
 			"kr": "푸트",
 			"tw": "富特"
 		},
-		"type": 1,
-		"type_text": {
-			"en": "Destroyer",
-			"cn": "驱逐",
-			"jp": "駆逐",
-			"kr": "구축",
-			"tw": "驅逐"
-		},
-		"nationality": 1,
 		"property_hexagon": [
 			"C",
 			"C",
@@ -1505,6 +1399,8 @@
 			"C",
 			"C"
 		],
+		"type": 1,
+		"nationality": 1,
 		"data": {
 			"101141": {
 				"id": 101141,
@@ -1615,15 +1511,6 @@
 			"kr": "스펜스",
 			"tw": "斯彭斯"
 		},
-		"type": 1,
-		"type_text": {
-			"en": "Destroyer",
-			"cn": "驱逐",
-			"jp": "駆逐",
-			"kr": "구축",
-			"tw": "驅逐"
-		},
-		"nationality": 1,
 		"property_hexagon": [
 			"C",
 			"C",
@@ -1632,6 +1519,8 @@
 			"C",
 			"C"
 		],
+		"type": 1,
+		"nationality": 1,
 		"data": {
 			"101151": {
 				"id": 101151,
@@ -1742,15 +1631,6 @@
 			"kr": "벤슨",
 			"tw": "班森"
 		},
-		"type": 1,
-		"type_text": {
-			"en": "Destroyer",
-			"cn": "驱逐",
-			"jp": "駆逐",
-			"kr": "구축",
-			"tw": "驅逐"
-		},
-		"nationality": 1,
 		"property_hexagon": [
 			"C",
 			"C",
@@ -1759,6 +1639,8 @@
 			"C",
 			"C"
 		],
+		"type": 1,
+		"nationality": 1,
 		"data": {
 			"101161": {
 				"id": 101161,
@@ -1857,15 +1739,6 @@
 			"kr": "라피",
 			"tw": "拉菲"
 		},
-		"type": 1,
-		"type_text": {
-			"en": "Destroyer",
-			"cn": "驱逐",
-			"jp": "駆逐",
-			"kr": "구축",
-			"tw": "驅逐"
-		},
-		"nationality": 1,
 		"property_hexagon": [
 			"B",
 			"C",
@@ -1874,6 +1747,8 @@
 			"B",
 			"C"
 		],
+		"type": 1,
+		"nationality": 1,
 		"data": {
 			"101171": {
 				"id": 101171,
@@ -1993,15 +1868,6 @@
 			"kr": "심즈",
 			"tw": "西姆斯"
 		},
-		"type": 1,
-		"type_text": {
-			"en": "Destroyer",
-			"cn": "驱逐",
-			"jp": "駆逐",
-			"kr": "구축",
-			"tw": "驅逐"
-		},
-		"nationality": 1,
 		"property_hexagon": [
 			"C",
 			"C",
@@ -2010,6 +1876,8 @@
 			"C",
 			"C"
 		],
+		"type": 1,
+		"nationality": 1,
 		"data": {
 			"101241": {
 				"id": 101241,
@@ -2108,15 +1976,6 @@
 			"kr": "허먼",
 			"tw": "哈曼"
 		},
-		"type": 1,
-		"type_text": {
-			"en": "Destroyer",
-			"cn": "驱逐",
-			"jp": "駆逐",
-			"kr": "구축",
-			"tw": "驅逐"
-		},
-		"nationality": 1,
 		"property_hexagon": [
 			"C",
 			"C",
@@ -2125,6 +1984,8 @@
 			"C",
 			"C"
 		],
+		"type": 1,
+		"nationality": 1,
 		"data": {
 			"101251": {
 				"id": 101251,
@@ -2223,15 +2084,6 @@
 			"kr": "엘드릿지",
 			"tw": "埃爾德里奇"
 		},
-		"type": 1,
-		"type_text": {
-			"en": "Destroyer",
-			"cn": "驱逐",
-			"jp": "駆逐",
-			"kr": "구축",
-			"tw": "驅逐"
-		},
-		"nationality": 1,
 		"property_hexagon": [
 			"C",
 			"B",
@@ -2240,6 +2092,8 @@
 			"C",
 			"C"
 		],
+		"type": 1,
+		"nationality": 1,
 		"data": {
 			"101261": {
 				"id": 101261,
@@ -2338,15 +2192,6 @@
 			"kr": "베일리",
 			"tw": "貝利"
 		},
-		"type": 1,
-		"type_text": {
-			"en": "Destroyer",
-			"cn": "驱逐",
-			"jp": "駆逐",
-			"kr": "구축",
-			"tw": "驅逐"
-		},
-		"nationality": 1,
 		"property_hexagon": [
 			"C",
 			"C",
@@ -2355,6 +2200,8 @@
 			"C",
 			"C"
 		],
+		"type": 1,
+		"nationality": 1,
 		"data": {
 			"101271": {
 				"id": 101271,
@@ -2453,15 +2300,6 @@
 			"kr": "래드포드",
 			"tw": "拉德福特"
 		},
-		"type": 1,
-		"type_text": {
-			"en": "Destroyer",
-			"cn": "驱逐",
-			"jp": "駆逐",
-			"kr": "구축",
-			"tw": "驅逐"
-		},
-		"nationality": 1,
 		"property_hexagon": [
 			"C",
 			"C",
@@ -2470,6 +2308,8 @@
 			"C",
 			"C"
 		],
+		"type": 1,
+		"nationality": 1,
 		"data": {
 			"101291": {
 				"id": 101291,
@@ -2580,15 +2420,6 @@
 			"kr": "젠킨스",
 			"tw": "傑金斯"
 		},
-		"type": 1,
-		"type_text": {
-			"en": "Destroyer",
-			"cn": "驱逐",
-			"jp": "駆逐",
-			"kr": "구축",
-			"tw": "驅逐"
-		},
-		"nationality": 1,
 		"property_hexagon": [
 			"C",
 			"C",
@@ -2597,6 +2428,8 @@
 			"C",
 			"C"
 		],
+		"type": 1,
+		"nationality": 1,
 		"data": {
 			"101301": {
 				"id": 101301,
@@ -2707,15 +2540,6 @@
 			"kr": "니콜라스",
 			"tw": "尼古拉斯"
 		},
-		"type": 1,
-		"type_text": {
-			"en": "Destroyer",
-			"cn": "驱逐",
-			"jp": "駆逐",
-			"kr": "구축",
-			"tw": "驅逐"
-		},
-		"nationality": 1,
 		"property_hexagon": [
 			"C",
 			"C",
@@ -2724,6 +2548,8 @@
 			"C",
 			"C"
 		],
+		"type": 1,
+		"nationality": 1,
 		"data": {
 			"101311": {
 				"id": 101311,
@@ -2833,14 +2659,6 @@
 			"jp": "ブッシュ",
 			"kr": "부시"
 		},
-		"type": 1,
-		"type_text": {
-			"en": "Destroyer",
-			"cn": "驱逐",
-			"jp": "駆逐",
-			"kr": "구축"
-		},
-		"nationality": 1,
 		"property_hexagon": [
 			"C",
 			"C",
@@ -2849,6 +2667,8 @@
 			"C",
 			"C"
 		],
+		"type": 1,
+		"nationality": 1,
 		"data": {
 			"101331": {
 				"id": 101331,
@@ -2956,16 +2776,8 @@
 			"en": "Hazelwood",
 			"cn": "黑泽伍德",
 			"jp": "ヘイゼルウッド",
-			"kr": "헤이즐우드 "
+			"kr": "헤이즐우드"
 		},
-		"type": 1,
-		"type_text": {
-			"en": "Destroyer",
-			"cn": "驱逐",
-			"jp": "駆逐",
-			"kr": "구축"
-		},
-		"nationality": 1,
 		"property_hexagon": [
 			"C",
 			"C",
@@ -2974,6 +2786,8 @@
 			"C",
 			"C"
 		],
+		"type": 1,
+		"nationality": 1,
 		"data": {
 			"101341": {
 				"id": 101341,
@@ -3081,16 +2895,8 @@
 			"en": "Bache",
 			"cn": "贝奇",
 			"jp": "バッチ",
-			"kr": "배시 "
+			"kr": "배시"
 		},
-		"type": 1,
-		"type_text": {
-			"en": "Destroyer",
-			"cn": "驱逐",
-			"jp": "駆逐",
-			"kr": "구축"
-		},
-		"nationality": 1,
 		"property_hexagon": [
 			"C",
 			"C",
@@ -3099,6 +2905,8 @@
 			"C",
 			"C"
 		],
+		"type": 1,
+		"nationality": 1,
 		"data": {
 			"101351": {
 				"id": 101351,
@@ -3209,15 +3017,6 @@
 			"kr": "하비",
 			"tw": "霍比"
 		},
-		"type": 1,
-		"type_text": {
-			"en": "Destroyer",
-			"cn": "驱逐",
-			"jp": "駆逐",
-			"kr": "구축",
-			"tw": "驅逐"
-		},
-		"nationality": 1,
 		"property_hexagon": [
 			"C",
 			"C",
@@ -3226,6 +3025,8 @@
 			"C",
 			"C"
 		],
+		"type": 1,
+		"nationality": 1,
 		"data": {
 			"101361": {
 				"id": 101361,
@@ -3324,15 +3125,6 @@
 			"kr": "커크",
 			"tw": "科爾克"
 		},
-		"type": 1,
-		"type_text": {
-			"en": "Destroyer",
-			"cn": "驱逐",
-			"jp": "駆逐",
-			"kr": "구축",
-			"tw": "驅逐"
-		},
-		"nationality": 1,
 		"property_hexagon": [
 			"C",
 			"C",
@@ -3341,6 +3133,8 @@
 			"C",
 			"C"
 		],
+		"type": 1,
+		"nationality": 1,
 		"data": {
 			"101371": {
 				"id": 101371,
@@ -3436,18 +3230,9 @@
 			"en": "Kimberly",
 			"cn": "金伯利",
 			"jp": "キンバリー",
-			"kr": "킴벌리 ",
+			"kr": "킴벌리",
 			"tw": "金伯利"
 		},
-		"type": 1,
-		"type_text": {
-			"en": "Destroyer",
-			"cn": "驱逐",
-			"jp": "駆逐",
-			"kr": "구축",
-			"tw": "驅逐"
-		},
-		"nationality": 1,
 		"property_hexagon": [
 			"C",
 			"C",
@@ -3456,6 +3241,8 @@
 			"C",
 			"C"
 		],
+		"type": 1,
+		"nationality": 1,
 		"data": {
 			"101381": {
 				"id": 101381,
@@ -3563,18 +3350,9 @@
 			"en": "Mullany",
 			"cn": "马拉尼",
 			"jp": "マラニー",
-			"kr": "멀라니 ",
+			"kr": "멀라니",
 			"tw": "馬拉尼"
 		},
-		"type": 1,
-		"type_text": {
-			"en": "Destroyer",
-			"cn": "驱逐",
-			"jp": "駆逐",
-			"kr": "구축",
-			"tw": "驅逐"
-		},
-		"nationality": 1,
 		"property_hexagon": [
 			"C",
 			"C",
@@ -3583,6 +3361,8 @@
 			"C",
 			"C"
 		],
+		"type": 1,
+		"nationality": 1,
 		"data": {
 			"101391": {
 				"id": 101391,
@@ -3690,16 +3470,8 @@
 			"en": "Aylwin",
 			"cn": "艾尔温",
 			"jp": "エールウィン",
-			"kr": "아일윈 "
+			"kr": "아일윈"
 		},
-		"type": 1,
-		"type_text": {
-			"en": "Destroyer",
-			"cn": "驱逐",
-			"jp": "駆逐",
-			"kr": "구축"
-		},
-		"nationality": 1,
 		"property_hexagon": [
 			"C",
 			"C",
@@ -3708,6 +3480,8 @@
 			"C",
 			"C"
 		],
+		"type": 1,
+		"nationality": 1,
 		"data": {
 			"101401": {
 				"id": 101401,
@@ -3805,14 +3579,6 @@
 			"jp": "スタンリー",
 			"kr": "스탠리"
 		},
-		"type": 1,
-		"type_text": {
-			"en": "Destroyer",
-			"cn": "驱逐",
-			"jp": "駆逐",
-			"kr": "구축"
-		},
-		"nationality": 1,
 		"property_hexagon": [
 			"C",
 			"C",
@@ -3821,6 +3587,8 @@
 			"C",
 			"C"
 		],
+		"type": 1,
+		"nationality": 1,
 		"data": {
 			"101411": {
 				"id": 101411,
@@ -3928,16 +3696,8 @@
 			"en": "Smalley",
 			"cn": "斯莫利",
 			"jp": "スモーリー",
-			"kr": "스몰리 "
+			"kr": "스몰리"
 		},
-		"type": 1,
-		"type_text": {
-			"en": "Destroyer",
-			"cn": "驱逐",
-			"jp": "駆逐",
-			"kr": "구축"
-		},
-		"nationality": 1,
 		"property_hexagon": [
 			"C",
 			"C",
@@ -3946,6 +3706,8 @@
 			"C",
 			"C"
 		],
+		"type": 1,
+		"nationality": 1,
 		"data": {
 			"101421": {
 				"id": 101421,
@@ -4053,16 +3815,8 @@
 			"en": "Halsey Powell",
 			"cn": "哈尔西·鲍威尔",
 			"jp": "ハルゼー・パウエル",
-			"kr": "할시 파웰 "
+			"kr": "할시 파웰"
 		},
-		"type": 1,
-		"type_text": {
-			"en": "Destroyer",
-			"cn": "驱逐",
-			"jp": "駆逐",
-			"kr": "구축"
-		},
-		"nationality": 1,
 		"property_hexagon": [
 			"C",
 			"C",
@@ -4071,6 +3825,8 @@
 			"C",
 			"C"
 		],
+		"type": 1,
+		"nationality": 1,
 		"data": {
 			"101431": {
 				"id": 101431,
@@ -4178,16 +3934,8 @@
 			"en": "Cooper",
 			"cn": "库珀",
 			"jp": "クーパー",
-			"kr": "쿠퍼 "
+			"kr": "쿠퍼"
 		},
-		"type": 1,
-		"type_text": {
-			"en": "Destroyer",
-			"cn": "驱逐",
-			"jp": "駆逐",
-			"kr": "구축"
-		},
-		"nationality": 1,
 		"property_hexagon": [
 			"C",
 			"C",
@@ -4196,6 +3944,8 @@
 			"C",
 			"C"
 		],
+		"type": 1,
+		"nationality": 1,
 		"data": {
 			"101441": {
 				"id": 101441,
@@ -4294,15 +4044,6 @@
 			"kr": "오마하",
 			"tw": "奧馬哈"
 		},
-		"type": 2,
-		"type_text": {
-			"en": "Light Cruiser",
-			"cn": "轻巡",
-			"jp": "軽巡",
-			"kr": "경순",
-			"tw": "輕巡"
-		},
-		"nationality": 1,
 		"property_hexagon": [
 			"C",
 			"C",
@@ -4311,6 +4052,8 @@
 			"B",
 			"C"
 		],
+		"type": 2,
+		"nationality": 1,
 		"data": {
 			"102011": {
 				"id": 102011,
@@ -4409,15 +4152,6 @@
 			"kr": "롤리",
 			"tw": "羅利"
 		},
-		"type": 2,
-		"type_text": {
-			"en": "Light Cruiser",
-			"cn": "轻巡",
-			"jp": "軽巡",
-			"kr": "경순",
-			"tw": "輕巡"
-		},
-		"nationality": 1,
 		"property_hexagon": [
 			"C",
 			"C",
@@ -4426,6 +4160,8 @@
 			"B",
 			"C"
 		],
+		"type": 2,
+		"nationality": 1,
 		"data": {
 			"102021": {
 				"id": 102021,
@@ -4524,15 +4260,6 @@
 			"kr": "브루클린",
 			"tw": "布魯克林"
 		},
-		"type": 2,
-		"type_text": {
-			"en": "Light Cruiser",
-			"cn": "轻巡",
-			"jp": "軽巡",
-			"kr": "경순",
-			"tw": "輕巡"
-		},
-		"nationality": 1,
 		"property_hexagon": [
 			"B",
 			"E",
@@ -4541,6 +4268,8 @@
 			"B",
 			"C"
 		],
+		"type": 2,
+		"nationality": 1,
 		"data": {
 			"102031": {
 				"id": 102031,
@@ -4639,15 +4368,6 @@
 			"kr": "피닉스",
 			"tw": "菲尼克斯"
 		},
-		"type": 2,
-		"type_text": {
-			"en": "Light Cruiser",
-			"cn": "轻巡",
-			"jp": "軽巡",
-			"kr": "경순",
-			"tw": "輕巡"
-		},
-		"nationality": 1,
 		"property_hexagon": [
 			"B",
 			"E",
@@ -4656,6 +4376,8 @@
 			"B",
 			"C"
 		],
+		"type": 2,
+		"nationality": 1,
 		"data": {
 			"102041": {
 				"id": 102041,
@@ -4754,15 +4476,6 @@
 			"kr": "헬레나",
 			"tw": "海倫娜"
 		},
-		"type": 2,
-		"type_text": {
-			"en": "Light Cruiser",
-			"cn": "轻巡",
-			"jp": "軽巡",
-			"kr": "경순",
-			"tw": "輕巡"
-		},
-		"nationality": 1,
 		"property_hexagon": [
 			"B",
 			"E",
@@ -4771,6 +4484,8 @@
 			"B",
 			"C"
 		],
+		"type": 2,
+		"nationality": 1,
 		"data": {
 			"102051": {
 				"id": 102051,
@@ -4902,12 +4617,6 @@
 					"spd": 28.4,
 					"luk": 65,
 					"asw": 0
-				},
-				"name": {
-					"en": "Helena",
-					"cn": "海伦娜",
-					"jp": "ヘレナ",
-					"kr": "헬레나"
 				}
 			}
 		},
@@ -4923,15 +4632,6 @@
 			"kr": "애틀란타",
 			"tw": "亞特蘭大"
 		},
-		"type": 2,
-		"type_text": {
-			"en": "Light Cruiser",
-			"cn": "轻巡",
-			"jp": "軽巡",
-			"kr": "경순",
-			"tw": "輕巡"
-		},
-		"nationality": 1,
 		"property_hexagon": [
 			"D",
 			"D",
@@ -4940,6 +4640,8 @@
 			"S",
 			"C"
 		],
+		"type": 2,
+		"nationality": 1,
 		"data": {
 			"102061": {
 				"id": 102061,
@@ -5038,15 +4740,6 @@
 			"kr": "쥬노",
 			"tw": "朱諾"
 		},
-		"type": 2,
-		"type_text": {
-			"en": "Light Cruiser",
-			"cn": "轻巡",
-			"jp": "軽巡",
-			"kr": "경순",
-			"tw": "輕巡"
-		},
-		"nationality": 1,
 		"property_hexagon": [
 			"D",
 			"D",
@@ -5055,6 +4748,8 @@
 			"S",
 			"C"
 		],
+		"type": 2,
+		"nationality": 1,
 		"data": {
 			"102071": {
 				"id": 102071,
@@ -5147,21 +4842,12 @@
 		"id": 10208,
 		"code": 36,
 		"name": {
-			"en": "San Diego Retrofit",
-			"cn": "圣地亚哥·改",
-			"jp": "サンディエゴ改",
-			"kr": "샌디에이고·改",
-			"tw": "聖地牙哥·改"
+			"en": "San Diego",
+			"cn": "圣地亚哥",
+			"jp": "サンディエゴ",
+			"kr": "샌디에이고",
+			"tw": "聖地牙哥"
 		},
-		"type": 2,
-		"type_text": {
-			"en": "Light Cruiser",
-			"cn": "轻巡",
-			"jp": "軽巡",
-			"kr": "경순",
-			"tw": "輕巡"
-		},
-		"nationality": 1,
 		"property_hexagon": [
 			"C",
 			"D",
@@ -5170,6 +4856,8 @@
 			"S",
 			"C"
 		],
+		"type": 2,
+		"nationality": 1,
 		"data": {
 			"102081": {
 				"id": 102081,
@@ -5296,15 +4984,6 @@
 			"kr": "클리블랜드",
 			"tw": "克里夫蘭"
 		},
-		"type": 2,
-		"type_text": {
-			"en": "Light Cruiser",
-			"cn": "轻巡",
-			"jp": "軽巡",
-			"kr": "경순",
-			"tw": "輕巡"
-		},
-		"nationality": 1,
 		"property_hexagon": [
 			"B",
 			"E",
@@ -5313,6 +4992,8 @@
 			"B",
 			"B"
 		],
+		"type": 2,
+		"nationality": 1,
 		"data": {
 			"102091": {
 				"id": 102091,
@@ -5423,15 +5104,6 @@
 			"kr": "컬럼비아",
 			"tw": "哥倫比亞"
 		},
-		"type": 2,
-		"type_text": {
-			"en": "Light Cruiser",
-			"cn": "轻巡",
-			"jp": "軽巡",
-			"kr": "경순",
-			"tw": "輕巡"
-		},
-		"nationality": 1,
 		"property_hexagon": [
 			"B",
 			"E",
@@ -5440,6 +5112,8 @@
 			"B",
 			"B"
 		],
+		"type": 2,
+		"nationality": 1,
 		"data": {
 			"102101": {
 				"id": 102101,
@@ -5550,15 +5224,6 @@
 			"kr": "리치몬드",
 			"tw": "里奇蒙"
 		},
-		"type": 2,
-		"type_text": {
-			"en": "Light Cruiser",
-			"cn": "轻巡",
-			"jp": "軽巡",
-			"kr": "경순",
-			"tw": "輕巡"
-		},
-		"nationality": 1,
 		"property_hexagon": [
 			"C",
 			"C",
@@ -5567,6 +5232,8 @@
 			"B",
 			"C"
 		],
+		"type": 2,
+		"nationality": 1,
 		"data": {
 			"102111": {
 				"id": 102111,
@@ -5665,15 +5332,6 @@
 			"kr": "호놀룰루",
 			"tw": "火奴魯魯"
 		},
-		"type": 2,
-		"type_text": {
-			"en": "Light Cruiser",
-			"cn": "轻巡",
-			"jp": "軽巡",
-			"kr": "경순",
-			"tw": "輕巡"
-		},
-		"nationality": 1,
 		"property_hexagon": [
 			"B",
 			"E",
@@ -5682,6 +5340,8 @@
 			"B",
 			"C"
 		],
+		"type": 2,
+		"nationality": 1,
 		"data": {
 			"102121": {
 				"id": 102121,
@@ -5780,15 +5440,6 @@
 			"kr": "세인트루이스",
 			"tw": "聖路易斯"
 		},
-		"type": 2,
-		"type_text": {
-			"en": "Light Cruiser",
-			"cn": "轻巡",
-			"jp": "軽巡",
-			"kr": "경순",
-			"tw": "輕巡"
-		},
-		"nationality": 1,
 		"property_hexagon": [
 			"B",
 			"E",
@@ -5797,6 +5448,8 @@
 			"B",
 			"C"
 		],
+		"type": 2,
+		"nationality": 1,
 		"data": {
 			"102131": {
 				"id": 102131,
@@ -5892,18 +5545,9 @@
 			"en": "Montpelier",
 			"cn": "蒙彼利埃",
 			"jp": "モントピリア",
-			"kr": "몬트필리어 ",
+			"kr": "몬트필리어",
 			"tw": "蒙彼利埃"
 		},
-		"type": 2,
-		"type_text": {
-			"en": "Light Cruiser",
-			"cn": "轻巡",
-			"jp": "軽巡",
-			"kr": "경순",
-			"tw": "輕巡"
-		},
-		"nationality": 1,
 		"property_hexagon": [
 			"B",
 			"E",
@@ -5912,6 +5556,8 @@
 			"B",
 			"B"
 		],
+		"type": 2,
+		"nationality": 1,
 		"data": {
 			"102141": {
 				"id": 102141,
@@ -6007,9 +5653,6 @@
 					"spd": 32.5,
 					"luk": 72,
 					"asw": 62
-				},
-				"name": {
-					"kr": "몬트필리어 "
 				}
 			}
 		},
@@ -6025,15 +5668,6 @@
 			"kr": "덴버",
 			"tw": "丹佛"
 		},
-		"type": 2,
-		"type_text": {
-			"en": "Light Cruiser",
-			"cn": "轻巡",
-			"jp": "軽巡",
-			"kr": "경순",
-			"tw": "輕巡"
-		},
-		"nationality": 1,
 		"property_hexagon": [
 			"B",
 			"E",
@@ -6042,6 +5676,8 @@
 			"B",
 			"B"
 		],
+		"type": 2,
+		"nationality": 1,
 		"data": {
 			"102151": {
 				"id": 102151,
@@ -6149,16 +5785,8 @@
 			"en": "Memphis",
 			"cn": "孟菲斯",
 			"jp": "メンフィス",
-			"kr": "멤피스 "
+			"kr": "멤피스"
 		},
-		"type": 2,
-		"type_text": {
-			"en": "Light Cruiser",
-			"cn": "轻巡",
-			"jp": "軽巡",
-			"kr": "경순"
-		},
-		"nationality": 1,
 		"property_hexagon": [
 			"C",
 			"C",
@@ -6167,6 +5795,8 @@
 			"B",
 			"C"
 		],
+		"type": 2,
+		"nationality": 1,
 		"data": {
 			"102161": {
 				"id": 102161,
@@ -6265,15 +5895,6 @@
 			"kr": "콩코드",
 			"tw": "康克德"
 		},
-		"type": 2,
-		"type_text": {
-			"en": "Light Cruiser",
-			"cn": "轻巡",
-			"jp": "軽巡",
-			"kr": "경순",
-			"tw": "輕巡"
-		},
-		"nationality": 1,
 		"property_hexagon": [
 			"C",
 			"C",
@@ -6282,6 +5903,8 @@
 			"B",
 			"C"
 		],
+		"type": 2,
+		"nationality": 1,
 		"data": {
 			"102181": {
 				"id": 102181,
@@ -6377,16 +6000,8 @@
 			"en": "Lena",
 			"cn": "小海伦娜",
 			"jp": "リトル・ヘレナ",
-			"kr": "꼬마 헬레나 "
+			"kr": "꼬마 헬레나"
 		},
-		"type": 2,
-		"type_text": {
-			"en": "Light Cruiser",
-			"cn": "轻巡",
-			"jp": "軽巡",
-			"kr": "경순"
-		},
-		"nationality": 1,
 		"property_hexagon": [
 			"B",
 			"E",
@@ -6395,6 +6010,8 @@
 			"B",
 			"C"
 		],
+		"type": 2,
+		"nationality": 1,
 		"data": {
 			"102191": {
 				"id": 102191,
@@ -6502,16 +6119,8 @@
 			"en": "Clevelad",
 			"cn": "小克利夫兰",
 			"jp": "リトル・クリーブランド",
-			"kr": "꼬마 클리블랜드 "
+			"kr": "꼬마 클리블랜드"
 		},
-		"type": 2,
-		"type_text": {
-			"en": "Light Cruiser",
-			"cn": "轻巡",
-			"jp": "軽巡",
-			"kr": "경순"
-		},
-		"nationality": 1,
 		"property_hexagon": [
 			"B",
 			"E",
@@ -6520,6 +6129,8 @@
 			"B",
 			"B"
 		],
+		"type": 2,
+		"nationality": 1,
 		"data": {
 			"102201": {
 				"id": 102201,
@@ -6631,16 +6242,8 @@
 			"en": "Li'l Sandy",
 			"cn": "小圣地亚哥",
 			"jp": "リトル・サンディエゴ",
-			"kr": "꼬마 샌디에이고 "
+			"kr": "꼬마 샌디에이고"
 		},
-		"type": 2,
-		"type_text": {
-			"en": "Light Cruiser",
-			"cn": "轻巡",
-			"jp": "軽巡",
-			"kr": "경순"
-		},
-		"nationality": 1,
 		"property_hexagon": [
 			"C",
 			"D",
@@ -6649,6 +6252,8 @@
 			"S",
 			"C"
 		],
+		"type": 2,
+		"nationality": 1,
 		"data": {
 			"102211": {
 				"id": 102211,
@@ -6760,16 +6365,8 @@
 			"en": "San Juan",
 			"cn": "圣胡安",
 			"jp": "サンフアン",
-			"kr": "산후안 "
+			"kr": "산후안"
 		},
-		"type": 2,
-		"type_text": {
-			"en": "Light Cruiser",
-			"cn": "轻巡",
-			"jp": "軽巡",
-			"kr": "경순"
-		},
-		"nationality": 1,
 		"property_hexagon": [
 			"D",
 			"D",
@@ -6778,6 +6375,8 @@
 			"S",
 			"C"
 		],
+		"type": 2,
+		"nationality": 1,
 		"data": {
 			"102221": {
 				"id": 102221,
@@ -6873,16 +6472,8 @@
 			"en": "Birmingham",
 			"cn": "伯明翰",
 			"jp": "バーミンガム",
-			"kr": "버밍햄 "
+			"kr": "버밍햄"
 		},
-		"type": 2,
-		"type_text": {
-			"en": "Light Cruiser",
-			"cn": "轻巡",
-			"jp": "軽巡",
-			"kr": "경순"
-		},
-		"nationality": 1,
 		"property_hexagon": [
 			"B",
 			"E",
@@ -6891,6 +6482,8 @@
 			"B",
 			"B"
 		],
+		"type": 2,
+		"nationality": 1,
 		"data": {
 			"102231": {
 				"id": 102231,
@@ -6998,16 +6591,8 @@
 			"en": "Cleveland μ",
 			"cn": "克利夫兰(μ兵装)",
 			"jp": "クリーブランド（μ兵装）",
-			"kr": "클리블랜드(μ장비) "
+			"kr": "클리블랜드(μ장비)"
 		},
-		"type": 2,
-		"type_text": {
-			"en": "Light Cruiser",
-			"cn": "轻巡",
-			"jp": "軽巡",
-			"kr": "경순"
-		},
-		"nationality": 1,
 		"property_hexagon": [
 			"B",
 			"E",
@@ -7016,6 +6601,8 @@
 			"B",
 			"B"
 		],
+		"type": 2,
+		"nationality": 1,
 		"data": {
 			"102241": {
 				"id": 102241,
@@ -7127,16 +6714,8 @@
 			"en": "Biloxi",
 			"cn": "比洛克西",
 			"jp": "ビロクシ",
-			"kr": "빌럭시 "
+			"kr": "빌럭시"
 		},
-		"type": 2,
-		"type_text": {
-			"en": "Light Cruiser",
-			"cn": "轻巡",
-			"jp": "軽巡",
-			"kr": "경순"
-		},
-		"nationality": 1,
 		"property_hexagon": [
 			"B",
 			"E",
@@ -7145,6 +6724,8 @@
 			"B",
 			"B"
 		],
+		"type": 2,
+		"nationality": 1,
 		"data": {
 			"102251": {
 				"id": 102251,
@@ -7252,16 +6833,8 @@
 			"en": "Reno",
 			"cn": "里诺",
 			"jp": "リノ",
-			"kr": "리노 "
+			"kr": "리노"
 		},
-		"type": 2,
-		"type_text": {
-			"en": "Light Cruiser",
-			"cn": "轻巡",
-			"jp": "軽巡",
-			"kr": "경순"
-		},
-		"nationality": 1,
 		"property_hexagon": [
 			"D",
 			"D",
@@ -7270,6 +6843,8 @@
 			"S",
 			"C"
 		],
+		"type": 2,
+		"nationality": 1,
 		"data": {
 			"102261": {
 				"id": 102261,
@@ -7317,9 +6892,6 @@
 					"spd": 32.5,
 					"luk": 52,
 					"asw": 62
-				},
-				"name": {
-					"kr": "리노"
 				}
 			},
 			"102263": {
@@ -7344,9 +6916,6 @@
 					"spd": 32.5,
 					"luk": 52,
 					"asw": 87
-				},
-				"name": {
-					"kr": "리노 "
 				}
 			},
 			"102264": {
@@ -7383,16 +6952,8 @@
 			"en": "Marblehead",
 			"cn": "马布尔黑德",
 			"jp": "マーブルヘッド",
-			"kr": "마블헤드 "
+			"kr": "마블헤드"
 		},
-		"type": 2,
-		"type_text": {
-			"en": "Light Cruiser",
-			"cn": "轻巡",
-			"jp": "軽巡",
-			"kr": "경순"
-		},
-		"nationality": 1,
 		"property_hexagon": [
 			"C",
 			"C",
@@ -7401,6 +6962,8 @@
 			"B",
 			"C"
 		],
+		"type": 2,
+		"nationality": 1,
 		"data": {
 			"102271": {
 				"id": 102271,
@@ -7499,15 +7062,6 @@
 			"kr": "펜사콜라",
 			"tw": "彭薩科拉"
 		},
-		"type": 3,
-		"type_text": {
-			"en": "Heavy Cruiser",
-			"cn": "重巡",
-			"jp": "重巡",
-			"kr": "중순",
-			"tw": "重巡"
-		},
-		"nationality": 1,
 		"property_hexagon": [
 			"B",
 			"E",
@@ -7516,6 +7070,8 @@
 			"C",
 			"C"
 		],
+		"type": 3,
+		"nationality": 1,
 		"data": {
 			"103011": {
 				"id": 103011,
@@ -7614,15 +7170,6 @@
 			"kr": "솔트레이크시티",
 			"tw": "鹽湖城"
 		},
-		"type": 3,
-		"type_text": {
-			"en": "Heavy Cruiser",
-			"cn": "重巡",
-			"jp": "重巡",
-			"kr": "중순",
-			"tw": "重巡"
-		},
-		"nationality": 1,
 		"property_hexagon": [
 			"B",
 			"E",
@@ -7631,6 +7178,8 @@
 			"C",
 			"C"
 		],
+		"type": 3,
+		"nationality": 1,
 		"data": {
 			"103021": {
 				"id": 103021,
@@ -7729,15 +7278,6 @@
 			"kr": "노샘프턴",
 			"tw": "北安普敦"
 		},
-		"type": 3,
-		"type_text": {
-			"en": "Heavy Cruiser",
-			"cn": "重巡",
-			"jp": "重巡",
-			"kr": "중순",
-			"tw": "重巡"
-		},
-		"nationality": 1,
 		"property_hexagon": [
 			"A",
 			"E",
@@ -7746,6 +7286,8 @@
 			"C",
 			"C"
 		],
+		"type": 3,
+		"nationality": 1,
 		"data": {
 			"103031": {
 				"id": 103031,
@@ -7844,15 +7386,6 @@
 			"kr": "시카고",
 			"tw": "芝加哥"
 		},
-		"type": 3,
-		"type_text": {
-			"en": "Heavy Cruiser",
-			"cn": "重巡",
-			"jp": "重巡",
-			"kr": "중순",
-			"tw": "重巡"
-		},
-		"nationality": 1,
 		"property_hexagon": [
 			"A",
 			"E",
@@ -7861,6 +7394,8 @@
 			"C",
 			"C"
 		],
+		"type": 3,
+		"nationality": 1,
 		"data": {
 			"103041": {
 				"id": 103041,
@@ -7959,15 +7494,6 @@
 			"kr": "휴스턴",
 			"tw": "休士頓"
 		},
-		"type": 3,
-		"type_text": {
-			"en": "Heavy Cruiser",
-			"cn": "重巡",
-			"jp": "重巡",
-			"kr": "중순",
-			"tw": "重巡"
-		},
-		"nationality": 1,
 		"property_hexagon": [
 			"A",
 			"E",
@@ -7976,6 +7502,8 @@
 			"C",
 			"C"
 		],
+		"type": 3,
+		"nationality": 1,
 		"data": {
 			"103051": {
 				"id": 103051,
@@ -8074,15 +7602,6 @@
 			"kr": "포틀랜드",
 			"tw": "波特蘭"
 		},
-		"type": 3,
-		"type_text": {
-			"en": "Heavy Cruiser",
-			"cn": "重巡",
-			"jp": "重巡",
-			"kr": "중순",
-			"tw": "重巡"
-		},
-		"nationality": 1,
 		"property_hexagon": [
 			"B",
 			"E",
@@ -8091,6 +7610,8 @@
 			"B",
 			"A"
 		],
+		"type": 3,
+		"nationality": 1,
 		"data": {
 			"103061": {
 				"id": 103061,
@@ -8189,15 +7710,6 @@
 			"kr": "인디애나폴리스",
 			"tw": "印第安納波利斯"
 		},
-		"type": 3,
-		"type_text": {
-			"en": "Heavy Cruiser",
-			"cn": "重巡",
-			"jp": "重巡",
-			"kr": "중순",
-			"tw": "重巡"
-		},
-		"nationality": 1,
 		"property_hexagon": [
 			"B",
 			"E",
@@ -8206,6 +7718,8 @@
 			"B",
 			"A"
 		],
+		"type": 3,
+		"nationality": 1,
 		"data": {
 			"103071": {
 				"id": 103071,
@@ -8304,15 +7818,6 @@
 			"kr": "아스토리아",
 			"tw": "阿斯托利亞"
 		},
-		"type": 3,
-		"type_text": {
-			"en": "Heavy Cruiser",
-			"cn": "重巡",
-			"jp": "重巡",
-			"kr": "중순",
-			"tw": "重巡"
-		},
-		"nationality": 1,
 		"property_hexagon": [
 			"B",
 			"E",
@@ -8321,6 +7826,8 @@
 			"C",
 			"B"
 		],
+		"type": 3,
+		"nationality": 1,
 		"data": {
 			"103081": {
 				"id": 103081,
@@ -8431,15 +7938,6 @@
 			"kr": "퀸시",
 			"tw": "昆西"
 		},
-		"type": 3,
-		"type_text": {
-			"en": "Heavy Cruiser",
-			"cn": "重巡",
-			"jp": "重巡",
-			"kr": "중순",
-			"tw": "重巡"
-		},
-		"nationality": 1,
 		"property_hexagon": [
 			"B",
 			"E",
@@ -8448,6 +7946,8 @@
 			"C",
 			"B"
 		],
+		"type": 3,
+		"nationality": 1,
 		"data": {
 			"103091": {
 				"id": 103091,
@@ -8558,15 +8058,6 @@
 			"kr": "빈센스",
 			"tw": "文森尼斯"
 		},
-		"type": 3,
-		"type_text": {
-			"en": "Heavy Cruiser",
-			"cn": "重巡",
-			"jp": "重巡",
-			"kr": "중순",
-			"tw": "重巡"
-		},
-		"nationality": 1,
 		"property_hexagon": [
 			"B",
 			"E",
@@ -8575,6 +8066,8 @@
 			"C",
 			"B"
 		],
+		"type": 3,
+		"nationality": 1,
 		"data": {
 			"103101": {
 				"id": 103101,
@@ -8685,15 +8178,6 @@
 			"kr": "위치타",
 			"tw": "威奇塔"
 		},
-		"type": 3,
-		"type_text": {
-			"en": "Heavy Cruiser",
-			"cn": "重巡",
-			"jp": "重巡",
-			"kr": "중순",
-			"tw": "重巡"
-		},
-		"nationality": 1,
 		"property_hexagon": [
 			"A",
 			"E",
@@ -8702,6 +8186,8 @@
 			"C",
 			"B"
 		],
+		"type": 3,
+		"nationality": 1,
 		"data": {
 			"103111": {
 				"id": 103111,
@@ -8800,15 +8286,6 @@
 			"kr": "미니애폴리스",
 			"tw": "明尼亞波利斯"
 		},
-		"type": 3,
-		"type_text": {
-			"en": "Heavy Cruiser",
-			"cn": "重巡",
-			"jp": "重巡",
-			"kr": "중순",
-			"tw": "重巡"
-		},
-		"nationality": 1,
 		"property_hexagon": [
 			"B",
 			"E",
@@ -8817,6 +8294,8 @@
 			"B",
 			"A"
 		],
+		"type": 3,
+		"nationality": 1,
 		"data": {
 			"103131": {
 				"id": 103131,
@@ -8924,16 +8403,8 @@
 			"en": "Baltimore",
 			"cn": "巴尔的摩",
 			"jp": "ボルチモア",
-			"kr": "볼티모어 "
+			"kr": "볼티모어"
 		},
-		"type": 3,
-		"type_text": {
-			"en": "Heavy Cruiser",
-			"cn": "重巡",
-			"jp": "重巡",
-			"kr": "중순"
-		},
-		"nationality": 1,
 		"property_hexagon": [
 			"B",
 			"E",
@@ -8942,6 +8413,8 @@
 			"B",
 			"A"
 		],
+		"type": 3,
+		"nationality": 1,
 		"data": {
 			"103161": {
 				"id": 103161,
@@ -9039,14 +8512,6 @@
 			"jp": "ブレマートン",
 			"kr": "브레머튼"
 		},
-		"type": 3,
-		"type_text": {
-			"en": "Heavy Cruiser",
-			"cn": "重巡",
-			"jp": "重巡",
-			"kr": "중순"
-		},
-		"nationality": 1,
 		"property_hexagon": [
 			"B",
 			"E",
@@ -9055,6 +8520,8 @@
 			"B",
 			"A"
 		],
+		"type": 3,
+		"nationality": 1,
 		"data": {
 			"103241": {
 				"id": 103241,
@@ -9153,15 +8620,6 @@
 			"kr": "네바다",
 			"tw": "內華達"
 		},
-		"type": 5,
-		"type_text": {
-			"en": "Battleship",
-			"cn": "战列",
-			"jp": "戦艦",
-			"kr": "전함",
-			"tw": "戰列"
-		},
-		"nationality": 1,
 		"property_hexagon": [
 			"A",
 			"E",
@@ -9170,6 +8628,8 @@
 			"D",
 			"A"
 		],
+		"type": 5,
+		"nationality": 1,
 		"data": {
 			"105011": {
 				"id": 105011,
@@ -9268,15 +8728,6 @@
 			"kr": "오클라호마",
 			"tw": "奧克拉荷馬"
 		},
-		"type": 5,
-		"type_text": {
-			"en": "Battleship",
-			"cn": "战列",
-			"jp": "戦艦",
-			"kr": "전함",
-			"tw": "戰列"
-		},
-		"nationality": 1,
 		"property_hexagon": [
 			"A",
 			"E",
@@ -9285,6 +8736,8 @@
 			"D",
 			"A"
 		],
+		"type": 5,
+		"nationality": 1,
 		"data": {
 			"105021": {
 				"id": 105021,
@@ -9383,15 +8836,6 @@
 			"kr": "펜실베이니아",
 			"tw": "賓夕法尼亞"
 		},
-		"type": 5,
-		"type_text": {
-			"en": "Battleship",
-			"cn": "战列",
-			"jp": "戦艦",
-			"kr": "전함",
-			"tw": "戰列"
-		},
-		"nationality": 1,
 		"property_hexagon": [
 			"A",
 			"E",
@@ -9400,6 +8844,8 @@
 			"D",
 			"A"
 		],
+		"type": 5,
+		"nationality": 1,
 		"data": {
 			"105031": {
 				"id": 105031,
@@ -9498,15 +8944,6 @@
 			"kr": "애리조나",
 			"tw": "亞利桑那"
 		},
-		"type": 5,
-		"type_text": {
-			"en": "Battleship",
-			"cn": "战列",
-			"jp": "戦艦",
-			"kr": "전함",
-			"tw": "戰列"
-		},
-		"nationality": 1,
 		"property_hexagon": [
 			"A",
 			"E",
@@ -9515,6 +8952,8 @@
 			"D",
 			"A"
 		],
+		"type": 5,
+		"nationality": 1,
 		"data": {
 			"105041": {
 				"id": 105041,
@@ -9613,15 +9052,6 @@
 			"kr": "테네시",
 			"tw": "田納西"
 		},
-		"type": 5,
-		"type_text": {
-			"en": "Battleship",
-			"cn": "战列",
-			"jp": "戦艦",
-			"kr": "전함",
-			"tw": "戰列"
-		},
-		"nationality": 1,
 		"property_hexagon": [
 			"A",
 			"E",
@@ -9630,6 +9060,8 @@
 			"D",
 			"A"
 		],
+		"type": 5,
+		"nationality": 1,
 		"data": {
 			"105071": {
 				"id": 105071,
@@ -9728,15 +9160,6 @@
 			"kr": "캘리포니아",
 			"tw": "加利福尼亞"
 		},
-		"type": 5,
-		"type_text": {
-			"en": "Battleship",
-			"cn": "战列",
-			"jp": "戦艦",
-			"kr": "전함",
-			"tw": "戰列"
-		},
-		"nationality": 1,
 		"property_hexagon": [
 			"A",
 			"E",
@@ -9745,6 +9168,8 @@
 			"D",
 			"A"
 		],
+		"type": 5,
+		"nationality": 1,
 		"data": {
 			"105081": {
 				"id": 105081,
@@ -9843,15 +9268,6 @@
 			"kr": "콜로라도",
 			"tw": "科羅拉多"
 		},
-		"type": 5,
-		"type_text": {
-			"en": "Battleship",
-			"cn": "战列",
-			"jp": "戦艦",
-			"kr": "전함",
-			"tw": "戰列"
-		},
-		"nationality": 1,
 		"property_hexagon": [
 			"A",
 			"E",
@@ -9860,6 +9276,8 @@
 			"D",
 			"A"
 		],
+		"type": 5,
+		"nationality": 1,
 		"data": {
 			"105091": {
 				"id": 105091,
@@ -9958,15 +9376,6 @@
 			"kr": "메릴랜드",
 			"tw": "馬里蘭"
 		},
-		"type": 5,
-		"type_text": {
-			"en": "Battleship",
-			"cn": "战列",
-			"jp": "戦艦",
-			"kr": "전함",
-			"tw": "戰列"
-		},
-		"nationality": 1,
 		"property_hexagon": [
 			"A",
 			"E",
@@ -9975,6 +9384,8 @@
 			"D",
 			"A"
 		],
+		"type": 5,
+		"nationality": 1,
 		"data": {
 			"105101": {
 				"id": 105101,
@@ -10073,15 +9484,6 @@
 			"kr": "웨스트버지니아",
 			"tw": "西維吉尼亞"
 		},
-		"type": 5,
-		"type_text": {
-			"en": "Battleship",
-			"cn": "战列",
-			"jp": "戦艦",
-			"kr": "전함",
-			"tw": "戰列"
-		},
-		"nationality": 1,
 		"property_hexagon": [
 			"A",
 			"E",
@@ -10090,6 +9492,8 @@
 			"D",
 			"A"
 		],
+		"type": 5,
+		"nationality": 1,
 		"data": {
 			"105111": {
 				"id": 105111,
@@ -10186,17 +9590,8 @@
 			"cn": "北卡罗来纳",
 			"jp": "ノースカロライナ",
 			"kr": "노스캐롤라이나",
-			"tw": "北卡罗来纳"
+			"tw": "北卡羅來納"
 		},
-		"type": 5,
-		"type_text": {
-			"en": "Battleship",
-			"cn": "战列",
-			"jp": "戦艦",
-			"kr": "전함",
-			"tw": "戰列"
-		},
-		"nationality": 1,
 		"property_hexagon": [
 			"A",
 			"E",
@@ -10205,6 +9600,8 @@
 			"B",
 			"S"
 		],
+		"type": 5,
+		"nationality": 1,
 		"data": {
 			"105121": {
 				"id": 105121,
@@ -10346,17 +9743,8 @@
 			"cn": "华盛顿",
 			"jp": "ワシントン",
 			"kr": "워싱턴",
-			"tw": "华盛顿"
+			"tw": "華盛頓"
 		},
-		"type": 5,
-		"type_text": {
-			"en": "Battleship",
-			"cn": "战列",
-			"jp": "戦艦",
-			"kr": "전함",
-			"tw": "戰列"
-		},
-		"nationality": 1,
 		"property_hexagon": [
 			"A",
 			"E",
@@ -10365,6 +9753,8 @@
 			"B",
 			"S"
 		],
+		"type": 5,
+		"nationality": 1,
 		"data": {
 			"105131": {
 				"id": 105131,
@@ -10508,15 +9898,6 @@
 			"kr": "사우스다코타",
 			"tw": "南達科他"
 		},
-		"type": 5,
-		"type_text": {
-			"en": "Battleship",
-			"cn": "战列",
-			"jp": "戦艦",
-			"kr": "전함",
-			"tw": "戰列"
-		},
-		"nationality": 1,
 		"property_hexagon": [
 			"A",
 			"E",
@@ -10525,6 +9906,8 @@
 			"B",
 			"S"
 		],
+		"type": 5,
+		"nationality": 1,
 		"data": {
 			"105141": {
 				"id": 105141,
@@ -10621,17 +10004,8 @@
 			"cn": "马萨诸塞",
 			"jp": "マサチューセッツ",
 			"kr": "매사추세츠",
-			"tw": "马萨诸塞"
+			"tw": "麻薩諸塞"
 		},
-		"type": 5,
-		"type_text": {
-			"en": "Battleship",
-			"cn": "战列",
-			"jp": "戦艦",
-			"kr": "전함",
-			"tw": "戰列"
-		},
-		"nationality": 1,
 		"property_hexagon": [
 			"A",
 			"E",
@@ -10640,6 +10014,8 @@
 			"B",
 			"S"
 		],
+		"type": 5,
+		"nationality": 1,
 		"data": {
 			"105191": {
 				"id": 105191,
@@ -10759,16 +10135,8 @@
 			"en": "Alabama",
 			"cn": "阿拉巴马",
 			"jp": "アラバマ",
-			"kr": "앨라배마 "
+			"kr": "앨라배마"
 		},
-		"type": 5,
-		"type_text": {
-			"en": "Battleship",
-			"cn": "战列",
-			"jp": "戦艦",
-			"kr": "전함"
-		},
-		"nationality": 1,
 		"property_hexagon": [
 			"A",
 			"E",
@@ -10777,6 +10145,8 @@
 			"B",
 			"S"
 		],
+		"type": 5,
+		"nationality": 1,
 		"data": {
 			"105201": {
 				"id": 105201,
@@ -10875,15 +10245,6 @@
 			"kr": "롱 아일랜드",
 			"tw": "長島"
 		},
-		"type": 6,
-		"type_text": {
-			"en": "Light Carrier",
-			"cn": "轻航",
-			"jp": "軽母",
-			"kr": "경항모",
-			"tw": "輕航"
-		},
-		"nationality": 1,
 		"property_hexagon": [
 			"E",
 			"E",
@@ -10892,6 +10253,8 @@
 			"B",
 			"C"
 		],
+		"type": 6,
+		"nationality": 1,
 		"data": {
 			"106011": {
 				"id": 106011,
@@ -10990,15 +10353,6 @@
 			"kr": "보그",
 			"tw": "博格"
 		},
-		"type": 6,
-		"type_text": {
-			"en": "Light Carrier",
-			"cn": "轻航",
-			"jp": "軽母",
-			"kr": "경항모",
-			"tw": "輕航"
-		},
-		"nationality": 1,
 		"property_hexagon": [
 			"E",
 			"E",
@@ -11007,6 +10361,8 @@
 			"B",
 			"C"
 		],
+		"type": 6,
+		"nationality": 1,
 		"data": {
 			"106021": {
 				"id": 106021,
@@ -11104,14 +10460,6 @@
 			"jp": "カサブランカ",
 			"kr": "카사블랑카"
 		},
-		"type": 6,
-		"type_text": {
-			"en": "Light Carrier",
-			"cn": "轻航",
-			"jp": "軽母",
-			"kr": "경항모"
-		},
-		"nationality": 1,
 		"property_hexagon": [
 			"E",
 			"E",
@@ -11120,6 +10468,8 @@
 			"B",
 			"C"
 		],
+		"type": 6,
+		"nationality": 1,
 		"data": {
 			"106551": {
 				"id": 106551,
@@ -11218,15 +10568,6 @@
 			"kr": "랭글리",
 			"tw": "蘭利"
 		},
-		"type": 6,
-		"type_text": {
-			"en": "Light Carrier",
-			"cn": "轻航",
-			"jp": "軽母",
-			"kr": "경항모",
-			"tw": "輕航"
-		},
-		"nationality": 1,
 		"property_hexagon": [
 			"E",
 			"E",
@@ -11235,6 +10576,8 @@
 			"B",
 			"C"
 		],
+		"type": 6,
+		"nationality": 1,
 		"data": {
 			"107011": {
 				"id": 107011,
@@ -11333,15 +10676,6 @@
 			"kr": "렉싱턴",
 			"tw": "列星頓"
 		},
-		"type": 7,
-		"type_text": {
-			"en": "Aircraft Carrier",
-			"cn": "正航",
-			"jp": "空母",
-			"kr": "항모",
-			"tw": "正航"
-		},
-		"nationality": 1,
 		"property_hexagon": [
 			"C",
 			"E",
@@ -11350,6 +10684,8 @@
 			"B",
 			"A"
 		],
+		"type": 7,
+		"nationality": 1,
 		"data": {
 			"107021": {
 				"id": 107021,
@@ -11446,17 +10782,8 @@
 			"cn": "萨拉托加",
 			"jp": "サラトガ",
 			"kr": "새러토가",
-			"tw": "萨拉托加"
+			"tw": "薩拉托加"
 		},
-		"type": 7,
-		"type_text": {
-			"en": "Aircraft Carrier",
-			"cn": "正航",
-			"jp": "空母",
-			"kr": "항모",
-			"tw": "正航"
-		},
-		"nationality": 1,
 		"property_hexagon": [
 			"C",
 			"E",
@@ -11465,6 +10792,8 @@
 			"B",
 			"A"
 		],
+		"type": 7,
+		"nationality": 1,
 		"data": {
 			"107031": {
 				"id": 107031,
@@ -11585,17 +10914,8 @@
 			"cn": "突击者",
 			"jp": "レンジャー",
 			"kr": "레인저",
-			"tw": "突击者"
+			"tw": "遊騎兵"
 		},
-		"type": 6,
-		"type_text": {
-			"en": "Light Carrier",
-			"cn": "轻航",
-			"jp": "軽母",
-			"kr": "경항모",
-			"tw": "輕航"
-		},
-		"nationality": 1,
 		"property_hexagon": [
 			"E",
 			"E",
@@ -11604,6 +10924,8 @@
 			"B",
 			"C"
 		],
+		"type": 6,
+		"nationality": 1,
 		"data": {
 			"107041": {
 				"id": 107041,
@@ -11726,15 +11048,6 @@
 			"kr": "요크타운",
 			"tw": "約克鎮"
 		},
-		"type": 7,
-		"type_text": {
-			"en": "Aircraft Carrier",
-			"cn": "正航",
-			"jp": "空母",
-			"kr": "항모",
-			"tw": "正航"
-		},
-		"nationality": 1,
 		"property_hexagon": [
 			"E",
 			"E",
@@ -11743,6 +11056,8 @@
 			"B",
 			"B"
 		],
+		"type": 7,
+		"nationality": 1,
 		"data": {
 			"107051": {
 				"id": 107051,
@@ -11839,17 +11154,8 @@
 			"cn": "企业",
 			"jp": "エンタープライズ",
 			"kr": "엔터프라이즈",
-			"tw": "企业"
+			"tw": "企業"
 		},
-		"type": 7,
-		"type_text": {
-			"en": "Aircraft Carrier",
-			"cn": "正航",
-			"jp": "空母",
-			"kr": "항모",
-			"tw": "正航"
-		},
-		"nationality": 1,
 		"property_hexagon": [
 			"E",
 			"E",
@@ -11858,6 +11164,8 @@
 			"B",
 			"B"
 		],
+		"type": 7,
+		"nationality": 1,
 		"data": {
 			"107061": {
 				"id": 107061,
@@ -11992,10 +11300,6 @@
 					"asw": 0
 				},
 				"name": {
-					"en": "Enterprise",
-					"cn": "企业",
-					"jp": "エンタープライズ",
-					"kr": "엔터프라이즈",
 					"tw": "企业"
 				}
 			}
@@ -12012,15 +11316,6 @@
 			"kr": "호넷",
 			"tw": "大黃蜂"
 		},
-		"type": 7,
-		"type_text": {
-			"en": "Aircraft Carrier",
-			"cn": "正航",
-			"jp": "空母",
-			"kr": "항모",
-			"tw": "正航"
-		},
-		"nationality": 1,
 		"property_hexagon": [
 			"E",
 			"E",
@@ -12029,6 +11324,8 @@
 			"B",
 			"B"
 		],
+		"type": 7,
+		"nationality": 1,
 		"data": {
 			"107071": {
 				"id": 107071,
@@ -12127,15 +11424,6 @@
 			"kr": "와스프",
 			"tw": "胡蜂"
 		},
-		"type": 7,
-		"type_text": {
-			"en": "Aircraft Carrier",
-			"cn": "正航",
-			"jp": "空母",
-			"kr": "항모",
-			"tw": "正航"
-		},
-		"nationality": 1,
 		"property_hexagon": [
 			"E",
 			"E",
@@ -12144,6 +11432,8 @@
 			"B",
 			"C"
 		],
+		"type": 7,
+		"nationality": 1,
 		"data": {
 			"107081": {
 				"id": 107081,
@@ -12240,17 +11530,8 @@
 			"cn": "埃塞克斯",
 			"jp": "エセックス",
 			"kr": "에식스",
-			"tw": "埃塞克斯"
+			"tw": "艾塞克斯"
 		},
-		"type": 7,
-		"type_text": {
-			"en": "Aircraft Carrier",
-			"cn": "正航",
-			"jp": "空母",
-			"kr": "항모",
-			"tw": "正航"
-		},
-		"nationality": 1,
 		"property_hexagon": [
 			"E",
 			"E",
@@ -12259,6 +11540,8 @@
 			"B",
 			"B"
 		],
+		"type": 7,
+		"nationality": 1,
 		"data": {
 			"107091": {
 				"id": 107091,
@@ -12381,14 +11664,6 @@
 			"kr": "인트레피드",
 			"tw": "无畏"
 		},
-		"type": 7,
-		"type_text": {
-			"en": "Aircraft Carrier",
-			"cn": "正航",
-			"jp": "空母",
-			"kr": "항모"
-		},
-		"nationality": 1,
 		"property_hexagon": [
 			"E",
 			"E",
@@ -12397,6 +11672,8 @@
 			"B",
 			"B"
 		],
+		"type": 7,
+		"nationality": 1,
 		"data": {
 			"107111": {
 				"id": 107111,
@@ -12514,17 +11791,8 @@
 			"cn": "邦克山",
 			"jp": "バンカー・ヒル",
 			"kr": "벙커힐",
-			"tw": "邦克山"
+			"tw": "碉堡山"
 		},
-		"type": 7,
-		"type_text": {
-			"en": "Aircraft Carrier",
-			"cn": "正航",
-			"jp": "空母",
-			"kr": "항모",
-			"tw": "正航"
-		},
-		"nationality": 1,
 		"property_hexagon": [
 			"E",
 			"E",
@@ -12533,6 +11801,8 @@
 			"B",
 			"B"
 		],
+		"type": 7,
+		"nationality": 1,
 		"data": {
 			"107171": {
 				"id": 107171,
@@ -12639,7 +11909,6 @@
 					"asw": 0
 				},
 				"name": {
-					"kr": "벙커힐",
 					"tw": "邦克山"
 				}
 			}
@@ -12653,18 +11922,9 @@
 			"en": "Independence",
 			"cn": "独立",
 			"jp": "インディペンデンス",
-			"kr": "인디펜던스 ",
+			"kr": "인디펜던스",
 			"tw": "獨立"
 		},
-		"type": 6,
-		"type_text": {
-			"en": "Light Carrier",
-			"cn": "轻航",
-			"jp": "軽母",
-			"kr": "경항모",
-			"tw": "輕航"
-		},
-		"nationality": 1,
 		"property_hexagon": [
 			"E",
 			"E",
@@ -12673,6 +11933,8 @@
 			"B",
 			"B"
 		],
+		"type": 6,
+		"nationality": 1,
 		"data": {
 			"107221": {
 				"id": 107221,
@@ -12768,16 +12030,8 @@
 			"en": "Bataan",
 			"cn": "巴丹",
 			"jp": "バターン",
-			"kr": "바탄 "
+			"kr": "바탄"
 		},
-		"type": 6,
-		"type_text": {
-			"en": "Light Carrier",
-			"cn": "轻航",
-			"jp": "軽母",
-			"kr": "경항모"
-		},
-		"nationality": 1,
 		"property_hexagon": [
 			"E",
 			"E",
@@ -12786,6 +12040,8 @@
 			"B",
 			"B"
 		],
+		"type": 6,
+		"nationality": 1,
 		"data": {
 			"107291": {
 				"id": 107291,
@@ -12881,18 +12137,9 @@
 			"en": "Shangri-La",
 			"cn": "香格里拉",
 			"jp": "シャングリラ",
-			"kr": "샹그릴라 ",
+			"kr": "샹그릴라",
 			"tw": "香格里拉"
 		},
-		"type": 7,
-		"type_text": {
-			"en": "Aircraft Carrier",
-			"cn": "正航",
-			"jp": "空母",
-			"kr": "항모",
-			"tw": "正航"
-		},
-		"nationality": 1,
 		"property_hexagon": [
 			"E",
 			"E",
@@ -12901,6 +12148,8 @@
 			"B",
 			"B"
 		],
+		"type": 7,
+		"nationality": 1,
 		"data": {
 			"107381": {
 				"id": 107381,
@@ -12993,15 +12242,6 @@
 		"id": 10801,
 		"code": 342,
 		"name": {},
-		"type": 8,
-		"type_text": {
-			"en": "Submarine",
-			"cn": "潜艇",
-			"jp": "潜水",
-			"kr": "잠수",
-			"tw": "潛艇"
-		},
-		"nationality": 1,
 		"property_hexagon": [
 			"D",
 			"S",
@@ -13010,21 +12250,14 @@
 			"E",
 			"D"
 		],
+		"type": 8,
+		"nationality": 1,
 		"data": {}
 	},
 	"10802": {
 		"id": 10802,
 		"code": 358,
 		"name": {},
-		"type": 8,
-		"type_text": {
-			"en": "Submarine",
-			"cn": "潜艇",
-			"jp": "潜水",
-			"kr": "잠수",
-			"tw": "潛艇"
-		},
-		"nationality": 1,
 		"property_hexagon": [
 			"D",
 			"S",
@@ -13033,20 +12266,14 @@
 			"E",
 			"D"
 		],
+		"type": 8,
+		"nationality": 1,
 		"data": {}
 	},
 	"10803": {
 		"id": 10803,
 		"code": 402,
 		"name": {},
-		"type": 8,
-		"type_text": {
-			"en": "Submarine",
-			"cn": "潜艇",
-			"jp": "潜水",
-			"kr": "잠수"
-		},
-		"nationality": 1,
 		"property_hexagon": [
 			"D",
 			"S",
@@ -13055,20 +12282,14 @@
 			"E",
 			"D"
 		],
+		"type": 8,
+		"nationality": 1,
 		"data": {}
 	},
 	"10804": {
 		"id": 10804,
 		"code": 446,
 		"name": {},
-		"type": 8,
-		"type_text": {
-			"en": "Submarine",
-			"cn": "潜艇",
-			"jp": "潜水",
-			"kr": "잠수"
-		},
-		"nationality": 1,
 		"property_hexagon": [
 			"D",
 			"S",
@@ -13077,6 +12298,8 @@
 			"E",
 			"D"
 		],
+		"type": 8,
+		"nationality": 1,
 		"data": {}
 	},
 	"11201": {
@@ -13089,15 +12312,6 @@
 			"kr": "베스탈",
 			"tw": "女灶神"
 		},
-		"type": 12,
-		"type_text": {
-			"en": "Repair",
-			"cn": "维修",
-			"jp": "工作",
-			"kr": "공작",
-			"tw": "維修"
-		},
-		"nationality": 1,
 		"property_hexagon": [
 			"E",
 			"E",
@@ -13106,6 +12320,8 @@
 			"D",
 			"C"
 		],
+		"type": 12,
+		"nationality": 1,
 		"data": {
 			"112011": {
 				"id": 112011,
@@ -13201,18 +12417,9 @@
 			"en": "Seattle",
 			"cn": "西雅图",
 			"jp": "シアトル",
-			"kr": "시애틀 ",
+			"kr": "시애틀",
 			"tw": "西雅圖"
 		},
-		"type": 2,
-		"type_text": {
-			"en": "Light Cruiser",
-			"cn": "轻巡",
-			"jp": "軽巡",
-			"kr": "경순",
-			"tw": "輕巡"
-		},
-		"nationality": 1,
 		"property_hexagon": [
 			"B",
 			"E",
@@ -13221,6 +12428,8 @@
 			"A",
 			"B"
 		],
+		"type": 2,
+		"nationality": 1,
 		"data": {
 			"199011": {
 				"id": 199011,
@@ -13337,18 +12546,9 @@
 			"en": "Georgia",
 			"cn": "佐治亚",
 			"jp": "ジョージア",
-			"kr": "조지아 ",
+			"kr": "조지아",
 			"tw": "喬治亞"
 		},
-		"type": 5,
-		"type_text": {
-			"en": "Battleship",
-			"cn": "战列",
-			"jp": "戦艦",
-			"kr": "전함",
-			"tw": "戰列"
-		},
-		"nationality": 1,
 		"property_hexagon": [
 			"S",
 			"E",
@@ -13357,6 +12557,8 @@
 			"B",
 			"S"
 		],
+		"type": 5,
+		"nationality": 1,
 		"data": {
 			"199021": {
 				"id": 199021,
@@ -13470,21 +12672,12 @@
 		"id": 20101,
 		"code": 81,
 		"name": {
-			"en": "Amazon Retrofit",
-			"cn": "女将.改",
-			"jp": "アマゾン改",
-			"kr": "아마존·改 ",
+			"en": "Amazon",
+			"cn": "女将",
+			"jp": "アマゾン",
+			"kr": "아마존",
 			"tw": "女將"
 		},
-		"type": 1,
-		"type_text": {
-			"en": "Destroyer",
-			"cn": "驱逐",
-			"jp": "駆逐",
-			"kr": "구축",
-			"tw": "驅逐"
-		},
-		"nationality": 2,
 		"property_hexagon": [
 			"D",
 			"B",
@@ -13493,6 +12686,8 @@
 			"D",
 			"D"
 		],
+		"type": 1,
+		"nationality": 2,
 		"data": {
 			"201011": {
 				"id": 201011,
@@ -13602,7 +12797,7 @@
 					"en": "Amazon Retrofit",
 					"cn": "女将.改",
 					"jp": "アマゾン改",
-					"kr": "아마존·改 "
+					"kr": "아마존·改"
 				}
 			}
 		},
@@ -13618,15 +12813,6 @@
 			"kr": "아카스타",
 			"tw": "阿卡司塔"
 		},
-		"type": 1,
-		"type_text": {
-			"en": "Destroyer",
-			"cn": "驱逐",
-			"jp": "駆逐",
-			"kr": "구축",
-			"tw": "驅逐"
-		},
-		"nationality": 2,
 		"property_hexagon": [
 			"D",
 			"A",
@@ -13635,6 +12821,8 @@
 			"D",
 			"D"
 		],
+		"type": 1,
+		"nationality": 2,
 		"data": {
 			"201021": {
 				"id": 201021,
@@ -13733,15 +12921,6 @@
 			"kr": "아덴트",
 			"tw": "熱心"
 		},
-		"type": 1,
-		"type_text": {
-			"en": "Destroyer",
-			"cn": "驱逐",
-			"jp": "駆逐",
-			"kr": "구축",
-			"tw": "驅逐"
-		},
-		"nationality": 2,
 		"property_hexagon": [
 			"D",
 			"B",
@@ -13750,6 +12929,8 @@
 			"D",
 			"D"
 		],
+		"type": 1,
+		"nationality": 2,
 		"data": {
 			"201031": {
 				"id": 201031,
@@ -13848,15 +13029,6 @@
 			"kr": "비글",
 			"tw": "小獵兔犬"
 		},
-		"type": 1,
-		"type_text": {
-			"en": "Destroyer",
-			"cn": "驱逐",
-			"jp": "駆逐",
-			"kr": "구축",
-			"tw": "驅逐"
-		},
-		"nationality": 2,
 		"property_hexagon": [
 			"D",
 			"B",
@@ -13865,6 +13037,8 @@
 			"D",
 			"D"
 		],
+		"type": 1,
+		"nationality": 2,
 		"data": {
 			"201061": {
 				"id": 201061,
@@ -13963,15 +13137,6 @@
 			"kr": "불독",
 			"tw": "大鬥犬"
 		},
-		"type": 1,
-		"type_text": {
-			"en": "Destroyer",
-			"cn": "驱逐",
-			"jp": "駆逐",
-			"kr": "구축",
-			"tw": "驅逐"
-		},
-		"nationality": 2,
 		"property_hexagon": [
 			"D",
 			"B",
@@ -13980,6 +13145,8 @@
 			"D",
 			"D"
 		],
+		"type": 1,
+		"nationality": 2,
 		"data": {
 			"201071": {
 				"id": 201071,
@@ -14078,15 +13245,6 @@
 			"kr": "코멧",
 			"tw": "彗星"
 		},
-		"type": 1,
-		"type_text": {
-			"en": "Destroyer",
-			"cn": "驱逐",
-			"jp": "駆逐",
-			"kr": "구축",
-			"tw": "驅逐"
-		},
-		"nationality": 2,
 		"property_hexagon": [
 			"D",
 			"B",
@@ -14095,6 +13253,8 @@
 			"D",
 			"D"
 		],
+		"type": 1,
+		"nationality": 2,
 		"data": {
 			"201081": {
 				"id": 201081,
@@ -14193,15 +13353,6 @@
 			"kr": "크레센트",
 			"tw": "新月"
 		},
-		"type": 1,
-		"type_text": {
-			"en": "Destroyer",
-			"cn": "驱逐",
-			"jp": "駆逐",
-			"kr": "구축",
-			"tw": "驅逐"
-		},
-		"nationality": 2,
 		"property_hexagon": [
 			"D",
 			"B",
@@ -14210,6 +13361,8 @@
 			"D",
 			"D"
 		],
+		"type": 1,
+		"nationality": 2,
 		"data": {
 			"201091": {
 				"id": 201091,
@@ -14308,15 +13461,6 @@
 			"kr": "시그넷",
 			"tw": "小天鵝"
 		},
-		"type": 1,
-		"type_text": {
-			"en": "Destroyer",
-			"cn": "驱逐",
-			"jp": "駆逐",
-			"kr": "구축",
-			"tw": "驅逐"
-		},
-		"nationality": 2,
 		"property_hexagon": [
 			"D",
 			"B",
@@ -14325,6 +13469,8 @@
 			"D",
 			"D"
 		],
+		"type": 1,
+		"nationality": 2,
 		"data": {
 			"201101": {
 				"id": 201101,
@@ -14423,15 +13569,6 @@
 			"kr": "폭스하운드",
 			"tw": "狐提"
 		},
-		"type": 1,
-		"type_text": {
-			"en": "Destroyer",
-			"cn": "驱逐",
-			"jp": "駆逐",
-			"kr": "구축",
-			"tw": "驅逐"
-		},
-		"nationality": 2,
 		"property_hexagon": [
 			"D",
 			"B",
@@ -14440,6 +13577,8 @@
 			"D",
 			"D"
 		],
+		"type": 1,
+		"nationality": 2,
 		"data": {
 			"201111": {
 				"id": 201111,
@@ -14538,15 +13677,6 @@
 			"kr": "포춘",
 			"tw": "命運女神"
 		},
-		"type": 1,
-		"type_text": {
-			"en": "Destroyer",
-			"cn": "驱逐",
-			"jp": "駆逐",
-			"kr": "구축",
-			"tw": "驅逐"
-		},
-		"nationality": 2,
 		"property_hexagon": [
 			"D",
 			"B",
@@ -14555,6 +13685,8 @@
 			"D",
 			"D"
 		],
+		"type": 1,
+		"nationality": 2,
 		"data": {
 			"201121": {
 				"id": 201121,
@@ -14650,18 +13782,9 @@
 			"en": "Grenville",
 			"cn": "格伦维尔",
 			"jp": "グレンヴィル",
-			"kr": "그렌빌 ",
+			"kr": "그렌빌",
 			"tw": "格倫維爾"
 		},
-		"type": 1,
-		"type_text": {
-			"en": "Destroyer",
-			"cn": "驱逐",
-			"jp": "駆逐",
-			"kr": "구축",
-			"tw": "驅逐"
-		},
-		"nationality": 2,
 		"property_hexagon": [
 			"D",
 			"B",
@@ -14670,6 +13793,8 @@
 			"D",
 			"D"
 		],
+		"type": 1,
+		"nationality": 2,
 		"data": {
 			"201131": {
 				"id": 201131,
@@ -14768,15 +13893,6 @@
 			"kr": "글로우웜",
 			"tw": "螢火蟲"
 		},
-		"type": 1,
-		"type_text": {
-			"en": "Destroyer",
-			"cn": "驱逐",
-			"jp": "駆逐",
-			"kr": "구축",
-			"tw": "驅逐"
-		},
-		"nationality": 2,
 		"property_hexagon": [
 			"D",
 			"B",
@@ -14785,6 +13901,8 @@
 			"D",
 			"D"
 		],
+		"type": 1,
+		"nationality": 2,
 		"data": {
 			"201141": {
 				"id": 201141,
@@ -14880,16 +13998,8 @@
 			"en": "Hardy",
 			"cn": "勇敢",
 			"jp": "ハーディ",
-			"kr": "하디 "
+			"kr": "하디"
 		},
-		"type": 1,
-		"type_text": {
-			"en": "Destroyer",
-			"cn": "驱逐",
-			"jp": "駆逐",
-			"kr": "구축"
-		},
-		"nationality": 2,
 		"property_hexagon": [
 			"D",
 			"B",
@@ -14898,6 +14008,8 @@
 			"D",
 			"D"
 		],
+		"type": 1,
+		"nationality": 2,
 		"data": {
 			"201161": {
 				"id": 201161,
@@ -14993,16 +14105,8 @@
 			"en": "Hunter",
 			"cn": "猎人",
 			"jp": "ハンター",
-			"kr": "헌터 "
+			"kr": "헌터"
 		},
-		"type": 1,
-		"type_text": {
-			"en": "Destroyer",
-			"cn": "驱逐",
-			"jp": "駆逐",
-			"kr": "구축"
-		},
-		"nationality": 2,
 		"property_hexagon": [
 			"D",
 			"B",
@@ -15011,6 +14115,8 @@
 			"D",
 			"D"
 		],
+		"type": 1,
+		"nationality": 2,
 		"data": {
 			"201201": {
 				"id": 201201,
@@ -15107,17 +14213,8 @@
 			"cn": "标枪",
 			"jp": "ジャベリン",
 			"kr": "재블린",
-			"tw": "标枪"
+			"tw": "標槍"
 		},
-		"type": 1,
-		"type_text": {
-			"en": "Destroyer",
-			"cn": "驱逐",
-			"jp": "駆逐",
-			"kr": "구축",
-			"tw": "驅逐"
-		},
-		"nationality": 2,
 		"property_hexagon": [
 			"D",
 			"B",
@@ -15126,6 +14223,8 @@
 			"D",
 			"D"
 		],
+		"type": 1,
+		"nationality": 2,
 		"data": {
 			"201211": {
 				"id": 201211,
@@ -15263,15 +14362,6 @@
 			"kr": "주노",
 			"tw": "天后"
 		},
-		"type": 1,
-		"type_text": {
-			"en": "Destroyer",
-			"cn": "驱逐",
-			"jp": "駆逐",
-			"kr": "구축",
-			"tw": "驅逐"
-		},
-		"nationality": 2,
 		"property_hexagon": [
 			"D",
 			"B",
@@ -15280,6 +14370,8 @@
 			"D",
 			"D"
 		],
+		"type": 1,
+		"nationality": 2,
 		"data": {
 			"201221": {
 				"id": 201221,
@@ -15390,15 +14482,6 @@
 			"kr": "뱀파이어",
 			"tw": "吸血鬼"
 		},
-		"type": 1,
-		"type_text": {
-			"en": "Destroyer",
-			"cn": "驱逐",
-			"jp": "駆逐",
-			"kr": "구축",
-			"tw": "驅逐"
-		},
-		"nationality": 2,
 		"property_hexagon": [
 			"D",
 			"B",
@@ -15407,6 +14490,8 @@
 			"D",
 			"D"
 		],
+		"type": 1,
+		"nationality": 2,
 		"data": {
 			"201231": {
 				"id": 201231,
@@ -15505,15 +14590,6 @@
 			"kr": "주피터",
 			"tw": "丘比特"
 		},
-		"type": 1,
-		"type_text": {
-			"en": "Destroyer",
-			"cn": "驱逐",
-			"jp": "駆逐",
-			"kr": "구축",
-			"tw": "驅逐"
-		},
-		"nationality": 2,
 		"property_hexagon": [
 			"D",
 			"B",
@@ -15522,6 +14598,8 @@
 			"D",
 			"D"
 		],
+		"type": 1,
+		"nationality": 2,
 		"data": {
 			"201241": {
 				"id": 201241,
@@ -15632,15 +14710,6 @@
 			"kr": "저지",
 			"tw": "澤西"
 		},
-		"type": 1,
-		"type_text": {
-			"en": "Destroyer",
-			"cn": "驱逐",
-			"jp": "駆逐",
-			"kr": "구축",
-			"tw": "驅逐"
-		},
-		"nationality": 2,
 		"property_hexagon": [
 			"D",
 			"B",
@@ -15649,6 +14718,8 @@
 			"D",
 			"D"
 		],
+		"type": 1,
+		"nationality": 2,
 		"data": {
 			"201251": {
 				"id": 201251,
@@ -15747,15 +14818,6 @@
 			"kr": "매치리스",
 			"tw": "無敵"
 		},
-		"type": 1,
-		"type_text": {
-			"en": "Destroyer",
-			"cn": "驱逐",
-			"jp": "駆逐",
-			"kr": "구축",
-			"tw": "驅逐"
-		},
-		"nationality": 2,
 		"property_hexagon": [
 			"D",
 			"B",
@@ -15764,6 +14826,8 @@
 			"D",
 			"D"
 		],
+		"type": 1,
+		"nationality": 2,
 		"data": {
 			"201261": {
 				"id": 201261,
@@ -15862,15 +14926,6 @@
 			"kr": "머스킷티어",
 			"tw": "火槍手"
 		},
-		"type": 1,
-		"type_text": {
-			"en": "Destroyer",
-			"cn": "驱逐",
-			"jp": "駆逐",
-			"kr": "구축",
-			"tw": "驅逐"
-		},
-		"nationality": 2,
 		"property_hexagon": [
 			"D",
 			"B",
@@ -15879,6 +14934,8 @@
 			"D",
 			"D"
 		],
+		"type": 1,
+		"nationality": 2,
 		"data": {
 			"201271": {
 				"id": 201271,
@@ -15974,18 +15031,9 @@
 			"en": "Echo",
 			"cn": "回声",
 			"jp": "エコー",
-			"kr": "에코 ",
+			"kr": "에코",
 			"tw": "回聲"
 		},
-		"type": 1,
-		"type_text": {
-			"en": "Destroyer",
-			"cn": "驱逐",
-			"jp": "駆逐",
-			"kr": "구축",
-			"tw": "驅逐"
-		},
-		"nationality": 2,
 		"property_hexagon": [
 			"D",
 			"B",
@@ -15994,6 +15042,8 @@
 			"D",
 			"D"
 		],
+		"type": 1,
+		"nationality": 2,
 		"data": {
 			"201291": {
 				"id": 201291,
@@ -16086,19 +15136,11 @@
 		"id": 20132,
 		"code": 460,
 		"name": {
-			"en": "Eskimo ",
+			"en": "Eskimo",
 			"cn": "爱斯基摩人",
 			"jp": "エスキモー",
-			"kr": "에스키모 "
+			"kr": "에스키모"
 		},
-		"type": 1,
-		"type_text": {
-			"en": "Destroyer",
-			"cn": "驱逐",
-			"jp": "駆逐",
-			"kr": "구축"
-		},
-		"nationality": 2,
 		"property_hexagon": [
 			"C",
 			"B",
@@ -16107,6 +15149,8 @@
 			"C",
 			"C"
 		],
+		"type": 1,
+		"nationality": 2,
 		"data": {
 			"201321": {
 				"id": 201321,
@@ -16202,16 +15246,8 @@
 			"en": "Icarus",
 			"cn": "伊卡洛斯",
 			"jp": "イカルス",
-			"kr": "이카로스 "
+			"kr": "이카로스"
 		},
-		"type": 1,
-		"type_text": {
-			"en": "Destroyer",
-			"cn": "驱逐",
-			"jp": "駆逐",
-			"kr": "구축"
-		},
-		"nationality": 2,
 		"property_hexagon": [
 			"D",
 			"B",
@@ -16220,6 +15256,8 @@
 			"D",
 			"D"
 		],
+		"type": 1,
+		"nationality": 2,
 		"data": {
 			"201331": {
 				"id": 201331,
@@ -16318,15 +15356,6 @@
 			"kr": "리엔더",
 			"tw": "利安得"
 		},
-		"type": 2,
-		"type_text": {
-			"en": "Light Cruiser",
-			"cn": "轻巡",
-			"jp": "軽巡",
-			"kr": "경순",
-			"tw": "輕巡"
-		},
-		"nationality": 2,
 		"property_hexagon": [
 			"C",
 			"C",
@@ -16335,6 +15364,8 @@
 			"B",
 			"C"
 		],
+		"type": 2,
+		"nationality": 2,
 		"data": {
 			"202011": {
 				"id": 202011,
@@ -16433,15 +15464,6 @@
 			"kr": "아킬레스",
 			"tw": "阿基里斯"
 		},
-		"type": 2,
-		"type_text": {
-			"en": "Light Cruiser",
-			"cn": "轻巡",
-			"jp": "軽巡",
-			"kr": "경순",
-			"tw": "輕巡"
-		},
-		"nationality": 2,
 		"property_hexagon": [
 			"B",
 			"B",
@@ -16450,6 +15472,8 @@
 			"C",
 			"C"
 		],
+		"type": 2,
+		"nationality": 2,
 		"data": {
 			"202021": {
 				"id": 202021,
@@ -16548,15 +15572,6 @@
 			"kr": "에이잭스",
 			"tw": "阿賈克斯"
 		},
-		"type": 2,
-		"type_text": {
-			"en": "Light Cruiser",
-			"cn": "轻巡",
-			"jp": "軽巡",
-			"kr": "경순",
-			"tw": "輕巡"
-		},
-		"nationality": 2,
 		"property_hexagon": [
 			"B",
 			"B",
@@ -16565,6 +15580,8 @@
 			"C",
 			"C"
 		],
+		"type": 2,
+		"nationality": 2,
 		"data": {
 			"202031": {
 				"id": 202031,
@@ -16660,16 +15677,8 @@
 			"en": "Dido",
 			"cn": "黛朵",
 			"jp": "ダイドー",
-			"kr": "다이도 "
+			"kr": "다이도"
 		},
-		"type": 2,
-		"type_text": {
-			"en": "Light Cruiser",
-			"cn": "轻巡",
-			"jp": "軽巡",
-			"kr": "경순"
-		},
-		"nationality": 2,
 		"property_hexagon": [
 			"B",
 			"D",
@@ -16678,6 +15687,8 @@
 			"A",
 			"C"
 		],
+		"type": 2,
+		"nationality": 2,
 		"data": {
 			"202041": {
 				"id": 202041,
@@ -16785,16 +15796,8 @@
 			"en": "Southampton",
 			"cn": "南安普顿",
 			"jp": "サウサンプトン",
-			"kr": "사우스햄튼 "
+			"kr": "사우스햄튼"
 		},
-		"type": 2,
-		"type_text": {
-			"en": "Light Cruiser",
-			"cn": "轻巡",
-			"jp": "軽巡",
-			"kr": "경순"
-		},
-		"nationality": 2,
 		"property_hexagon": [
 			"B",
 			"B",
@@ -16803,6 +15806,8 @@
 			"C",
 			"C"
 		],
+		"type": 2,
+		"nationality": 2,
 		"data": {
 			"202071": {
 				"id": 202071,
@@ -16901,15 +15906,6 @@
 			"kr": "셰필드",
 			"tw": "謝菲爾德"
 		},
-		"type": 2,
-		"type_text": {
-			"en": "Light Cruiser",
-			"cn": "轻巡",
-			"jp": "軽巡",
-			"kr": "경순",
-			"tw": "輕巡"
-		},
-		"nationality": 2,
 		"property_hexagon": [
 			"B",
 			"B",
@@ -16918,6 +15914,8 @@
 			"C",
 			"C"
 		],
+		"type": 2,
+		"nationality": 2,
 		"data": {
 			"202081": {
 				"id": 202081,
@@ -17013,16 +16011,8 @@
 			"en": "Gloucester",
 			"cn": "格罗斯特",
 			"jp": "グロスター",
-			"kr": "글로스터 "
+			"kr": "글로스터"
 		},
-		"type": 2,
-		"type_text": {
-			"en": "Light Cruiser",
-			"cn": "轻巡",
-			"jp": "軽巡",
-			"kr": "경순"
-		},
-		"nationality": 2,
 		"property_hexagon": [
 			"B",
 			"B",
@@ -17031,6 +16021,8 @@
 			"C",
 			"C"
 		],
+		"type": 2,
+		"nationality": 2,
 		"data": {
 			"202101": {
 				"id": 202101,
@@ -17129,15 +16121,6 @@
 			"kr": "에든버러",
 			"tw": "愛丁堡"
 		},
-		"type": 2,
-		"type_text": {
-			"en": "Light Cruiser",
-			"cn": "轻巡",
-			"jp": "軽巡",
-			"kr": "경순",
-			"tw": "輕巡"
-		},
-		"nationality": 2,
 		"property_hexagon": [
 			"B",
 			"B",
@@ -17146,6 +16129,8 @@
 			"C",
 			"C"
 		],
+		"type": 2,
+		"nationality": 2,
 		"data": {
 			"202111": {
 				"id": 202111,
@@ -17244,15 +16229,6 @@
 			"kr": "벨파스트",
 			"tw": "貝爾法斯特"
 		},
-		"type": 2,
-		"type_text": {
-			"en": "Light Cruiser",
-			"cn": "轻巡",
-			"jp": "軽巡",
-			"kr": "경순",
-			"tw": "輕巡"
-		},
-		"nationality": 2,
 		"property_hexagon": [
 			"B",
 			"A",
@@ -17261,6 +16237,8 @@
 			"C",
 			"B"
 		],
+		"type": 2,
+		"nationality": 2,
 		"data": {
 			"202121": {
 				"id": 202121,
@@ -17359,15 +16337,6 @@
 			"kr": "아레투사",
 			"tw": "阿瑞托莎"
 		},
-		"type": 2,
-		"type_text": {
-			"en": "Light Cruiser",
-			"cn": "轻巡",
-			"jp": "軽巡",
-			"kr": "경순",
-			"tw": "輕巡"
-		},
-		"nationality": 2,
 		"property_hexagon": [
 			"C",
 			"C",
@@ -17376,6 +16345,8 @@
 			"B",
 			"C"
 		],
+		"type": 2,
+		"nationality": 2,
 		"data": {
 			"202131": {
 				"id": 202131,
@@ -17474,15 +16445,6 @@
 			"kr": "갈라테아",
 			"tw": "加拉蒂亞"
 		},
-		"type": 2,
-		"type_text": {
-			"en": "Light Cruiser",
-			"cn": "轻巡",
-			"jp": "軽巡",
-			"kr": "경순",
-			"tw": "輕巡"
-		},
-		"nationality": 2,
 		"property_hexagon": [
 			"C",
 			"C",
@@ -17491,6 +16453,8 @@
 			"B",
 			"C"
 		],
+		"type": 2,
+		"nationality": 2,
 		"data": {
 			"202141": {
 				"id": 202141,
@@ -17586,18 +16550,9 @@
 			"en": "Aurora",
 			"cn": "欧若拉",
 			"jp": "オーロラ",
-			"kr": "오로라 ",
+			"kr": "오로라",
 			"tw": "歐若拉"
 		},
-		"type": 2,
-		"type_text": {
-			"en": "Light Cruiser",
-			"cn": "轻巡",
-			"jp": "軽巡",
-			"kr": "경순",
-			"tw": "輕巡"
-		},
-		"nationality": 2,
 		"property_hexagon": [
 			"C",
 			"B",
@@ -17606,6 +16561,8 @@
 			"B",
 			"C"
 		],
+		"type": 2,
+		"nationality": 2,
 		"data": {
 			"202151": {
 				"id": 202151,
@@ -17704,15 +16661,6 @@
 			"kr": "피지",
 			"tw": "斐濟"
 		},
-		"type": 2,
-		"type_text": {
-			"en": "Light Cruiser",
-			"cn": "轻巡",
-			"jp": "軽巡",
-			"kr": "경순",
-			"tw": "輕巡"
-		},
-		"nationality": 2,
 		"property_hexagon": [
 			"C",
 			"C",
@@ -17721,6 +16669,8 @@
 			"B",
 			"C"
 		],
+		"type": 2,
+		"nationality": 2,
 		"data": {
 			"202161": {
 				"id": 202161,
@@ -17819,15 +16769,6 @@
 			"kr": "자메이카",
 			"tw": "牙買加"
 		},
-		"type": 2,
-		"type_text": {
-			"en": "Light Cruiser",
-			"cn": "轻巡",
-			"jp": "軽巡",
-			"kr": "경순",
-			"tw": "輕巡"
-		},
-		"nationality": 2,
 		"property_hexagon": [
 			"C",
 			"C",
@@ -17836,6 +16777,8 @@
 			"B",
 			"C"
 		],
+		"type": 2,
+		"nationality": 2,
 		"data": {
 			"202171": {
 				"id": 202171,
@@ -17934,15 +16877,6 @@
 			"kr": "꼬마 벨파스트",
 			"tw": "小貝法"
 		},
-		"type": 2,
-		"type_text": {
-			"en": "Light Cruiser",
-			"cn": "轻巡",
-			"jp": "軽巡",
-			"kr": "경순",
-			"tw": "輕巡"
-		},
-		"nationality": 2,
 		"property_hexagon": [
 			"C",
 			"B",
@@ -17951,6 +16885,8 @@
 			"C",
 			"C"
 		],
+		"type": 2,
+		"nationality": 2,
 		"data": {
 			"202181": {
 				"id": 202181,
@@ -18048,14 +16984,6 @@
 			"jp": "ニューカッスル",
 			"kr": "뉴캐슬"
 		},
-		"type": 2,
-		"type_text": {
-			"en": "Light Cruiser",
-			"cn": "轻巡",
-			"jp": "軽巡",
-			"kr": "경순"
-		},
-		"nationality": 2,
 		"property_hexagon": [
 			"B",
 			"B",
@@ -18064,6 +16992,8 @@
 			"A",
 			"C"
 		],
+		"type": 2,
+		"nationality": 2,
 		"data": {
 			"202191": {
 				"id": 202191,
@@ -18159,18 +17089,9 @@
 			"en": "Sirius",
 			"cn": "天狼星",
 			"jp": "シリアス",
-			"kr": "시리우스 ",
+			"kr": "시리우스",
 			"tw": "天狼星"
 		},
-		"type": 2,
-		"type_text": {
-			"en": "Light Cruiser",
-			"cn": "轻巡",
-			"jp": "軽巡",
-			"kr": "경순",
-			"tw": "輕巡"
-		},
-		"nationality": 2,
 		"property_hexagon": [
 			"B",
 			"D",
@@ -18179,6 +17100,8 @@
 			"A",
 			"C"
 		],
+		"type": 2,
+		"nationality": 2,
 		"data": {
 			"202201": {
 				"id": 202201,
@@ -18286,18 +17209,9 @@
 			"en": "Curacoa",
 			"cn": "库拉索",
 			"jp": "キュラソー",
-			"kr": "퀴라소 ",
+			"kr": "퀴라소",
 			"tw": "庫拉索"
 		},
-		"type": 2,
-		"type_text": {
-			"en": "Light Cruiser",
-			"cn": "轻巡",
-			"jp": "軽巡",
-			"kr": "경순",
-			"tw": "輕巡"
-		},
-		"nationality": 2,
 		"property_hexagon": [
 			"C",
 			"E",
@@ -18306,6 +17220,8 @@
 			"A",
 			"C"
 		],
+		"type": 2,
+		"nationality": 2,
 		"data": {
 			"202211": {
 				"id": 202211,
@@ -18401,18 +17317,9 @@
 			"en": "Curlew",
 			"cn": "杓鹬",
 			"jp": "カーリュー",
-			"kr": "컬루 ",
+			"kr": "컬루",
 			"tw": "杓鷸"
 		},
-		"type": 2,
-		"type_text": {
-			"en": "Light Cruiser",
-			"cn": "轻巡",
-			"jp": "軽巡",
-			"kr": "경순",
-			"tw": "輕巡"
-		},
-		"nationality": 2,
 		"property_hexagon": [
 			"C",
 			"E",
@@ -18421,6 +17328,8 @@
 			"A",
 			"C"
 		],
+		"type": 2,
+		"nationality": 2,
 		"data": {
 			"202221": {
 				"id": 202221,
@@ -18516,16 +17425,8 @@
 			"en": "Swiftsure",
 			"cn": "确捷",
 			"jp": "スウィフトシュア",
-			"kr": "스위프트슈어 "
+			"kr": "스위프트슈어"
 		},
-		"type": 2,
-		"type_text": {
-			"en": "Light Cruiser",
-			"cn": "轻巡",
-			"jp": "軽巡",
-			"kr": "경순"
-		},
-		"nationality": 2,
 		"property_hexagon": [
 			"B",
 			"A",
@@ -18534,6 +17435,8 @@
 			"B",
 			"C"
 		],
+		"type": 2,
+		"nationality": 2,
 		"data": {
 			"202231": {
 				"id": 202231,
@@ -18629,16 +17532,8 @@
 			"en": "Black Prince",
 			"cn": "黑太子",
 			"jp": "ブラック・プリンス",
-			"kr": "블랙 프린스 "
+			"kr": "블랙 프린스"
 		},
-		"type": 2,
-		"type_text": {
-			"en": "Light Cruiser",
-			"cn": "轻巡",
-			"jp": "軽巡",
-			"kr": "경순"
-		},
-		"nationality": 2,
 		"property_hexagon": [
 			"B",
 			"D",
@@ -18647,6 +17542,8 @@
 			"A",
 			"C"
 		],
+		"type": 2,
+		"nationality": 2,
 		"data": {
 			"202241": {
 				"id": 202241,
@@ -18754,16 +17651,8 @@
 			"en": "Sheffield μ",
 			"cn": "谢菲尔德(μ兵装)",
 			"jp": "シェフィールド（μ兵装）",
-			"kr": "셰필드(μ장비) "
+			"kr": "셰필드(μ장비)"
 		},
-		"type": 2,
-		"type_text": {
-			"en": "Light Cruiser",
-			"cn": "轻巡",
-			"jp": "軽巡",
-			"kr": "경순"
-		},
-		"nationality": 2,
 		"property_hexagon": [
 			"B",
 			"B",
@@ -18772,6 +17661,8 @@
 			"A",
 			"C"
 		],
+		"type": 2,
+		"nationality": 2,
 		"data": {
 			"202251": {
 				"id": 202251,
@@ -18879,16 +17770,8 @@
 			"en": "Glasgow",
 			"cn": "格拉斯哥",
 			"jp": "グラスゴー",
-			"kr": "글래스고 "
+			"kr": "글래스고"
 		},
-		"type": 2,
-		"type_text": {
-			"en": "Light Cruiser",
-			"cn": "轻巡",
-			"jp": "軽巡",
-			"kr": "경순"
-		},
-		"nationality": 2,
 		"property_hexagon": [
 			"B",
 			"B",
@@ -18897,6 +17780,8 @@
 			"A",
 			"C"
 		],
+		"type": 2,
+		"nationality": 2,
 		"data": {
 			"202261": {
 				"id": 202261,
@@ -18992,16 +17877,8 @@
 			"en": "Hermione",
 			"cn": "赫敏",
 			"jp": "ハーマイオニー",
-			"kr": "허마이오니 "
+			"kr": "허마이오니"
 		},
-		"type": 2,
-		"type_text": {
-			"en": "Light Cruiser",
-			"cn": "轻巡",
-			"jp": "軽巡",
-			"kr": "경순"
-		},
-		"nationality": 2,
 		"property_hexagon": [
 			"B",
 			"D",
@@ -19010,6 +17887,8 @@
 			"A",
 			"C"
 		],
+		"type": 2,
+		"nationality": 2,
 		"data": {
 			"202271": {
 				"id": 202271,
@@ -19114,21 +17993,12 @@
 		"id": 20301,
 		"code": 119,
 		"name": {
-			"en": "London Retrofit",
-			"cn": "伦敦.改",
-			"jp": "ロンドン改",
-			"kr": "런던·改",
-			"tw": "伦敦.改"
+			"en": "London",
+			"cn": "伦敦",
+			"jp": "ロンドン",
+			"kr": "런던",
+			"tw": "倫敦"
 		},
-		"type": 3,
-		"type_text": {
-			"en": "Heavy Cruiser",
-			"cn": "重巡",
-			"jp": "重巡",
-			"kr": "중순",
-			"tw": "重巡"
-		},
-		"nationality": 2,
 		"property_hexagon": [
 			"A",
 			"C",
@@ -19137,6 +18007,8 @@
 			"C",
 			"C"
 		],
+		"type": 3,
+		"nationality": 2,
 		"data": {
 			"203011": {
 				"id": 203011,
@@ -19263,15 +18135,6 @@
 			"kr": "슈롭셔",
 			"tw": "什羅普郡"
 		},
-		"type": 3,
-		"type_text": {
-			"en": "Heavy Cruiser",
-			"cn": "重巡",
-			"jp": "重巡",
-			"kr": "중순",
-			"tw": "重巡"
-		},
-		"nationality": 2,
 		"property_hexagon": [
 			"A",
 			"C",
@@ -19280,6 +18143,8 @@
 			"C",
 			"C"
 		],
+		"type": 3,
+		"nationality": 2,
 		"data": {
 			"203021": {
 				"id": 203021,
@@ -19378,15 +18243,6 @@
 			"kr": "켄트",
 			"tw": "肯特"
 		},
-		"type": 3,
-		"type_text": {
-			"en": "Heavy Cruiser",
-			"cn": "重巡",
-			"jp": "重巡",
-			"kr": "중순",
-			"tw": "重巡"
-		},
-		"nationality": 2,
 		"property_hexagon": [
 			"A",
 			"C",
@@ -19395,6 +18251,8 @@
 			"C",
 			"C"
 		],
+		"type": 3,
+		"nationality": 2,
 		"data": {
 			"203031": {
 				"id": 203031,
@@ -19493,15 +18351,6 @@
 			"kr": "서포크",
 			"tw": "薩福克"
 		},
-		"type": 3,
-		"type_text": {
-			"en": "Heavy Cruiser",
-			"cn": "重巡",
-			"jp": "重巡",
-			"kr": "중순",
-			"tw": "重巡"
-		},
-		"nationality": 2,
 		"property_hexagon": [
 			"A",
 			"C",
@@ -19510,6 +18359,8 @@
 			"C",
 			"C"
 		],
+		"type": 3,
+		"nationality": 2,
 		"data": {
 			"203041": {
 				"id": 203041,
@@ -19608,15 +18459,6 @@
 			"kr": "노포크",
 			"tw": "諾福克"
 		},
-		"type": 3,
-		"type_text": {
-			"en": "Heavy Cruiser",
-			"cn": "重巡",
-			"jp": "重巡",
-			"kr": "중순",
-			"tw": "重巡"
-		},
-		"nationality": 2,
 		"property_hexagon": [
 			"B",
 			"D",
@@ -19625,6 +18467,8 @@
 			"B",
 			"A"
 		],
+		"type": 3,
+		"nationality": 2,
 		"data": {
 			"203051": {
 				"id": 203051,
@@ -19723,15 +18567,6 @@
 			"kr": "도셋셔",
 			"tw": "多塞特郡"
 		},
-		"type": 3,
-		"type_text": {
-			"en": "Heavy Cruiser",
-			"cn": "重巡",
-			"jp": "重巡",
-			"kr": "중순",
-			"tw": "重巡"
-		},
-		"nationality": 2,
 		"property_hexagon": [
 			"B",
 			"B",
@@ -19740,6 +18575,8 @@
 			"B",
 			"A"
 		],
+		"type": 3,
+		"nationality": 2,
 		"data": {
 			"203061": {
 				"id": 203061,
@@ -19838,15 +18675,6 @@
 			"kr": "요크",
 			"tw": "約克"
 		},
-		"type": 3,
-		"type_text": {
-			"en": "Heavy Cruiser",
-			"cn": "重巡",
-			"jp": "重巡",
-			"kr": "중순",
-			"tw": "重巡"
-		},
-		"nationality": 2,
 		"property_hexagon": [
 			"B",
 			"C",
@@ -19855,6 +18683,8 @@
 			"B",
 			"B"
 		],
+		"type": 3,
+		"nationality": 2,
 		"data": {
 			"203071": {
 				"id": 203071,
@@ -19953,15 +18783,6 @@
 			"kr": "엑세터",
 			"tw": "埃克塞特"
 		},
-		"type": 3,
-		"type_text": {
-			"en": "Heavy Cruiser",
-			"cn": "重巡",
-			"jp": "重巡",
-			"kr": "중순",
-			"tw": "重巡"
-		},
-		"nationality": 2,
 		"property_hexagon": [
 			"B",
 			"C",
@@ -19970,6 +18791,8 @@
 			"B",
 			"B"
 		],
+		"type": 3,
+		"nationality": 2,
 		"data": {
 			"203081": {
 				"id": 203081,
@@ -20065,18 +18888,9 @@
 			"en": "Sussex",
 			"cn": "苏塞克斯",
 			"jp": "サセックス",
-			"kr": "서식스 ",
+			"kr": "서식스",
 			"tw": "蘇塞克斯"
 		},
-		"type": 3,
-		"type_text": {
-			"en": "Heavy Cruiser",
-			"cn": "重巡",
-			"jp": "重巡",
-			"kr": "중순",
-			"tw": "重巡"
-		},
-		"nationality": 2,
 		"property_hexagon": [
 			"B",
 			"C",
@@ -20085,6 +18899,8 @@
 			"B",
 			"C"
 		],
+		"type": 3,
+		"nationality": 2,
 		"data": {
 			"203091": {
 				"id": 203091,
@@ -20181,17 +18997,8 @@
 			"cn": "声望",
 			"jp": "レナウン",
 			"kr": "리나운",
-			"tw": "声望"
+			"tw": "聲望"
 		},
-		"type": 4,
-		"type_text": {
-			"en": "Battlecruiser",
-			"cn": "战巡",
-			"jp": "巡戦",
-			"kr": "순양전함",
-			"tw": "戰巡"
-		},
-		"nationality": 2,
 		"property_hexagon": [
 			"S",
 			"E",
@@ -20200,6 +19007,8 @@
 			"C",
 			"B"
 		],
+		"type": 4,
+		"nationality": 2,
 		"data": {
 			"204011": {
 				"id": 204011,
@@ -20322,15 +19131,6 @@
 			"kr": "리펄스",
 			"tw": "反擊"
 		},
-		"type": 4,
-		"type_text": {
-			"en": "Battlecruiser",
-			"cn": "战巡",
-			"jp": "巡戦",
-			"kr": "순양전함",
-			"tw": "戰巡"
-		},
-		"nationality": 2,
 		"property_hexagon": [
 			"A",
 			"E",
@@ -20339,6 +19139,8 @@
 			"C",
 			"B"
 		],
+		"type": 4,
+		"nationality": 2,
 		"data": {
 			"204021": {
 				"id": 204021,
@@ -20437,15 +19239,6 @@
 			"kr": "후드",
 			"tw": "胡德"
 		},
-		"type": 4,
-		"type_text": {
-			"en": "Battlecruiser",
-			"cn": "战巡",
-			"jp": "巡戦",
-			"kr": "순양전함",
-			"tw": "戰巡"
-		},
-		"nationality": 2,
 		"property_hexagon": [
 			"A",
 			"E",
@@ -20454,6 +19247,8 @@
 			"B",
 			"A"
 		],
+		"type": 4,
+		"nationality": 2,
 		"data": {
 			"204031": {
 				"id": 204031,
@@ -20570,16 +19365,8 @@
 			"en": "Little Renown",
 			"cn": "小声望",
 			"jp": "リトル・レナウン",
-			"kr": "꼬마 리나운 "
+			"kr": "꼬마 리나운"
 		},
-		"type": 4,
-		"type_text": {
-			"en": "Battlecruiser",
-			"cn": "战巡",
-			"jp": "巡戦",
-			"kr": "순양전함"
-		},
-		"nationality": 2,
 		"property_hexagon": [
 			"A",
 			"E",
@@ -20588,6 +19375,8 @@
 			"C",
 			"B"
 		],
+		"type": 4,
+		"nationality": 2,
 		"data": {
 			"204041": {
 				"id": 204041,
@@ -20686,15 +19475,6 @@
 			"kr": "퀸 엘리자베스",
 			"tw": "伊莉莎白女王"
 		},
-		"type": 5,
-		"type_text": {
-			"en": "Battleship",
-			"cn": "战列",
-			"jp": "戦艦",
-			"kr": "전함",
-			"tw": "戰列"
-		},
-		"nationality": 2,
 		"property_hexagon": [
 			"A",
 			"E",
@@ -20703,6 +19483,8 @@
 			"D",
 			"A"
 		],
+		"type": 5,
+		"nationality": 2,
 		"data": {
 			"205011": {
 				"id": 205011,
@@ -20811,17 +19593,8 @@
 			"cn": "厌战",
 			"jp": "ウォースパイト",
 			"kr": "워스파이트",
-			"tw": "厌战"
+			"tw": "厭戰"
 		},
-		"type": 5,
-		"type_text": {
-			"en": "Battleship",
-			"cn": "战列",
-			"jp": "戦艦",
-			"kr": "전함",
-			"tw": "戰列"
-		},
-		"nationality": 2,
 		"property_hexagon": [
 			"S",
 			"E",
@@ -20830,6 +19603,8 @@
 			"D",
 			"A"
 		],
+		"type": 5,
+		"nationality": 2,
 		"data": {
 			"205021": {
 				"id": 205021,
@@ -20939,7 +19714,7 @@
 					"en": "Warspite Retrofit",
 					"cn": "厌战.改",
 					"jp": "ウォースパイト改",
-					"kr": "워스파이트·改 "
+					"kr": "워스파이트·改"
 				}
 			},
 			"900263": {
@@ -20963,10 +19738,6 @@
 					"asw": 0
 				},
 				"name": {
-					"en": "Warspite",
-					"cn": "厌战",
-					"jp": "ウォースパイト",
-					"kr": "워스파이트",
 					"tw": "厌战"
 				}
 			}
@@ -20983,15 +19754,6 @@
 			"kr": "넬슨",
 			"tw": "納爾遜"
 		},
-		"type": 5,
-		"type_text": {
-			"en": "Battleship",
-			"cn": "战列",
-			"jp": "戦艦",
-			"kr": "전함",
-			"tw": "戰列"
-		},
-		"nationality": 2,
 		"property_hexagon": [
 			"A",
 			"E",
@@ -21000,6 +19762,8 @@
 			"C",
 			"A"
 		],
+		"type": 5,
+		"nationality": 2,
 		"data": {
 			"205031": {
 				"id": 205031,
@@ -21096,17 +19860,8 @@
 			"cn": "罗德尼",
 			"jp": "ロドニー",
 			"kr": "로드니",
-			"tw": "罗德尼"
+			"tw": "羅德尼"
 		},
-		"type": 5,
-		"type_text": {
-			"en": "Battleship",
-			"cn": "战列",
-			"jp": "戦艦",
-			"kr": "전함",
-			"tw": "戰列"
-		},
-		"nationality": 2,
 		"property_hexagon": [
 			"A",
 			"E",
@@ -21115,6 +19870,8 @@
 			"C",
 			"A"
 		],
+		"type": 5,
+		"nationality": 2,
 		"data": {
 			"205041": {
 				"id": 205041,
@@ -21235,17 +19992,8 @@
 			"cn": "英王乔治五世",
 			"jp": "キング・ジョージ5世",
 			"kr": "킹 조지 5세",
-			"tw": "英王乔治五世"
+			"tw": "英王喬治五世"
 		},
-		"type": 5,
-		"type_text": {
-			"en": "Battleship",
-			"cn": "战列",
-			"jp": "戦艦",
-			"kr": "전함",
-			"tw": "戰列"
-		},
-		"nationality": 2,
 		"property_hexagon": [
 			"S",
 			"E",
@@ -21254,6 +20002,8 @@
 			"D",
 			"A"
 		],
+		"type": 5,
+		"nationality": 2,
 		"data": {
 			"205051": {
 				"id": 205051,
@@ -21375,7 +20125,6 @@
 					"asw": 0
 				},
 				"name": {
-					"kr": "킹 조지 5세",
 					"tw": "英王乔治五世"
 				}
 			}
@@ -21392,15 +20141,6 @@
 			"kr": "프린스 오브 웨일즈",
 			"tw": "威爾斯親王"
 		},
-		"type": 5,
-		"type_text": {
-			"en": "Battleship",
-			"cn": "战列",
-			"jp": "戦艦",
-			"kr": "전함",
-			"tw": "戰列"
-		},
-		"nationality": 2,
 		"property_hexagon": [
 			"S",
 			"E",
@@ -21409,6 +20149,8 @@
 			"D",
 			"A"
 		],
+		"type": 5,
+		"nationality": 2,
 		"data": {
 			"205061": {
 				"id": 205061,
@@ -21517,17 +20259,8 @@
 			"cn": "约克公爵",
 			"jp": "デューク・オブ・ヨーク",
 			"kr": "듀크 오브 요크",
-			"tw": "约克公爵"
+			"tw": "約克公爵"
 		},
-		"type": 5,
-		"type_text": {
-			"en": "Battleship",
-			"cn": "战列",
-			"jp": "戦艦",
-			"kr": "전함",
-			"tw": "戰列"
-		},
-		"nationality": 2,
 		"property_hexagon": [
 			"S",
 			"E",
@@ -21536,6 +20269,8 @@
 			"D",
 			"A"
 		],
+		"type": 5,
+		"nationality": 2,
 		"data": {
 			"205071": {
 				"id": 205071,
@@ -21672,13 +20407,6 @@
 			"jp": "ハウ",
 			"tw": "豪"
 		},
-		"type": 5,
-		"type_text": {
-			"en": "Battleship",
-			"cn": "战列",
-			"jp": "戦艦"
-		},
-		"nationality": 2,
 		"property_hexagon": [
 			"S",
 			"E",
@@ -21687,6 +20415,8 @@
 			"D",
 			"A"
 		],
+		"type": 5,
+		"nationality": 2,
 		"data": {
 			"205091": {
 				"id": 205091,
@@ -21821,14 +20551,6 @@
 			"kr": "밸리언트",
 			"tw": "英勇"
 		},
-		"type": 5,
-		"type_text": {
-			"en": "Battleship",
-			"cn": "战列",
-			"jp": "戦艦",
-			"kr": "전함"
-		},
-		"nationality": 2,
 		"property_hexagon": [
 			"A",
 			"E",
@@ -21837,6 +20559,8 @@
 			"D",
 			"A"
 		],
+		"type": 5,
+		"nationality": 2,
 		"data": {
 			"205101": {
 				"id": 205101,
@@ -21941,9 +20665,6 @@
 					"spd": 30,
 					"luk": 32,
 					"asw": 0
-				},
-				"name": {
-					"kr": "밸리언트"
 				}
 			}
 		},
@@ -21959,15 +20680,6 @@
 			"kr": "허미즈",
 			"tw": "競技神"
 		},
-		"type": 6,
-		"type_text": {
-			"en": "Light Carrier",
-			"cn": "轻航",
-			"jp": "軽母",
-			"kr": "경항모",
-			"tw": "輕航"
-		},
-		"nationality": 2,
 		"property_hexagon": [
 			"E",
 			"E",
@@ -21976,6 +20688,8 @@
 			"B",
 			"C"
 		],
+		"type": 6,
+		"nationality": 2,
 		"data": {
 			"206011": {
 				"id": 206011,
@@ -22074,15 +20788,6 @@
 			"kr": "유니콘",
 			"tw": "獨角獸"
 		},
-		"type": 6,
-		"type_text": {
-			"en": "Light Carrier",
-			"cn": "轻航",
-			"jp": "軽母",
-			"kr": "경항모",
-			"tw": "輕航"
-		},
-		"nationality": 2,
 		"property_hexagon": [
 			"E",
 			"E",
@@ -22091,6 +20796,8 @@
 			"B",
 			"C"
 		],
+		"type": 6,
+		"nationality": 2,
 		"data": {
 			"206031": {
 				"id": 206031,
@@ -22189,15 +20896,6 @@
 			"kr": "센토",
 			"tw": "半人馬"
 		},
-		"type": 6,
-		"type_text": {
-			"en": "Light Carrier",
-			"cn": "轻航",
-			"jp": "軽母",
-			"kr": "경항모",
-			"tw": "輕航"
-		},
-		"nationality": 2,
 		"property_hexagon": [
 			"E",
 			"E",
@@ -22206,6 +20904,8 @@
 			"B",
 			"S"
 		],
+		"type": 6,
+		"nationality": 2,
 		"data": {
 			"206041": {
 				"id": 206041,
@@ -22301,18 +21001,9 @@
 			"en": "Chaser",
 			"cn": "追赶者",
 			"jp": "チェイサー",
-			"kr": "체이서 ",
+			"kr": "체이서",
 			"tw": "追趕者"
 		},
-		"type": 6,
-		"type_text": {
-			"en": "Light Carrier",
-			"cn": "轻航",
-			"jp": "軽母",
-			"kr": "경항모",
-			"tw": "輕航"
-		},
-		"nationality": 2,
 		"property_hexagon": [
 			"E",
 			"E",
@@ -22321,6 +21012,8 @@
 			"B",
 			"B"
 		],
+		"type": 6,
+		"nationality": 2,
 		"data": {
 			"206051": {
 				"id": 206051,
@@ -22416,17 +21109,9 @@
 			"en": "Perseus",
 			"cn": "英仙座",
 			"jp": "パーシュース",
-			"kr": "체이서",
+			"kr": "퍼시어스",
 			"tw": "英仙座"
 		},
-		"type": 6,
-		"type_text": {
-			"en": "Light Carrier",
-			"cn": "轻航",
-			"jp": "軽母",
-			"kr": "경항모"
-		},
-		"nationality": 2,
 		"property_hexagon": [
 			"E",
 			"E",
@@ -22435,6 +21120,8 @@
 			"B",
 			"B"
 		],
+		"type": 6,
+		"nationality": 2,
 		"data": {
 			"206061": {
 				"id": 206061,
@@ -22557,14 +21244,6 @@
 			"kr": "이글",
 			"tw": "鹰"
 		},
-		"type": 7,
-		"type_text": {
-			"en": "Aircraft Carrier",
-			"cn": "正航",
-			"jp": "空母",
-			"kr": "항모"
-		},
-		"nationality": 2,
 		"property_hexagon": [
 			"D",
 			"E",
@@ -22573,6 +21252,8 @@
 			"B",
 			"B"
 		],
+		"type": 7,
+		"nationality": 2,
 		"data": {
 			"207011": {
 				"id": 207011,
@@ -22677,9 +21358,6 @@
 					"spd": 34.5,
 					"luk": 73,
 					"asw": 0
-				},
-				"name": {
-					"kr": "이글"
 				}
 			}
 		},
@@ -22695,15 +21373,6 @@
 			"kr": "아크 로열",
 			"tw": "皇家方舟"
 		},
-		"type": 7,
-		"type_text": {
-			"en": "Aircraft Carrier",
-			"cn": "正航",
-			"jp": "空母",
-			"kr": "항모",
-			"tw": "正航"
-		},
-		"nationality": 2,
 		"property_hexagon": [
 			"E",
 			"E",
@@ -22712,6 +21381,8 @@
 			"B",
 			"B"
 		],
+		"type": 7,
+		"nationality": 2,
 		"data": {
 			"207021": {
 				"id": 207021,
@@ -22829,17 +21500,8 @@
 			"cn": "光辉",
 			"jp": "イラストリアス",
 			"kr": "일러스트리어스",
-			"tw": "光辉"
+			"tw": "光輝"
 		},
-		"type": 7,
-		"type_text": {
-			"en": "Aircraft Carrier",
-			"cn": "正航",
-			"jp": "空母",
-			"kr": "항모",
-			"tw": "正航"
-		},
-		"nationality": 2,
 		"property_hexagon": [
 			"E",
 			"E",
@@ -22848,6 +21510,8 @@
 			"B",
 			"S"
 		],
+		"type": 7,
+		"nationality": 2,
 		"data": {
 			"207031": {
 				"id": 207031,
@@ -23010,17 +21674,8 @@
 			"cn": "胜利",
 			"jp": "ヴィクトリアス",
 			"kr": "빅토리어스",
-			"tw": "胜利"
+			"tw": "勝利"
 		},
-		"type": 7,
-		"type_text": {
-			"en": "Aircraft Carrier",
-			"cn": "正航",
-			"jp": "空母",
-			"kr": "항모",
-			"tw": "正航"
-		},
-		"nationality": 2,
 		"property_hexagon": [
 			"E",
 			"E",
@@ -23029,6 +21684,8 @@
 			"B",
 			"S"
 		],
+		"type": 7,
+		"nationality": 2,
 		"data": {
 			"207041": {
 				"id": 207041,
@@ -23151,14 +21808,6 @@
 			"kr": "포미더블",
 			"tw": "可畏"
 		},
-		"type": 7,
-		"type_text": {
-			"en": "Aircraft Carrier",
-			"cn": "正航",
-			"jp": "空母",
-			"kr": "항모"
-		},
-		"nationality": 2,
 		"property_hexagon": [
 			"E",
 			"E",
@@ -23167,6 +21816,8 @@
 			"B",
 			"S"
 		],
+		"type": 7,
+		"nationality": 2,
 		"data": {
 			"207051": {
 				"id": 207051,
@@ -23286,9 +21937,6 @@
 					"spd": 34.5,
 					"luk": 73,
 					"asw": 0
-				},
-				"name": {
-					"kr": "포미더블"
 				}
 			}
 		},
@@ -23304,15 +21952,6 @@
 			"kr": "글로리어스",
 			"tw": "光榮"
 		},
-		"type": 7,
-		"type_text": {
-			"en": "Aircraft Carrier",
-			"cn": "正航",
-			"jp": "空母",
-			"kr": "항모",
-			"tw": "正航"
-		},
-		"nationality": 2,
 		"property_hexagon": [
 			"E",
 			"E",
@@ -23321,6 +21960,8 @@
 			"B",
 			"A"
 		],
+		"type": 7,
+		"nationality": 2,
 		"data": {
 			"207061": {
 				"id": 207061,
@@ -23416,16 +22057,8 @@
 			"en": "Little Illustrious",
 			"cn": "小光辉",
 			"jp": "リトル・イラストリアス",
-			"kr": "꼬마 일러스트리어스 "
+			"kr": "꼬마 일러스트리어스"
 		},
-		"type": 7,
-		"type_text": {
-			"en": "Aircraft Carrier",
-			"cn": "正航",
-			"jp": "空母",
-			"kr": "항모"
-		},
-		"nationality": 2,
 		"property_hexagon": [
 			"E",
 			"E",
@@ -23434,6 +22067,8 @@
 			"B",
 			"B"
 		],
+		"type": 7,
+		"nationality": 2,
 		"data": {
 			"207091": {
 				"id": 207091,
@@ -23532,15 +22167,6 @@
 			"kr": "에레버스",
 			"tw": "黑暗界"
 		},
-		"type": 13,
-		"type_text": {
-			"en": "Monitor",
-			"cn": "重炮",
-			"jp": "砲艦",
-			"kr": "모니터",
-			"tw": "重炮"
-		},
-		"nationality": 2,
 		"property_hexagon": [
 			"B",
 			"E",
@@ -23549,6 +22175,8 @@
 			"D",
 			"C"
 		],
+		"type": 13,
+		"nationality": 2,
 		"data": {
 			"213011": {
 				"id": 213011,
@@ -23647,15 +22275,6 @@
 			"kr": "테러",
 			"tw": "恐怖"
 		},
-		"type": 13,
-		"type_text": {
-			"en": "Monitor",
-			"cn": "重炮",
-			"jp": "砲艦",
-			"kr": "모니터",
-			"tw": "重炮"
-		},
-		"nationality": 2,
 		"property_hexagon": [
 			"B",
 			"E",
@@ -23664,6 +22283,8 @@
 			"D",
 			"C"
 		],
+		"type": 13,
+		"nationality": 2,
 		"data": {
 			"213021": {
 				"id": 213021,
@@ -23759,18 +22380,9 @@
 			"en": "Abercrombie",
 			"cn": "阿贝克隆比",
 			"jp": "アバークロンビー",
-			"kr": "애버크롬비 ",
+			"kr": "애버크롬비",
 			"tw": "阿貝克隆比"
 		},
-		"type": 13,
-		"type_text": {
-			"en": "Monitor",
-			"cn": "重炮",
-			"jp": "砲艦",
-			"kr": "모니터",
-			"tw": "重炮"
-		},
-		"nationality": 2,
 		"property_hexagon": [
 			"B",
 			"E",
@@ -23779,6 +22391,8 @@
 			"D",
 			"C"
 		],
+		"type": 13,
+		"nationality": 2,
 		"data": {
 			"213041": {
 				"id": 213041,
@@ -23877,15 +22491,6 @@
 			"kr": "넵튠",
 			"tw": "海王星"
 		},
-		"type": 2,
-		"type_text": {
-			"en": "Light Cruiser",
-			"cn": "轻巡",
-			"jp": "軽巡",
-			"kr": "경순",
-			"tw": "輕巡"
-		},
-		"nationality": 2,
 		"property_hexagon": [
 			"B",
 			"A",
@@ -23894,6 +22499,8 @@
 			"A",
 			"B"
 		],
+		"type": 2,
+		"nationality": 2,
 		"data": {
 			"299011": {
 				"id": 299011,
@@ -23992,15 +22599,6 @@
 			"kr": "모나크",
 			"tw": "君主"
 		},
-		"type": 5,
-		"type_text": {
-			"en": "Battleship",
-			"cn": "战列",
-			"jp": "戦艦",
-			"kr": "전함",
-			"tw": "戰列"
-		},
-		"nationality": 2,
 		"property_hexagon": [
 			"S",
 			"E",
@@ -24009,6 +22607,8 @@
 			"D",
 			"S"
 		],
+		"type": 5,
+		"nationality": 2,
 		"data": {
 			"299021": {
 				"id": 299021,
@@ -24113,19 +22713,11 @@
 		"id": 29903,
 		"code": 20013,
 		"name": {
-			"en": "Kitakaze",
+			"en": "Cheshire",
 			"cn": "柴郡",
 			"jp": "チェシャー",
-			"kr": "키타카제 "
+			"kr": "체셔"
 		},
-		"type": 3,
-		"type_text": {
-			"en": "Heavy Cruiser",
-			"cn": "重巡",
-			"jp": "重巡",
-			"kr": "중순"
-		},
-		"nationality": 2,
 		"property_hexagon": [
 			"A",
 			"C",
@@ -24134,6 +22726,8 @@
 			"S",
 			"A"
 		],
+		"type": 3,
+		"nationality": 2,
 		"data": {
 			"299031": {
 				"id": 299031,
@@ -24241,7 +22835,7 @@
 				},
 				"name": {
 					"en": "Kitakaze",
-					"kr": "키타카제 "
+					"kr": "키타카제"
 				}
 			}
 		},
@@ -24251,19 +22845,11 @@
 		"id": 29904,
 		"code": 20014,
 		"name": {
-			"en": "Warspite Retrofit",
+			"en": "Drake",
 			"cn": "德雷克",
 			"jp": "ドレイク",
-			"kr": "德雷克"
+			"kr": "드레이크"
 		},
-		"type": 3,
-		"type_text": {
-			"en": "Heavy Cruiser",
-			"cn": "重巡",
-			"jp": "重巡",
-			"kr": "중순"
-		},
-		"nationality": 2,
 		"property_hexagon": [
 			"A",
 			"C",
@@ -24272,6 +22858,8 @@
 			"A",
 			"S"
 		],
+		"type": 3,
+		"nationality": 2,
 		"data": {
 			"299041": {
 				"id": 299041,
@@ -24395,15 +22983,6 @@
 			"kr": "후부키",
 			"tw": "吹雪"
 		},
-		"type": 1,
-		"type_text": {
-			"en": "Destroyer",
-			"cn": "驱逐",
-			"jp": "駆逐",
-			"kr": "구축",
-			"tw": "驅逐"
-		},
-		"nationality": 3,
 		"property_hexagon": [
 			"D",
 			"A",
@@ -24412,6 +22991,8 @@
 			"D",
 			"D"
 		],
+		"type": 1,
+		"nationality": 3,
 		"data": {
 			"301011": {
 				"id": 301011,
@@ -24520,17 +23101,8 @@
 			"cn": "绫波",
 			"jp": "綾波",
 			"kr": "아야나미",
-			"tw": "绫波"
+			"tw": "綾波"
 		},
-		"type": 1,
-		"type_text": {
-			"en": "Destroyer",
-			"cn": "驱逐",
-			"jp": "駆逐",
-			"kr": "구축",
-			"tw": "驅逐"
-		},
-		"nationality": 3,
 		"property_hexagon": [
 			"D",
 			"A",
@@ -24539,6 +23111,8 @@
 			"D",
 			"D"
 		],
+		"type": 1,
+		"nationality": 3,
 		"data": {
 			"301051": {
 				"id": 301051,
@@ -24699,15 +23273,6 @@
 			"kr": "아카츠키",
 			"tw": "曉"
 		},
-		"type": 1,
-		"type_text": {
-			"en": "Destroyer",
-			"cn": "驱逐",
-			"jp": "駆逐",
-			"kr": "구축",
-			"tw": "驅逐"
-		},
-		"nationality": 3,
 		"property_hexagon": [
 			"D",
 			"A",
@@ -24716,6 +23281,8 @@
 			"D",
 			"D"
 		],
+		"type": 1,
+		"nationality": 3,
 		"data": {
 			"301091": {
 				"id": 301091,
@@ -24827,16 +23394,8 @@
 			"en": "Hibiki",
 			"cn": "响",
 			"jp": "響",
-			"kr": "히비키 "
+			"kr": "히비키"
 		},
-		"type": 1,
-		"type_text": {
-			"en": "Destroyer",
-			"cn": "驱逐",
-			"jp": "駆逐",
-			"kr": "구축"
-		},
-		"nationality": 3,
 		"property_hexagon": [
 			"D",
 			"A",
@@ -24845,6 +23404,8 @@
 			"D",
 			"D"
 		],
+		"type": 1,
+		"nationality": 3,
 		"data": {
 			"301101": {
 				"id": 301101,
@@ -24959,15 +23520,6 @@
 			"kr": "이카즈치",
 			"tw": "雷"
 		},
-		"type": 1,
-		"type_text": {
-			"en": "Destroyer",
-			"cn": "驱逐",
-			"jp": "駆逐",
-			"kr": "구축",
-			"tw": "驅逐"
-		},
-		"nationality": 3,
 		"property_hexagon": [
 			"D",
 			"A",
@@ -24976,6 +23528,8 @@
 			"D",
 			"D"
 		],
+		"type": 1,
+		"nationality": 3,
 		"data": {
 			"301111": {
 				"id": 301111,
@@ -25111,15 +23665,6 @@
 			"kr": "이나즈마",
 			"tw": "電"
 		},
-		"type": 1,
-		"type_text": {
-			"en": "Destroyer",
-			"cn": "驱逐",
-			"jp": "駆逐",
-			"kr": "구축",
-			"tw": "驅逐"
-		},
-		"nationality": 3,
 		"property_hexagon": [
 			"D",
 			"A",
@@ -25128,6 +23673,8 @@
 			"D",
 			"D"
 		],
+		"type": 1,
+		"nationality": 3,
 		"data": {
 			"301121": {
 				"id": 301121,
@@ -25263,15 +23810,6 @@
 			"kr": "시라츠유",
 			"tw": "白露"
 		},
-		"type": 1,
-		"type_text": {
-			"en": "Destroyer",
-			"cn": "驱逐",
-			"jp": "駆逐",
-			"kr": "구축",
-			"tw": "驅逐"
-		},
-		"nationality": 3,
 		"property_hexagon": [
 			"D",
 			"A",
@@ -25280,6 +23818,8 @@
 			"D",
 			"D"
 		],
+		"type": 1,
+		"nationality": 3,
 		"data": {
 			"301131": {
 				"id": 301131,
@@ -25378,15 +23918,6 @@
 			"kr": "유다치",
 			"tw": "夕立"
 		},
-		"type": 1,
-		"type_text": {
-			"en": "Destroyer",
-			"cn": "驱逐",
-			"jp": "駆逐",
-			"kr": "구축",
-			"tw": "驅逐"
-		},
-		"nationality": 3,
 		"property_hexagon": [
 			"C",
 			"S",
@@ -25395,6 +23926,8 @@
 			"D",
 			"D"
 		],
+		"type": 1,
+		"nationality": 3,
 		"data": {
 			"301141": {
 				"id": 301141,
@@ -25493,15 +24026,6 @@
 			"kr": "시구레",
 			"tw": "時雨"
 		},
-		"type": 1,
-		"type_text": {
-			"en": "Destroyer",
-			"cn": "驱逐",
-			"jp": "駆逐",
-			"kr": "구축",
-			"tw": "驅逐"
-		},
-		"nationality": 3,
 		"property_hexagon": [
 			"D",
 			"A",
@@ -25510,6 +24034,8 @@
 			"D",
 			"D"
 		],
+		"type": 1,
+		"nationality": 3,
 		"data": {
 			"301151": {
 				"id": 301151,
@@ -25605,18 +24131,9 @@
 			"en": "Yukikaze",
 			"cn": "雪风",
 			"jp": "雪風",
-			"kr": "유키카제 ",
+			"kr": "유키카제",
 			"tw": "雪風"
 		},
-		"type": 1,
-		"type_text": {
-			"en": "Destroyer",
-			"cn": "驱逐",
-			"jp": "駆逐",
-			"kr": "구축",
-			"tw": "驅逐"
-		},
-		"nationality": 3,
 		"property_hexagon": [
 			"D",
 			"A",
@@ -25625,6 +24142,8 @@
 			"D",
 			"C"
 		],
+		"type": 1,
+		"nationality": 3,
 		"data": {
 			"301161": {
 				"id": 301161,
@@ -25735,15 +24254,6 @@
 			"kr": "카게로",
 			"tw": "陽炎"
 		},
-		"type": 1,
-		"type_text": {
-			"en": "Destroyer",
-			"cn": "驱逐",
-			"jp": "駆逐",
-			"kr": "구축",
-			"tw": "驅逐"
-		},
-		"nationality": 3,
 		"property_hexagon": [
 			"D",
 			"A",
@@ -25752,6 +24262,8 @@
 			"D",
 			"D"
 		],
+		"type": 1,
+		"nationality": 3,
 		"data": {
 			"301171": {
 				"id": 301171,
@@ -25850,15 +24362,6 @@
 			"kr": "시라누이",
 			"tw": "不知火"
 		},
-		"type": 1,
-		"type_text": {
-			"en": "Destroyer",
-			"cn": "驱逐",
-			"jp": "駆逐",
-			"kr": "구축",
-			"tw": "驅逐"
-		},
-		"nationality": 3,
 		"property_hexagon": [
 			"D",
 			"A",
@@ -25867,6 +24370,8 @@
 			"D",
 			"D"
 		],
+		"type": 1,
+		"nationality": 3,
 		"data": {
 			"301181": {
 				"id": 301181,
@@ -25977,15 +24482,6 @@
 			"kr": "노와키",
 			"tw": "野分"
 		},
-		"type": 1,
-		"type_text": {
-			"en": "Destroyer",
-			"cn": "驱逐",
-			"jp": "駆逐",
-			"kr": "구축",
-			"tw": "驅逐"
-		},
-		"nationality": 3,
 		"property_hexagon": [
 			"D",
 			"A",
@@ -25994,6 +24490,8 @@
 			"D",
 			"D"
 		],
+		"type": 1,
+		"nationality": 3,
 		"data": {
 			"301201": {
 				"id": 301201,
@@ -26092,15 +24590,6 @@
 			"kr": "하츠하루",
 			"tw": "初春"
 		},
-		"type": 1,
-		"type_text": {
-			"en": "Destroyer",
-			"cn": "驱逐",
-			"jp": "駆逐",
-			"kr": "구축",
-			"tw": "驅逐"
-		},
-		"nationality": 3,
 		"property_hexagon": [
 			"D",
 			"A",
@@ -26109,6 +24598,8 @@
 			"D",
 			"D"
 		],
+		"type": 1,
+		"nationality": 3,
 		"data": {
 			"301211": {
 				"id": 301211,
@@ -26207,15 +24698,6 @@
 			"kr": "와카바",
 			"tw": "若葉"
 		},
-		"type": 1,
-		"type_text": {
-			"en": "Destroyer",
-			"cn": "驱逐",
-			"jp": "駆逐",
-			"kr": "구축",
-			"tw": "驅逐"
-		},
-		"nationality": 3,
 		"property_hexagon": [
 			"D",
 			"A",
@@ -26224,6 +24706,8 @@
 			"D",
 			"D"
 		],
+		"type": 1,
+		"nationality": 3,
 		"data": {
 			"301231": {
 				"id": 301231,
@@ -26322,15 +24806,6 @@
 			"kr": "하츠시모",
 			"tw": "初霜"
 		},
-		"type": 1,
-		"type_text": {
-			"en": "Destroyer",
-			"cn": "驱逐",
-			"jp": "駆逐",
-			"kr": "구축",
-			"tw": "驅逐"
-		},
-		"nationality": 3,
 		"property_hexagon": [
 			"D",
 			"A",
@@ -26339,6 +24814,8 @@
 			"D",
 			"D"
 		],
+		"type": 1,
+		"nationality": 3,
 		"data": {
 			"301241": {
 				"id": 301241,
@@ -26437,15 +24914,6 @@
 			"kr": "아리아케",
 			"tw": "有明"
 		},
-		"type": 1,
-		"type_text": {
-			"en": "Destroyer",
-			"cn": "驱逐",
-			"jp": "駆逐",
-			"kr": "구축",
-			"tw": "驅逐"
-		},
-		"nationality": 3,
 		"property_hexagon": [
 			"D",
 			"A",
@@ -26454,6 +24922,8 @@
 			"D",
 			"D"
 		],
+		"type": 1,
+		"nationality": 3,
 		"data": {
 			"301251": {
 				"id": 301251,
@@ -26552,15 +25022,6 @@
 			"kr": "유구레",
 			"tw": "夕暮"
 		},
-		"type": 1,
-		"type_text": {
-			"en": "Destroyer",
-			"cn": "驱逐",
-			"jp": "駆逐",
-			"kr": "구축",
-			"tw": "驅逐"
-		},
-		"nationality": 3,
 		"property_hexagon": [
 			"D",
 			"A",
@@ -26569,6 +25030,8 @@
 			"D",
 			"D"
 		],
+		"type": 1,
+		"nationality": 3,
 		"data": {
 			"301261": {
 				"id": 301261,
@@ -26667,15 +25130,6 @@
 			"kr": "쿠로시오",
 			"tw": "黑潮"
 		},
-		"type": 1,
-		"type_text": {
-			"en": "Destroyer",
-			"cn": "驱逐",
-			"jp": "駆逐",
-			"kr": "구축",
-			"tw": "驅逐"
-		},
-		"nationality": 3,
 		"property_hexagon": [
 			"D",
 			"A",
@@ -26684,6 +25138,8 @@
 			"D",
 			"D"
 		],
+		"type": 1,
+		"nationality": 3,
 		"data": {
 			"301271": {
 				"id": 301271,
@@ -26782,15 +25238,6 @@
 			"kr": "오야시오",
 			"tw": "親潮"
 		},
-		"type": 1,
-		"type_text": {
-			"en": "Destroyer",
-			"cn": "驱逐",
-			"jp": "駆逐",
-			"kr": "구축",
-			"tw": "驅逐"
-		},
-		"nationality": 3,
 		"property_hexagon": [
 			"D",
 			"A",
@@ -26799,6 +25246,8 @@
 			"D",
 			"D"
 		],
+		"type": 1,
+		"nationality": 3,
 		"data": {
 			"301281": {
 				"id": 301281,
@@ -26897,15 +25346,6 @@
 			"kr": "카미카제",
 			"tw": "神風"
 		},
-		"type": 1,
-		"type_text": {
-			"en": "Destroyer",
-			"cn": "驱逐",
-			"jp": "駆逐",
-			"kr": "구축",
-			"tw": "驅逐"
-		},
-		"nationality": 3,
 		"property_hexagon": [
 			"D",
 			"B",
@@ -26914,6 +25354,8 @@
 			"D",
 			"D"
 		],
+		"type": 1,
+		"nationality": 3,
 		"data": {
 			"301301": {
 				"id": 301301,
@@ -27012,15 +25454,6 @@
 			"kr": "마츠카제",
 			"tw": "松風"
 		},
-		"type": 1,
-		"type_text": {
-			"en": "Destroyer",
-			"cn": "驱逐",
-			"jp": "駆逐",
-			"kr": "구축",
-			"tw": "驅逐"
-		},
-		"nationality": 3,
 		"property_hexagon": [
 			"D",
 			"B",
@@ -27029,6 +25462,8 @@
 			"D",
 			"D"
 		],
+		"type": 1,
+		"nationality": 3,
 		"data": {
 			"301311": {
 				"id": 301311,
@@ -27127,15 +25562,6 @@
 			"kr": "무츠키",
 			"tw": "睦月"
 		},
-		"type": 1,
-		"type_text": {
-			"en": "Destroyer",
-			"cn": "驱逐",
-			"jp": "駆逐",
-			"kr": "구축",
-			"tw": "驅逐"
-		},
-		"nationality": 3,
 		"property_hexagon": [
 			"D",
 			"A",
@@ -27144,6 +25570,8 @@
 			"D",
 			"D"
 		],
+		"type": 1,
+		"nationality": 3,
 		"data": {
 			"301321": {
 				"id": 301321,
@@ -27242,15 +25670,6 @@
 			"kr": "키사라기",
 			"tw": "如月"
 		},
-		"type": 1,
-		"type_text": {
-			"en": "Destroyer",
-			"cn": "驱逐",
-			"jp": "駆逐",
-			"kr": "구축",
-			"tw": "驅逐"
-		},
-		"nationality": 3,
 		"property_hexagon": [
 			"D",
 			"A",
@@ -27259,6 +25678,8 @@
 			"D",
 			"D"
 		],
+		"type": 1,
+		"nationality": 3,
 		"data": {
 			"301331": {
 				"id": 301331,
@@ -27357,15 +25778,6 @@
 			"kr": "우즈키",
 			"tw": "卯月"
 		},
-		"type": 1,
-		"type_text": {
-			"en": "Destroyer",
-			"cn": "驱逐",
-			"jp": "駆逐",
-			"kr": "구축",
-			"tw": "驅逐"
-		},
-		"nationality": 3,
 		"property_hexagon": [
 			"D",
 			"A",
@@ -27374,6 +25786,8 @@
 			"D",
 			"D"
 		],
+		"type": 1,
+		"nationality": 3,
 		"data": {
 			"301351": {
 				"id": 301351,
@@ -27472,15 +25886,6 @@
 			"kr": "미나즈키",
 			"tw": "水無月"
 		},
-		"type": 1,
-		"type_text": {
-			"en": "Destroyer",
-			"cn": "驱逐",
-			"jp": "駆逐",
-			"kr": "구축",
-			"tw": "驅逐"
-		},
-		"nationality": 3,
 		"property_hexagon": [
 			"D",
 			"A",
@@ -27489,6 +25894,8 @@
 			"D",
 			"D"
 		],
+		"type": 1,
+		"nationality": 3,
 		"data": {
 			"301371": {
 				"id": 301371,
@@ -27584,18 +25991,9 @@
 			"en": "Fumizuki",
 			"cn": "文月",
 			"jp": "文月",
-			"kr": "후미즈키 ",
+			"kr": "후미즈키",
 			"tw": "文月"
 		},
-		"type": 1,
-		"type_text": {
-			"en": "Destroyer",
-			"cn": "驱逐",
-			"jp": "駆逐",
-			"kr": "구축",
-			"tw": "驅逐"
-		},
-		"nationality": 3,
 		"property_hexagon": [
 			"D",
 			"A",
@@ -27604,6 +26002,8 @@
 			"D",
 			"D"
 		],
+		"type": 1,
+		"nationality": 3,
 		"data": {
 			"301381": {
 				"id": 301381,
@@ -27699,16 +26099,8 @@
 			"en": "Nagatsuki",
 			"cn": "长月",
 			"jp": "長月",
-			"kr": "나가츠키 "
+			"kr": "나가츠키"
 		},
-		"type": 1,
-		"type_text": {
-			"en": "Destroyer",
-			"cn": "驱逐",
-			"jp": "駆逐",
-			"kr": "구축"
-		},
-		"nationality": 3,
 		"property_hexagon": [
 			"D",
 			"A",
@@ -27717,6 +26109,8 @@
 			"D",
 			"D"
 		],
+		"type": 1,
+		"nationality": 3,
 		"data": {
 			"301391": {
 				"id": 301391,
@@ -27815,15 +26209,6 @@
 			"kr": "미카즈키",
 			"tw": "三日月"
 		},
-		"type": 1,
-		"type_text": {
-			"en": "Destroyer",
-			"cn": "驱逐",
-			"jp": "駆逐",
-			"kr": "구축",
-			"tw": "驅逐"
-		},
-		"nationality": 3,
 		"property_hexagon": [
 			"D",
 			"A",
@@ -27832,6 +26217,8 @@
 			"D",
 			"D"
 		],
+		"type": 1,
+		"nationality": 3,
 		"data": {
 			"301411": {
 				"id": 301411,
@@ -27927,18 +26314,9 @@
 			"en": "Kawakaze",
 			"cn": "江风",
 			"jp": "江風",
-			"kr": "카와카제 ",
+			"kr": "카와카제",
 			"tw": "江風"
 		},
-		"type": 1,
-		"type_text": {
-			"en": "Destroyer",
-			"cn": "驱逐",
-			"jp": "駆逐",
-			"kr": "구축",
-			"tw": "驅逐"
-		},
-		"nationality": 3,
 		"property_hexagon": [
 			"C",
 			"S",
@@ -27947,6 +26325,8 @@
 			"D",
 			"D"
 		],
+		"type": 1,
+		"nationality": 3,
 		"data": {
 			"301491": {
 				"id": 301491,
@@ -28042,16 +26422,8 @@
 			"en": "Kiyonami",
 			"cn": "清波",
 			"jp": "清波",
-			"kr": "키요나미 "
+			"kr": "키요나미"
 		},
-		"type": 1,
-		"type_text": {
-			"en": "Destroyer",
-			"cn": "驱逐",
-			"jp": "駆逐",
-			"kr": "구축"
-		},
-		"nationality": 3,
 		"property_hexagon": [
 			"D",
 			"A",
@@ -28060,6 +26432,8 @@
 			"D",
 			"C"
 		],
+		"type": 1,
+		"nationality": 3,
 		"data": {
 			"301541": {
 				"id": 301541,
@@ -28158,15 +26532,6 @@
 			"kr": "니이즈키",
 			"tw": "新月"
 		},
-		"type": 1,
-		"type_text": {
-			"en": "Destroyer",
-			"cn": "驱逐",
-			"jp": "駆逐",
-			"kr": "구축",
-			"tw": "驅逐"
-		},
-		"nationality": 3,
 		"property_hexagon": [
 			"C",
 			"B",
@@ -28175,6 +26540,8 @@
 			"B",
 			"C"
 		],
+		"type": 1,
+		"nationality": 3,
 		"data": {
 			"301561": {
 				"id": 301561,
@@ -28270,18 +26637,9 @@
 			"en": "Harutsuki",
 			"cn": "春月",
 			"jp": "春月",
-			"kr": "하루츠키 ",
+			"kr": "하루츠키",
 			"tw": "春月"
 		},
-		"type": 1,
-		"type_text": {
-			"en": "Destroyer",
-			"cn": "驱逐",
-			"jp": "駆逐",
-			"kr": "구축",
-			"tw": "驅逐"
-		},
-		"nationality": 3,
 		"property_hexagon": [
 			"C",
 			"B",
@@ -28290,6 +26648,8 @@
 			"B",
 			"C"
 		],
+		"type": 1,
+		"nationality": 3,
 		"data": {
 			"301571": {
 				"id": 301571,
@@ -28385,18 +26745,9 @@
 			"en": "Yoizuki",
 			"cn": "宵月",
 			"jp": "宵月",
-			"kr": "요이즈키 ",
+			"kr": "요이즈키",
 			"tw": "宵月"
 		},
-		"type": 1,
-		"type_text": {
-			"en": "Destroyer",
-			"cn": "驱逐",
-			"jp": "駆逐",
-			"kr": "구축",
-			"tw": "驅逐"
-		},
-		"nationality": 3,
 		"property_hexagon": [
 			"C",
 			"B",
@@ -28405,6 +26756,8 @@
 			"B",
 			"C"
 		],
+		"type": 1,
+		"nationality": 3,
 		"data": {
 			"301581": {
 				"id": 301581,
@@ -28500,18 +26853,9 @@
 			"en": "Urakaze",
 			"cn": "浦风",
 			"jp": "浦風",
-			"kr": "우라카제 ",
+			"kr": "우라카제",
 			"tw": "浦風"
 		},
-		"type": 1,
-		"type_text": {
-			"en": "Destroyer",
-			"cn": "驱逐",
-			"jp": "駆逐",
-			"kr": "구축",
-			"tw": "驅逐"
-		},
-		"nationality": 3,
 		"property_hexagon": [
 			"D",
 			"A",
@@ -28520,6 +26864,8 @@
 			"D",
 			"D"
 		],
+		"type": 1,
+		"nationality": 3,
 		"data": {
 			"301591": {
 				"id": 301591,
@@ -28615,18 +26961,9 @@
 			"en": "Isokaze",
 			"cn": "矶风",
 			"jp": "磯風",
-			"kr": "이소카제 ",
+			"kr": "이소카제",
 			"tw": "磯風"
 		},
-		"type": 1,
-		"type_text": {
-			"en": "Destroyer",
-			"cn": "驱逐",
-			"jp": "駆逐",
-			"kr": "구축",
-			"tw": "驅逐"
-		},
-		"nationality": 3,
 		"property_hexagon": [
 			"D",
 			"A",
@@ -28635,6 +26972,8 @@
 			"D",
 			"D"
 		],
+		"type": 1,
+		"nationality": 3,
 		"data": {
 			"301601": {
 				"id": 301601,
@@ -28730,18 +27069,9 @@
 			"en": "Hamakaze",
 			"cn": "滨风",
 			"jp": "浜風",
-			"kr": "하마카제 ",
+			"kr": "하마카제",
 			"tw": "濱風"
 		},
-		"type": 1,
-		"type_text": {
-			"en": "Destroyer",
-			"cn": "驱逐",
-			"jp": "駆逐",
-			"kr": "구축",
-			"tw": "驅逐"
-		},
-		"nationality": 3,
 		"property_hexagon": [
 			"D",
 			"A",
@@ -28750,6 +27080,8 @@
 			"D",
 			"D"
 		],
+		"type": 1,
+		"nationality": 3,
 		"data": {
 			"301611": {
 				"id": 301611,
@@ -28848,15 +27180,6 @@
 			"kr": "타니카제",
 			"tw": "谷風"
 		},
-		"type": 1,
-		"type_text": {
-			"en": "Destroyer",
-			"cn": "驱逐",
-			"jp": "駆逐",
-			"kr": "구축",
-			"tw": "驅逐"
-		},
-		"nationality": 3,
 		"property_hexagon": [
 			"D",
 			"A",
@@ -28865,6 +27188,8 @@
 			"D",
 			"D"
 		],
+		"type": 1,
+		"nationality": 3,
 		"data": {
 			"301621": {
 				"id": 301621,
@@ -28960,18 +27285,9 @@
 			"en": "Asashio",
 			"cn": "朝潮",
 			"jp": "朝潮",
-			"kr": "아사시오 ",
+			"kr": "아사시오",
 			"tw": "朝潮"
 		},
-		"type": 1,
-		"type_text": {
-			"en": "Destroyer",
-			"cn": "驱逐",
-			"jp": "駆逐",
-			"kr": "구축",
-			"tw": "驅逐"
-		},
-		"nationality": 3,
 		"property_hexagon": [
 			"D",
 			"A",
@@ -28980,6 +27296,8 @@
 			"D",
 			"D"
 		],
+		"type": 1,
+		"nationality": 3,
 		"data": {
 			"301631": {
 				"id": 301631,
@@ -29087,18 +27405,9 @@
 			"en": "Ooshio",
 			"cn": "大潮",
 			"jp": "大潮",
-			"kr": "오오시오 ",
+			"kr": "오오시오",
 			"tw": "大潮"
 		},
-		"type": 1,
-		"type_text": {
-			"en": "Destroyer",
-			"cn": "驱逐",
-			"jp": "駆逐",
-			"kr": "구축",
-			"tw": "驅逐"
-		},
-		"nationality": 3,
 		"property_hexagon": [
 			"D",
 			"A",
@@ -29107,6 +27416,8 @@
 			"D",
 			"D"
 		],
+		"type": 1,
+		"nationality": 3,
 		"data": {
 			"301641": {
 				"id": 301641,
@@ -29217,15 +27528,6 @@
 			"kr": "미치시오",
 			"tw": "滿潮"
 		},
-		"type": 1,
-		"type_text": {
-			"en": "Destroyer",
-			"cn": "驱逐",
-			"jp": "駆逐",
-			"kr": "구축",
-			"tw": "驅逐"
-		},
-		"nationality": 3,
 		"property_hexagon": [
 			"D",
 			"A",
@@ -29234,6 +27536,8 @@
 			"D",
 			"D"
 		],
+		"type": 1,
+		"nationality": 3,
 		"data": {
 			"301651": {
 				"id": 301651,
@@ -29341,16 +27645,8 @@
 			"en": "Arashio",
 			"cn": "荒潮",
 			"jp": "荒潮",
-			"kr": "아라시오 "
+			"kr": "아라시오"
 		},
-		"type": 1,
-		"type_text": {
-			"en": "Destroyer",
-			"cn": "驱逐",
-			"jp": "駆逐",
-			"kr": "구축"
-		},
-		"nationality": 3,
 		"property_hexagon": [
 			"D",
 			"A",
@@ -29359,6 +27655,8 @@
 			"D",
 			"D"
 		],
+		"type": 1,
+		"nationality": 3,
 		"data": {
 			"301661": {
 				"id": 301661,
@@ -29466,16 +27764,8 @@
 			"en": "Uranami",
 			"cn": "浦波",
 			"jp": "浦波",
-			"kr": "우라나미 "
+			"kr": "우라나미"
 		},
-		"type": 1,
-		"type_text": {
-			"en": "Destroyer",
-			"cn": "驱逐",
-			"jp": "駆逐",
-			"kr": "구축"
-		},
-		"nationality": 3,
 		"property_hexagon": [
 			"D",
 			"A",
@@ -29484,6 +27774,8 @@
 			"D",
 			"D"
 		],
+		"type": 1,
+		"nationality": 3,
 		"data": {
 			"301721": {
 				"id": 301721,
@@ -29591,18 +27883,9 @@
 			"en": "Hatakaze",
 			"cn": "旗风",
 			"jp": "旗風",
-			"kr": "하타카제 ",
+			"kr": "하타카제",
 			"tw": "旗風"
 		},
-		"type": 1,
-		"type_text": {
-			"en": "Destroyer",
-			"cn": "驱逐",
-			"jp": "駆逐",
-			"kr": "구축",
-			"tw": "驅逐"
-		},
-		"nationality": 3,
 		"property_hexagon": [
 			"D",
 			"B",
@@ -29611,6 +27894,8 @@
 			"D",
 			"D"
 		],
+		"type": 1,
+		"nationality": 3,
 		"data": {
 			"301791": {
 				"id": 301791,
@@ -29706,18 +27991,9 @@
 			"en": "Makinami",
 			"cn": "卷波",
 			"jp": "巻波",
-			"kr": "마키나미 ",
+			"kr": "마키나미",
 			"tw": "卷波"
 		},
-		"type": 1,
-		"type_text": {
-			"en": "Destroyer",
-			"cn": "驱逐",
-			"jp": "駆逐",
-			"kr": "구축",
-			"tw": "驅逐"
-		},
-		"nationality": 3,
 		"property_hexagon": [
 			"D",
 			"A",
@@ -29726,6 +28002,8 @@
 			"D",
 			"C"
 		],
+		"type": 1,
+		"nationality": 3,
 		"data": {
 			"301801": {
 				"id": 301801,
@@ -29821,16 +28099,8 @@
 			"en": "Kasumi",
 			"cn": "霞",
 			"jp": "霞",
-			"kr": "카스미 "
+			"kr": "카스미"
 		},
-		"type": 1,
-		"type_text": {
-			"en": "Destroyer",
-			"cn": "驱逐",
-			"jp": "駆逐",
-			"kr": "구축"
-		},
-		"nationality": 3,
 		"property_hexagon": [
 			"D",
 			"A",
@@ -29839,6 +28109,8 @@
 			"D",
 			"C"
 		],
+		"type": 1,
+		"nationality": 3,
 		"data": {
 			"301811": {
 				"id": 301811,
@@ -29946,16 +28218,8 @@
 			"en": "Hanazuki",
 			"cn": "花月",
 			"jp": "花月",
-			"kr": "하나즈키 "
+			"kr": "하나즈키"
 		},
-		"type": 1,
-		"type_text": {
-			"en": "Destroyer",
-			"cn": "驱逐",
-			"jp": "駆逐",
-			"kr": "구축"
-		},
-		"nationality": 3,
 		"property_hexagon": [
 			"C",
 			"B",
@@ -29964,6 +28228,8 @@
 			"B",
 			"C"
 		],
+		"type": 1,
+		"nationality": 3,
 		"data": {
 			"301821": {
 				"id": 301821,
@@ -30059,16 +28325,8 @@
 			"en": "Naganami",
 			"cn": "长波",
 			"jp": "長波",
-			"kr": "나가나미 "
+			"kr": "나가나미"
 		},
-		"type": 1,
-		"type_text": {
-			"en": "Destroyer",
-			"cn": "驱逐",
-			"jp": "駆逐",
-			"kr": "구축"
-		},
-		"nationality": 3,
 		"property_hexagon": [
 			"D",
 			"A",
@@ -30077,6 +28335,8 @@
 			"D",
 			"C"
 		],
+		"type": 1,
+		"nationality": 3,
 		"data": {
 			"301831": {
 				"id": 301831,
@@ -30169,19 +28429,11 @@
 		"id": 30184,
 		"code": 468,
 		"name": {
-			"en": "Suzutsuki ",
+			"en": "Suzutsuki",
 			"cn": "凉月",
 			"jp": "涼月",
 			"kr": "스즈츠키"
 		},
-		"type": 1,
-		"type_text": {
-			"en": "Destroyer",
-			"cn": "驱逐",
-			"jp": "駆逐",
-			"kr": "구축"
-		},
-		"nationality": 3,
 		"property_hexagon": [
 			"C",
 			"B",
@@ -30190,6 +28442,8 @@
 			"B",
 			"C"
 		],
+		"type": 1,
+		"nationality": 3,
 		"data": {
 			"301841": {
 				"id": 301841,
@@ -30288,15 +28542,6 @@
 			"kr": "유바리",
 			"tw": "夕張"
 		},
-		"type": 2,
-		"type_text": {
-			"en": "Light Cruiser",
-			"cn": "轻巡",
-			"jp": "軽巡",
-			"kr": "경순",
-			"tw": "輕巡"
-		},
-		"nationality": 3,
 		"property_hexagon": [
 			"C",
 			"B",
@@ -30305,6 +28550,8 @@
 			"B",
 			"C"
 		],
+		"type": 2,
+		"nationality": 3,
 		"data": {
 			"302011": {
 				"id": 302011,
@@ -30403,15 +28650,6 @@
 			"kr": "나가라",
 			"tw": "長良"
 		},
-		"type": 2,
-		"type_text": {
-			"en": "Light Cruiser",
-			"cn": "轻巡",
-			"jp": "軽巡",
-			"kr": "경순",
-			"tw": "輕巡"
-		},
-		"nationality": 3,
 		"property_hexagon": [
 			"C",
 			"B",
@@ -30420,6 +28658,8 @@
 			"B",
 			"C"
 		],
+		"type": 2,
+		"nationality": 3,
 		"data": {
 			"302041": {
 				"id": 302041,
@@ -30518,15 +28758,6 @@
 			"kr": "이스즈",
 			"tw": "五十鈴"
 		},
-		"type": 2,
-		"type_text": {
-			"en": "Light Cruiser",
-			"cn": "轻巡",
-			"jp": "軽巡",
-			"kr": "경순",
-			"tw": "輕巡"
-		},
-		"nationality": 3,
 		"property_hexagon": [
 			"C",
 			"C",
@@ -30535,6 +28766,8 @@
 			"A",
 			"C"
 		],
+		"type": 2,
+		"nationality": 3,
 		"data": {
 			"302051": {
 				"id": 302051,
@@ -30630,16 +28863,8 @@
 			"en": "Kinu",
 			"cn": "鬼怒",
 			"jp": "鬼怒",
-			"kr": "키누 "
+			"kr": "키누"
 		},
-		"type": 2,
-		"type_text": {
-			"en": "Light Cruiser",
-			"cn": "轻巡",
-			"jp": "軽巡",
-			"kr": "경순"
-		},
-		"nationality": 3,
 		"property_hexagon": [
 			"C",
 			"B",
@@ -30648,6 +28873,8 @@
 			"B",
 			"C"
 		],
+		"type": 2,
+		"nationality": 3,
 		"data": {
 			"302081": {
 				"id": 302081,
@@ -30746,15 +28973,6 @@
 			"kr": "아부쿠마",
 			"tw": "阿武隈"
 		},
-		"type": 2,
-		"type_text": {
-			"en": "Light Cruiser",
-			"cn": "轻巡",
-			"jp": "軽巡",
-			"kr": "경순",
-			"tw": "輕巡"
-		},
-		"nationality": 3,
 		"property_hexagon": [
 			"C",
 			"B",
@@ -30763,6 +28981,8 @@
 			"B",
 			"C"
 		],
+		"type": 2,
+		"nationality": 3,
 		"data": {
 			"302091": {
 				"id": 302091,
@@ -30855,21 +29075,12 @@
 		"id": 30210,
 		"code": 188,
 		"name": {
-			"en": "Mogami Retrofit",
-			"cn": "最上.改",
-			"jp": "最上改",
-			"kr": "모가미 .改",
-			"tw": "最上.改"
+			"en": "Mogami",
+			"cn": "最上",
+			"jp": "最上",
+			"kr": "모가미",
+			"tw": "最上"
 		},
-		"type": 2,
-		"type_text": {
-			"en": "Light Cruiser",
-			"cn": "轻巡",
-			"jp": "軽巡",
-			"kr": "경순",
-			"tw": "輕巡"
-		},
-		"nationality": 3,
 		"property_hexagon": [
 			"B",
 			"C",
@@ -30878,6 +29089,8 @@
 			"C",
 			"A"
 		],
+		"type": 2,
+		"nationality": 3,
 		"data": {
 			"302101": {
 				"id": 302101,
@@ -31001,18 +29214,9 @@
 			"en": "Mikuma",
 			"cn": "三隈",
 			"jp": "三隈",
-			"kr": "미쿠마 ",
+			"kr": "미쿠마",
 			"tw": "三隈"
 		},
-		"type": 2,
-		"type_text": {
-			"en": "Light Cruiser",
-			"cn": "轻巡",
-			"jp": "軽巡",
-			"kr": "경순",
-			"tw": "輕巡"
-		},
-		"nationality": 3,
 		"property_hexagon": [
 			"B",
 			"C",
@@ -31021,6 +29225,8 @@
 			"C",
 			"A"
 		],
+		"type": 2,
+		"nationality": 3,
 		"data": {
 			"302111": {
 				"id": 302111,
@@ -31119,15 +29325,6 @@
 			"kr": "센다이",
 			"tw": "川內"
 		},
-		"type": 2,
-		"type_text": {
-			"en": "Light Cruiser",
-			"cn": "轻巡",
-			"jp": "軽巡",
-			"kr": "경순",
-			"tw": "輕巡"
-		},
-		"nationality": 3,
 		"property_hexagon": [
 			"C",
 			"B",
@@ -31136,6 +29333,8 @@
 			"B",
 			"C"
 		],
+		"type": 2,
+		"nationality": 3,
 		"data": {
 			"302121": {
 				"id": 302121,
@@ -31234,15 +29433,6 @@
 			"kr": "진츠",
 			"tw": "神通"
 		},
-		"type": 2,
-		"type_text": {
-			"en": "Light Cruiser",
-			"cn": "轻巡",
-			"jp": "軽巡",
-			"kr": "경순",
-			"tw": "輕巡"
-		},
-		"nationality": 3,
 		"property_hexagon": [
 			"C",
 			"B",
@@ -31251,6 +29441,8 @@
 			"B",
 			"C"
 		],
+		"type": 2,
+		"nationality": 3,
 		"data": {
 			"302131": {
 				"id": 302131,
@@ -31346,18 +29538,9 @@
 			"en": "Naka",
 			"cn": "那珂",
 			"jp": "那珂",
-			"kr": "나카 ",
+			"kr": "나카",
 			"tw": "那珂"
 		},
-		"type": 2,
-		"type_text": {
-			"en": "Light Cruiser",
-			"cn": "轻巡",
-			"jp": "軽巡",
-			"kr": "경순",
-			"tw": "輕巡"
-		},
-		"nationality": 3,
 		"property_hexagon": [
 			"C",
 			"B",
@@ -31366,6 +29549,8 @@
 			"B",
 			"C"
 		],
+		"type": 2,
+		"nationality": 3,
 		"data": {
 			"302141": {
 				"id": 302141,
@@ -31464,15 +29649,6 @@
 			"kr": "아가노",
 			"tw": "阿賀野"
 		},
-		"type": 2,
-		"type_text": {
-			"en": "Light Cruiser",
-			"cn": "轻巡",
-			"jp": "軽巡",
-			"kr": "경순",
-			"tw": "輕巡"
-		},
-		"nationality": 3,
 		"property_hexagon": [
 			"C",
 			"B",
@@ -31481,6 +29657,8 @@
 			"B",
 			"C"
 		],
+		"type": 2,
+		"nationality": 3,
 		"data": {
 			"302201": {
 				"id": 302201,
@@ -31576,16 +29754,8 @@
 			"en": "Noshiro",
 			"cn": "能代",
 			"jp": "能代",
-			"kr": "노시로 "
+			"kr": "노시로"
 		},
-		"type": 2,
-		"type_text": {
-			"en": "Light Cruiser",
-			"cn": "轻巡",
-			"jp": "軽巡",
-			"kr": "경순"
-		},
-		"nationality": 3,
 		"property_hexagon": [
 			"C",
 			"A",
@@ -31594,6 +29764,8 @@
 			"B",
 			"C"
 		],
+		"type": 2,
+		"nationality": 3,
 		"data": {
 			"302211": {
 				"id": 302211,
@@ -31692,15 +29864,6 @@
 			"kr": "후루타카",
 			"tw": "古鷹"
 		},
-		"type": 3,
-		"type_text": {
-			"en": "Heavy Cruiser",
-			"cn": "重巡",
-			"jp": "重巡",
-			"kr": "중순",
-			"tw": "重巡"
-		},
-		"nationality": 3,
 		"property_hexagon": [
 			"C",
 			"C",
@@ -31709,6 +29872,8 @@
 			"C",
 			"B"
 		],
+		"type": 3,
+		"nationality": 3,
 		"data": {
 			"303011": {
 				"id": 303011,
@@ -31807,15 +29972,6 @@
 			"kr": "카코",
 			"tw": "加古"
 		},
-		"type": 3,
-		"type_text": {
-			"en": "Heavy Cruiser",
-			"cn": "重巡",
-			"jp": "重巡",
-			"kr": "중순",
-			"tw": "重巡"
-		},
-		"nationality": 3,
 		"property_hexagon": [
 			"C",
 			"C",
@@ -31824,6 +29980,8 @@
 			"C",
 			"B"
 		],
+		"type": 3,
+		"nationality": 3,
 		"data": {
 			"303021": {
 				"id": 303021,
@@ -31922,15 +30080,6 @@
 			"kr": "아오바",
 			"tw": "青葉"
 		},
-		"type": 3,
-		"type_text": {
-			"en": "Heavy Cruiser",
-			"cn": "重巡",
-			"jp": "重巡",
-			"kr": "중순",
-			"tw": "重巡"
-		},
-		"nationality": 3,
 		"property_hexagon": [
 			"C",
 			"C",
@@ -31939,6 +30088,8 @@
 			"C",
 			"B"
 		],
+		"type": 3,
+		"nationality": 3,
 		"data": {
 			"303031": {
 				"id": 303031,
@@ -32037,15 +30188,6 @@
 			"kr": "키누가사",
 			"tw": "衣笠"
 		},
-		"type": 3,
-		"type_text": {
-			"en": "Heavy Cruiser",
-			"cn": "重巡",
-			"jp": "重巡",
-			"kr": "중순",
-			"tw": "重巡"
-		},
-		"nationality": 3,
 		"property_hexagon": [
 			"C",
 			"C",
@@ -32054,6 +30196,8 @@
 			"C",
 			"B"
 		],
+		"type": 3,
+		"nationality": 3,
 		"data": {
 			"303041": {
 				"id": 303041,
@@ -32152,15 +30296,6 @@
 			"kr": "묘코",
 			"tw": "妙高"
 		},
-		"type": 3,
-		"type_text": {
-			"en": "Heavy Cruiser",
-			"cn": "重巡",
-			"jp": "重巡",
-			"kr": "중순",
-			"tw": "重巡"
-		},
-		"nationality": 3,
 		"property_hexagon": [
 			"B",
 			"C",
@@ -32169,6 +30304,8 @@
 			"C",
 			"A"
 		],
+		"type": 3,
+		"nationality": 3,
 		"data": {
 			"303071": {
 				"id": 303071,
@@ -32267,15 +30404,6 @@
 			"kr": "나치",
 			"tw": "那智"
 		},
-		"type": 3,
-		"type_text": {
-			"en": "Heavy Cruiser",
-			"cn": "重巡",
-			"jp": "重巡",
-			"kr": "중순",
-			"tw": "重巡"
-		},
-		"nationality": 3,
 		"property_hexagon": [
 			"B",
 			"C",
@@ -32284,6 +30412,8 @@
 			"C",
 			"A"
 		],
+		"type": 3,
+		"nationality": 3,
 		"data": {
 			"303081": {
 				"id": 303081,
@@ -32379,18 +30509,9 @@
 			"en": "Ashigara",
 			"cn": "足柄",
 			"jp": "足柄",
-			"kr": "아시가라 ",
+			"kr": "아시가라",
 			"tw": "足柄"
 		},
-		"type": 3,
-		"type_text": {
-			"en": "Heavy Cruiser",
-			"cn": "重巡",
-			"jp": "重巡",
-			"kr": "중순",
-			"tw": "重巡"
-		},
-		"nationality": 3,
 		"property_hexagon": [
 			"B",
 			"C",
@@ -32399,6 +30520,8 @@
 			"C",
 			"A"
 		],
+		"type": 3,
+		"nationality": 3,
 		"data": {
 			"303091": {
 				"id": 303091,
@@ -32497,15 +30620,6 @@
 			"kr": "타카오",
 			"tw": "高雄"
 		},
-		"type": 3,
-		"type_text": {
-			"en": "Heavy Cruiser",
-			"cn": "重巡",
-			"jp": "重巡",
-			"kr": "중순",
-			"tw": "重巡"
-		},
-		"nationality": 3,
 		"property_hexagon": [
 			"A",
 			"C",
@@ -32514,6 +30628,8 @@
 			"C",
 			"A"
 		],
+		"type": 3,
+		"nationality": 3,
 		"data": {
 			"303111": {
 				"id": 303111,
@@ -32633,15 +30749,6 @@
 			"kr": "아타고",
 			"tw": "愛宕"
 		},
-		"type": 3,
-		"type_text": {
-			"en": "Heavy Cruiser",
-			"cn": "重巡",
-			"jp": "重巡",
-			"kr": "중순",
-			"tw": "重巡"
-		},
-		"nationality": 3,
 		"property_hexagon": [
 			"A",
 			"C",
@@ -32650,6 +30757,8 @@
 			"C",
 			"A"
 		],
+		"type": 3,
+		"nationality": 3,
 		"data": {
 			"303121": {
 				"id": 303121,
@@ -32748,15 +30857,6 @@
 			"kr": "마야",
 			"tw": "摩耶"
 		},
-		"type": 3,
-		"type_text": {
-			"en": "Heavy Cruiser",
-			"cn": "重巡",
-			"jp": "重巡",
-			"kr": "중순",
-			"tw": "重巡"
-		},
-		"nationality": 3,
 		"property_hexagon": [
 			"A",
 			"C",
@@ -32765,6 +30865,8 @@
 			"C",
 			"A"
 		],
+		"type": 3,
+		"nationality": 3,
 		"data": {
 			"303131": {
 				"id": 303131,
@@ -32860,18 +30962,9 @@
 			"en": "Choukai",
 			"cn": "鸟海",
 			"jp": "鳥海",
-			"kr": "초카이 ",
+			"kr": "초카이",
 			"tw": "鳥海"
 		},
-		"type": 3,
-		"type_text": {
-			"en": "Heavy Cruiser",
-			"cn": "重巡",
-			"jp": "重巡",
-			"kr": "중순",
-			"tw": "重巡"
-		},
-		"nationality": 3,
 		"property_hexagon": [
 			"B",
 			"C",
@@ -32880,6 +30973,8 @@
 			"C",
 			"A"
 		],
+		"type": 3,
+		"nationality": 3,
 		"data": {
 			"303141": {
 				"id": 303141,
@@ -32975,16 +31070,8 @@
 			"en": "Suzuya",
 			"cn": "铃谷",
 			"jp": "鈴谷",
-			"kr": "스즈야 "
+			"kr": "스즈야"
 		},
-		"type": 3,
-		"type_text": {
-			"en": "Heavy Cruiser",
-			"cn": "重巡",
-			"jp": "重巡",
-			"kr": "중순"
-		},
-		"nationality": 3,
 		"property_hexagon": [
 			"B",
 			"C",
@@ -32993,6 +31080,8 @@
 			"C",
 			"A"
 		],
+		"type": 3,
+		"nationality": 3,
 		"data": {
 			"303171": {
 				"id": 303171,
@@ -33085,19 +31174,11 @@
 		"id": 30318,
 		"code": 469,
 		"name": {
-			"en": "Kumano ",
+			"en": "Kumano",
 			"cn": "熊野",
 			"jp": "熊野",
 			"kr": "쿠마노"
 		},
-		"type": 3,
-		"type_text": {
-			"en": "Heavy Cruiser",
-			"cn": "重巡",
-			"jp": "重巡",
-			"kr": "중순"
-		},
-		"nationality": 3,
 		"property_hexagon": [
 			"B",
 			"C",
@@ -33106,6 +31187,8 @@
 			"C",
 			"A"
 		],
+		"type": 3,
+		"nationality": 3,
 		"data": {
 			"303181": {
 				"id": 303181,
@@ -33204,15 +31287,6 @@
 			"kr": "콘고",
 			"tw": "金剛"
 		},
-		"type": 4,
-		"type_text": {
-			"en": "Battlecruiser",
-			"cn": "战巡",
-			"jp": "巡戦",
-			"kr": "순양전함",
-			"tw": "戰巡"
-		},
-		"nationality": 3,
 		"property_hexagon": [
 			"A",
 			"E",
@@ -33221,6 +31295,8 @@
 			"C",
 			"B"
 		],
+		"type": 4,
+		"nationality": 3,
 		"data": {
 			"304011": {
 				"id": 304011,
@@ -33331,15 +31407,6 @@
 			"kr": "히에이",
 			"tw": "比叡"
 		},
-		"type": 4,
-		"type_text": {
-			"en": "Battlecruiser",
-			"cn": "战巡",
-			"jp": "巡戦",
-			"kr": "순양전함",
-			"tw": "戰巡"
-		},
-		"nationality": 3,
 		"property_hexagon": [
 			"A",
 			"E",
@@ -33348,6 +31415,8 @@
 			"C",
 			"B"
 		],
+		"type": 4,
+		"nationality": 3,
 		"data": {
 			"304021": {
 				"id": 304021,
@@ -33458,15 +31527,6 @@
 			"kr": "하루나",
 			"tw": "榛名"
 		},
-		"type": 4,
-		"type_text": {
-			"en": "Battlecruiser",
-			"cn": "战巡",
-			"jp": "巡戦",
-			"kr": "순양전함",
-			"tw": "戰巡"
-		},
-		"nationality": 3,
 		"property_hexagon": [
 			"A",
 			"E",
@@ -33475,6 +31535,8 @@
 			"C",
 			"B"
 		],
+		"type": 4,
+		"nationality": 3,
 		"data": {
 			"304031": {
 				"id": 304031,
@@ -33585,15 +31647,6 @@
 			"kr": "키리시마",
 			"tw": "霧島"
 		},
-		"type": 4,
-		"type_text": {
-			"en": "Battlecruiser",
-			"cn": "战巡",
-			"jp": "巡戦",
-			"kr": "순양전함",
-			"tw": "戰巡"
-		},
-		"nationality": 3,
 		"property_hexagon": [
 			"A",
 			"E",
@@ -33602,6 +31655,8 @@
 			"C",
 			"B"
 		],
+		"type": 4,
+		"nationality": 3,
 		"data": {
 			"304041": {
 				"id": 304041,
@@ -33709,18 +31764,9 @@
 			"en": "Amagi",
 			"cn": "天城",
 			"jp": "天城",
-			"kr": "아마기 ",
+			"kr": "아마기",
 			"tw": "天城"
 		},
-		"type": 4,
-		"type_text": {
-			"en": "Battlecruiser",
-			"cn": "战巡",
-			"jp": "巡戦",
-			"kr": "순양전함",
-			"tw": "戰巡"
-		},
-		"nationality": 3,
 		"property_hexagon": [
 			"A",
 			"C",
@@ -33729,6 +31775,8 @@
 			"D",
 			"B"
 		],
+		"type": 4,
+		"nationality": 3,
 		"data": {
 			"304051": {
 				"id": 304051,
@@ -33824,18 +31872,9 @@
 			"en": "Hiei-chan",
 			"cn": "小比叡",
 			"jp": "比叡ちゃん",
-			"kr": "꼬마 히에이 ",
+			"kr": "꼬마 히에이",
 			"tw": "小比叡"
 		},
-		"type": 4,
-		"type_text": {
-			"en": "Battlecruiser",
-			"cn": "战巡",
-			"jp": "巡戦",
-			"kr": "순양전함",
-			"tw": "戰巡"
-		},
-		"nationality": 3,
 		"property_hexagon": [
 			"A",
 			"D",
@@ -33844,6 +31883,8 @@
 			"D",
 			"B"
 		],
+		"type": 4,
+		"nationality": 3,
 		"data": {
 			"304061": {
 				"id": 304061,
@@ -33948,21 +31989,12 @@
 		"id": 30501,
 		"code": 208,
 		"name": {
-			"en": "Fusou Retrofit",
-			"cn": "扶桑.改",
-			"jp": "扶桑改",
-			"kr": "후소.改",
-			"tw": "扶桑.改"
+			"en": "Fusou",
+			"cn": "扶桑",
+			"jp": "扶桑",
+			"kr": "후소",
+			"tw": "扶桑"
 		},
-		"type": 5,
-		"type_text": {
-			"en": "Battleship",
-			"cn": "战列",
-			"jp": "戦艦",
-			"kr": "전함",
-			"tw": "戰列"
-		},
-		"nationality": 3,
 		"property_hexagon": [
 			"A",
 			"E",
@@ -33971,6 +32003,8 @@
 			"D",
 			"B"
 		],
+		"type": 5,
+		"nationality": 3,
 		"data": {
 			"305011": {
 				"id": 305011,
@@ -34092,20 +32126,11 @@
 		"code": 209,
 		"name": {
 			"en": "Yamashiro",
-			"cn": "山城.改",
-			"jp": "山城改",
-			"kr": "야마시로·改",
-			"tw": "山城.改"
+			"cn": "山城",
+			"jp": "山城",
+			"kr": "야마시로",
+			"tw": "山城"
 		},
-		"type": 5,
-		"type_text": {
-			"en": "Battleship",
-			"cn": "战列",
-			"jp": "戦艦",
-			"kr": "전함",
-			"tw": "戰列"
-		},
-		"nationality": 3,
 		"property_hexagon": [
 			"A",
 			"E",
@@ -34114,6 +32139,8 @@
 			"D",
 			"B"
 		],
+		"type": 5,
+		"nationality": 3,
 		"data": {
 			"305021": {
 				"id": 305021,
@@ -34248,7 +32275,10 @@
 					"asw": 0
 				},
 				"name": {
-					"en": "Yamashiro"
+					"cn": "山城.改",
+					"jp": "山城改",
+					"kr": "야마시로·改",
+					"tw": "山城.改"
 				}
 			}
 		},
@@ -34258,21 +32288,12 @@
 		"id": 30503,
 		"code": 210,
 		"name": {
-			"en": "Ise Retrofit",
-			"cn": "伊势.改",
-			"jp": "伊勢改",
-			"kr": "이세·改",
-			"tw": "伊勢.改"
+			"en": "Ise",
+			"cn": "伊势",
+			"jp": "伊勢",
+			"kr": "이세",
+			"tw": "伊勢"
 		},
-		"type": 5,
-		"type_text": {
-			"en": "Battleship",
-			"cn": "战列",
-			"jp": "戦艦",
-			"kr": "전함",
-			"tw": "戰列"
-		},
-		"nationality": 3,
 		"property_hexagon": [
 			"A",
 			"E",
@@ -34281,6 +32302,8 @@
 			"D",
 			"B"
 		],
+		"type": 5,
+		"nationality": 3,
 		"data": {
 			"305031": {
 				"id": 305031,
@@ -34401,21 +32424,12 @@
 		"id": 30504,
 		"code": 211,
 		"name": {
-			"en": "Hyuuga Retrofit",
-			"cn": "日向.改",
-			"jp": "日向改",
-			"kr": "휴가.改",
-			"tw": "日向.改"
+			"en": "Hyuuga",
+			"cn": "日向",
+			"jp": "日向",
+			"kr": "휴가",
+			"tw": "日向"
 		},
-		"type": 5,
-		"type_text": {
-			"en": "Battleship",
-			"cn": "战列",
-			"jp": "戦艦",
-			"kr": "전함",
-			"tw": "戰列"
-		},
-		"nationality": 3,
 		"property_hexagon": [
 			"A",
 			"E",
@@ -34424,6 +32438,8 @@
 			"D",
 			"B"
 		],
+		"type": 5,
+		"nationality": 3,
 		"data": {
 			"305041": {
 				"id": 305041,
@@ -34548,17 +32564,8 @@
 			"cn": "长门",
 			"jp": "長門",
 			"kr": "나가토",
-			"tw": "长门"
+			"tw": "長門"
 		},
-		"type": 5,
-		"type_text": {
-			"en": "Battleship",
-			"cn": "战列",
-			"jp": "戦艦",
-			"kr": "전함",
-			"tw": "戰列"
-		},
-		"nationality": 3,
 		"property_hexagon": [
 			"A",
 			"E",
@@ -34567,6 +32574,8 @@
 			"D",
 			"B"
 		],
+		"type": 5,
+		"nationality": 3,
 		"data": {
 			"305051": {
 				"id": 305051,
@@ -34673,7 +32682,6 @@
 					"asw": 0
 				},
 				"name": {
-					"kr": "나가토",
 					"tw": "长门"
 				}
 			}
@@ -34687,18 +32695,9 @@
 			"en": "Mutsu",
 			"cn": "陆奥",
 			"jp": "陸奧",
-			"kr": "무츠 ",
+			"kr": "무츠",
 			"tw": "陸奧"
 		},
-		"type": 5,
-		"type_text": {
-			"en": "Battleship",
-			"cn": "战列",
-			"jp": "戦艦",
-			"kr": "전함",
-			"tw": "戰列"
-		},
-		"nationality": 3,
 		"property_hexagon": [
 			"A",
 			"E",
@@ -34707,6 +32706,8 @@
 			"D",
 			"B"
 		],
+		"type": 5,
+		"nationality": 3,
 		"data": {
 			"305061": {
 				"id": 305061,
@@ -34799,21 +32800,12 @@
 		"id": 30507,
 		"code": 368,
 		"name": {
-			"en": "Kaga",
+			"en": "Kaga(BB)",
 			"cn": "加贺",
 			"jp": "加賀",
 			"kr": "카가",
-			"tw": "加贺"
+			"tw": "加賀"
 		},
-		"type": 5,
-		"type_text": {
-			"en": "Battleship",
-			"cn": "战列",
-			"jp": "戦艦",
-			"kr": "전함",
-			"tw": "戰列"
-		},
-		"nationality": 3,
 		"property_hexagon": [
 			"A",
 			"C",
@@ -34822,6 +32814,8 @@
 			"D",
 			"B"
 		],
+		"type": 5,
+		"nationality": 3,
 		"data": {
 			"305071": {
 				"id": 305071,
@@ -34929,7 +32923,6 @@
 				},
 				"name": {
 					"en": "Kaga",
-					"kr": "카가",
 					"tw": "加贺"
 				}
 			}
@@ -34943,16 +32936,8 @@
 			"en": "Tosa",
 			"cn": "土佐",
 			"jp": "土佐",
-			"kr": "토사 "
+			"kr": "토사"
 		},
-		"type": 5,
-		"type_text": {
-			"en": "Battleship",
-			"cn": "战列",
-			"jp": "戦艦",
-			"kr": "전함"
-		},
-		"nationality": 3,
 		"property_hexagon": [
 			"A",
 			"C",
@@ -34961,6 +32946,8 @@
 			"D",
 			"B"
 		],
+		"type": 5,
+		"nationality": 3,
 		"data": {
 			"305081": {
 				"id": 305081,
@@ -35071,15 +33058,6 @@
 			"kr": "미카사",
 			"tw": "三笠"
 		},
-		"type": 5,
-		"type_text": {
-			"en": "Battleship",
-			"cn": "战列",
-			"jp": "戦艦",
-			"kr": "전함",
-			"tw": "戰列"
-		},
-		"nationality": 3,
 		"property_hexagon": [
 			"B",
 			"E",
@@ -35088,6 +33066,8 @@
 			"D",
 			"B"
 		],
+		"type": 5,
+		"nationality": 3,
 		"data": {
 			"305111": {
 				"id": 305111,
@@ -35201,19 +33181,11 @@
 		"id": 30512,
 		"code": 214,
 		"name": {
-			"en": "Kii ",
+			"en": "Kii",
 			"cn": "纪伊",
 			"jp": "紀伊",
 			"kr": "키이"
 		},
-		"type": 5,
-		"type_text": {
-			"en": "Battleship",
-			"cn": "战列",
-			"jp": "戦艦",
-			"kr": "전함"
-		},
-		"nationality": 3,
 		"property_hexagon": [
 			"A",
 			"C",
@@ -35222,6 +33194,8 @@
 			"C",
 			"B"
 		],
+		"type": 5,
+		"nationality": 3,
 		"data": {
 			"305121": {
 				"id": 305121,
@@ -35317,16 +33291,8 @@
 			"en": "Suruga",
 			"cn": "骏河",
 			"jp": "駿河",
-			"kr": "스루가 "
+			"kr": "스루가"
 		},
-		"type": 5,
-		"type_text": {
-			"en": "Battleship",
-			"cn": "战列",
-			"jp": "戦艦",
-			"kr": "전함"
-		},
-		"nationality": 3,
 		"property_hexagon": [
 			"A",
 			"C",
@@ -35335,6 +33301,8 @@
 			"C",
 			"B"
 		],
+		"type": 5,
+		"nationality": 3,
 		"data": {
 			"305141": {
 				"id": 305141,
@@ -35442,18 +33410,9 @@
 			"en": "Hiyou",
 			"cn": "飞鹰",
 			"jp": "飛鷹",
-			"kr": "히요 ",
+			"kr": "히요",
 			"tw": "飛鷹"
 		},
-		"type": 6,
-		"type_text": {
-			"en": "Light Carrier",
-			"cn": "轻航",
-			"jp": "軽母",
-			"kr": "경항모",
-			"tw": "輕航"
-		},
-		"nationality": 3,
 		"property_hexagon": [
 			"E",
 			"E",
@@ -35462,6 +33421,8 @@
 			"B",
 			"B"
 		],
+		"type": 6,
+		"nationality": 3,
 		"data": {
 			"306011": {
 				"id": 306011,
@@ -35557,18 +33518,9 @@
 			"en": "Junyou",
 			"cn": "隼鹰",
 			"jp": "隼鷹",
-			"kr": "준요 ",
+			"kr": "준요",
 			"tw": "隼鷹"
 		},
-		"type": 6,
-		"type_text": {
-			"en": "Light Carrier",
-			"cn": "轻航",
-			"jp": "軽母",
-			"kr": "경항모",
-			"tw": "輕航"
-		},
-		"nationality": 3,
 		"property_hexagon": [
 			"E",
 			"E",
@@ -35577,6 +33529,8 @@
 			"B",
 			"B"
 		],
+		"type": 6,
+		"nationality": 3,
 		"data": {
 			"306021": {
 				"id": 306021,
@@ -35673,17 +33627,8 @@
 			"cn": "凤翔",
 			"jp": "鳳翔",
 			"kr": "호쇼",
-			"tw": "凤翔"
+			"tw": "鳳翔"
 		},
-		"type": 6,
-		"type_text": {
-			"en": "Light Carrier",
-			"cn": "轻航",
-			"jp": "軽母",
-			"kr": "경항모",
-			"tw": "輕航"
-		},
-		"nationality": 3,
 		"property_hexagon": [
 			"E",
 			"E",
@@ -35692,6 +33637,8 @@
 			"B",
 			"C"
 		],
+		"type": 6,
+		"nationality": 3,
 		"data": {
 			"306031": {
 				"id": 306031,
@@ -35814,15 +33761,6 @@
 			"kr": "쇼호",
 			"tw": "祥鳳"
 		},
-		"type": 6,
-		"type_text": {
-			"en": "Light Carrier",
-			"cn": "轻航",
-			"jp": "軽母",
-			"kr": "경항모",
-			"tw": "輕航"
-		},
-		"nationality": 3,
 		"property_hexagon": [
 			"E",
 			"E",
@@ -35831,6 +33769,8 @@
 			"B",
 			"C"
 		],
+		"type": 6,
+		"nationality": 3,
 		"data": {
 			"306051": {
 				"id": 306051,
@@ -35926,16 +33866,8 @@
 			"en": "Ryuujou",
 			"cn": "龙骧",
 			"jp": "龍驤",
-			"kr": "류조 "
+			"kr": "류조"
 		},
-		"type": 6,
-		"type_text": {
-			"en": "Light Carrier",
-			"cn": "轻航",
-			"jp": "軽母",
-			"kr": "경항모"
-		},
-		"nationality": 3,
 		"property_hexagon": [
 			"E",
 			"E",
@@ -35944,6 +33876,8 @@
 			"B",
 			"C"
 		],
+		"type": 6,
+		"nationality": 3,
 		"data": {
 			"306061": {
 				"id": 306061,
@@ -36039,16 +33973,8 @@
 			"en": "Ryuuhou",
 			"cn": "龙凤",
 			"jp": "龍鳳",
-			"kr": "류호 "
+			"kr": "류호"
 		},
-		"type": 6,
-		"type_text": {
-			"en": "Light Carrier",
-			"cn": "轻航",
-			"jp": "軽母",
-			"kr": "경항모"
-		},
-		"nationality": 3,
 		"property_hexagon": [
 			"E",
 			"E",
@@ -36057,6 +33983,8 @@
 			"B",
 			"C"
 		],
+		"type": 6,
+		"nationality": 3,
 		"data": {
 			"306071": {
 				"id": 306071,
@@ -36161,19 +34089,11 @@
 		"id": 30608,
 		"code": 470,
 		"name": {
-			"en": "Chitose ",
+			"en": "Chitose",
 			"cn": "千岁",
 			"jp": "千歳",
 			"kr": "치토세"
 		},
-		"type": 6,
-		"type_text": {
-			"en": "Light Carrier",
-			"cn": "轻航",
-			"jp": "軽母",
-			"kr": "경항모"
-		},
-		"nationality": 3,
 		"property_hexagon": [
 			"E",
 			"E",
@@ -36182,6 +34102,8 @@
 			"B",
 			"C"
 		],
+		"type": 6,
+		"nationality": 3,
 		"data": {
 			"306081": {
 				"id": 306081,
@@ -36274,19 +34196,11 @@
 		"id": 30609,
 		"code": 471,
 		"name": {
-			"en": "Chiyoda ",
+			"en": "Chiyoda",
 			"cn": "千代田",
 			"jp": "千代田",
 			"kr": "치요다"
 		},
-		"type": 6,
-		"type_text": {
-			"en": "Light Carrier",
-			"cn": "轻航",
-			"jp": "軽母",
-			"kr": "경항모"
-		},
-		"nationality": 3,
 		"property_hexagon": [
 			"E",
 			"E",
@@ -36295,6 +34209,8 @@
 			"B",
 			"C"
 		],
+		"type": 6,
+		"nationality": 3,
 		"data": {
 			"306091": {
 				"id": 306091,
@@ -36393,15 +34309,6 @@
 			"kr": "아카기",
 			"tw": "赤城"
 		},
-		"type": 7,
-		"type_text": {
-			"en": "Aircraft Carrier",
-			"cn": "正航",
-			"jp": "空母",
-			"kr": "항모",
-			"tw": "正航"
-		},
-		"nationality": 3,
 		"property_hexagon": [
 			"E",
 			"E",
@@ -36410,6 +34317,8 @@
 			"B",
 			"B"
 		],
+		"type": 7,
+		"nationality": 3,
 		"data": {
 			"307011": {
 				"id": 307011,
@@ -36527,17 +34436,8 @@
 			"cn": "加贺",
 			"jp": "加賀",
 			"kr": "카가",
-			"tw": "加贺"
+			"tw": "加賀"
 		},
-		"type": 7,
-		"type_text": {
-			"en": "Aircraft Carrier",
-			"cn": "正航",
-			"jp": "空母",
-			"kr": "항모",
-			"tw": "正航"
-		},
-		"nationality": 3,
 		"property_hexagon": [
 			"E",
 			"E",
@@ -36546,6 +34446,8 @@
 			"B",
 			"B"
 		],
+		"type": 7,
+		"nationality": 3,
 		"data": {
 			"307021": {
 				"id": 307021,
@@ -36668,15 +34570,6 @@
 			"kr": "소류",
 			"tw": "蒼龍"
 		},
-		"type": 7,
-		"type_text": {
-			"en": "Aircraft Carrier",
-			"cn": "正航",
-			"jp": "空母",
-			"kr": "항모",
-			"tw": "正航"
-		},
-		"nationality": 3,
 		"property_hexagon": [
 			"E",
 			"E",
@@ -36685,6 +34578,8 @@
 			"B",
 			"B"
 		],
+		"type": 7,
+		"nationality": 3,
 		"data": {
 			"307031": {
 				"id": 307031,
@@ -36783,15 +34678,6 @@
 			"kr": "히류",
 			"tw": "飛龍"
 		},
-		"type": 7,
-		"type_text": {
-			"en": "Aircraft Carrier",
-			"cn": "正航",
-			"jp": "空母",
-			"kr": "항모",
-			"tw": "正航"
-		},
-		"nationality": 3,
 		"property_hexagon": [
 			"E",
 			"E",
@@ -36800,6 +34686,8 @@
 			"B",
 			"B"
 		],
+		"type": 7,
+		"nationality": 3,
 		"data": {
 			"307041": {
 				"id": 307041,
@@ -36896,17 +34784,8 @@
 			"cn": "翔鹤",
 			"jp": "翔鶴",
 			"kr": "쇼카쿠",
-			"tw": "翔鹤"
+			"tw": "翔鶴"
 		},
-		"type": 7,
-		"type_text": {
-			"en": "Aircraft Carrier",
-			"cn": "正航",
-			"jp": "空母",
-			"kr": "항모",
-			"tw": "正航"
-		},
-		"nationality": 3,
 		"property_hexagon": [
 			"E",
 			"E",
@@ -36915,6 +34794,8 @@
 			"B",
 			"B"
 		],
+		"type": 7,
+		"nationality": 3,
 		"data": {
 			"307051": {
 				"id": 307051,
@@ -37054,19 +34935,10 @@
 		"name": {
 			"en": "Zuikaku",
 			"cn": "瑞鹤",
-			"jp": "瑞鹤",
+			"jp": "瑞鶴",
 			"kr": "즈이카쿠",
-			"tw": "瑞鹤"
+			"tw": "瑞鶴"
 		},
-		"type": 7,
-		"type_text": {
-			"en": "Aircraft Carrier",
-			"cn": "正航",
-			"jp": "空母",
-			"kr": "항모",
-			"tw": "正航"
-		},
-		"nationality": 3,
 		"property_hexagon": [
 			"E",
 			"E",
@@ -37075,6 +34947,8 @@
 			"B",
 			"B"
 		],
+		"type": 7,
+		"nationality": 3,
 		"data": {
 			"307061": {
 				"id": 307061,
@@ -37218,14 +35092,6 @@
 			"jp": "大鳳",
 			"kr": "다이호"
 		},
-		"type": 7,
-		"type_text": {
-			"en": "Aircraft Carrier",
-			"cn": "正航",
-			"jp": "空母",
-			"kr": "항모"
-		},
-		"nationality": 3,
 		"property_hexagon": [
 			"E",
 			"E",
@@ -37234,6 +35100,8 @@
 			"B",
 			"S"
 		],
+		"type": 7,
+		"nationality": 3,
 		"data": {
 			"307071": {
 				"id": 307071,
@@ -37326,19 +35194,11 @@
 		"id": 30708,
 		"code": 231,
 		"name": {
-			"en": "Shinano ",
+			"en": "Shinano",
 			"cn": "信浓",
 			"jp": "信濃",
 			"kr": "시나노"
 		},
-		"type": 7,
-		"type_text": {
-			"en": "Aircraft Carrier",
-			"cn": "正航",
-			"jp": "空母",
-			"kr": "항모"
-		},
-		"nationality": 3,
 		"property_hexagon": [
 			"E",
 			"E",
@@ -37347,6 +35207,8 @@
 			"B",
 			"S"
 		],
+		"type": 7,
+		"nationality": 3,
 		"data": {
 			"307081": {
 				"id": 307081,
@@ -37454,18 +35316,9 @@
 			"en": "Akagi-chan",
 			"cn": "小赤城",
 			"jp": "赤城ちゃん",
-			"kr": "꼬마 아카기 ",
+			"kr": "꼬마 아카기",
 			"tw": "小赤城"
 		},
-		"type": 7,
-		"type_text": {
-			"en": "Aircraft Carrier",
-			"cn": "正航",
-			"jp": "空母",
-			"kr": "항모",
-			"tw": "正航"
-		},
-		"nationality": 3,
 		"property_hexagon": [
 			"E",
 			"E",
@@ -37474,6 +35327,8 @@
 			"B",
 			"B"
 		],
+		"type": 7,
+		"nationality": 3,
 		"data": {
 			"307091": {
 				"id": 307091,
@@ -37569,16 +35424,8 @@
 			"en": "Akagi μ",
 			"cn": "赤城(μ兵装)",
 			"jp": "赤城（μ兵装）",
-			"kr": "아카기(μ장비) "
+			"kr": "아카기(μ장비)"
 		},
-		"type": 7,
-		"type_text": {
-			"en": "Aircraft Carrier",
-			"cn": "正航",
-			"jp": "空母",
-			"kr": "항모"
-		},
-		"nationality": 3,
 		"property_hexagon": [
 			"E",
 			"E",
@@ -37587,6 +35434,8 @@
 			"B",
 			"B"
 		],
+		"type": 7,
+		"nationality": 3,
 		"data": {
 			"307101": {
 				"id": 307101,
@@ -37691,15 +35540,6 @@
 		"id": 30801,
 		"code": 338,
 		"name": {},
-		"type": 8,
-		"type_text": {
-			"en": "Submarine",
-			"cn": "潜艇",
-			"jp": "潜水",
-			"kr": "잠수",
-			"tw": "潛艇"
-		},
-		"nationality": 3,
 		"property_hexagon": [
 			"D",
 			"S",
@@ -37708,21 +35548,14 @@
 			"E",
 			"D"
 		],
+		"type": 8,
+		"nationality": 3,
 		"data": {}
 	},
 	"30802": {
 		"id": 30802,
 		"code": 339,
 		"name": {},
-		"type": 8,
-		"type_text": {
-			"en": "Submarine",
-			"cn": "潜艇",
-			"jp": "潜水",
-			"kr": "잠수",
-			"tw": "潛艇"
-		},
-		"nationality": 3,
 		"property_hexagon": [
 			"D",
 			"S",
@@ -37731,21 +35564,14 @@
 			"E",
 			"D"
 		],
+		"type": 8,
+		"nationality": 3,
 		"data": {}
 	},
 	"30803": {
 		"id": 30803,
 		"code": 340,
 		"name": {},
-		"type": 8,
-		"type_text": {
-			"en": "Submarine",
-			"cn": "潜艇",
-			"jp": "潜水",
-			"kr": "잠수",
-			"tw": "潛艇"
-		},
-		"nationality": 3,
 		"property_hexagon": [
 			"D",
 			"S",
@@ -37754,21 +35580,14 @@
 			"E",
 			"D"
 		],
+		"type": 8,
+		"nationality": 3,
 		"data": {}
 	},
 	"30804": {
 		"id": 30804,
 		"code": 396,
 		"name": {},
-		"type": 8,
-		"type_text": {
-			"en": "Submarine",
-			"cn": "潜艇",
-			"jp": "潜水",
-			"kr": "잠수",
-			"tw": "潛艇"
-		},
-		"nationality": 3,
 		"property_hexagon": [
 			"D",
 			"S",
@@ -37777,21 +35596,14 @@
 			"E",
 			"D"
 		],
+		"type": 8,
+		"nationality": 3,
 		"data": {}
 	},
 	"30805": {
 		"id": 30805,
 		"code": 397,
 		"name": {},
-		"type": 8,
-		"type_text": {
-			"en": "Submarine",
-			"cn": "潜艇",
-			"jp": "潜水",
-			"kr": "잠수",
-			"tw": "潛艇"
-		},
-		"nationality": 3,
 		"property_hexagon": [
 			"D",
 			"S",
@@ -37800,21 +35612,14 @@
 			"E",
 			"D"
 		],
+		"type": 8,
+		"nationality": 3,
 		"data": {}
 	},
 	"30806": {
 		"id": 30806,
 		"code": 398,
 		"name": {},
-		"type": 8,
-		"type_text": {
-			"en": "Submarine",
-			"cn": "潜艇",
-			"jp": "潜水",
-			"kr": "잠수",
-			"tw": "潛艇"
-		},
-		"nationality": 3,
 		"property_hexagon": [
 			"D",
 			"S",
@@ -37823,6 +35628,8 @@
 			"E",
 			"D"
 		],
+		"type": 8,
+		"nationality": 3,
 		"data": {}
 	},
 	"31201": {
@@ -37835,15 +35642,6 @@
 			"kr": "아카시",
 			"tw": "明石"
 		},
-		"type": 12,
-		"type_text": {
-			"en": "Repair",
-			"cn": "维修",
-			"jp": "工作",
-			"kr": "공작",
-			"tw": "維修"
-		},
-		"nationality": 3,
 		"property_hexagon": [
 			"E",
 			"E",
@@ -37852,6 +35650,8 @@
 			"D",
 			"C"
 		],
+		"type": 12,
+		"nationality": 3,
 		"data": {
 			"312011": {
 				"id": 312011,
@@ -37944,14 +35744,6 @@
 		"id": 31701,
 		"code": 381,
 		"name": {},
-		"type": 8,
-		"type_text": {
-			"en": "Submarine",
-			"cn": "潜艇",
-			"jp": "潜水",
-			"kr": "잠수"
-		},
-		"nationality": 3,
 		"property_hexagon": [
 			"D",
 			"A",
@@ -37960,25 +35752,19 @@
 			"E",
 			"D"
 		],
+		"type": 8,
+		"nationality": 3,
 		"data": {}
 	},
 	"31901": {
 		"id": 31901,
 		"code": 472,
 		"name": {
-			"en": "Kashino ",
+			"en": "Kashino",
 			"cn": "樫野",
 			"jp": "樫野",
 			"kr": "카시노"
 		},
-		"type": 1,
-		"type_text": {
-			"en": "Destroyer",
-			"cn": "驱逐",
-			"jp": "駆逐",
-			"kr": "구축"
-		},
-		"nationality": 3,
 		"property_hexagon": [
 			"D",
 			"E",
@@ -37987,6 +35773,8 @@
 			"D",
 			"B"
 		],
+		"type": 1,
+		"nationality": 3,
 		"data": {
 			"319011": {
 				"id": 319011,
@@ -38097,15 +35885,6 @@
 			"kr": "이부키",
 			"tw": "伊吹"
 		},
-		"type": 3,
-		"type_text": {
-			"en": "Heavy Cruiser",
-			"cn": "重巡",
-			"jp": "重巡",
-			"kr": "중순",
-			"tw": "重巡"
-		},
-		"nationality": 3,
 		"property_hexagon": [
 			"A",
 			"B",
@@ -38114,6 +35893,8 @@
 			"C",
 			"A"
 		],
+		"type": 3,
+		"nationality": 3,
 		"data": {
 			"399011": {
 				"id": 399011,
@@ -38212,15 +35993,6 @@
 			"kr": "이즈모",
 			"tw": "出雲"
 		},
-		"type": 5,
-		"type_text": {
-			"en": "Battleship",
-			"cn": "战列",
-			"jp": "戦艦",
-			"kr": "전함",
-			"tw": "戰列"
-		},
-		"nationality": 3,
 		"property_hexagon": [
 			"S",
 			"E",
@@ -38229,6 +36001,8 @@
 			"D",
 			"S"
 		],
+		"type": 5,
+		"nationality": 3,
 		"data": {
 			"399021": {
 				"id": 399021,
@@ -38324,18 +36098,9 @@
 			"en": "Kitakaze",
 			"cn": "北风",
 			"jp": "北風",
-			"kr": "키타카제 ",
+			"kr": "키타카제",
 			"tw": "北風"
 		},
-		"type": 1,
-		"type_text": {
-			"en": "Destroyer",
-			"cn": "驱逐",
-			"jp": "駆逐",
-			"kr": "구축",
-			"tw": "驅逐"
-		},
-		"nationality": 3,
 		"property_hexagon": [
 			"C",
 			"B",
@@ -38344,6 +36109,8 @@
 			"B",
 			"C"
 		],
+		"type": 1,
+		"nationality": 3,
 		"data": {
 			"399031": {
 				"id": 399031,
@@ -38460,18 +36227,9 @@
 			"en": "Azuma",
 			"cn": "吾妻",
 			"jp": "吾妻",
-			"kr": "아즈마 ",
+			"kr": "아즈마",
 			"tw": "吾妻"
 		},
-		"type": 18,
-		"type_text": {
-			"en": "Large Cruiser ",
-			"cn": "超巡",
-			"jp": "超巡",
-			"kr": "초갑순 ",
-			"tw": "超巡"
-		},
-		"nationality": 3,
 		"property_hexagon": [
 			"A",
 			"E",
@@ -38480,6 +36238,8 @@
 			"C",
 			"S"
 		],
+		"type": 18,
+		"nationality": 3,
 		"data": {
 			"399041": {
 				"id": 399041,
@@ -38599,15 +36359,6 @@
 			"kr": "Z1",
 			"tw": "Z1"
 		},
-		"type": 1,
-		"type_text": {
-			"en": "Destroyer",
-			"cn": "驱逐",
-			"jp": "駆逐",
-			"kr": "구축",
-			"tw": "驅逐"
-		},
-		"nationality": 4,
 		"property_hexagon": [
 			"D",
 			"A",
@@ -38616,6 +36367,8 @@
 			"D",
 			"D"
 		],
+		"type": 1,
+		"nationality": 4,
 		"data": {
 			"401011": {
 				"id": 401011,
@@ -38725,14 +36478,6 @@
 			"jp": "Z2",
 			"kr": "Z2"
 		},
-		"type": 1,
-		"type_text": {
-			"en": "Destroyer",
-			"cn": "驱逐",
-			"jp": "駆逐",
-			"kr": "구축"
-		},
-		"nationality": 4,
 		"property_hexagon": [
 			"D",
 			"A",
@@ -38741,6 +36486,8 @@
 			"D",
 			"D"
 		],
+		"type": 1,
+		"nationality": 4,
 		"data": {
 			"401021": {
 				"id": 401021,
@@ -38851,15 +36598,6 @@
 			"kr": "Z18",
 			"tw": "Z18"
 		},
-		"type": 1,
-		"type_text": {
-			"en": "Destroyer",
-			"cn": "驱逐",
-			"jp": "駆逐",
-			"kr": "구축",
-			"tw": "驅逐"
-		},
-		"nationality": 4,
 		"property_hexagon": [
 			"D",
 			"A",
@@ -38868,6 +36606,8 @@
 			"D",
 			"D"
 		],
+		"type": 1,
+		"nationality": 4,
 		"data": {
 			"401181": {
 				"id": 401181,
@@ -38978,15 +36718,6 @@
 			"kr": "Z19",
 			"tw": "Z19"
 		},
-		"type": 1,
-		"type_text": {
-			"en": "Destroyer",
-			"cn": "驱逐",
-			"jp": "駆逐",
-			"kr": "구축",
-			"tw": "驅逐"
-		},
-		"nationality": 4,
 		"property_hexagon": [
 			"D",
 			"A",
@@ -38995,6 +36726,8 @@
 			"D",
 			"D"
 		],
+		"type": 1,
+		"nationality": 4,
 		"data": {
 			"401191": {
 				"id": 401191,
@@ -39105,15 +36838,6 @@
 			"kr": "Z20",
 			"tw": "Z20"
 		},
-		"type": 1,
-		"type_text": {
-			"en": "Destroyer",
-			"cn": "驱逐",
-			"jp": "駆逐",
-			"kr": "구축",
-			"tw": "驅逐"
-		},
-		"nationality": 4,
 		"property_hexagon": [
 			"D",
 			"A",
@@ -39122,6 +36846,8 @@
 			"D",
 			"D"
 		],
+		"type": 1,
+		"nationality": 4,
 		"data": {
 			"401201": {
 				"id": 401201,
@@ -39232,15 +36958,6 @@
 			"kr": "Z21",
 			"tw": "Z21"
 		},
-		"type": 1,
-		"type_text": {
-			"en": "Destroyer",
-			"cn": "驱逐",
-			"jp": "駆逐",
-			"kr": "구축",
-			"tw": "驅逐"
-		},
-		"nationality": 4,
 		"property_hexagon": [
 			"D",
 			"A",
@@ -39249,6 +36966,8 @@
 			"D",
 			"D"
 		],
+		"type": 1,
+		"nationality": 4,
 		"data": {
 			"401211": {
 				"id": 401211,
@@ -39359,15 +37078,6 @@
 			"kr": "Z23",
 			"tw": "Z23"
 		},
-		"type": 1,
-		"type_text": {
-			"en": "Destroyer",
-			"cn": "驱逐",
-			"jp": "駆逐",
-			"kr": "구축",
-			"tw": "驅逐"
-		},
-		"nationality": 4,
 		"property_hexagon": [
 			"A",
 			"C",
@@ -39376,6 +37086,8 @@
 			"D",
 			"D"
 		],
+		"type": 1,
+		"nationality": 4,
 		"data": {
 			"401231": {
 				"id": 401231,
@@ -39510,15 +37222,6 @@
 			"kr": "Z25",
 			"tw": "Z25"
 		},
-		"type": 1,
-		"type_text": {
-			"en": "Destroyer",
-			"cn": "驱逐",
-			"jp": "駆逐",
-			"kr": "구축",
-			"tw": "驅逐"
-		},
-		"nationality": 4,
 		"property_hexagon": [
 			"A",
 			"C",
@@ -39527,6 +37230,8 @@
 			"D",
 			"D"
 		],
+		"type": 1,
+		"nationality": 4,
 		"data": {
 			"401251": {
 				"id": 401251,
@@ -39636,14 +37341,6 @@
 			"jp": "Z26",
 			"kr": "Z26"
 		},
-		"type": 1,
-		"type_text": {
-			"en": "Destroyer",
-			"cn": "驱逐",
-			"jp": "駆逐",
-			"kr": "구축"
-		},
-		"nationality": 4,
 		"property_hexagon": [
 			"A",
 			"C",
@@ -39652,6 +37349,8 @@
 			"D",
 			"D"
 		],
+		"type": 1,
+		"nationality": 4,
 		"data": {
 			"401261": {
 				"id": 401261,
@@ -39762,15 +37461,6 @@
 			"kr": "Z35",
 			"tw": "Z35"
 		},
-		"type": 1,
-		"type_text": {
-			"en": "Destroyer",
-			"cn": "驱逐",
-			"jp": "駆逐",
-			"kr": "구축",
-			"tw": "驅逐"
-		},
-		"nationality": 4,
 		"property_hexagon": [
 			"C",
 			"A",
@@ -39779,6 +37469,8 @@
 			"B",
 			"D"
 		],
+		"type": 1,
+		"nationality": 4,
 		"data": {
 			"401351": {
 				"id": 401351,
@@ -39889,15 +37581,6 @@
 			"kr": "Z36",
 			"tw": "Z36"
 		},
-		"type": 1,
-		"type_text": {
-			"en": "Destroyer",
-			"cn": "驱逐",
-			"jp": "駆逐",
-			"kr": "구축",
-			"tw": "驅逐"
-		},
-		"nationality": 4,
 		"property_hexagon": [
 			"C",
 			"A",
@@ -39906,6 +37589,8 @@
 			"B",
 			"D"
 		],
+		"type": 1,
+		"nationality": 4,
 		"data": {
 			"401361": {
 				"id": 401361,
@@ -40016,15 +37701,6 @@
 			"kr": "Z46",
 			"tw": "Z46"
 		},
-		"type": 1,
-		"type_text": {
-			"en": "Destroyer",
-			"cn": "驱逐",
-			"jp": "駆逐",
-			"kr": "구축",
-			"tw": "驅逐"
-		},
-		"nationality": 4,
 		"property_hexagon": [
 			"C",
 			"A",
@@ -40033,6 +37709,8 @@
 			"A",
 			"C"
 		],
+		"type": 1,
+		"nationality": 4,
 		"data": {
 			"401461": {
 				"id": 401461,
@@ -40143,15 +37821,6 @@
 			"kr": "쾨니히스베르크",
 			"tw": "柯尼斯堡"
 		},
-		"type": 2,
-		"type_text": {
-			"en": "Light Cruiser",
-			"cn": "轻巡",
-			"jp": "軽巡",
-			"kr": "경순",
-			"tw": "輕巡"
-		},
-		"nationality": 4,
 		"property_hexagon": [
 			"C",
 			"B",
@@ -40160,6 +37829,8 @@
 			"C",
 			"C"
 		],
+		"type": 2,
+		"nationality": 4,
 		"data": {
 			"402011": {
 				"id": 402011,
@@ -40258,15 +37929,6 @@
 			"kr": "카를스루에",
 			"tw": "卡爾斯魯厄"
 		},
-		"type": 2,
-		"type_text": {
-			"en": "Light Cruiser",
-			"cn": "轻巡",
-			"jp": "軽巡",
-			"kr": "경순",
-			"tw": "輕巡"
-		},
-		"nationality": 4,
 		"property_hexagon": [
 			"C",
 			"B",
@@ -40275,6 +37937,8 @@
 			"C",
 			"C"
 		],
+		"type": 2,
+		"nationality": 4,
 		"data": {
 			"402021": {
 				"id": 402021,
@@ -40367,21 +38031,12 @@
 		"id": 40203,
 		"code": 240,
 		"name": {
-			"en": "Köln Retrofit",
-			"cn": "科隆·改",
-			"jp": "ケルン·改",
-			"kr": "쾰른・改 ",
-			"tw": "科隆·改"
+			"en": "Köln",
+			"cn": "科隆",
+			"jp": "ケルン",
+			"kr": "쾰른",
+			"tw": "科隆"
 		},
-		"type": 2,
-		"type_text": {
-			"en": "Light Cruiser",
-			"cn": "轻巡",
-			"jp": "軽巡",
-			"kr": "경순",
-			"tw": "輕巡"
-		},
-		"nationality": 4,
 		"property_hexagon": [
 			"C",
 			"B",
@@ -40390,6 +38045,8 @@
 			"C",
 			"C"
 		],
+		"type": 2,
+		"nationality": 4,
 		"data": {
 			"402031": {
 				"id": 402031,
@@ -40499,7 +38156,7 @@
 					"en": "Köln Retrofit",
 					"cn": "科隆·改",
 					"jp": "ケルン·改",
-					"kr": "쾰른・改 ",
+					"kr": "쾰른・改",
 					"tw": "科隆·改"
 				}
 			}
@@ -40516,15 +38173,6 @@
 			"kr": "라이프치히",
 			"tw": "萊比錫"
 		},
-		"type": 2,
-		"type_text": {
-			"en": "Light Cruiser",
-			"cn": "轻巡",
-			"jp": "軽巡",
-			"kr": "경순",
-			"tw": "輕巡"
-		},
-		"nationality": 4,
 		"property_hexagon": [
 			"C",
 			"B",
@@ -40533,6 +38181,8 @@
 			"C",
 			"C"
 		],
+		"type": 2,
+		"nationality": 4,
 		"data": {
 			"402041": {
 				"id": 402041,
@@ -40631,15 +38281,6 @@
 			"kr": "아드미랄 히퍼",
 			"tw": "希佩爾將軍"
 		},
-		"type": 3,
-		"type_text": {
-			"en": "Heavy Cruiser",
-			"cn": "重巡",
-			"jp": "重巡",
-			"kr": "중순",
-			"tw": "重巡"
-		},
-		"nationality": 4,
 		"property_hexagon": [
 			"A",
 			"C",
@@ -40648,6 +38289,8 @@
 			"C",
 			"A"
 		],
+		"type": 3,
+		"nationality": 4,
 		"data": {
 			"403011": {
 				"id": 403011,
@@ -40746,15 +38389,6 @@
 			"kr": "프린츠 오이겐",
 			"tw": "歐根親王"
 		},
-		"type": 3,
-		"type_text": {
-			"en": "Heavy Cruiser",
-			"cn": "重巡",
-			"jp": "重巡",
-			"kr": "중순",
-			"tw": "重巡"
-		},
-		"nationality": 4,
 		"property_hexagon": [
 			"B",
 			"D",
@@ -40763,6 +38397,8 @@
 			"B",
 			"S"
 		],
+		"type": 3,
+		"nationality": 4,
 		"data": {
 			"403031": {
 				"id": 403031,
@@ -40861,15 +38497,6 @@
 			"kr": "도이칠란트",
 			"tw": "德意志"
 		},
-		"type": 3,
-		"type_text": {
-			"en": "Heavy Cruiser",
-			"cn": "重巡",
-			"jp": "重巡",
-			"kr": "중순",
-			"tw": "重巡"
-		},
-		"nationality": 4,
 		"property_hexagon": [
 			"A",
 			"C",
@@ -40878,6 +38505,8 @@
 			"C",
 			"A"
 		],
+		"type": 3,
+		"nationality": 4,
 		"data": {
 			"403041": {
 				"id": 403041,
@@ -40976,15 +38605,6 @@
 			"kr": "아드미랄 그라프 슈피",
 			"tw": "施佩伯爵將軍"
 		},
-		"type": 3,
-		"type_text": {
-			"en": "Heavy Cruiser",
-			"cn": "重巡",
-			"jp": "重巡",
-			"kr": "중순",
-			"tw": "重巡"
-		},
-		"nationality": 4,
 		"property_hexagon": [
 			"A",
 			"C",
@@ -40993,6 +38613,8 @@
 			"C",
 			"A"
 		],
+		"type": 3,
+		"nationality": 4,
 		"data": {
 			"403051": {
 				"id": 403051,
@@ -41088,16 +38710,8 @@
 			"en": "Admiral Hipper μ",
 			"cn": "希佩尔海军上将(μ兵装)",
 			"jp": "アドミラル·ヒッパー（μ兵装）",
-			"kr": "아드미랄 히퍼(μ장비) "
+			"kr": "아드미랄 히퍼(μ장비)"
 		},
-		"type": 3,
-		"type_text": {
-			"en": "Heavy Cruiser",
-			"cn": "重巡",
-			"jp": "重巡",
-			"kr": "중순"
-		},
-		"nationality": 4,
 		"property_hexagon": [
 			"A",
 			"C",
@@ -41106,6 +38720,8 @@
 			"C",
 			"A"
 		],
+		"type": 3,
+		"nationality": 4,
 		"data": {
 			"403071": {
 				"id": 403071,
@@ -41216,15 +38832,6 @@
 			"kr": "샤른호르스트",
 			"tw": "沙恩霍斯特"
 		},
-		"type": 4,
-		"type_text": {
-			"en": "Battlecruiser",
-			"cn": "战巡",
-			"jp": "巡戦",
-			"kr": "순양전함",
-			"tw": "戰巡"
-		},
-		"nationality": 4,
 		"property_hexagon": [
 			"A",
 			"D",
@@ -41233,6 +38840,8 @@
 			"C",
 			"A"
 		],
+		"type": 4,
+		"nationality": 4,
 		"data": {
 			"404011": {
 				"id": 404011,
@@ -41331,15 +38940,6 @@
 			"kr": "그나이제나우",
 			"tw": "格奈森瑙"
 		},
-		"type": 4,
-		"type_text": {
-			"en": "Battlecruiser",
-			"cn": "战巡",
-			"jp": "巡戦",
-			"kr": "순양전함",
-			"tw": "戰巡"
-		},
-		"nationality": 4,
 		"property_hexagon": [
 			"A",
 			"D",
@@ -41348,6 +38948,8 @@
 			"C",
 			"A"
 		],
+		"type": 4,
+		"nationality": 4,
 		"data": {
 			"404021": {
 				"id": 404021,
@@ -41464,18 +39066,9 @@
 			"en": "Bismarck",
 			"cn": "俾斯麦",
 			"jp": "ビスマルク",
-			"kr": "비스마르크 ",
+			"kr": "비스마르크",
 			"tw": "俾斯麥"
 		},
-		"type": 5,
-		"type_text": {
-			"en": "Battleship",
-			"cn": "战列",
-			"jp": "戦艦",
-			"kr": "전함",
-			"tw": "戰列"
-		},
-		"nationality": 4,
 		"property_hexagon": [
 			"S",
 			"E",
@@ -41484,6 +39077,8 @@
 			"C",
 			"S"
 		],
+		"type": 5,
+		"nationality": 4,
 		"data": {
 			"405011": {
 				"id": 405011,
@@ -41592,17 +39187,8 @@
 			"cn": "提尔比茨",
 			"jp": "ティルピッツ",
 			"kr": "티르피츠",
-			"tw": "提尔比茨"
+			"tw": "鐵必制"
 		},
-		"type": 5,
-		"type_text": {
-			"en": "Battleship",
-			"cn": "战列",
-			"jp": "戦艦",
-			"kr": "전함",
-			"tw": "戰列"
-		},
-		"nationality": 4,
 		"property_hexagon": [
 			"A",
 			"C",
@@ -41611,6 +39197,8 @@
 			"C",
 			"S"
 		],
+		"type": 5,
+		"nationality": 4,
 		"data": {
 			"405021": {
 				"id": 405021,
@@ -41746,17 +39334,8 @@
 			"cn": "齐柏林伯爵",
 			"jp": "グラーフ・ツェッペリン",
 			"kr": "그라프 체펠린",
-			"tw": "齐柏林伯爵"
+			"tw": "齊柏林伯爵"
 		},
-		"type": 7,
-		"type_text": {
-			"en": "Aircraft Carrier",
-			"cn": "正航",
-			"jp": "空母",
-			"kr": "항모",
-			"tw": "正航"
-		},
-		"nationality": 4,
 		"property_hexagon": [
 			"E",
 			"E",
@@ -41765,6 +39344,8 @@
 			"B",
 			"A"
 		],
+		"type": 7,
+		"nationality": 4,
 		"data": {
 			"407011": {
 				"id": 407011,
@@ -41884,18 +39465,9 @@
 			"en": "Zeppy",
 			"cn": "小齐柏林",
 			"jp": "ツェッペリンちゃん",
-			"kr": "꼬마 그라프 체펠린 ",
+			"kr": "꼬마 그라프 체펠린",
 			"tw": "小齊柏林"
 		},
-		"type": 7,
-		"type_text": {
-			"en": "Aircraft Carrier",
-			"cn": "正航",
-			"jp": "空母",
-			"kr": "항모",
-			"tw": "正航"
-		},
-		"nationality": 4,
 		"property_hexagon": [
 			"D",
 			"E",
@@ -41904,6 +39476,8 @@
 			"B",
 			"B"
 		],
+		"type": 7,
+		"nationality": 4,
 		"data": {
 			"407021": {
 				"id": 407021,
@@ -41996,15 +39570,6 @@
 		"id": 40801,
 		"code": 341,
 		"name": {},
-		"type": 8,
-		"type_text": {
-			"en": "Submarine",
-			"cn": "潜艇",
-			"jp": "潜水",
-			"kr": "잠수",
-			"tw": "潛艇"
-		},
-		"nationality": 4,
 		"property_hexagon": [
 			"D",
 			"S",
@@ -42013,21 +39578,14 @@
 			"E",
 			"D"
 		],
+		"type": 8,
+		"nationality": 4,
 		"data": {}
 	},
 	"40802": {
 		"id": 40802,
 		"code": 343,
 		"name": {},
-		"type": 8,
-		"type_text": {
-			"en": "Submarine",
-			"cn": "潜艇",
-			"jp": "潜水",
-			"kr": "잠수",
-			"tw": "潛艇"
-		},
-		"nationality": 4,
 		"property_hexagon": [
 			"D",
 			"S",
@@ -42036,21 +39594,14 @@
 			"E",
 			"D"
 		],
+		"type": 8,
+		"nationality": 4,
 		"data": {}
 	},
 	"40803": {
 		"id": 40803,
 		"code": 344,
 		"name": {},
-		"type": 8,
-		"type_text": {
-			"en": "Submarine",
-			"cn": "潜艇",
-			"jp": "潜水",
-			"kr": "잠수",
-			"tw": "潛艇"
-		},
-		"nationality": 4,
 		"property_hexagon": [
 			"D",
 			"A",
@@ -42059,21 +39610,14 @@
 			"E",
 			"D"
 		],
+		"type": 8,
+		"nationality": 4,
 		"data": {}
 	},
 	"40804": {
 		"id": 40804,
 		"code": 386,
 		"name": {},
-		"type": 8,
-		"type_text": {
-			"en": "Submarine",
-			"cn": "潜艇",
-			"jp": "潜水",
-			"kr": "잠수",
-			"tw": "潛艇"
-		},
-		"nationality": 4,
 		"property_hexagon": [
 			"D",
 			"A",
@@ -42082,21 +39626,14 @@
 			"E",
 			"D"
 		],
+		"type": 8,
+		"nationality": 4,
 		"data": {}
 	},
 	"40805": {
 		"id": 40805,
 		"code": 387,
 		"name": {},
-		"type": 8,
-		"type_text": {
-			"en": "Submarine",
-			"cn": "潜艇",
-			"jp": "潜水",
-			"kr": "잠수",
-			"tw": "潛艇"
-		},
-		"nationality": 4,
 		"property_hexagon": [
 			"D",
 			"S",
@@ -42105,21 +39642,14 @@
 			"E",
 			"D"
 		],
+		"type": 8,
+		"nationality": 4,
 		"data": {}
 	},
 	"40806": {
 		"id": 40806,
 		"code": 399,
 		"name": {},
-		"type": 8,
-		"type_text": {
-			"en": "Submarine",
-			"cn": "潜艇",
-			"jp": "潜水",
-			"kr": "잠수",
-			"tw": "潛艇"
-		},
-		"nationality": 4,
 		"property_hexagon": [
 			"D",
 			"S",
@@ -42128,21 +39658,14 @@
 			"E",
 			"D"
 		],
+		"type": 8,
+		"nationality": 4,
 		"data": {}
 	},
 	"40807": {
 		"id": 40807,
 		"code": 400,
 		"name": {},
-		"type": 8,
-		"type_text": {
-			"en": "Submarine",
-			"cn": "潜艇",
-			"jp": "潜水",
-			"kr": "잠수",
-			"tw": "潛艇"
-		},
-		"nationality": 4,
 		"property_hexagon": [
 			"D",
 			"A",
@@ -42151,20 +39674,14 @@
 			"E",
 			"D"
 		],
+		"type": 8,
+		"nationality": 4,
 		"data": {}
 	},
 	"40808": {
 		"id": 40808,
 		"code": 416,
 		"name": {},
-		"type": 8,
-		"type_text": {
-			"en": "Submarine",
-			"cn": "潜艇",
-			"jp": "潜水",
-			"kr": "잠수"
-		},
-		"nationality": 4,
 		"property_hexagon": [
 			"D",
 			"A",
@@ -42173,20 +39690,14 @@
 			"E",
 			"D"
 		],
+		"type": 8,
+		"nationality": 4,
 		"data": {}
 	},
 	"40809": {
 		"id": 40809,
 		"code": 467,
 		"name": {},
-		"type": 8,
-		"type_text": {
-			"en": "Submarine",
-			"cn": "潜艇",
-			"jp": "潜水",
-			"kr": "잠수"
-		},
-		"nationality": 4,
 		"property_hexagon": [
 			"D",
 			"S",
@@ -42195,6 +39706,8 @@
 			"E",
 			"D"
 		],
+		"type": 8,
+		"nationality": 4,
 		"data": {}
 	},
 	"49901": {
@@ -42207,15 +39720,6 @@
 			"kr": "론",
 			"tw": "羅恩"
 		},
-		"type": 3,
-		"type_text": {
-			"en": "Heavy Cruiser",
-			"cn": "重巡",
-			"jp": "重巡",
-			"kr": "중순",
-			"tw": "重巡"
-		},
-		"nationality": 4,
 		"property_hexagon": [
 			"A",
 			"C",
@@ -42224,6 +39728,8 @@
 			"B",
 			"S"
 		],
+		"type": 3,
+		"nationality": 4,
 		"data": {
 			"499011": {
 				"id": 499011,
@@ -42316,21 +39822,12 @@
 		"id": 49902,
 		"code": 20011,
 		"name": {
-			"en": "Friedrich der Grosse",
+			"en": "Friedrich der Große",
 			"cn": "腓特烈大帝",
 			"jp": "フリードリヒ・デア・グローセ",
-			"kr": "프리드리히 데어 그로세 ",
+			"kr": "프리드리히 데어 그로세",
 			"tw": "腓特烈大帝"
 		},
-		"type": 5,
-		"type_text": {
-			"en": "Battleship",
-			"cn": "战列",
-			"jp": "戦艦",
-			"kr": "전함",
-			"tw": "戰列"
-		},
-		"nationality": 4,
 		"property_hexagon": [
 			"S",
 			"E",
@@ -42339,6 +39836,8 @@
 			"C",
 			"S"
 		],
+		"type": 5,
+		"nationality": 4,
 		"data": {
 			"499021": {
 				"id": 499021,
@@ -42458,16 +39957,8 @@
 			"en": "Mainz",
 			"cn": "美因茨",
 			"jp": "マインツ",
-			"kr": "美因茨"
+			"kr": "마인츠"
 		},
-		"type": 2,
-		"type_text": {
-			"en": "Light Cruiser",
-			"cn": "轻巡",
-			"jp": "軽巡",
-			"kr": "경순"
-		},
-		"nationality": 4,
 		"property_hexagon": [
 			"B",
 			"C",
@@ -42476,6 +39967,8 @@
 			"B",
 			"A"
 		],
+		"type": 2,
+		"nationality": 4,
 		"data": {
 			"499031": {
 				"id": 499031,
@@ -42595,16 +40088,8 @@
 			"en": "Odin",
 			"cn": "奥丁",
 			"jp": "オーディン",
-			"kr": "奥丁"
+			"kr": "오딘"
 		},
-		"type": 4,
-		"type_text": {
-			"en": "Battlecruiser",
-			"cn": "战巡",
-			"jp": "巡戦",
-			"kr": "순양전함"
-		},
-		"nationality": 4,
 		"property_hexagon": [
 			"A",
 			"C",
@@ -42613,6 +40098,8 @@
 			"C",
 			"A"
 		],
+		"type": 4,
+		"nationality": 4,
 		"data": {
 			"499041": {
 				"id": 499041,
@@ -42732,18 +40219,9 @@
 			"en": "An Shan",
 			"cn": "鞍山",
 			"jp": "鞍山",
-			"kr": "안샨 ",
+			"kr": "안샨",
 			"tw": "鞍山"
 		},
-		"type": 1,
-		"type_text": {
-			"en": "Destroyer",
-			"cn": "驱逐",
-			"jp": "駆逐",
-			"kr": "구축",
-			"tw": "驅逐"
-		},
-		"nationality": 5,
 		"property_hexagon": [
 			"A",
 			"D",
@@ -42752,6 +40230,8 @@
 			"C",
 			"D"
 		],
+		"type": 1,
+		"nationality": 5,
 		"data": {
 			"501011": {
 				"id": 501011,
@@ -42863,18 +40343,9 @@
 			"en": "Fu Shun",
 			"cn": "抚顺",
 			"jp": "撫順",
-			"kr": "푸슌 ",
+			"kr": "푸슌",
 			"tw": "撫順"
 		},
-		"type": 1,
-		"type_text": {
-			"en": "Destroyer",
-			"cn": "驱逐",
-			"jp": "駆逐",
-			"kr": "구축",
-			"tw": "驅逐"
-		},
-		"nationality": 5,
 		"property_hexagon": [
 			"A",
 			"D",
@@ -42883,6 +40354,8 @@
 			"C",
 			"D"
 		],
+		"type": 1,
+		"nationality": 5,
 		"data": {
 			"501021": {
 				"id": 501021,
@@ -42994,18 +40467,9 @@
 			"en": "Chang Chun",
 			"cn": "长春",
 			"jp": "長春",
-			"kr": "창춘 ",
+			"kr": "창춘",
 			"tw": "長春"
 		},
-		"type": 1,
-		"type_text": {
-			"en": "Destroyer",
-			"cn": "驱逐",
-			"jp": "駆逐",
-			"kr": "구축",
-			"tw": "驅逐"
-		},
-		"nationality": 5,
 		"property_hexagon": [
 			"A",
 			"D",
@@ -43014,6 +40478,8 @@
 			"C",
 			"D"
 		],
+		"type": 1,
+		"nationality": 5,
 		"data": {
 			"501031": {
 				"id": 501031,
@@ -43125,18 +40591,9 @@
 			"en": "Tai Yuan",
 			"cn": "太原",
 			"jp": "太原",
-			"kr": "타이위안 ",
+			"kr": "타이위안",
 			"tw": "太原"
 		},
-		"type": 1,
-		"type_text": {
-			"en": "Destroyer",
-			"cn": "驱逐",
-			"jp": "駆逐",
-			"kr": "구축",
-			"tw": "驅逐"
-		},
-		"nationality": 5,
 		"property_hexagon": [
 			"A",
 			"D",
@@ -43145,6 +40602,8 @@
 			"C",
 			"D"
 		],
+		"type": 1,
+		"nationality": 5,
 		"data": {
 			"501041": {
 				"id": 501041,
@@ -43256,18 +40715,9 @@
 			"en": "Yat Sen",
 			"cn": "逸仙",
 			"jp": "逸仙",
-			"kr": "얏센 ",
+			"kr": "얏센",
 			"tw": "逸仙"
 		},
-		"type": 2,
-		"type_text": {
-			"en": "Light Cruiser",
-			"cn": "轻巡",
-			"jp": "軽巡",
-			"kr": "경순",
-			"tw": "輕巡"
-		},
-		"nationality": 5,
 		"property_hexagon": [
 			"B",
 			"E",
@@ -43276,6 +40726,8 @@
 			"B",
 			"D"
 		],
+		"type": 2,
+		"nationality": 5,
 		"data": {
 			"502011": {
 				"id": 502011,
@@ -43374,15 +40826,6 @@
 			"kr": "닝하이",
 			"tw": "寧海"
 		},
-		"type": 2,
-		"type_text": {
-			"en": "Light Cruiser",
-			"cn": "轻巡",
-			"jp": "軽巡",
-			"kr": "경순",
-			"tw": "輕巡"
-		},
-		"nationality": 5,
 		"property_hexagon": [
 			"B",
 			"C",
@@ -43391,6 +40834,8 @@
 			"B",
 			"D"
 		],
+		"type": 2,
+		"nationality": 5,
 		"data": {
 			"502021": {
 				"id": 502021,
@@ -43489,15 +40934,6 @@
 			"kr": "핑하이",
 			"tw": "平海"
 		},
-		"type": 2,
-		"type_text": {
-			"en": "Light Cruiser",
-			"cn": "轻巡",
-			"jp": "軽巡",
-			"kr": "경순",
-			"tw": "輕巡"
-		},
-		"nationality": 5,
 		"property_hexagon": [
 			"B",
 			"C",
@@ -43506,6 +40942,8 @@
 			"B",
 			"D"
 		],
+		"type": 2,
+		"nationality": 5,
 		"data": {
 			"502031": {
 				"id": 502031,
@@ -43601,16 +41039,8 @@
 			"en": "Carabiniere",
 			"cn": "龙骑兵",
 			"jp": "カラビニエーレ",
-			"kr": "카라비니에레 "
+			"kr": "카라비니에레"
 		},
-		"type": 1,
-		"type_text": {
-			"en": "Destroyer",
-			"cn": "驱逐",
-			"jp": "駆逐",
-			"kr": "구축"
-		},
-		"nationality": 6,
 		"property_hexagon": [
 			"A",
 			"D",
@@ -43619,6 +41049,8 @@
 			"C",
 			"D"
 		],
+		"type": 1,
+		"nationality": 6,
 		"data": {
 			"601021": {
 				"id": 601021,
@@ -43714,16 +41146,8 @@
 			"en": "Trento",
 			"cn": "特伦托",
 			"jp": "トレント",
-			"kr": "트렌토 "
+			"kr": "트렌토"
 		},
-		"type": 3,
-		"type_text": {
-			"en": "Heavy Cruiser",
-			"cn": "重巡",
-			"jp": "重巡",
-			"kr": "중순"
-		},
-		"nationality": 6,
 		"property_hexagon": [
 			"B",
 			"C",
@@ -43732,6 +41156,8 @@
 			"B",
 			"C"
 		],
+		"type": 3,
+		"nationality": 6,
 		"data": {
 			"603011": {
 				"id": 603011,
@@ -43827,16 +41253,8 @@
 			"en": "Zara",
 			"cn": "扎拉",
 			"jp": "ザラ",
-			"kr": "차라 "
+			"kr": "차라"
 		},
-		"type": 3,
-		"type_text": {
-			"en": "Heavy Cruiser",
-			"cn": "重巡",
-			"jp": "重巡",
-			"kr": "중순"
-		},
-		"nationality": 6,
 		"property_hexagon": [
 			"B",
 			"E",
@@ -43845,6 +41263,8 @@
 			"B",
 			"A"
 		],
+		"type": 3,
+		"nationality": 6,
 		"data": {
 			"603021": {
 				"id": 603021,
@@ -43952,16 +41372,8 @@
 			"en": "Littorio",
 			"cn": "利托里奥",
 			"jp": "リットリオ",
-			"kr": "리토리오 "
+			"kr": "리토리오"
 		},
-		"type": 5,
-		"type_text": {
-			"en": "Battleship",
-			"cn": "战列",
-			"jp": "戦艦",
-			"kr": "전함"
-		},
-		"nationality": 6,
 		"property_hexagon": [
 			"S",
 			"E",
@@ -43970,6 +41382,8 @@
 			"C",
 			"S"
 		],
+		"type": 5,
+		"nationality": 6,
 		"data": {
 			"605021": {
 				"id": 605021,
@@ -44065,16 +41479,8 @@
 			"en": "Conte di Cavour",
 			"cn": "加富尔伯爵",
 			"jp": "コンテ・ディ・カブール",
-			"kr": "콘테 디 카보우르 "
+			"kr": "콘테 디 카보우르"
 		},
-		"type": 5,
-		"type_text": {
-			"en": "Battleship",
-			"cn": "战列",
-			"jp": "戦艦",
-			"kr": "전함"
-		},
-		"nationality": 6,
 		"property_hexagon": [
 			"A",
 			"D",
@@ -44083,6 +41489,8 @@
 			"D",
 			"B"
 		],
+		"type": 5,
+		"nationality": 6,
 		"data": {
 			"605051": {
 				"id": 605051,
@@ -44178,16 +41586,8 @@
 			"en": "Giulio Cesare",
 			"cn": "朱利奥·凯撒",
 			"jp": "ジュリオ・チェザーレ",
-			"kr": "줄리오 체사레 "
+			"kr": "줄리오 체사레"
 		},
-		"type": 5,
-		"type_text": {
-			"en": "Battleship",
-			"cn": "战列",
-			"jp": "戦艦",
-			"kr": "전함"
-		},
-		"nationality": 6,
 		"property_hexagon": [
 			"A",
 			"D",
@@ -44196,6 +41596,8 @@
 			"D",
 			"B"
 		],
+		"type": 5,
+		"nationality": 6,
 		"data": {
 			"605061": {
 				"id": 605061,
@@ -44291,16 +41693,8 @@
 			"en": "Grozny",
 			"cn": "威严",
 			"jp": "グロズヌイ",
-			"kr": "그로즈니 "
+			"kr": "그로즈니"
 		},
-		"type": 1,
-		"type_text": {
-			"en": "Destroyer",
-			"cn": "驱逐",
-			"jp": "駆逐",
-			"kr": "구축"
-		},
-		"nationality": 7,
 		"property_hexagon": [
 			"A",
 			"D",
@@ -44309,6 +41703,8 @@
 			"C",
 			"D"
 		],
+		"type": 1,
+		"nationality": 7,
 		"data": {
 			"701021": {
 				"id": 701021,
@@ -44404,16 +41800,8 @@
 			"en": "Minsk",
 			"cn": "明斯克",
 			"jp": "ミンスク",
-			"kr": "민스크 "
+			"kr": "민스크"
 		},
-		"type": 1,
-		"type_text": {
-			"en": "Destroyer",
-			"cn": "驱逐",
-			"jp": "駆逐",
-			"kr": "구축"
-		},
-		"nationality": 7,
 		"property_hexagon": [
 			"A",
 			"D",
@@ -44422,6 +41810,8 @@
 			"C",
 			"D"
 		],
+		"type": 1,
+		"nationality": 7,
 		"data": {
 			"701031": {
 				"id": 701031,
@@ -44517,16 +41907,8 @@
 			"en": "Tashkent",
 			"cn": "塔什干",
 			"jp": "タシュケント",
-			"kr": "타슈켄트 "
+			"kr": "타슈켄트"
 		},
-		"type": 1,
-		"type_text": {
-			"en": "Destroyer",
-			"cn": "驱逐",
-			"jp": "駆逐",
-			"kr": "구축"
-		},
-		"nationality": 7,
 		"property_hexagon": [
 			"A",
 			"D",
@@ -44535,6 +41917,8 @@
 			"C",
 			"D"
 		],
+		"type": 1,
+		"nationality": 7,
 		"data": {
 			"701041": {
 				"id": 701041,
@@ -44642,18 +42026,9 @@
 			"en": "Avrora",
 			"cn": "阿芙乐尔",
 			"jp": "アヴローラ",
-			"kr": "아브로라 ",
+			"kr": "아브로라",
 			"tw": "曙光"
 		},
-		"type": 2,
-		"type_text": {
-			"en": "Light Cruiser",
-			"cn": "轻巡",
-			"jp": "軽巡",
-			"kr": "경순",
-			"tw": "輕巡"
-		},
-		"nationality": 7,
 		"property_hexagon": [
 			"D",
 			"D",
@@ -44662,6 +42037,8 @@
 			"C",
 			"C"
 		],
+		"type": 2,
+		"nationality": 7,
 		"data": {
 			"702011": {
 				"id": 702011,
@@ -44757,16 +42134,8 @@
 			"en": "Pamiat' Merkuria",
 			"cn": "水星纪念",
 			"jp": "パーミャチ・メルクーリヤ",
-			"kr": "파먀티 메르쿠리야 "
+			"kr": "파먀티 메르쿠리야"
 		},
-		"type": 2,
-		"type_text": {
-			"en": "Light Cruiser",
-			"cn": "轻巡",
-			"jp": "軽巡",
-			"kr": "경순"
-		},
-		"nationality": 7,
 		"property_hexagon": [
 			"D",
 			"D",
@@ -44775,6 +42144,8 @@
 			"C",
 			"C"
 		],
+		"type": 2,
+		"nationality": 7,
 		"data": {
 			"702021": {
 				"id": 702021,
@@ -44870,16 +42241,8 @@
 			"en": "Chapayev",
 			"cn": "恰巴耶夫",
 			"jp": "チャパエフ",
-			"kr": "차파예프 "
+			"kr": "차파예프"
 		},
-		"type": 2,
-		"type_text": {
-			"en": "Light Cruiser",
-			"cn": "轻巡",
-			"jp": "軽巡",
-			"kr": "경순"
-		},
-		"nationality": 7,
 		"property_hexagon": [
 			"B",
 			"E",
@@ -44888,6 +42251,8 @@
 			"B",
 			"B"
 		],
+		"type": 2,
+		"nationality": 7,
 		"data": {
 			"702031": {
 				"id": 702031,
@@ -44986,14 +42351,6 @@
 			"kr": "강구트",
 			"tw": "甘古特"
 		},
-		"type": 5,
-		"type_text": {
-			"en": "Battleship",
-			"cn": "战列",
-			"jp": "戦艦",
-			"kr": "전함"
-		},
-		"nationality": 7,
 		"property_hexagon": [
 			"A",
 			"E",
@@ -45002,6 +42359,8 @@
 			"D",
 			"B"
 		],
+		"type": 5,
+		"nationality": 7,
 		"data": {
 			"705011": {
 				"id": 705011,
@@ -45106,9 +42465,6 @@
 					"spd": 30,
 					"luk": 32,
 					"asw": 0
-				},
-				"name": {
-					"kr": "강구트"
 				}
 			}
 		},
@@ -45124,14 +42480,6 @@
 			"kr": "소비에츠카야 러시아",
 			"tw": "苏维埃罗西亚"
 		},
-		"type": 5,
-		"type_text": {
-			"en": "Battleship",
-			"cn": "战列",
-			"jp": "戦艦",
-			"kr": "전함"
-		},
-		"nationality": 7,
 		"property_hexagon": [
 			"S",
 			"E",
@@ -45140,6 +42488,8 @@
 			"C",
 			"S"
 		],
+		"type": 5,
+		"nationality": 7,
 		"data": {
 			"705051": {
 				"id": 705051,
@@ -45244,9 +42594,6 @@
 					"spd": 30,
 					"luk": 32,
 					"asw": 0
-				},
-				"name": {
-					"kr": "소비에츠카야 러시아"
 				}
 			}
 		},
@@ -45259,18 +42606,9 @@
 			"en": "Le Triomphant",
 			"cn": "凯旋",
 			"jp": "ル・トリオンファン",
-			"kr": "르 트리옹팡 ",
+			"kr": "르 트리옹팡",
 			"tw": "凱旋"
 		},
-		"type": 1,
-		"type_text": {
-			"en": "Destroyer",
-			"cn": "驱逐",
-			"jp": "駆逐",
-			"kr": "구축",
-			"tw": "驅逐"
-		},
-		"nationality": 8,
 		"property_hexagon": [
 			"A",
 			"C",
@@ -45279,6 +42617,8 @@
 			"C",
 			"D"
 		],
+		"type": 1,
+		"nationality": 8,
 		"data": {
 			"801011": {
 				"id": 801011,
@@ -45374,18 +42714,9 @@
 			"en": "Forbin",
 			"cn": "福尔班",
 			"jp": "フォルバン",
-			"kr": "포르뱅 ",
+			"kr": "포르뱅",
 			"tw": "福爾班"
 		},
-		"type": 1,
-		"type_text": {
-			"en": "Destroyer",
-			"cn": "驱逐",
-			"jp": "駆逐",
-			"kr": "구축",
-			"tw": "驅逐"
-		},
-		"nationality": 8,
 		"property_hexagon": [
 			"C",
 			"B",
@@ -45394,6 +42725,8 @@
 			"D",
 			"D"
 		],
+		"type": 1,
+		"nationality": 8,
 		"data": {
 			"801021": {
 				"id": 801021,
@@ -45491,14 +42824,6 @@
 			"jp": "ル・テメレール",
 			"kr": "르 테메레르"
 		},
-		"type": 1,
-		"type_text": {
-			"en": "Destroyer",
-			"cn": "驱逐",
-			"jp": "駆逐",
-			"kr": "구축"
-		},
-		"nationality": 8,
 		"property_hexagon": [
 			"C",
 			"B",
@@ -45507,6 +42832,8 @@
 			"C",
 			"D"
 		],
+		"type": 1,
+		"nationality": 8,
 		"data": {
 			"801031": {
 				"id": 801031,
@@ -45623,16 +42950,8 @@
 			"en": "L'Opiniâtre",
 			"cn": "倔强",
 			"jp": "ルピニャート",
-			"kr": "로피니아트르 "
+			"kr": "로피니아트르"
 		},
-		"type": 1,
-		"type_text": {
-			"en": "Destroyer",
-			"cn": "驱逐",
-			"jp": "駆逐",
-			"kr": "구축"
-		},
-		"nationality": 8,
 		"property_hexagon": [
 			"B",
 			"C",
@@ -45641,6 +42960,8 @@
 			"B",
 			"D"
 		],
+		"type": 1,
+		"nationality": 8,
 		"data": {
 			"801041": {
 				"id": 801041,
@@ -45757,18 +43078,9 @@
 			"en": "Émile Bertin",
 			"cn": "埃米尔·贝尔汀",
 			"jp": "エミール・ベルタン",
-			"kr": "에밀 베르탱 ",
+			"kr": "에밀 베르탱",
 			"tw": "埃米爾•貝爾坦"
 		},
-		"type": 2,
-		"type_text": {
-			"en": "Light Cruiser",
-			"cn": "轻巡",
-			"jp": "軽巡",
-			"kr": "경순",
-			"tw": "輕巡"
-		},
-		"nationality": 8,
 		"property_hexagon": [
 			"C",
 			"B",
@@ -45777,6 +43089,8 @@
 			"B",
 			"C"
 		],
+		"type": 2,
+		"nationality": 8,
 		"data": {
 			"802011": {
 				"id": 802011,
@@ -45884,16 +43198,8 @@
 			"en": "Jeanne d'Arc",
 			"cn": "圣女贞德",
 			"jp": "ジャンヌ・ダルク",
-			"kr": "잔 다르크 "
+			"kr": "잔 다르크"
 		},
-		"type": 2,
-		"type_text": {
-			"en": "Light Cruiser",
-			"cn": "轻巡",
-			"jp": "軽巡",
-			"kr": "경순"
-		},
-		"nationality": 8,
 		"property_hexagon": [
 			"B",
 			"B",
@@ -45902,6 +43208,8 @@
 			"C",
 			"B"
 		],
+		"type": 2,
+		"nationality": 8,
 		"data": {
 			"802021": {
 				"id": 802021,
@@ -46021,14 +43329,6 @@
 			"kr": "리슐리외",
 			"tw": "黎塞留"
 		},
-		"type": 5,
-		"type_text": {
-			"en": "Battleship",
-			"cn": "战列",
-			"jp": "戦艦",
-			"kr": "전함"
-		},
-		"nationality": 8,
 		"property_hexagon": [
 			"S",
 			"E",
@@ -46037,6 +43337,8 @@
 			"D",
 			"A"
 		],
+		"type": 5,
+		"nationality": 8,
 		"data": {
 			"805011": {
 				"id": 805011,
@@ -46162,9 +43464,6 @@
 					"spd": 30,
 					"luk": 32,
 					"asw": 0
-				},
-				"name": {
-					"kr": "리슐리외"
 				}
 			}
 		},
@@ -46180,14 +43479,6 @@
 			"kr": "베아른",
 			"tw": "贝亚恩"
 		},
-		"type": 7,
-		"type_text": {
-			"en": "Aircraft Carrier",
-			"cn": "正航",
-			"jp": "空母",
-			"kr": "항모"
-		},
-		"nationality": 8,
 		"property_hexagon": [
 			"D",
 			"D",
@@ -46196,6 +43487,8 @@
 			"B",
 			"B"
 		],
+		"type": 7,
+		"nationality": 8,
 		"data": {
 			"807011": {
 				"id": 807011,
@@ -46321,9 +43614,6 @@
 					"spd": 34.5,
 					"luk": 73,
 					"asw": 0
-				},
-				"name": {
-					"kr": "베아른"
 				}
 			}
 		},
@@ -46333,15 +43623,6 @@
 		"id": 80801,
 		"code": 350,
 		"name": {},
-		"type": 8,
-		"type_text": {
-			"en": "Submarine",
-			"cn": "潜艇",
-			"jp": "潜水",
-			"kr": "잠수",
-			"tw": "潛艇"
-		},
-		"nationality": 8,
 		"property_hexagon": [
 			"B",
 			"A",
@@ -46350,6 +43631,8 @@
 			"E",
 			"C"
 		],
+		"type": 8,
+		"nationality": 8,
 		"data": {}
 	},
 	"89901": {
@@ -46362,15 +43645,6 @@
 			"kr": "생 루이",
 			"tw": "路易九世"
 		},
-		"type": 3,
-		"type_text": {
-			"en": "Heavy Cruiser",
-			"cn": "重巡",
-			"jp": "重巡",
-			"kr": "중순",
-			"tw": "重巡"
-		},
-		"nationality": 8,
 		"property_hexagon": [
 			"A",
 			"C",
@@ -46379,6 +43653,8 @@
 			"B",
 			"A"
 		],
+		"type": 3,
+		"nationality": 8,
 		"data": {
 			"899011": {
 				"id": 899011,
@@ -46474,16 +43750,8 @@
 			"en": "Champagne",
 			"cn": "香槟",
 			"jp": "シャンパーニュ",
-			"kr": "香槟"
+			"kr": "샹파뉴"
 		},
-		"type": 5,
-		"type_text": {
-			"en": "Battleship",
-			"cn": "战列",
-			"jp": "戦艦",
-			"kr": "전함"
-		},
-		"nationality": 8,
 		"property_hexagon": [
 			"S",
 			"E",
@@ -46492,6 +43760,8 @@
 			"D",
 			"A"
 		],
+		"type": 5,
+		"nationality": 8,
 		"data": {
 			"899021": {
 				"id": 899021,
@@ -46611,18 +43881,9 @@
 			"en": "Le Mars",
 			"cn": "勒马尔",
 			"jp": "ル・マルス",
-			"kr": "르 마르스 ",
+			"kr": "르 마르스",
 			"tw": "勒馬爾"
 		},
-		"type": 1,
-		"type_text": {
-			"en": "Destroyer",
-			"cn": "驱逐",
-			"jp": "駆逐",
-			"kr": "구축",
-			"tw": "驅逐"
-		},
-		"nationality": 9,
 		"property_hexagon": [
 			"C",
 			"B",
@@ -46631,6 +43892,8 @@
 			"D",
 			"D"
 		],
+		"type": 1,
+		"nationality": 9,
 		"data": {
 			"901011": {
 				"id": 901011,
@@ -46726,16 +43989,8 @@
 			"en": "Tartu",
 			"cn": "塔尔图",
 			"jp": "タルテュ",
-			"kr": "타르투 "
+			"kr": "타르투"
 		},
-		"type": 1,
-		"type_text": {
-			"en": "Destroyer",
-			"cn": "驱逐",
-			"jp": "駆逐",
-			"kr": "구축"
-		},
-		"nationality": 9,
 		"property_hexagon": [
 			"A",
 			"C",
@@ -46744,6 +43999,8 @@
 			"D",
 			"D"
 		],
+		"type": 1,
+		"nationality": 9,
 		"data": {
 			"901021": {
 				"id": 901021,
@@ -46851,16 +44108,8 @@
 			"en": "Vauquelin",
 			"cn": "沃克兰",
 			"jp": "ヴォークラン",
-			"kr": "보클랭 "
+			"kr": "보클랭"
 		},
-		"type": 1,
-		"type_text": {
-			"en": "Destroyer",
-			"cn": "驱逐",
-			"jp": "駆逐",
-			"kr": "구축"
-		},
-		"nationality": 9,
 		"property_hexagon": [
 			"A",
 			"C",
@@ -46869,6 +44118,8 @@
 			"D",
 			"D"
 		],
+		"type": 1,
+		"nationality": 9,
 		"data": {
 			"901031": {
 				"id": 901031,
@@ -46978,14 +44229,6 @@
 			"jp": "ル・マラン",
 			"kr": "르 말랭"
 		},
-		"type": 1,
-		"type_text": {
-			"en": "Destroyer",
-			"cn": "驱逐",
-			"jp": "駆逐",
-			"kr": "구축"
-		},
-		"nationality": 9,
 		"property_hexagon": [
 			"A",
 			"C",
@@ -46994,6 +44237,8 @@
 			"D",
 			"D"
 		],
+		"type": 1,
+		"nationality": 9,
 		"data": {
 			"901111": {
 				"id": 901111,
@@ -47089,16 +44334,8 @@
 			"en": "La Galissonnière",
 			"cn": "拉·加利索尼埃",
 			"jp": "ラ・ガリソニエール",
-			"kr": "라 갈리소니에르 "
+			"kr": "라 갈리소니에르"
 		},
-		"type": 2,
-		"type_text": {
-			"en": "Light Cruiser",
-			"cn": "轻巡",
-			"jp": "軽巡",
-			"kr": "경순"
-		},
-		"nationality": 9,
 		"property_hexagon": [
 			"B",
 			"B",
@@ -47107,6 +44344,8 @@
 			"C",
 			"C"
 		],
+		"type": 2,
+		"nationality": 9,
 		"data": {
 			"902011": {
 				"id": 902011,
@@ -47202,16 +44441,8 @@
 			"en": "Algérie",
 			"cn": "阿尔及利亚",
 			"jp": "アルジェリー",
-			"kr": "알제리 "
+			"kr": "알제리"
 		},
-		"type": 3,
-		"type_text": {
-			"en": "Heavy Cruiser",
-			"cn": "重巡",
-			"jp": "重巡",
-			"kr": "중순"
-		},
-		"nationality": 9,
 		"property_hexagon": [
 			"A",
 			"C",
@@ -47220,6 +44451,8 @@
 			"C",
 			"A"
 		],
+		"type": 3,
+		"nationality": 9,
 		"data": {
 			"903021": {
 				"id": 903021,
@@ -47315,18 +44548,9 @@
 			"en": "Dunkerque",
 			"cn": "敦刻尔克",
 			"jp": "ダンケルク",
-			"kr": "됭케르크 ",
+			"kr": "됭케르크",
 			"tw": "敦克爾克"
 		},
-		"type": 4,
-		"type_text": {
-			"en": "Battlecruiser",
-			"cn": "战巡",
-			"jp": "巡戦",
-			"kr": "순양전함",
-			"tw": "戰巡"
-		},
-		"nationality": 9,
 		"property_hexagon": [
 			"A",
 			"E",
@@ -47335,6 +44559,8 @@
 			"D",
 			"B"
 		],
+		"type": 4,
+		"nationality": 9,
 		"data": {
 			"904011": {
 				"id": 904011,
@@ -47376,9 +44602,6 @@
 					"spd": 31,
 					"luk": 35,
 					"asw": 0
-				},
-				"name": {
-					"kr": "됭케르크"
 				}
 			},
 			"904013": {
@@ -47421,9 +44644,6 @@
 					"spd": 31,
 					"luk": 35,
 					"asw": 0
-				},
-				"name": {
-					"kr": "됭케르크 "
 				}
 			}
 		},
@@ -47436,18 +44656,9 @@
 			"en": "Jean Bart",
 			"cn": "让·巴尔",
 			"jp": "ジャン・バール",
-			"kr": "장 바르 ",
+			"kr": "장 바르",
 			"tw": "讓·巴爾"
 		},
-		"type": 5,
-		"type_text": {
-			"en": "Battleship",
-			"cn": "战列",
-			"jp": "戦艦",
-			"kr": "전함",
-			"tw": "戰列"
-		},
-		"nationality": 9,
 		"property_hexagon": [
 			"A",
 			"E",
@@ -47456,6 +44667,8 @@
 			"D",
 			"A"
 		],
+		"type": 5,
+		"nationality": 9,
 		"data": {
 			"905011": {
 				"id": 905011,
@@ -47551,16 +44764,8 @@
 			"en": "Gascogne μ",
 			"cn": "加斯科涅(μ兵装)",
 			"jp": "ガスコーニュ（μ兵装）",
-			"kr": "가스코뉴(μ장비) "
+			"kr": "가스코뉴(μ장비)"
 		},
-		"type": 5,
-		"type_text": {
-			"en": "Battleship",
-			"cn": "战列",
-			"jp": "戦艦",
-			"kr": "전함"
-		},
-		"nationality": 9,
 		"property_hexagon": [
 			"S",
 			"E",
@@ -47569,6 +44774,8 @@
 			"D",
 			"A"
 		],
+		"type": 5,
+		"nationality": 9,
 		"data": {
 			"905031": {
 				"id": 905031,
@@ -47676,18 +44883,9 @@
 			"en": "Gascogne",
 			"cn": "加斯科涅",
 			"jp": "ガスコーニュ",
-			"kr": "가스코뉴 ",
+			"kr": "가스코뉴",
 			"tw": "加斯科涅"
 		},
-		"type": 5,
-		"type_text": {
-			"en": "Battleship",
-			"cn": "战列",
-			"jp": "戦艦",
-			"kr": "전함",
-			"tw": "戰列"
-		},
-		"nationality": 9,
 		"property_hexagon": [
 			"S",
 			"E",
@@ -47696,6 +44894,8 @@
 			"D",
 			"A"
 		],
+		"type": 5,
+		"nationality": 9,
 		"data": {
 			"900912": {
 				"id": 900912,
@@ -47814,14 +45014,6 @@
 			"jp": "ネプテューヌ",
 			"kr": "넵튠"
 		},
-		"type": 2,
-		"type_text": {
-			"en": "Light Cruiser",
-			"cn": "轻巡",
-			"jp": "軽巡",
-			"kr": "경순"
-		},
-		"nationality": 101,
 		"property_hexagon": [
 			"C",
 			"B",
@@ -47830,6 +45022,8 @@
 			"A",
 			"C"
 		],
+		"type": 2,
+		"nationality": 101,
 		"data": {
 			"10100011": {
 				"id": 10100011,
@@ -47927,14 +45121,6 @@
 			"jp": "ノワール",
 			"kr": "느와르"
 		},
-		"type": 3,
-		"type_text": {
-			"en": "Heavy Cruiser",
-			"cn": "重巡",
-			"jp": "重巡",
-			"kr": "중순"
-		},
-		"nationality": 101,
 		"property_hexagon": [
 			"A",
 			"C",
@@ -47943,6 +45129,8 @@
 			"B",
 			"B"
 		],
+		"type": 3,
+		"nationality": 101,
 		"data": {
 			"10100021": {
 				"id": 10100021,
@@ -48040,14 +45228,6 @@
 			"jp": "ブラン",
 			"kr": "블랑"
 		},
-		"type": 1,
-		"type_text": {
-			"en": "Destroyer",
-			"cn": "驱逐",
-			"jp": "駆逐",
-			"kr": "구축"
-		},
-		"nationality": 101,
 		"property_hexagon": [
 			"C",
 			"B",
@@ -48056,6 +45236,8 @@
 			"C",
 			"D"
 		],
+		"type": 1,
+		"nationality": 101,
 		"data": {
 			"10100031": {
 				"id": 10100031,
@@ -48153,14 +45335,6 @@
 			"jp": "ベール",
 			"kr": "벨"
 		},
-		"type": 7,
-		"type_text": {
-			"en": "Aircraft Carrier",
-			"cn": "正航",
-			"jp": "空母",
-			"kr": "항모"
-		},
-		"nationality": 101,
 		"property_hexagon": [
 			"E",
 			"E",
@@ -48169,6 +45343,8 @@
 			"B",
 			"B"
 		],
+		"type": 7,
+		"nationality": 101,
 		"data": {
 			"10100041": {
 				"id": 10100041,
@@ -48266,14 +45442,6 @@
 			"jp": "パープルハート",
 			"kr": "퍼플 하트"
 		},
-		"type": 2,
-		"type_text": {
-			"en": "Light Cruiser",
-			"cn": "轻巡",
-			"jp": "軽巡",
-			"kr": "경순"
-		},
-		"nationality": 101,
 		"property_hexagon": [
 			"C",
 			"B",
@@ -48282,6 +45450,8 @@
 			"A",
 			"C"
 		],
+		"type": 2,
+		"nationality": 101,
 		"data": {
 			"10100051": {
 				"id": 10100051,
@@ -48379,14 +45549,6 @@
 			"jp": "ブラックハート",
 			"kr": "블랙 하트"
 		},
-		"type": 3,
-		"type_text": {
-			"en": "Heavy Cruiser",
-			"cn": "重巡",
-			"jp": "重巡",
-			"kr": "중순"
-		},
-		"nationality": 101,
 		"property_hexagon": [
 			"A",
 			"C",
@@ -48395,6 +45557,8 @@
 			"B",
 			"B"
 		],
+		"type": 3,
+		"nationality": 101,
 		"data": {
 			"10100061": {
 				"id": 10100061,
@@ -48492,14 +45656,6 @@
 			"jp": "ホワイトハート",
 			"kr": "화이트 하트"
 		},
-		"type": 1,
-		"type_text": {
-			"en": "Destroyer",
-			"cn": "驱逐",
-			"jp": "駆逐",
-			"kr": "구축"
-		},
-		"nationality": 101,
 		"property_hexagon": [
 			"C",
 			"A",
@@ -48508,6 +45664,8 @@
 			"C",
 			"D"
 		],
+		"type": 1,
+		"nationality": 101,
 		"data": {
 			"10100071": {
 				"id": 10100071,
@@ -48605,14 +45763,6 @@
 			"jp": "グリーンハート",
 			"kr": "그린 하트"
 		},
-		"type": 7,
-		"type_text": {
-			"en": "Aircraft Carrier",
-			"cn": "正航",
-			"jp": "空母",
-			"kr": "항모"
-		},
-		"nationality": 101,
 		"property_hexagon": [
 			"E",
 			"E",
@@ -48621,6 +45771,8 @@
 			"B",
 			"B"
 		],
+		"type": 7,
+		"nationality": 101,
 		"data": {
 			"10100081": {
 				"id": 10100081,
@@ -48715,11 +45867,6 @@
 		"name": {
 			"cn": "22"
 		},
-		"type": 1,
-		"type_text": {
-			"cn": "驱逐"
-		},
-		"nationality": 102,
 		"property_hexagon": [
 			"D",
 			"D",
@@ -48728,6 +45875,8 @@
 			"D",
 			"D"
 		],
+		"type": 1,
+		"nationality": 102,
 		"data": {
 			"10200011": {
 				"id": 10200011,
@@ -48822,11 +45971,6 @@
 		"name": {
 			"cn": "33"
 		},
-		"type": 1,
-		"type_text": {
-			"cn": "驱逐"
-		},
-		"nationality": 102,
 		"property_hexagon": [
 			"D",
 			"D",
@@ -48835,6 +45979,8 @@
 			"D",
 			"D"
 		],
+		"type": 1,
+		"nationality": 102,
 		"data": {
 			"10200021": {
 				"id": 10200021,
@@ -48931,13 +46077,6 @@
 			"jp": "クオン",
 			"kr": "쿠온"
 		},
-		"type": 3,
-		"type_text": {
-			"cn": "重巡",
-			"jp": "重巡",
-			"kr": "중순"
-		},
-		"nationality": 103,
 		"property_hexagon": [
 			"A",
 			"C",
@@ -48946,6 +46085,8 @@
 			"B",
 			"B"
 		],
+		"type": 3,
+		"nationality": 103,
 		"data": {
 			"10300011": {
 				"id": 10300011,
@@ -49042,13 +46183,6 @@
 			"jp": "ネコネ",
 			"kr": "네코네"
 		},
-		"type": 1,
-		"type_text": {
-			"cn": "驱逐",
-			"jp": "駆逐",
-			"kr": "구축"
-		},
-		"nationality": 103,
 		"property_hexagon": [
 			"C",
 			"B",
@@ -49057,6 +46191,8 @@
 			"B",
 			"C"
 		],
+		"type": 1,
+		"nationality": 103,
 		"data": {
 			"10300021": {
 				"id": 10300021,
@@ -49153,13 +46289,6 @@
 			"jp": "ルルティエ",
 			"kr": "루루티에"
 		},
-		"type": 2,
-		"type_text": {
-			"cn": "轻巡",
-			"jp": "軽巡",
-			"kr": "경순"
-		},
-		"nationality": 103,
 		"property_hexagon": [
 			"C",
 			"B",
@@ -49168,6 +46297,8 @@
 			"B",
 			"A"
 		],
+		"type": 2,
+		"nationality": 103,
 		"data": {
 			"10300031": {
 				"id": 10300031,
@@ -49264,13 +46395,6 @@
 			"jp": "ウルゥル",
 			"kr": "우루루"
 		},
-		"type": 6,
-		"type_text": {
-			"cn": "轻航",
-			"jp": "軽母",
-			"kr": "경항모"
-		},
-		"nationality": 103,
 		"property_hexagon": [
 			"E",
 			"E",
@@ -49279,6 +46403,8 @@
 			"B",
 			"C"
 		],
+		"type": 6,
+		"nationality": 103,
 		"data": {
 			"10300041": {
 				"id": 10300041,
@@ -49375,13 +46501,6 @@
 			"jp": "サラァナ",
 			"kr": "사라나"
 		},
-		"type": 6,
-		"type_text": {
-			"cn": "轻航",
-			"jp": "軽母",
-			"kr": "경항모"
-		},
-		"nationality": 103,
 		"property_hexagon": [
 			"E",
 			"E",
@@ -49390,6 +46509,8 @@
 			"B",
 			"C"
 		],
+		"type": 6,
+		"nationality": 103,
 		"data": {
 			"10300051": {
 				"id": 10300051,
@@ -49484,15 +46605,8 @@
 		"name": {
 			"cn": "芙米露露",
 			"jp": "フミルィル",
-			"kr": "후미뤼르 "
+			"kr": "후미뤼르"
 		},
-		"type": 7,
-		"type_text": {
-			"cn": "正航",
-			"jp": "空母",
-			"kr": "항모"
-		},
-		"nationality": 103,
 		"property_hexagon": [
 			"E",
 			"E",
@@ -49501,6 +46615,8 @@
 			"C",
 			"B"
 		],
+		"type": 7,
+		"nationality": 103,
 		"data": {
 			"10300061": {
 				"id": 10300061,
@@ -49596,16 +46712,8 @@
 			"en": "Kizuna AI",
 			"cn": "绊爱",
 			"jp": "キズナアイ",
-			"kr": "키즈나 아이 "
+			"kr": "키즈나 아이"
 		},
-		"type": 1,
-		"type_text": {
-			"en": "Destroyer",
-			"cn": "驱逐",
-			"jp": "駆逐",
-			"kr": "구축"
-		},
-		"nationality": 104,
 		"property_hexagon": [
 			"D",
 			"A",
@@ -49614,6 +46722,8 @@
 			"D",
 			"D"
 		],
+		"type": 1,
+		"nationality": 104,
 		"data": {
 			"10400011": {
 				"id": 10400011,
@@ -49721,16 +46831,8 @@
 			"en": "Elegant Kizuna AI",
 			"cn": "绊爱·Elegant",
 			"jp": "キズナアイ・エレガント",
-			"kr": "키즈나 아이 - 엘레강트 "
+			"kr": "키즈나 아이 - 엘레강트"
 		},
-		"type": 3,
-		"type_text": {
-			"en": "Heavy Cruiser",
-			"cn": "重巡",
-			"jp": "重巡",
-			"kr": "중순"
-		},
-		"nationality": 104,
 		"property_hexagon": [
 			"B",
 			"E",
@@ -49739,6 +46841,8 @@
 			"B",
 			"A"
 		],
+		"type": 3,
+		"nationality": 104,
 		"data": {
 			"10400021": {
 				"id": 10400021,
@@ -49846,16 +46950,8 @@
 			"en": "Anniversary Kizuna AI",
 			"cn": "绊爱·Anniversary",
 			"jp": "キズナアイ・アニバーサリー",
-			"kr": "키즈나 아이 - 애니버서리 "
+			"kr": "키즈나 아이 - 애니버서리"
 		},
-		"type": 7,
-		"type_text": {
-			"en": "Aircraft Carrier",
-			"cn": "正航",
-			"jp": "空母",
-			"kr": "항모"
-		},
-		"nationality": 104,
 		"property_hexagon": [
 			"E",
 			"E",
@@ -49864,6 +46960,8 @@
 			"B",
 			"B"
 		],
+		"type": 7,
+		"nationality": 104,
 		"data": {
 			"10400031": {
 				"id": 10400031,
@@ -49971,16 +47069,8 @@
 			"en": "Super Gamer Kizuna AI",
 			"cn": "绊爱·SuperGamer",
 			"jp": "キズナアイ・スーパーゲーマー",
-			"kr": "키즈나 아이 - 슈퍼 게이머 "
+			"kr": "키즈나 아이 - 슈퍼 게이머"
 		},
-		"type": 5,
-		"type_text": {
-			"en": "Battleship",
-			"cn": "战列",
-			"jp": "戦艦",
-			"kr": "전함"
-		},
-		"nationality": 104,
 		"property_hexagon": [
 			"A",
 			"D",
@@ -49989,6 +47079,8 @@
 			"D",
 			"B"
 		],
+		"type": 5,
+		"nationality": 104,
 		"data": {
 			"10400041": {
 				"id": 10400041,
@@ -50096,16 +47188,8 @@
 			"en": "Shirakami Fubuki",
 			"cn": "白上吹雪",
 			"jp": "白上フブキ",
-			"kr": "시라카미 후부키"
+			"kr": "白上吹雪"
 		},
-		"type": 1,
-		"type_text": {
-			"en": "Destroyer",
-			"cn": "驱逐",
-			"jp": "駆逐",
-			"kr": "구축"
-		},
-		"nationality": 105,
 		"property_hexagon": [
 			"C",
 			"A",
@@ -50114,6 +47198,8 @@
 			"D",
 			"D"
 		],
+		"type": 1,
+		"nationality": 105,
 		"data": {
 			"900801": {
 				"id": 900801,
@@ -50188,6 +47274,9 @@
 					"spd": 40.8,
 					"luk": 69,
 					"asw": 61
+				},
+				"name": {
+					"kr": "시라카미 후부키"
 				}
 			},
 			"10500013": {
@@ -50212,6 +47301,9 @@
 					"spd": 40.8,
 					"luk": 69,
 					"asw": 86
+				},
+				"name": {
+					"kr": "시라카미 후부키"
 				}
 			},
 			"10500014": {
@@ -50236,6 +47328,9 @@
 					"spd": 40.8,
 					"luk": 69,
 					"asw": 122
+				},
+				"name": {
+					"kr": "시라카미 후부키"
 				}
 			}
 		},
@@ -50248,16 +47343,8 @@
 			"en": "Tokino Sora",
 			"cn": "时乃空",
 			"jp": "ときのそら",
-			"kr": "토키노 소라"
+			"kr": "时乃空"
 		},
-		"type": 7,
-		"type_text": {
-			"en": "Aircraft Carrier",
-			"cn": "正航",
-			"jp": "空母",
-			"kr": "항모"
-		},
-		"nationality": 105,
 		"property_hexagon": [
 			"E",
 			"E",
@@ -50266,6 +47353,8 @@
 			"B",
 			"B"
 		],
+		"type": 7,
+		"nationality": 105,
 		"data": {
 			"900804": {
 				"id": 900804,
@@ -50340,6 +47429,9 @@
 					"spd": 28,
 					"luk": 46,
 					"asw": 0
+				},
+				"name": {
+					"kr": "토키노 소라"
 				}
 			},
 			"10500023": {
@@ -50364,6 +47456,9 @@
 					"spd": 28,
 					"luk": 46,
 					"asw": 0
+				},
+				"name": {
+					"kr": "토키노 소라"
 				}
 			},
 			"10500024": {
@@ -50388,6 +47483,9 @@
 					"spd": 28,
 					"luk": 46,
 					"asw": 0
+				},
+				"name": {
+					"kr": "토키노 소라"
 				}
 			}
 		},
@@ -50400,16 +47498,8 @@
 			"en": "Minato Aqua",
 			"cn": "湊阿库娅",
 			"jp": "湊あくあ",
-			"kr": "미나토 아쿠아"
+			"kr": "湊阿库娅"
 		},
-		"type": 8,
-		"type_text": {
-			"en": "Submarine",
-			"cn": "潜艇",
-			"jp": "潜水",
-			"kr": "잠수"
-		},
-		"nationality": 105,
 		"property_hexagon": [
 			"D",
 			"S",
@@ -50418,6 +47508,8 @@
 			"E",
 			"D"
 		],
+		"type": 8,
+		"nationality": 105,
 		"data": {
 			"900807": {
 				"id": 900807,
@@ -50492,6 +47584,9 @@
 					"spd": 18.8,
 					"luk": 64,
 					"asw": 0
+				},
+				"name": {
+					"kr": "미나토 아쿠아"
 				}
 			},
 			"10500033": {
@@ -50516,6 +47611,9 @@
 					"spd": 18.8,
 					"luk": 64,
 					"asw": 0
+				},
+				"name": {
+					"kr": "미나토 아쿠아"
 				}
 			},
 			"10500034": {
@@ -50540,6 +47638,9 @@
 					"spd": 18.8,
 					"luk": 64,
 					"asw": 0
+				},
+				"name": {
+					"kr": "미나토 아쿠아"
 				}
 			}
 		},
@@ -50552,16 +47653,8 @@
 			"en": "Natsuiro Matsuri",
 			"cn": "夏色祭",
 			"jp": "夏色まつり",
-			"kr": "나츠이로 마츠리"
+			"kr": "夏色祭"
 		},
-		"type": 1,
-		"type_text": {
-			"en": "Destroyer",
-			"cn": "驱逐",
-			"jp": "駆逐",
-			"kr": "구축"
-		},
-		"nationality": 105,
 		"property_hexagon": [
 			"D",
 			"A",
@@ -50570,6 +47663,8 @@
 			"D",
 			"D"
 		],
+		"type": 1,
+		"nationality": 105,
 		"data": {
 			"900802": {
 				"id": 900802,
@@ -50644,6 +47739,9 @@
 					"spd": 40.8,
 					"luk": 87,
 					"asw": 64
+				},
+				"name": {
+					"kr": "나츠이로 마츠리"
 				}
 			},
 			"10500043": {
@@ -50668,6 +47766,9 @@
 					"spd": 40.8,
 					"luk": 87,
 					"asw": 89
+				},
+				"name": {
+					"kr": "나츠이로 마츠리"
 				}
 			},
 			"10500044": {
@@ -50692,6 +47793,9 @@
 					"spd": 40.8,
 					"luk": 87,
 					"asw": 127
+				},
+				"name": {
+					"kr": "나츠이로 마츠리"
 				}
 			}
 		},
@@ -50704,16 +47808,8 @@
 			"en": "Nakiri Ayame",
 			"cn": "百鬼绫目",
 			"jp": "百鬼あやめ",
-			"kr": "나키리 아야메"
+			"kr": "百鬼绫目"
 		},
-		"type": 3,
-		"type_text": {
-			"en": "Heavy Cruiser",
-			"cn": "重巡",
-			"jp": "重巡",
-			"kr": "중순"
-		},
-		"nationality": 105,
 		"property_hexagon": [
 			"B",
 			"E",
@@ -50722,6 +47818,8 @@
 			"B",
 			"B"
 		],
+		"type": 3,
+		"nationality": 105,
 		"data": {
 			"900803": {
 				"id": 900803,
@@ -50796,6 +47894,9 @@
 					"spd": 26.4,
 					"luk": 65,
 					"asw": 0
+				},
+				"name": {
+					"kr": "나키리 아야메"
 				}
 			},
 			"10500053": {
@@ -50820,6 +47921,9 @@
 					"spd": 26.4,
 					"luk": 65,
 					"asw": 0
+				},
+				"name": {
+					"kr": "나키리 아야메"
 				}
 			},
 			"10500054": {
@@ -50844,6 +47948,9 @@
 					"spd": 26.4,
 					"luk": 65,
 					"asw": 0
+				},
+				"name": {
+					"kr": "나키리 아야메"
 				}
 			}
 		},
@@ -50856,16 +47963,8 @@
 			"en": "Murasaki Shion",
 			"cn": "紫咲诗音",
 			"jp": "紫咲シオン",
-			"kr": "무라사키 시온"
+			"kr": "紫咲诗音"
 		},
-		"type": 6,
-		"type_text": {
-			"en": "Light Carrier",
-			"cn": "轻航",
-			"jp": "軽母",
-			"kr": "경항모"
-		},
-		"nationality": 105,
 		"property_hexagon": [
 			"E",
 			"E",
@@ -50874,6 +47973,8 @@
 			"B",
 			"C"
 		],
+		"type": 6,
+		"nationality": 105,
 		"data": {
 			"900805": {
 				"id": 900805,
@@ -50948,6 +48049,9 @@
 					"spd": 26,
 					"luk": 85,
 					"asw": 21
+				},
+				"name": {
+					"kr": "무라사키 시온"
 				}
 			},
 			"10500063": {
@@ -50972,6 +48076,9 @@
 					"spd": 26,
 					"luk": 85,
 					"asw": 30
+				},
+				"name": {
+					"kr": "무라사키 시온"
 				}
 			},
 			"10500064": {
@@ -50996,6 +48103,9 @@
 					"spd": 26,
 					"luk": 85,
 					"asw": 43
+				},
+				"name": {
+					"kr": "무라사키 시온"
 				}
 			}
 		},
@@ -51008,16 +48118,8 @@
 			"en": "Ōkami Mio",
 			"cn": "大神澪",
 			"jp": "大神ミオ",
-			"kr": "오오카미 미오"
+			"kr": "大神澪"
 		},
-		"type": 7,
-		"type_text": {
-			"en": "Aircraft Carrier",
-			"cn": "正航",
-			"jp": "空母",
-			"kr": "항모"
-		},
-		"nationality": 105,
 		"property_hexagon": [
 			"E",
 			"E",
@@ -51026,6 +48128,8 @@
 			"C",
 			"B"
 		],
+		"type": 7,
+		"nationality": 105,
 		"data": {
 			"900806": {
 				"id": 900806,
@@ -51100,6 +48204,9 @@
 					"spd": 26,
 					"luk": 53,
 					"asw": 0
+				},
+				"name": {
+					"kr": "오오카미 미오"
 				}
 			},
 			"10500073": {
@@ -51124,6 +48231,9 @@
 					"spd": 26,
 					"luk": 53,
 					"asw": 0
+				},
+				"name": {
+					"kr": "오오카미 미오"
 				}
 			},
 			"10500074": {
@@ -51148,6 +48258,9 @@
 					"spd": 26,
 					"luk": 53,
 					"asw": 0
+				},
+				"name": {
+					"kr": "오오카미 미오"
 				}
 			}
 		},
