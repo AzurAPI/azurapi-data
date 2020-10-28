@@ -33,9 +33,11 @@ function readFilesFromLanguage(lang = "EN") {
             code: group.code,
 
             name: {},
-            property_hexagon: group.property_hexagon,
+            property_hexagon: group.property_hexagon.join(''),
 
             type: group.type,
+            armor: null,
+            slots: null,
             nationality: group.nationality,
             data: {}
         };
@@ -73,8 +75,17 @@ function readFilesFromLanguage(lang = "EN") {
             max_level: ship.max_level,
             stats: {hp, fp, trp, aa, av, rld, acc, eva, spd, luk, asw}
         };
-
         if (specificShip.type !== ship.type) console.log("SHIP TYPE NOT MATCH ", id, ship.group_type, stat.name, lang);
+
+        // collapse, maybe the collapse algo can be collapsed later
+
+        let slots = [1, 2, 3, 4, 5].map(i => ship["equip_" + i]);
+        if (!compiled[ship.group_type].slots) compiled[ship.group_type].slots = slots;
+        if (JSON.stringify(compiled[ship.group_type].slots) !== JSON.stringify(slots)) specificShip.slots = slots;
+
+        let armor = stat.armor_type;
+        if (!compiled[ship.group_type].armor) compiled[ship.group_type].armor = armor;
+        if (compiled[ship.group_type].armor !== armor) specificShip.armor = armor;
 
         stat.name = stat.name.trim();
         if (!compiled[ship.group_type].name[lang.toLowerCase()]) compiled[ship.group_type].name[lang.toLowerCase()] = stat.name;

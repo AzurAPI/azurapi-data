@@ -9,15 +9,28 @@
 			"kr": "범용형 부린",
 			"tw": "泛用型布里"
 		},
-		"property_hexagon": [
-			"D",
-			"D",
-			"D",
-			"D",
-			"D",
-			"D"
-		],
+		"property_hexagon": "DDDDDD",
 		"type": 1,
+		"armor": 1,
+		"slots": [
+			[
+				1
+			],
+			[
+				6
+			],
+			[
+				6
+			],
+			[
+				10,
+				14
+			],
+			[
+				10,
+				14
+			]
+		],
 		"nationality": 98,
 		"data": {
 			"100001": {
@@ -54,15 +67,28 @@
 			"kr": "시제형 부린 MKⅡ",
 			"tw": "試作型布里MKII"
 		},
-		"property_hexagon": [
-			"D",
-			"D",
-			"D",
-			"D",
-			"D",
-			"D"
-		],
+		"property_hexagon": "DDDDDD",
 		"type": 1,
+		"armor": 1,
+		"slots": [
+			[
+				1
+			],
+			[
+				6
+			],
+			[
+				6
+			],
+			[
+				10,
+				14
+			],
+			[
+				10,
+				14
+			]
+		],
 		"nationality": 98,
 		"data": {
 			"100011": {
@@ -98,15 +124,28 @@
 			"jp": "特装型ブリMKⅢ",
 			"kr": "특장형 부린 MKIII"
 		},
-		"property_hexagon": [
-			"D",
-			"D",
-			"D",
-			"D",
-			"D",
-			"D"
-		],
+		"property_hexagon": "DDDDDD",
 		"type": 1,
+		"armor": 1,
+		"slots": [
+			[
+				1
+			],
+			[
+				6
+			],
+			[
+				6
+			],
+			[
+				10,
+				14
+			],
+			[
+				10,
+				14
+			]
+		],
 		"nationality": 98,
 		"data": {
 			"100021": {
@@ -143,15 +182,28 @@
 			"kr": "듀이",
 			"tw": "杜威"
 		},
-		"property_hexagon": [
-			"C",
-			"C",
-			"E",
-			"B",
-			"C",
-			"C"
-		],
+		"property_hexagon": "CCEBCC",
 		"type": 1,
+		"armor": 1,
+		"slots": [
+			[
+				1
+			],
+			[
+				5
+			],
+			[
+				6
+			],
+			[
+				10,
+				14
+			],
+			[
+				10,
+				14
+			]
+		],
 		"nationality": 1,
 		"data": {
 			"101021": {
@@ -251,15 +303,28 @@
 			"kr": "캐신",
 			"tw": "卡辛"
 		},
-		"property_hexagon": [
-			"C",
-			"C",
-			"E",
-			"B",
-			"C",
-			"C"
-		],
+		"property_hexagon": "CCEBCC",
 		"type": 1,
+		"armor": 1,
+		"slots": [
+			[
+				1
+			],
+			[
+				5
+			],
+			[
+				6
+			],
+			[
+				10,
+				14
+			],
+			[
+				10,
+				14
+			]
+		],
 		"nationality": 1,
 		"data": {
 			"101031": {
@@ -359,15 +424,28 @@
 			"kr": "다운즈",
 			"tw": "唐斯"
 		},
-		"property_hexagon": [
-			"C",
-			"C",
-			"E",
-			"B",
-			"C",
-			"C"
-		],
+		"property_hexagon": "CCEBCC",
 		"type": 1,
+		"armor": 1,
+		"slots": [
+			[
+				1
+			],
+			[
+				5
+			],
+			[
+				6
+			],
+			[
+				10,
+				14
+			],
+			[
+				10,
+				14
+			]
+		],
 		"nationality": 1,
 		"data": {
 			"101041": {
@@ -467,15 +545,28 @@
 			"kr": "그리들리",
 			"tw": "格里德利"
 		},
-		"property_hexagon": [
-			"C",
-			"B",
-			"E",
-			"B",
-			"C",
-			"C"
-		],
+		"property_hexagon": "CBEBCC",
 		"type": 1,
+		"armor": 1,
+		"slots": [
+			[
+				1
+			],
+			[
+				5
+			],
+			[
+				6
+			],
+			[
+				10,
+				14
+			],
+			[
+				10,
+				14
+			]
+		],
 		"nationality": 1,
 		"data": {
 			"101051": {
@@ -587,15 +678,28 @@
 			"kr": "크레이븐",
 			"tw": "克雷文"
 		},
-		"property_hexagon": [
-			"C",
-			"B",
-			"E",
-			"B",
-			"C",
-			"C"
-		],
+		"property_hexagon": "CBEBCC",
 		"type": 1,
+		"armor": 1,
+		"slots": [
+			[
+				1
+			],
+			[
+				5
+			],
+			[
+				6
+			],
+			[
+				10,
+				14
+			],
+			[
+				10,
+				14
+			]
+		],
 		"nationality": 1,
 		"data": {
 			"101061": {
@@ -695,15 +799,28 @@
 			"kr": "맥콜",
 			"tw": "麥考爾"
 		},
-		"property_hexagon": [
-			"C",
-			"B",
-			"E",
-			"B",
-			"C",
-			"C"
-		],
+		"property_hexagon": "CBEBCC",
 		"type": 1,
+		"armor": 1,
+		"slots": [
+			[
+				1
+			],
+			[
+				5
+			],
+			[
+				6
+			],
+			[
+				10,
+				14
+			],
+			[
+				10,
+				14
+			]
+		],
 		"nationality": 1,
 		"data": {
 			"101071": {
@@ -803,15 +920,28 @@
 			"kr": "모리",
 			"tw": "莫里"
 		},
-		"property_hexagon": [
-			"C",
-			"A",
-			"E",
-			"A",
-			"C",
-			"C"
-		],
+		"property_hexagon": "CAEACC",
 		"type": 1,
+		"armor": 1,
+		"slots": [
+			[
+				1
+			],
+			[
+				5
+			],
+			[
+				6
+			],
+			[
+				10,
+				14
+			],
+			[
+				10,
+				14
+			]
+		],
 		"nationality": 1,
 		"data": {
 			"101081": {
@@ -911,15 +1041,28 @@
 			"kr": "플레처",
 			"tw": "佛萊契爾"
 		},
-		"property_hexagon": [
-			"C",
-			"C",
-			"E",
-			"B",
-			"C",
-			"C"
-		],
+		"property_hexagon": "CCEBCC",
 		"type": 1,
+		"armor": 1,
+		"slots": [
+			[
+				1
+			],
+			[
+				5
+			],
+			[
+				6
+			],
+			[
+				10,
+				14
+			],
+			[
+				10,
+				14
+			]
+		],
 		"nationality": 1,
 		"data": {
 			"101091": {
@@ -1031,15 +1174,28 @@
 			"kr": "찰스 오스본",
 			"tw": "查爾斯·奧斯本"
 		},
-		"property_hexagon": [
-			"C",
-			"C",
-			"E",
-			"B",
-			"C",
-			"C"
-		],
+		"property_hexagon": "CCEBCC",
 		"type": 1,
+		"armor": 1,
+		"slots": [
+			[
+				1
+			],
+			[
+				5
+			],
+			[
+				6
+			],
+			[
+				10,
+				14
+			],
+			[
+				10,
+				14
+			]
+		],
 		"nationality": 1,
 		"data": {
 			"101111": {
@@ -1151,15 +1307,28 @@
 			"kr": "대처",
 			"tw": "柴契爾"
 		},
-		"property_hexagon": [
-			"C",
-			"C",
-			"E",
-			"B",
-			"C",
-			"C"
-		],
+		"property_hexagon": "CCEBCC",
 		"type": 1,
+		"armor": 1,
+		"slots": [
+			[
+				1
+			],
+			[
+				5
+			],
+			[
+				6
+			],
+			[
+				10,
+				14
+			],
+			[
+				10,
+				14
+			]
+		],
 		"nationality": 1,
 		"data": {
 			"101121": {
@@ -1271,15 +1440,28 @@
 			"kr": "얼릭",
 			"tw": "奧利克"
 		},
-		"property_hexagon": [
-			"C",
-			"C",
-			"E",
-			"B",
-			"C",
-			"C"
-		],
+		"property_hexagon": "CCEBCC",
 		"type": 1,
+		"armor": 1,
+		"slots": [
+			[
+				1
+			],
+			[
+				5
+			],
+			[
+				6
+			],
+			[
+				10,
+				14
+			],
+			[
+				10,
+				14
+			]
+		],
 		"nationality": 1,
 		"data": {
 			"101131": {
@@ -1391,15 +1573,28 @@
 			"kr": "푸트",
 			"tw": "富特"
 		},
-		"property_hexagon": [
-			"C",
-			"C",
-			"E",
-			"B",
-			"C",
-			"C"
-		],
+		"property_hexagon": "CCEBCC",
 		"type": 1,
+		"armor": 1,
+		"slots": [
+			[
+				1
+			],
+			[
+				5
+			],
+			[
+				6
+			],
+			[
+				10,
+				14
+			],
+			[
+				10,
+				14
+			]
+		],
 		"nationality": 1,
 		"data": {
 			"101141": {
@@ -1511,15 +1706,28 @@
 			"kr": "스펜스",
 			"tw": "斯彭斯"
 		},
-		"property_hexagon": [
-			"C",
-			"C",
-			"E",
-			"B",
-			"C",
-			"C"
-		],
+		"property_hexagon": "CCEBCC",
 		"type": 1,
+		"armor": 1,
+		"slots": [
+			[
+				1
+			],
+			[
+				5
+			],
+			[
+				6
+			],
+			[
+				10,
+				14
+			],
+			[
+				10,
+				14
+			]
+		],
 		"nationality": 1,
 		"data": {
 			"101151": {
@@ -1631,15 +1839,28 @@
 			"kr": "벤슨",
 			"tw": "班森"
 		},
-		"property_hexagon": [
-			"C",
-			"C",
-			"E",
-			"B",
-			"C",
-			"C"
-		],
+		"property_hexagon": "CCEBCC",
 		"type": 1,
+		"armor": 1,
+		"slots": [
+			[
+				1
+			],
+			[
+				5
+			],
+			[
+				6
+			],
+			[
+				10,
+				14
+			],
+			[
+				10,
+				14
+			]
+		],
 		"nationality": 1,
 		"data": {
 			"101161": {
@@ -1739,15 +1960,28 @@
 			"kr": "라피",
 			"tw": "拉菲"
 		},
-		"property_hexagon": [
-			"B",
-			"C",
-			"E",
-			"B",
-			"B",
-			"C"
-		],
+		"property_hexagon": "BCEBBC",
 		"type": 1,
+		"armor": 1,
+		"slots": [
+			[
+				1
+			],
+			[
+				5
+			],
+			[
+				6
+			],
+			[
+				10,
+				14
+			],
+			[
+				10,
+				14
+			]
+		],
 		"nationality": 1,
 		"data": {
 			"101171": {
@@ -1868,15 +2102,28 @@
 			"kr": "심즈",
 			"tw": "西姆斯"
 		},
-		"property_hexagon": [
-			"C",
-			"C",
-			"E",
-			"B",
-			"C",
-			"C"
-		],
+		"property_hexagon": "CCEBCC",
 		"type": 1,
+		"armor": 1,
+		"slots": [
+			[
+				1
+			],
+			[
+				5
+			],
+			[
+				6
+			],
+			[
+				10,
+				14
+			],
+			[
+				10,
+				14
+			]
+		],
 		"nationality": 1,
 		"data": {
 			"101241": {
@@ -1976,15 +2223,28 @@
 			"kr": "허먼",
 			"tw": "哈曼"
 		},
-		"property_hexagon": [
-			"C",
-			"C",
-			"E",
-			"B",
-			"C",
-			"C"
-		],
+		"property_hexagon": "CCEBCC",
 		"type": 1,
+		"armor": 1,
+		"slots": [
+			[
+				1
+			],
+			[
+				5
+			],
+			[
+				6
+			],
+			[
+				10,
+				14
+			],
+			[
+				10,
+				14
+			]
+		],
 		"nationality": 1,
 		"data": {
 			"101251": {
@@ -2084,15 +2344,28 @@
 			"kr": "엘드릿지",
 			"tw": "埃爾德里奇"
 		},
-		"property_hexagon": [
-			"C",
-			"B",
-			"E",
-			"S",
-			"C",
-			"C"
-		],
+		"property_hexagon": "CBESCC",
 		"type": 1,
+		"armor": 1,
+		"slots": [
+			[
+				1
+			],
+			[
+				5
+			],
+			[
+				6
+			],
+			[
+				10,
+				14
+			],
+			[
+				10,
+				14
+			]
+		],
 		"nationality": 1,
 		"data": {
 			"101261": {
@@ -2192,15 +2465,28 @@
 			"kr": "베일리",
 			"tw": "貝利"
 		},
-		"property_hexagon": [
-			"C",
-			"C",
-			"E",
-			"B",
-			"C",
-			"C"
-		],
+		"property_hexagon": "CCEBCC",
 		"type": 1,
+		"armor": 1,
+		"slots": [
+			[
+				1
+			],
+			[
+				5
+			],
+			[
+				6
+			],
+			[
+				10,
+				14
+			],
+			[
+				10,
+				14
+			]
+		],
 		"nationality": 1,
 		"data": {
 			"101271": {
@@ -2300,15 +2586,28 @@
 			"kr": "래드포드",
 			"tw": "拉德福特"
 		},
-		"property_hexagon": [
-			"C",
-			"C",
-			"E",
-			"B",
-			"C",
-			"C"
-		],
+		"property_hexagon": "CCEBCC",
 		"type": 1,
+		"armor": 1,
+		"slots": [
+			[
+				1
+			],
+			[
+				5
+			],
+			[
+				6
+			],
+			[
+				10,
+				14
+			],
+			[
+				10,
+				14
+			]
+		],
 		"nationality": 1,
 		"data": {
 			"101291": {
@@ -2420,15 +2719,28 @@
 			"kr": "젠킨스",
 			"tw": "傑金斯"
 		},
-		"property_hexagon": [
-			"C",
-			"C",
-			"E",
-			"B",
-			"C",
-			"C"
-		],
+		"property_hexagon": "CCEBCC",
 		"type": 1,
+		"armor": 1,
+		"slots": [
+			[
+				1
+			],
+			[
+				5
+			],
+			[
+				6
+			],
+			[
+				10,
+				14
+			],
+			[
+				10,
+				14
+			]
+		],
 		"nationality": 1,
 		"data": {
 			"101301": {
@@ -2540,15 +2852,28 @@
 			"kr": "니콜라스",
 			"tw": "尼古拉斯"
 		},
-		"property_hexagon": [
-			"C",
-			"C",
-			"E",
-			"B",
-			"C",
-			"C"
-		],
+		"property_hexagon": "CCEBCC",
 		"type": 1,
+		"armor": 1,
+		"slots": [
+			[
+				1
+			],
+			[
+				5
+			],
+			[
+				6
+			],
+			[
+				10,
+				14
+			],
+			[
+				10,
+				14
+			]
+		],
 		"nationality": 1,
 		"data": {
 			"101311": {
@@ -2659,15 +2984,28 @@
 			"jp": "ブッシュ",
 			"kr": "부시"
 		},
-		"property_hexagon": [
-			"C",
-			"C",
-			"E",
-			"B",
-			"C",
-			"C"
-		],
+		"property_hexagon": "CCEBCC",
 		"type": 1,
+		"armor": 1,
+		"slots": [
+			[
+				1
+			],
+			[
+				5
+			],
+			[
+				6
+			],
+			[
+				10,
+				14
+			],
+			[
+				10,
+				14
+			]
+		],
 		"nationality": 1,
 		"data": {
 			"101331": {
@@ -2778,15 +3116,28 @@
 			"jp": "ヘイゼルウッド",
 			"kr": "헤이즐우드"
 		},
-		"property_hexagon": [
-			"C",
-			"C",
-			"E",
-			"B",
-			"C",
-			"C"
-		],
+		"property_hexagon": "CCEBCC",
 		"type": 1,
+		"armor": 1,
+		"slots": [
+			[
+				1
+			],
+			[
+				5
+			],
+			[
+				6
+			],
+			[
+				10,
+				14
+			],
+			[
+				10,
+				14
+			]
+		],
 		"nationality": 1,
 		"data": {
 			"101341": {
@@ -2897,15 +3248,28 @@
 			"jp": "バッチ",
 			"kr": "배시"
 		},
-		"property_hexagon": [
-			"C",
-			"C",
-			"E",
-			"B",
-			"C",
-			"C"
-		],
+		"property_hexagon": "CCEBCC",
 		"type": 1,
+		"armor": 1,
+		"slots": [
+			[
+				1
+			],
+			[
+				5
+			],
+			[
+				6
+			],
+			[
+				10,
+				14
+			],
+			[
+				10,
+				14
+			]
+		],
 		"nationality": 1,
 		"data": {
 			"101351": {
@@ -3017,15 +3381,28 @@
 			"kr": "하비",
 			"tw": "霍比"
 		},
-		"property_hexagon": [
-			"C",
-			"C",
-			"E",
-			"B",
-			"C",
-			"C"
-		],
+		"property_hexagon": "CCEBCC",
 		"type": 1,
+		"armor": 1,
+		"slots": [
+			[
+				1
+			],
+			[
+				5
+			],
+			[
+				6
+			],
+			[
+				10,
+				14
+			],
+			[
+				10,
+				14
+			]
+		],
 		"nationality": 1,
 		"data": {
 			"101361": {
@@ -3125,15 +3502,28 @@
 			"kr": "커크",
 			"tw": "科爾克"
 		},
-		"property_hexagon": [
-			"C",
-			"C",
-			"E",
-			"B",
-			"C",
-			"C"
-		],
+		"property_hexagon": "CCEBCC",
 		"type": 1,
+		"armor": 1,
+		"slots": [
+			[
+				1
+			],
+			[
+				5
+			],
+			[
+				6
+			],
+			[
+				10,
+				14
+			],
+			[
+				10,
+				14
+			]
+		],
 		"nationality": 1,
 		"data": {
 			"101371": {
@@ -3233,15 +3623,28 @@
 			"kr": "킴벌리",
 			"tw": "金伯利"
 		},
-		"property_hexagon": [
-			"C",
-			"C",
-			"E",
-			"B",
-			"C",
-			"C"
-		],
+		"property_hexagon": "CCEBCC",
 		"type": 1,
+		"armor": 1,
+		"slots": [
+			[
+				1
+			],
+			[
+				5
+			],
+			[
+				6
+			],
+			[
+				10,
+				14
+			],
+			[
+				10,
+				14
+			]
+		],
 		"nationality": 1,
 		"data": {
 			"101381": {
@@ -3353,15 +3756,28 @@
 			"kr": "멀라니",
 			"tw": "馬拉尼"
 		},
-		"property_hexagon": [
-			"C",
-			"C",
-			"E",
-			"B",
-			"C",
-			"C"
-		],
+		"property_hexagon": "CCEBCC",
 		"type": 1,
+		"armor": 1,
+		"slots": [
+			[
+				1
+			],
+			[
+				5
+			],
+			[
+				6
+			],
+			[
+				10,
+				14
+			],
+			[
+				10,
+				14
+			]
+		],
 		"nationality": 1,
 		"data": {
 			"101391": {
@@ -3472,15 +3888,28 @@
 			"jp": "エールウィン",
 			"kr": "아일윈"
 		},
-		"property_hexagon": [
-			"C",
-			"C",
-			"E",
-			"B",
-			"C",
-			"C"
-		],
+		"property_hexagon": "CCEBCC",
 		"type": 1,
+		"armor": 1,
+		"slots": [
+			[
+				1
+			],
+			[
+				5
+			],
+			[
+				6
+			],
+			[
+				10,
+				14
+			],
+			[
+				10,
+				14
+			]
+		],
 		"nationality": 1,
 		"data": {
 			"101401": {
@@ -3579,15 +4008,28 @@
 			"jp": "スタンリー",
 			"kr": "스탠리"
 		},
-		"property_hexagon": [
-			"C",
-			"C",
-			"E",
-			"B",
-			"C",
-			"C"
-		],
+		"property_hexagon": "CCEBCC",
 		"type": 1,
+		"armor": 1,
+		"slots": [
+			[
+				1
+			],
+			[
+				5
+			],
+			[
+				6
+			],
+			[
+				10,
+				14
+			],
+			[
+				10,
+				14
+			]
+		],
 		"nationality": 1,
 		"data": {
 			"101411": {
@@ -3698,15 +4140,28 @@
 			"jp": "スモーリー",
 			"kr": "스몰리"
 		},
-		"property_hexagon": [
-			"C",
-			"C",
-			"E",
-			"B",
-			"C",
-			"C"
-		],
+		"property_hexagon": "CCEBCC",
 		"type": 1,
+		"armor": 1,
+		"slots": [
+			[
+				1
+			],
+			[
+				5
+			],
+			[
+				6
+			],
+			[
+				10,
+				14
+			],
+			[
+				10,
+				14
+			]
+		],
 		"nationality": 1,
 		"data": {
 			"101421": {
@@ -3817,15 +4272,28 @@
 			"jp": "ハルゼー・パウエル",
 			"kr": "할시 파웰"
 		},
-		"property_hexagon": [
-			"C",
-			"C",
-			"E",
-			"B",
-			"C",
-			"C"
-		],
+		"property_hexagon": "CCEBCC",
 		"type": 1,
+		"armor": 1,
+		"slots": [
+			[
+				1
+			],
+			[
+				5
+			],
+			[
+				6
+			],
+			[
+				10,
+				14
+			],
+			[
+				10,
+				14
+			]
+		],
 		"nationality": 1,
 		"data": {
 			"101431": {
@@ -3936,15 +4404,28 @@
 			"jp": "クーパー",
 			"kr": "쿠퍼"
 		},
-		"property_hexagon": [
-			"C",
-			"C",
-			"E",
-			"B",
-			"C",
-			"C"
-		],
+		"property_hexagon": "CCEBCC",
 		"type": 1,
+		"armor": 1,
+		"slots": [
+			[
+				1
+			],
+			[
+				5
+			],
+			[
+				6
+			],
+			[
+				10,
+				14
+			],
+			[
+				10,
+				14
+			]
+		],
 		"nationality": 1,
 		"data": {
 			"101441": {
@@ -4044,15 +4525,28 @@
 			"kr": "오마하",
 			"tw": "奧馬哈"
 		},
-		"property_hexagon": [
-			"C",
-			"C",
-			"E",
-			"B",
-			"B",
-			"C"
-		],
+		"property_hexagon": "CCEBBC",
 		"type": 2,
+		"armor": 1,
+		"slots": [
+			[
+				2
+			],
+			[
+				5
+			],
+			[
+				6
+			],
+			[
+				10,
+				14
+			],
+			[
+				10,
+				14
+			]
+		],
 		"nationality": 1,
 		"data": {
 			"102011": {
@@ -4152,15 +4646,28 @@
 			"kr": "롤리",
 			"tw": "羅利"
 		},
-		"property_hexagon": [
-			"C",
-			"C",
-			"E",
-			"B",
-			"B",
-			"C"
-		],
+		"property_hexagon": "CCEBBC",
 		"type": 2,
+		"armor": 1,
+		"slots": [
+			[
+				2
+			],
+			[
+				5
+			],
+			[
+				6
+			],
+			[
+				10,
+				14
+			],
+			[
+				10,
+				14
+			]
+		],
 		"nationality": 1,
 		"data": {
 			"102021": {
@@ -4260,15 +4767,28 @@
 			"kr": "브루클린",
 			"tw": "布魯克林"
 		},
-		"property_hexagon": [
-			"B",
-			"E",
-			"E",
-			"B",
-			"B",
-			"C"
-		],
+		"property_hexagon": "BEEBBC",
 		"type": 2,
+		"armor": 1,
+		"slots": [
+			[
+				2
+			],
+			[
+				1
+			],
+			[
+				6
+			],
+			[
+				10,
+				14
+			],
+			[
+				10,
+				14
+			]
+		],
 		"nationality": 1,
 		"data": {
 			"102031": {
@@ -4368,15 +4888,28 @@
 			"kr": "피닉스",
 			"tw": "菲尼克斯"
 		},
-		"property_hexagon": [
-			"B",
-			"E",
-			"E",
-			"B",
-			"B",
-			"C"
-		],
+		"property_hexagon": "BEEBBC",
 		"type": 2,
+		"armor": 1,
+		"slots": [
+			[
+				2
+			],
+			[
+				1
+			],
+			[
+				6
+			],
+			[
+				10,
+				14
+			],
+			[
+				10,
+				14
+			]
+		],
 		"nationality": 1,
 		"data": {
 			"102041": {
@@ -4476,15 +5009,28 @@
 			"kr": "헬레나",
 			"tw": "海倫娜"
 		},
-		"property_hexagon": [
-			"B",
-			"E",
-			"E",
-			"B",
-			"B",
-			"C"
-		],
+		"property_hexagon": "BEEBBC",
 		"type": 2,
+		"armor": 1,
+		"slots": [
+			[
+				2
+			],
+			[
+				1
+			],
+			[
+				6
+			],
+			[
+				10,
+				14
+			],
+			[
+				10,
+				14
+			]
+		],
 		"nationality": 1,
 		"data": {
 			"102051": {
@@ -4632,15 +5178,29 @@
 			"kr": "애틀란타",
 			"tw": "亞特蘭大"
 		},
-		"property_hexagon": [
-			"D",
-			"D",
-			"E",
-			"B",
-			"S",
-			"C"
-		],
+		"property_hexagon": "DDEBSC",
 		"type": 2,
+		"armor": 1,
+		"slots": [
+			[
+				1,
+				2
+			],
+			[
+				5
+			],
+			[
+				6
+			],
+			[
+				10,
+				14
+			],
+			[
+				10,
+				14
+			]
+		],
 		"nationality": 1,
 		"data": {
 			"102061": {
@@ -4740,15 +5300,29 @@
 			"kr": "쥬노",
 			"tw": "朱諾"
 		},
-		"property_hexagon": [
-			"D",
-			"D",
-			"E",
-			"B",
-			"S",
-			"C"
-		],
+		"property_hexagon": "DDEBSC",
 		"type": 2,
+		"armor": 1,
+		"slots": [
+			[
+				1,
+				2
+			],
+			[
+				5
+			],
+			[
+				6
+			],
+			[
+				10,
+				14
+			],
+			[
+				10,
+				14
+			]
+		],
 		"nationality": 1,
 		"data": {
 			"102071": {
@@ -4848,15 +5422,29 @@
 			"kr": "샌디에이고",
 			"tw": "聖地牙哥"
 		},
-		"property_hexagon": [
-			"C",
-			"D",
-			"E",
-			"B",
-			"S",
-			"C"
-		],
+		"property_hexagon": "CDEBSC",
 		"type": 2,
+		"armor": 1,
+		"slots": [
+			[
+				1,
+				2
+			],
+			[
+				5
+			],
+			[
+				6
+			],
+			[
+				10,
+				14
+			],
+			[
+				10,
+				14
+			]
+		],
 		"nationality": 1,
 		"data": {
 			"102081": {
@@ -4984,15 +5572,28 @@
 			"kr": "클리블랜드",
 			"tw": "克里夫蘭"
 		},
-		"property_hexagon": [
-			"B",
-			"E",
-			"E",
-			"B",
-			"B",
-			"B"
-		],
+		"property_hexagon": "BEEBBB",
 		"type": 2,
+		"armor": 1,
+		"slots": [
+			[
+				2
+			],
+			[
+				1
+			],
+			[
+				6
+			],
+			[
+				10,
+				14
+			],
+			[
+				10,
+				14
+			]
+		],
 		"nationality": 1,
 		"data": {
 			"102091": {
@@ -5104,15 +5705,28 @@
 			"kr": "컬럼비아",
 			"tw": "哥倫比亞"
 		},
-		"property_hexagon": [
-			"B",
-			"E",
-			"E",
-			"B",
-			"B",
-			"B"
-		],
+		"property_hexagon": "BEEBBB",
 		"type": 2,
+		"armor": 1,
+		"slots": [
+			[
+				2
+			],
+			[
+				1
+			],
+			[
+				6
+			],
+			[
+				10,
+				14
+			],
+			[
+				10,
+				14
+			]
+		],
 		"nationality": 1,
 		"data": {
 			"102101": {
@@ -5224,15 +5838,28 @@
 			"kr": "리치몬드",
 			"tw": "里奇蒙"
 		},
-		"property_hexagon": [
-			"C",
-			"C",
-			"E",
-			"B",
-			"B",
-			"C"
-		],
+		"property_hexagon": "CCEBBC",
 		"type": 2,
+		"armor": 1,
+		"slots": [
+			[
+				2
+			],
+			[
+				5
+			],
+			[
+				6
+			],
+			[
+				10,
+				14
+			],
+			[
+				10,
+				14
+			]
+		],
 		"nationality": 1,
 		"data": {
 			"102111": {
@@ -5332,15 +5959,28 @@
 			"kr": "호놀룰루",
 			"tw": "火奴魯魯"
 		},
-		"property_hexagon": [
-			"B",
-			"E",
-			"E",
-			"B",
-			"B",
-			"C"
-		],
+		"property_hexagon": "BEEBBC",
 		"type": 2,
+		"armor": 1,
+		"slots": [
+			[
+				2
+			],
+			[
+				1
+			],
+			[
+				6
+			],
+			[
+				10,
+				14
+			],
+			[
+				10,
+				14
+			]
+		],
 		"nationality": 1,
 		"data": {
 			"102121": {
@@ -5440,15 +6080,28 @@
 			"kr": "세인트루이스",
 			"tw": "聖路易斯"
 		},
-		"property_hexagon": [
-			"B",
-			"E",
-			"E",
-			"B",
-			"B",
-			"C"
-		],
+		"property_hexagon": "BEEBBC",
 		"type": 2,
+		"armor": 1,
+		"slots": [
+			[
+				2
+			],
+			[
+				1
+			],
+			[
+				6
+			],
+			[
+				10,
+				14
+			],
+			[
+				10,
+				14
+			]
+		],
 		"nationality": 1,
 		"data": {
 			"102131": {
@@ -5548,15 +6201,28 @@
 			"kr": "몬트필리어",
 			"tw": "蒙彼利埃"
 		},
-		"property_hexagon": [
-			"B",
-			"E",
-			"E",
-			"B",
-			"B",
-			"B"
-		],
+		"property_hexagon": "BEEBBB",
 		"type": 2,
+		"armor": 1,
+		"slots": [
+			[
+				2
+			],
+			[
+				1
+			],
+			[
+				6
+			],
+			[
+				10,
+				14
+			],
+			[
+				10,
+				14
+			]
+		],
 		"nationality": 1,
 		"data": {
 			"102141": {
@@ -5668,15 +6334,28 @@
 			"kr": "덴버",
 			"tw": "丹佛"
 		},
-		"property_hexagon": [
-			"B",
-			"E",
-			"E",
-			"B",
-			"B",
-			"B"
-		],
+		"property_hexagon": "BEEBBB",
 		"type": 2,
+		"armor": 1,
+		"slots": [
+			[
+				2
+			],
+			[
+				1
+			],
+			[
+				6
+			],
+			[
+				10,
+				14
+			],
+			[
+				10,
+				14
+			]
+		],
 		"nationality": 1,
 		"data": {
 			"102151": {
@@ -5787,15 +6466,28 @@
 			"jp": "メンフィス",
 			"kr": "멤피스"
 		},
-		"property_hexagon": [
-			"C",
-			"C",
-			"E",
-			"B",
-			"B",
-			"C"
-		],
+		"property_hexagon": "CCEBBC",
 		"type": 2,
+		"armor": 1,
+		"slots": [
+			[
+				2
+			],
+			[
+				5
+			],
+			[
+				6
+			],
+			[
+				10,
+				14
+			],
+			[
+				10,
+				14
+			]
+		],
 		"nationality": 1,
 		"data": {
 			"102161": {
@@ -5895,15 +6587,28 @@
 			"kr": "콩코드",
 			"tw": "康克德"
 		},
-		"property_hexagon": [
-			"C",
-			"C",
-			"E",
-			"B",
-			"B",
-			"C"
-		],
+		"property_hexagon": "CCEBBC",
 		"type": 2,
+		"armor": 1,
+		"slots": [
+			[
+				2
+			],
+			[
+				5
+			],
+			[
+				6
+			],
+			[
+				10,
+				14
+			],
+			[
+				10,
+				14
+			]
+		],
 		"nationality": 1,
 		"data": {
 			"102181": {
@@ -6002,15 +6707,28 @@
 			"jp": "リトル・ヘレナ",
 			"kr": "꼬마 헬레나"
 		},
-		"property_hexagon": [
-			"B",
-			"E",
-			"E",
-			"B",
-			"B",
-			"C"
-		],
+		"property_hexagon": "BEEBBC",
 		"type": 2,
+		"armor": 1,
+		"slots": [
+			[
+				2
+			],
+			[
+				1
+			],
+			[
+				6
+			],
+			[
+				10,
+				14
+			],
+			[
+				10,
+				14
+			]
+		],
 		"nationality": 1,
 		"data": {
 			"102191": {
@@ -6121,15 +6839,28 @@
 			"jp": "リトル・クリーブランド",
 			"kr": "꼬마 클리블랜드"
 		},
-		"property_hexagon": [
-			"B",
-			"E",
-			"E",
-			"B",
-			"B",
-			"B"
-		],
+		"property_hexagon": "BEEBBB",
 		"type": 2,
+		"armor": 1,
+		"slots": [
+			[
+				2
+			],
+			[
+				1
+			],
+			[
+				6
+			],
+			[
+				10,
+				14
+			],
+			[
+				10,
+				14
+			]
+		],
 		"nationality": 1,
 		"data": {
 			"102201": {
@@ -6244,15 +6975,29 @@
 			"jp": "リトル・サンディエゴ",
 			"kr": "꼬마 샌디에이고"
 		},
-		"property_hexagon": [
-			"C",
-			"D",
-			"E",
-			"B",
-			"S",
-			"C"
-		],
+		"property_hexagon": "CDEBSC",
 		"type": 2,
+		"armor": 1,
+		"slots": [
+			[
+				1,
+				2
+			],
+			[
+				5
+			],
+			[
+				6
+			],
+			[
+				10,
+				14
+			],
+			[
+				10,
+				14
+			]
+		],
 		"nationality": 1,
 		"data": {
 			"102211": {
@@ -6367,15 +7112,29 @@
 			"jp": "サンフアン",
 			"kr": "산후안"
 		},
-		"property_hexagon": [
-			"D",
-			"D",
-			"E",
-			"B",
-			"S",
-			"C"
-		],
+		"property_hexagon": "DDEBSC",
 		"type": 2,
+		"armor": 1,
+		"slots": [
+			[
+				1,
+				2
+			],
+			[
+				5
+			],
+			[
+				6
+			],
+			[
+				10,
+				14
+			],
+			[
+				10,
+				14
+			]
+		],
 		"nationality": 1,
 		"data": {
 			"102221": {
@@ -6474,15 +7233,28 @@
 			"jp": "バーミンガム",
 			"kr": "버밍햄"
 		},
-		"property_hexagon": [
-			"B",
-			"E",
-			"E",
-			"B",
-			"B",
-			"B"
-		],
+		"property_hexagon": "BEEBBB",
 		"type": 2,
+		"armor": 1,
+		"slots": [
+			[
+				2
+			],
+			[
+				1
+			],
+			[
+				6
+			],
+			[
+				10,
+				14
+			],
+			[
+				10,
+				14
+			]
+		],
 		"nationality": 1,
 		"data": {
 			"102231": {
@@ -6593,15 +7365,28 @@
 			"jp": "クリーブランド（μ兵装）",
 			"kr": "클리블랜드(μ장비)"
 		},
-		"property_hexagon": [
-			"B",
-			"E",
-			"E",
-			"B",
-			"B",
-			"B"
-		],
+		"property_hexagon": "BEEBBB",
 		"type": 2,
+		"armor": 1,
+		"slots": [
+			[
+				2
+			],
+			[
+				1
+			],
+			[
+				6
+			],
+			[
+				10,
+				14
+			],
+			[
+				10,
+				14
+			]
+		],
 		"nationality": 1,
 		"data": {
 			"102241": {
@@ -6716,15 +7501,28 @@
 			"jp": "ビロクシ",
 			"kr": "빌럭시"
 		},
-		"property_hexagon": [
-			"B",
-			"E",
-			"E",
-			"B",
-			"B",
-			"B"
-		],
+		"property_hexagon": "BEEBBB",
 		"type": 2,
+		"armor": 1,
+		"slots": [
+			[
+				2
+			],
+			[
+				1
+			],
+			[
+				6
+			],
+			[
+				10,
+				14
+			],
+			[
+				10,
+				14
+			]
+		],
 		"nationality": 1,
 		"data": {
 			"102251": {
@@ -6835,15 +7633,29 @@
 			"jp": "リノ",
 			"kr": "리노"
 		},
-		"property_hexagon": [
-			"D",
-			"D",
-			"E",
-			"B",
-			"S",
-			"C"
-		],
+		"property_hexagon": "DDEBSC",
 		"type": 2,
+		"armor": 1,
+		"slots": [
+			[
+				1,
+				2
+			],
+			[
+				5
+			],
+			[
+				6
+			],
+			[
+				10,
+				14
+			],
+			[
+				10,
+				14
+			]
+		],
 		"nationality": 1,
 		"data": {
 			"102261": {
@@ -6954,15 +7766,28 @@
 			"jp": "マーブルヘッド",
 			"kr": "마블헤드"
 		},
-		"property_hexagon": [
-			"C",
-			"C",
-			"E",
-			"B",
-			"B",
-			"C"
-		],
+		"property_hexagon": "CCEBBC",
 		"type": 2,
+		"armor": 1,
+		"slots": [
+			[
+				2
+			],
+			[
+				5
+			],
+			[
+				6
+			],
+			[
+				10,
+				14
+			],
+			[
+				10,
+				14
+			]
+		],
 		"nationality": 1,
 		"data": {
 			"102271": {
@@ -7062,15 +7887,26 @@
 			"kr": "펜사콜라",
 			"tw": "彭薩科拉"
 		},
-		"property_hexagon": [
-			"B",
-			"E",
-			"E",
-			"C",
-			"C",
-			"C"
-		],
+		"property_hexagon": "BEECCC",
 		"type": 3,
+		"armor": 1,
+		"slots": [
+			[
+				3
+			],
+			[
+				1
+			],
+			[
+				6
+			],
+			[
+				10
+			],
+			[
+				10
+			]
+		],
 		"nationality": 1,
 		"data": {
 			"103011": {
@@ -7170,15 +8006,26 @@
 			"kr": "솔트레이크시티",
 			"tw": "鹽湖城"
 		},
-		"property_hexagon": [
-			"B",
-			"E",
-			"E",
-			"C",
-			"C",
-			"C"
-		],
+		"property_hexagon": "BEECCC",
 		"type": 3,
+		"armor": 1,
+		"slots": [
+			[
+				3
+			],
+			[
+				1
+			],
+			[
+				6
+			],
+			[
+				10
+			],
+			[
+				10
+			]
+		],
 		"nationality": 1,
 		"data": {
 			"103021": {
@@ -7278,15 +8125,26 @@
 			"kr": "노샘프턴",
 			"tw": "北安普敦"
 		},
-		"property_hexagon": [
-			"A",
-			"E",
-			"E",
-			"C",
-			"C",
-			"C"
-		],
+		"property_hexagon": "AEECCC",
 		"type": 3,
+		"armor": 1,
+		"slots": [
+			[
+				3
+			],
+			[
+				1
+			],
+			[
+				6
+			],
+			[
+				10
+			],
+			[
+				10
+			]
+		],
 		"nationality": 1,
 		"data": {
 			"103031": {
@@ -7386,15 +8244,26 @@
 			"kr": "시카고",
 			"tw": "芝加哥"
 		},
-		"property_hexagon": [
-			"A",
-			"E",
-			"E",
-			"C",
-			"C",
-			"C"
-		],
+		"property_hexagon": "AEECCC",
 		"type": 3,
+		"armor": 1,
+		"slots": [
+			[
+				3
+			],
+			[
+				1
+			],
+			[
+				6
+			],
+			[
+				10
+			],
+			[
+				10
+			]
+		],
 		"nationality": 1,
 		"data": {
 			"103041": {
@@ -7494,15 +8363,26 @@
 			"kr": "휴스턴",
 			"tw": "休士頓"
 		},
-		"property_hexagon": [
-			"A",
-			"E",
-			"E",
-			"C",
-			"C",
-			"C"
-		],
+		"property_hexagon": "AEECCC",
 		"type": 3,
+		"armor": 1,
+		"slots": [
+			[
+				3
+			],
+			[
+				1
+			],
+			[
+				6
+			],
+			[
+				10
+			],
+			[
+				10
+			]
+		],
 		"nationality": 1,
 		"data": {
 			"103051": {
@@ -7602,15 +8482,26 @@
 			"kr": "포틀랜드",
 			"tw": "波特蘭"
 		},
-		"property_hexagon": [
-			"B",
-			"E",
-			"E",
-			"C",
-			"B",
-			"A"
-		],
+		"property_hexagon": "BEECBA",
 		"type": 3,
+		"armor": 2,
+		"slots": [
+			[
+				3
+			],
+			[
+				1
+			],
+			[
+				6
+			],
+			[
+				10
+			],
+			[
+				10
+			]
+		],
 		"nationality": 1,
 		"data": {
 			"103061": {
@@ -7710,15 +8601,26 @@
 			"kr": "인디애나폴리스",
 			"tw": "印第安納波利斯"
 		},
-		"property_hexagon": [
-			"B",
-			"E",
-			"E",
-			"C",
-			"B",
-			"A"
-		],
+		"property_hexagon": "BEECBA",
 		"type": 3,
+		"armor": 2,
+		"slots": [
+			[
+				3
+			],
+			[
+				1
+			],
+			[
+				6
+			],
+			[
+				10
+			],
+			[
+				10
+			]
+		],
 		"nationality": 1,
 		"data": {
 			"103071": {
@@ -7818,15 +8720,26 @@
 			"kr": "아스토리아",
 			"tw": "阿斯托利亞"
 		},
-		"property_hexagon": [
-			"B",
-			"E",
-			"E",
-			"C",
-			"C",
-			"B"
-		],
+		"property_hexagon": "BEECCB",
 		"type": 3,
+		"armor": 2,
+		"slots": [
+			[
+				3
+			],
+			[
+				1
+			],
+			[
+				6
+			],
+			[
+				10
+			],
+			[
+				10
+			]
+		],
 		"nationality": 1,
 		"data": {
 			"103081": {
@@ -7938,15 +8851,26 @@
 			"kr": "퀸시",
 			"tw": "昆西"
 		},
-		"property_hexagon": [
-			"B",
-			"E",
-			"E",
-			"C",
-			"C",
-			"B"
-		],
+		"property_hexagon": "BEECCB",
 		"type": 3,
+		"armor": 2,
+		"slots": [
+			[
+				3
+			],
+			[
+				1
+			],
+			[
+				6
+			],
+			[
+				10
+			],
+			[
+				10
+			]
+		],
 		"nationality": 1,
 		"data": {
 			"103091": {
@@ -8058,15 +8982,26 @@
 			"kr": "빈센스",
 			"tw": "文森尼斯"
 		},
-		"property_hexagon": [
-			"B",
-			"E",
-			"E",
-			"C",
-			"C",
-			"B"
-		],
+		"property_hexagon": "BEECCB",
 		"type": 3,
+		"armor": 2,
+		"slots": [
+			[
+				3
+			],
+			[
+				1
+			],
+			[
+				6
+			],
+			[
+				10
+			],
+			[
+				10
+			]
+		],
 		"nationality": 1,
 		"data": {
 			"103101": {
@@ -8178,15 +9113,26 @@
 			"kr": "위치타",
 			"tw": "威奇塔"
 		},
-		"property_hexagon": [
-			"A",
-			"E",
-			"E",
-			"C",
-			"C",
-			"B"
-		],
+		"property_hexagon": "AEECCB",
 		"type": 3,
+		"armor": 1,
+		"slots": [
+			[
+				3
+			],
+			[
+				1
+			],
+			[
+				6
+			],
+			[
+				10
+			],
+			[
+				10
+			]
+		],
 		"nationality": 1,
 		"data": {
 			"103111": {
@@ -8286,15 +9232,26 @@
 			"kr": "미니애폴리스",
 			"tw": "明尼亞波利斯"
 		},
-		"property_hexagon": [
-			"B",
-			"E",
-			"E",
-			"C",
-			"B",
-			"A"
-		],
+		"property_hexagon": "BEECBA",
 		"type": 3,
+		"armor": 2,
+		"slots": [
+			[
+				3
+			],
+			[
+				1
+			],
+			[
+				6
+			],
+			[
+				10
+			],
+			[
+				10
+			]
+		],
 		"nationality": 1,
 		"data": {
 			"103131": {
@@ -8405,15 +9362,26 @@
 			"jp": "ボルチモア",
 			"kr": "볼티모어"
 		},
-		"property_hexagon": [
-			"B",
-			"E",
-			"E",
-			"C",
-			"B",
-			"A"
-		],
+		"property_hexagon": "BEECBA",
 		"type": 3,
+		"armor": 2,
+		"slots": [
+			[
+				3
+			],
+			[
+				1
+			],
+			[
+				6
+			],
+			[
+				10
+			],
+			[
+				10
+			]
+		],
 		"nationality": 1,
 		"data": {
 			"103161": {
@@ -8512,15 +9480,26 @@
 			"jp": "ブレマートン",
 			"kr": "브레머튼"
 		},
-		"property_hexagon": [
-			"B",
-			"E",
-			"E",
-			"C",
-			"B",
-			"A"
-		],
+		"property_hexagon": "BEECBA",
 		"type": 3,
+		"armor": 2,
+		"slots": [
+			[
+				3
+			],
+			[
+				1
+			],
+			[
+				6
+			],
+			[
+				10
+			],
+			[
+				10
+			]
+		],
 		"nationality": 1,
 		"data": {
 			"103241": {
@@ -8620,15 +9599,26 @@
 			"kr": "네바다",
 			"tw": "內華達"
 		},
-		"property_hexagon": [
-			"A",
-			"E",
-			"E",
-			"D",
-			"D",
-			"A"
-		],
+		"property_hexagon": "AEEDDA",
 		"type": 5,
+		"armor": 3,
+		"slots": [
+			[
+				4
+			],
+			[
+				1
+			],
+			[
+				6
+			],
+			[
+				10
+			],
+			[
+				10
+			]
+		],
 		"nationality": 1,
 		"data": {
 			"105011": {
@@ -8728,15 +9718,26 @@
 			"kr": "오클라호마",
 			"tw": "奧克拉荷馬"
 		},
-		"property_hexagon": [
-			"A",
-			"E",
-			"E",
-			"D",
-			"D",
-			"A"
-		],
+		"property_hexagon": "AEEDDA",
 		"type": 5,
+		"armor": 3,
+		"slots": [
+			[
+				4
+			],
+			[
+				1
+			],
+			[
+				6
+			],
+			[
+				10
+			],
+			[
+				10
+			]
+		],
 		"nationality": 1,
 		"data": {
 			"105021": {
@@ -8836,15 +9837,26 @@
 			"kr": "펜실베이니아",
 			"tw": "賓夕法尼亞"
 		},
-		"property_hexagon": [
-			"A",
-			"E",
-			"E",
-			"D",
-			"D",
-			"A"
-		],
+		"property_hexagon": "AEEDDA",
 		"type": 5,
+		"armor": 3,
+		"slots": [
+			[
+				4
+			],
+			[
+				1
+			],
+			[
+				6
+			],
+			[
+				10
+			],
+			[
+				10
+			]
+		],
 		"nationality": 1,
 		"data": {
 			"105031": {
@@ -8944,15 +9956,26 @@
 			"kr": "애리조나",
 			"tw": "亞利桑那"
 		},
-		"property_hexagon": [
-			"A",
-			"E",
-			"E",
-			"D",
-			"D",
-			"A"
-		],
+		"property_hexagon": "AEEDDA",
 		"type": 5,
+		"armor": 3,
+		"slots": [
+			[
+				4
+			],
+			[
+				1
+			],
+			[
+				6
+			],
+			[
+				10
+			],
+			[
+				10
+			]
+		],
 		"nationality": 1,
 		"data": {
 			"105041": {
@@ -9052,15 +10075,26 @@
 			"kr": "테네시",
 			"tw": "田納西"
 		},
-		"property_hexagon": [
-			"A",
-			"E",
-			"E",
-			"D",
-			"D",
-			"A"
-		],
+		"property_hexagon": "AEEDDA",
 		"type": 5,
+		"armor": 3,
+		"slots": [
+			[
+				4
+			],
+			[
+				1
+			],
+			[
+				6
+			],
+			[
+				10
+			],
+			[
+				10
+			]
+		],
 		"nationality": 1,
 		"data": {
 			"105071": {
@@ -9160,15 +10194,26 @@
 			"kr": "캘리포니아",
 			"tw": "加利福尼亞"
 		},
-		"property_hexagon": [
-			"A",
-			"E",
-			"E",
-			"D",
-			"D",
-			"A"
-		],
+		"property_hexagon": "AEEDDA",
 		"type": 5,
+		"armor": 3,
+		"slots": [
+			[
+				4
+			],
+			[
+				1
+			],
+			[
+				6
+			],
+			[
+				10
+			],
+			[
+				10
+			]
+		],
 		"nationality": 1,
 		"data": {
 			"105081": {
@@ -9268,15 +10313,26 @@
 			"kr": "콜로라도",
 			"tw": "科羅拉多"
 		},
-		"property_hexagon": [
-			"A",
-			"E",
-			"E",
-			"D",
-			"D",
-			"A"
-		],
+		"property_hexagon": "AEEDDA",
 		"type": 5,
+		"armor": 3,
+		"slots": [
+			[
+				4
+			],
+			[
+				1
+			],
+			[
+				6
+			],
+			[
+				10
+			],
+			[
+				10
+			]
+		],
 		"nationality": 1,
 		"data": {
 			"105091": {
@@ -9376,15 +10432,26 @@
 			"kr": "메릴랜드",
 			"tw": "馬里蘭"
 		},
-		"property_hexagon": [
-			"A",
-			"E",
-			"E",
-			"D",
-			"D",
-			"A"
-		],
+		"property_hexagon": "AEEDDA",
 		"type": 5,
+		"armor": 3,
+		"slots": [
+			[
+				4
+			],
+			[
+				1
+			],
+			[
+				6
+			],
+			[
+				10
+			],
+			[
+				10
+			]
+		],
 		"nationality": 1,
 		"data": {
 			"105101": {
@@ -9484,15 +10551,26 @@
 			"kr": "웨스트버지니아",
 			"tw": "西維吉尼亞"
 		},
-		"property_hexagon": [
-			"A",
-			"E",
-			"E",
-			"D",
-			"D",
-			"A"
-		],
+		"property_hexagon": "AEEDDA",
 		"type": 5,
+		"armor": 3,
+		"slots": [
+			[
+				4
+			],
+			[
+				1
+			],
+			[
+				6
+			],
+			[
+				10
+			],
+			[
+				10
+			]
+		],
 		"nationality": 1,
 		"data": {
 			"105111": {
@@ -9592,15 +10670,26 @@
 			"kr": "노스캐롤라이나",
 			"tw": "北卡羅來納"
 		},
-		"property_hexagon": [
-			"A",
-			"E",
-			"E",
-			"D",
-			"B",
-			"S"
-		],
+		"property_hexagon": "AEEDBS",
 		"type": 5,
+		"armor": 3,
+		"slots": [
+			[
+				4
+			],
+			[
+				1
+			],
+			[
+				6
+			],
+			[
+				10
+			],
+			[
+				10
+			]
+		],
 		"nationality": 1,
 		"data": {
 			"105121": {
@@ -9745,15 +10834,26 @@
 			"kr": "워싱턴",
 			"tw": "華盛頓"
 		},
-		"property_hexagon": [
-			"A",
-			"E",
-			"E",
-			"D",
-			"B",
-			"S"
-		],
+		"property_hexagon": "AEEDBS",
 		"type": 5,
+		"armor": 3,
+		"slots": [
+			[
+				4
+			],
+			[
+				1
+			],
+			[
+				6
+			],
+			[
+				10
+			],
+			[
+				10
+			]
+		],
 		"nationality": 1,
 		"data": {
 			"105131": {
@@ -9898,15 +10998,26 @@
 			"kr": "사우스다코타",
 			"tw": "南達科他"
 		},
-		"property_hexagon": [
-			"A",
-			"E",
-			"E",
-			"D",
-			"B",
-			"S"
-		],
+		"property_hexagon": "AEEDBS",
 		"type": 5,
+		"armor": 3,
+		"slots": [
+			[
+				4
+			],
+			[
+				1
+			],
+			[
+				6
+			],
+			[
+				10
+			],
+			[
+				10
+			]
+		],
 		"nationality": 1,
 		"data": {
 			"105141": {
@@ -10006,15 +11117,26 @@
 			"kr": "매사추세츠",
 			"tw": "麻薩諸塞"
 		},
-		"property_hexagon": [
-			"A",
-			"E",
-			"E",
-			"D",
-			"B",
-			"S"
-		],
+		"property_hexagon": "AEEDBS",
 		"type": 5,
+		"armor": 3,
+		"slots": [
+			[
+				4
+			],
+			[
+				1
+			],
+			[
+				6
+			],
+			[
+				10
+			],
+			[
+				10
+			]
+		],
 		"nationality": 1,
 		"data": {
 			"105191": {
@@ -10137,15 +11259,26 @@
 			"jp": "アラバマ",
 			"kr": "앨라배마"
 		},
-		"property_hexagon": [
-			"A",
-			"E",
-			"E",
-			"D",
-			"B",
-			"S"
-		],
+		"property_hexagon": "AEEDBS",
 		"type": 5,
+		"armor": 3,
+		"slots": [
+			[
+				4
+			],
+			[
+				1
+			],
+			[
+				6
+			],
+			[
+				10
+			],
+			[
+				10
+			]
+		],
 		"nationality": 1,
 		"data": {
 			"105201": {
@@ -10245,15 +11378,28 @@
 			"kr": "롱 아일랜드",
 			"tw": "長島"
 		},
-		"property_hexagon": [
-			"E",
-			"E",
-			"B",
-			"D",
-			"B",
-			"C"
-		],
+		"property_hexagon": "EEBDBC",
 		"type": 6,
+		"armor": 2,
+		"slots": [
+			[
+				7
+			],
+			[
+				9
+			],
+			[
+				6
+			],
+			[
+				10,
+				15
+			],
+			[
+				10,
+				15
+			]
+		],
 		"nationality": 1,
 		"data": {
 			"106011": {
@@ -10353,15 +11499,28 @@
 			"kr": "보그",
 			"tw": "博格"
 		},
-		"property_hexagon": [
-			"E",
-			"E",
-			"B",
-			"D",
-			"B",
-			"C"
-		],
+		"property_hexagon": "EEBDBC",
 		"type": 6,
+		"armor": 2,
+		"slots": [
+			[
+				7
+			],
+			[
+				9
+			],
+			[
+				6
+			],
+			[
+				10,
+				15
+			],
+			[
+				10,
+				15
+			]
+		],
 		"nationality": 1,
 		"data": {
 			"106021": {
@@ -10460,15 +11619,28 @@
 			"jp": "カサブランカ",
 			"kr": "카사블랑카"
 		},
-		"property_hexagon": [
-			"E",
-			"E",
-			"B",
-			"D",
-			"B",
-			"C"
-		],
+		"property_hexagon": "EEBDBC",
 		"type": 6,
+		"armor": 2,
+		"slots": [
+			[
+				7
+			],
+			[
+				8
+			],
+			[
+				6
+			],
+			[
+				10,
+				15
+			],
+			[
+				10,
+				15
+			]
+		],
 		"nationality": 1,
 		"data": {
 			"106551": {
@@ -10568,15 +11740,28 @@
 			"kr": "랭글리",
 			"tw": "蘭利"
 		},
-		"property_hexagon": [
-			"E",
-			"E",
-			"B",
-			"D",
-			"B",
-			"C"
-		],
+		"property_hexagon": "EEBDBC",
 		"type": 6,
+		"armor": 2,
+		"slots": [
+			[
+				7
+			],
+			[
+				1
+			],
+			[
+				9
+			],
+			[
+				10,
+				15
+			],
+			[
+				10,
+				15
+			]
+		],
 		"nationality": 1,
 		"data": {
 			"107011": {
@@ -10619,7 +11804,26 @@
 					"spd": 15.5,
 					"luk": 32,
 					"asw": 29
-				}
+				},
+				"slots": [
+					[
+						7
+					],
+					[
+						7
+					],
+					[
+						9
+					],
+					[
+						10,
+						15
+					],
+					[
+						10,
+						15
+					]
+				]
 			},
 			"107013": {
 				"id": 107013,
@@ -10640,7 +11844,26 @@
 					"spd": 15.5,
 					"luk": 32,
 					"asw": 40
-				}
+				},
+				"slots": [
+					[
+						7
+					],
+					[
+						7
+					],
+					[
+						9
+					],
+					[
+						10,
+						15
+					],
+					[
+						10,
+						15
+					]
+				]
 			},
 			"107014": {
 				"id": 107014,
@@ -10661,7 +11884,26 @@
 					"spd": 15.5,
 					"luk": 32,
 					"asw": 57
-				}
+				},
+				"slots": [
+					[
+						7
+					],
+					[
+						7
+					],
+					[
+						9
+					],
+					[
+						10,
+						15
+					],
+					[
+						10,
+						15
+					]
+				]
 			}
 		},
 		"stars": 4
@@ -10676,15 +11918,26 @@
 			"kr": "렉싱턴",
 			"tw": "列星頓"
 		},
-		"property_hexagon": [
-			"C",
-			"E",
-			"A",
-			"C",
-			"B",
-			"A"
-		],
+		"property_hexagon": "CEACBA",
 		"type": 7,
+		"armor": 2,
+		"slots": [
+			[
+				7
+			],
+			[
+				9
+			],
+			[
+				9
+			],
+			[
+				10
+			],
+			[
+				10
+			]
+		],
 		"nationality": 1,
 		"data": {
 			"107021": {
@@ -10784,15 +12037,26 @@
 			"kr": "새러토가",
 			"tw": "薩拉托加"
 		},
-		"property_hexagon": [
-			"C",
-			"E",
-			"A",
-			"C",
-			"B",
-			"A"
-		],
+		"property_hexagon": "CEACBA",
 		"type": 7,
+		"armor": 2,
+		"slots": [
+			[
+				7
+			],
+			[
+				9
+			],
+			[
+				9
+			],
+			[
+				10
+			],
+			[
+				10
+			]
+		],
 		"nationality": 1,
 		"data": {
 			"107031": {
@@ -10916,15 +12180,28 @@
 			"kr": "레인저",
 			"tw": "遊騎兵"
 		},
-		"property_hexagon": [
-			"E",
-			"E",
-			"A",
-			"C",
-			"B",
-			"C"
-		],
+		"property_hexagon": "EEACBC",
 		"type": 6,
+		"armor": 2,
+		"slots": [
+			[
+				8
+			],
+			[
+				9
+			],
+			[
+				9
+			],
+			[
+				10,
+				15
+			],
+			[
+				10,
+				15
+			]
+		],
 		"nationality": 1,
 		"data": {
 			"107041": {
@@ -11048,15 +12325,26 @@
 			"kr": "요크타운",
 			"tw": "約克鎮"
 		},
-		"property_hexagon": [
-			"E",
-			"E",
-			"A",
-			"C",
-			"B",
-			"B"
-		],
+		"property_hexagon": "EEACBB",
 		"type": 7,
+		"armor": 2,
+		"slots": [
+			[
+				7
+			],
+			[
+				9
+			],
+			[
+				8
+			],
+			[
+				10
+			],
+			[
+				10
+			]
+		],
 		"nationality": 1,
 		"data": {
 			"107051": {
@@ -11156,15 +12444,26 @@
 			"kr": "엔터프라이즈",
 			"tw": "企業"
 		},
-		"property_hexagon": [
-			"E",
-			"E",
-			"S",
-			"B",
-			"B",
-			"B"
-		],
+		"property_hexagon": "EESBBB",
 		"type": 7,
+		"armor": 2,
+		"slots": [
+			[
+				7
+			],
+			[
+				9
+			],
+			[
+				8
+			],
+			[
+				10
+			],
+			[
+				10
+			]
+		],
 		"nationality": 1,
 		"data": {
 			"107061": {
@@ -11316,15 +12615,26 @@
 			"kr": "호넷",
 			"tw": "大黃蜂"
 		},
-		"property_hexagon": [
-			"E",
-			"E",
-			"A",
-			"C",
-			"B",
-			"B"
-		],
+		"property_hexagon": "EEACBB",
 		"type": 7,
+		"armor": 2,
+		"slots": [
+			[
+				7
+			],
+			[
+				9
+			],
+			[
+				8
+			],
+			[
+				10
+			],
+			[
+				10
+			]
+		],
 		"nationality": 1,
 		"data": {
 			"107071": {
@@ -11424,15 +12734,26 @@
 			"kr": "와스프",
 			"tw": "胡蜂"
 		},
-		"property_hexagon": [
-			"E",
-			"E",
-			"A",
-			"C",
-			"B",
-			"C"
-		],
+		"property_hexagon": "EEACBC",
 		"type": 7,
+		"armor": 2,
+		"slots": [
+			[
+				7
+			],
+			[
+				9
+			],
+			[
+				8
+			],
+			[
+				10
+			],
+			[
+				10
+			]
+		],
 		"nationality": 1,
 		"data": {
 			"107081": {
@@ -11532,15 +12853,26 @@
 			"kr": "에식스",
 			"tw": "艾塞克斯"
 		},
-		"property_hexagon": [
-			"E",
-			"E",
-			"S",
-			"B",
-			"B",
-			"B"
-		],
+		"property_hexagon": "EESBBB",
 		"type": 7,
+		"armor": 2,
+		"slots": [
+			[
+				7
+			],
+			[
+				9
+			],
+			[
+				8
+			],
+			[
+				10
+			],
+			[
+				10
+			]
+		],
 		"nationality": 1,
 		"data": {
 			"107091": {
@@ -11664,15 +12996,26 @@
 			"kr": "인트레피드",
 			"tw": "无畏"
 		},
-		"property_hexagon": [
-			"E",
-			"E",
-			"S",
-			"B",
-			"B",
-			"B"
-		],
+		"property_hexagon": "EESBBB",
 		"type": 7,
+		"armor": 2,
+		"slots": [
+			[
+				7
+			],
+			[
+				9
+			],
+			[
+				8
+			],
+			[
+				10
+			],
+			[
+				10
+			]
+		],
 		"nationality": 1,
 		"data": {
 			"107111": {
@@ -11793,15 +13136,26 @@
 			"kr": "벙커힐",
 			"tw": "碉堡山"
 		},
-		"property_hexagon": [
-			"E",
-			"E",
-			"S",
-			"B",
-			"B",
-			"B"
-		],
+		"property_hexagon": "EESBBB",
 		"type": 7,
+		"armor": 2,
+		"slots": [
+			[
+				7
+			],
+			[
+				9
+			],
+			[
+				8
+			],
+			[
+				10
+			],
+			[
+				10
+			]
+		],
 		"nationality": 1,
 		"data": {
 			"107171": {
@@ -11925,15 +13279,28 @@
 			"kr": "인디펜던스",
 			"tw": "獨立"
 		},
-		"property_hexagon": [
-			"E",
-			"E",
-			"A",
-			"C",
-			"B",
-			"B"
-		],
+		"property_hexagon": "EEACBB",
 		"type": 6,
+		"armor": 2,
+		"slots": [
+			[
+				7
+			],
+			[
+				8
+			],
+			[
+				6
+			],
+			[
+				10,
+				15
+			],
+			[
+				10,
+				15
+			]
+		],
 		"nationality": 1,
 		"data": {
 			"107221": {
@@ -12032,15 +13399,28 @@
 			"jp": "バターン",
 			"kr": "바탄"
 		},
-		"property_hexagon": [
-			"E",
-			"E",
-			"A",
-			"C",
-			"B",
-			"B"
-		],
+		"property_hexagon": "EEACBB",
 		"type": 6,
+		"armor": 2,
+		"slots": [
+			[
+				7
+			],
+			[
+				8
+			],
+			[
+				6
+			],
+			[
+				10,
+				15
+			],
+			[
+				10,
+				15
+			]
+		],
 		"nationality": 1,
 		"data": {
 			"107291": {
@@ -12140,15 +13520,26 @@
 			"kr": "샹그릴라",
 			"tw": "香格里拉"
 		},
-		"property_hexagon": [
-			"E",
-			"E",
-			"S",
-			"B",
-			"B",
-			"B"
-		],
+		"property_hexagon": "EESBBB",
 		"type": 7,
+		"armor": 2,
+		"slots": [
+			[
+				7
+			],
+			[
+				9
+			],
+			[
+				8
+			],
+			[
+				10
+			],
+			[
+				10
+			]
+		],
 		"nationality": 1,
 		"data": {
 			"107381": {
@@ -12242,15 +13633,10 @@
 		"id": 10801,
 		"code": 342,
 		"name": {},
-		"property_hexagon": [
-			"D",
-			"S",
-			"E",
-			"D",
-			"E",
-			"D"
-		],
+		"property_hexagon": "DSEDED",
 		"type": 8,
+		"armor": null,
+		"slots": null,
 		"nationality": 1,
 		"data": {}
 	},
@@ -12258,15 +13644,10 @@
 		"id": 10802,
 		"code": 358,
 		"name": {},
-		"property_hexagon": [
-			"D",
-			"S",
-			"E",
-			"D",
-			"E",
-			"D"
-		],
+		"property_hexagon": "DSEDED",
 		"type": 8,
+		"armor": null,
+		"slots": null,
 		"nationality": 1,
 		"data": {}
 	},
@@ -12274,15 +13655,10 @@
 		"id": 10803,
 		"code": 402,
 		"name": {},
-		"property_hexagon": [
-			"D",
-			"S",
-			"E",
-			"D",
-			"E",
-			"D"
-		],
+		"property_hexagon": "DSEDED",
 		"type": 8,
+		"armor": null,
+		"slots": null,
 		"nationality": 1,
 		"data": {}
 	},
@@ -12290,15 +13666,10 @@
 		"id": 10804,
 		"code": 446,
 		"name": {},
-		"property_hexagon": [
-			"D",
-			"S",
-			"E",
-			"D",
-			"E",
-			"D"
-		],
+		"property_hexagon": "DSEDED",
 		"type": 8,
+		"armor": null,
+		"slots": null,
 		"nationality": 1,
 		"data": {}
 	},
@@ -12312,15 +13683,26 @@
 			"kr": "베스탈",
 			"tw": "女灶神"
 		},
-		"property_hexagon": [
-			"E",
-			"E",
-			"E",
-			"C",
-			"D",
-			"C"
-		],
+		"property_hexagon": "EEECDC",
 		"type": 12,
+		"armor": 1,
+		"slots": [
+			[
+				10
+			],
+			[
+				6
+			],
+			[
+				6
+			],
+			[
+				10
+			],
+			[
+				10
+			]
+		],
 		"nationality": 1,
 		"data": {
 			"112011": {
@@ -12420,15 +13802,28 @@
 			"kr": "시애틀",
 			"tw": "西雅圖"
 		},
-		"property_hexagon": [
-			"B",
-			"E",
-			"E",
-			"B",
-			"A",
-			"B"
-		],
+		"property_hexagon": "BEEBAB",
 		"type": 2,
+		"armor": 1,
+		"slots": [
+			[
+				2
+			],
+			[
+				6
+			],
+			[
+				6
+			],
+			[
+				10,
+				14
+			],
+			[
+				10,
+				14
+			]
+		],
 		"nationality": 1,
 		"data": {
 			"199011": {
@@ -12492,7 +13887,27 @@
 					"spd": 33,
 					"luk": 0,
 					"asw": 65
-				}
+				},
+				"slots": [
+					[
+						2
+					],
+					[
+						2,
+						6
+					],
+					[
+						6
+					],
+					[
+						10,
+						14
+					],
+					[
+						10,
+						14
+					]
+				]
 			},
 			"199014": {
 				"id": 199014,
@@ -12513,7 +13928,27 @@
 					"spd": 33,
 					"luk": 0,
 					"asw": 93
-				}
+				},
+				"slots": [
+					[
+						2
+					],
+					[
+						2,
+						6
+					],
+					[
+						6
+					],
+					[
+						10,
+						14
+					],
+					[
+						10,
+						14
+					]
+				]
 			},
 			"900907": {
 				"id": 900907,
@@ -12534,7 +13969,27 @@
 					"spd": 33,
 					"luk": 0,
 					"asw": 93
-				}
+				},
+				"slots": [
+					[
+						2
+					],
+					[
+						2,
+						6
+					],
+					[
+						6
+					],
+					[
+						10,
+						14
+					],
+					[
+						10,
+						14
+					]
+				]
 			}
 		},
 		"stars": 6
@@ -12549,15 +14004,26 @@
 			"kr": "조지아",
 			"tw": "喬治亞"
 		},
-		"property_hexagon": [
-			"S",
-			"E",
-			"E",
-			"C",
-			"B",
-			"S"
-		],
+		"property_hexagon": "SEECBS",
 		"type": 5,
+		"armor": 3,
+		"slots": [
+			[
+				4
+			],
+			[
+				1
+			],
+			[
+				6
+			],
+			[
+				10
+			],
+			[
+				10
+			]
+		],
 		"nationality": 1,
 		"data": {
 			"199021": {
@@ -12678,15 +14144,28 @@
 			"kr": "아마존",
 			"tw": "女將"
 		},
-		"property_hexagon": [
-			"D",
-			"B",
-			"E",
-			"A",
-			"D",
-			"D"
-		],
+		"property_hexagon": "DBEADD",
 		"type": 1,
+		"armor": 1,
+		"slots": [
+			[
+				1
+			],
+			[
+				5
+			],
+			[
+				6
+			],
+			[
+				10,
+				14
+			],
+			[
+				10,
+				14
+			]
+		],
 		"nationality": 2,
 		"data": {
 			"201011": {
@@ -12813,15 +14292,28 @@
 			"kr": "아카스타",
 			"tw": "阿卡司塔"
 		},
-		"property_hexagon": [
-			"D",
-			"A",
-			"E",
-			"A",
-			"D",
-			"D"
-		],
+		"property_hexagon": "DAEADD",
 		"type": 1,
+		"armor": 1,
+		"slots": [
+			[
+				1
+			],
+			[
+				5
+			],
+			[
+				6
+			],
+			[
+				10,
+				14
+			],
+			[
+				10,
+				14
+			]
+		],
 		"nationality": 2,
 		"data": {
 			"201021": {
@@ -12921,15 +14413,28 @@
 			"kr": "아덴트",
 			"tw": "熱心"
 		},
-		"property_hexagon": [
-			"D",
-			"B",
-			"E",
-			"A",
-			"D",
-			"D"
-		],
+		"property_hexagon": "DBEADD",
 		"type": 1,
+		"armor": 1,
+		"slots": [
+			[
+				1
+			],
+			[
+				5
+			],
+			[
+				6
+			],
+			[
+				10,
+				14
+			],
+			[
+				10,
+				14
+			]
+		],
 		"nationality": 2,
 		"data": {
 			"201031": {
@@ -13029,15 +14534,28 @@
 			"kr": "비글",
 			"tw": "小獵兔犬"
 		},
-		"property_hexagon": [
-			"D",
-			"B",
-			"E",
-			"A",
-			"D",
-			"D"
-		],
+		"property_hexagon": "DBEADD",
 		"type": 1,
+		"armor": 1,
+		"slots": [
+			[
+				1
+			],
+			[
+				5
+			],
+			[
+				6
+			],
+			[
+				10,
+				14
+			],
+			[
+				10,
+				14
+			]
+		],
 		"nationality": 2,
 		"data": {
 			"201061": {
@@ -13137,15 +14655,28 @@
 			"kr": "불독",
 			"tw": "大鬥犬"
 		},
-		"property_hexagon": [
-			"D",
-			"B",
-			"E",
-			"A",
-			"D",
-			"D"
-		],
+		"property_hexagon": "DBEADD",
 		"type": 1,
+		"armor": 1,
+		"slots": [
+			[
+				1
+			],
+			[
+				5
+			],
+			[
+				6
+			],
+			[
+				10,
+				14
+			],
+			[
+				10,
+				14
+			]
+		],
 		"nationality": 2,
 		"data": {
 			"201071": {
@@ -13245,15 +14776,28 @@
 			"kr": "코멧",
 			"tw": "彗星"
 		},
-		"property_hexagon": [
-			"D",
-			"B",
-			"E",
-			"A",
-			"D",
-			"D"
-		],
+		"property_hexagon": "DBEADD",
 		"type": 1,
+		"armor": 1,
+		"slots": [
+			[
+				1
+			],
+			[
+				5
+			],
+			[
+				6
+			],
+			[
+				10,
+				14
+			],
+			[
+				10,
+				14
+			]
+		],
 		"nationality": 2,
 		"data": {
 			"201081": {
@@ -13353,15 +14897,28 @@
 			"kr": "크레센트",
 			"tw": "新月"
 		},
-		"property_hexagon": [
-			"D",
-			"B",
-			"E",
-			"A",
-			"D",
-			"D"
-		],
+		"property_hexagon": "DBEADD",
 		"type": 1,
+		"armor": 1,
+		"slots": [
+			[
+				1
+			],
+			[
+				5
+			],
+			[
+				6
+			],
+			[
+				10,
+				14
+			],
+			[
+				10,
+				14
+			]
+		],
 		"nationality": 2,
 		"data": {
 			"201091": {
@@ -13461,15 +15018,28 @@
 			"kr": "시그넷",
 			"tw": "小天鵝"
 		},
-		"property_hexagon": [
-			"D",
-			"B",
-			"E",
-			"A",
-			"D",
-			"D"
-		],
+		"property_hexagon": "DBEADD",
 		"type": 1,
+		"armor": 1,
+		"slots": [
+			[
+				1
+			],
+			[
+				5
+			],
+			[
+				6
+			],
+			[
+				10,
+				14
+			],
+			[
+				10,
+				14
+			]
+		],
 		"nationality": 2,
 		"data": {
 			"201101": {
@@ -13569,15 +15139,28 @@
 			"kr": "폭스하운드",
 			"tw": "狐提"
 		},
-		"property_hexagon": [
-			"D",
-			"B",
-			"E",
-			"A",
-			"D",
-			"D"
-		],
+		"property_hexagon": "DBEADD",
 		"type": 1,
+		"armor": 1,
+		"slots": [
+			[
+				1
+			],
+			[
+				5
+			],
+			[
+				6
+			],
+			[
+				10,
+				14
+			],
+			[
+				10,
+				14
+			]
+		],
 		"nationality": 2,
 		"data": {
 			"201111": {
@@ -13677,15 +15260,28 @@
 			"kr": "포춘",
 			"tw": "命運女神"
 		},
-		"property_hexagon": [
-			"D",
-			"B",
-			"E",
-			"A",
-			"D",
-			"D"
-		],
+		"property_hexagon": "DBEADD",
 		"type": 1,
+		"armor": 1,
+		"slots": [
+			[
+				1
+			],
+			[
+				5
+			],
+			[
+				6
+			],
+			[
+				10,
+				14
+			],
+			[
+				10,
+				14
+			]
+		],
 		"nationality": 2,
 		"data": {
 			"201121": {
@@ -13785,15 +15381,28 @@
 			"kr": "그렌빌",
 			"tw": "格倫維爾"
 		},
-		"property_hexagon": [
-			"D",
-			"B",
-			"E",
-			"A",
-			"D",
-			"D"
-		],
+		"property_hexagon": "DBEADD",
 		"type": 1,
+		"armor": 1,
+		"slots": [
+			[
+				1
+			],
+			[
+				5
+			],
+			[
+				6
+			],
+			[
+				10,
+				14
+			],
+			[
+				10,
+				14
+			]
+		],
 		"nationality": 2,
 		"data": {
 			"201131": {
@@ -13893,15 +15502,28 @@
 			"kr": "글로우웜",
 			"tw": "螢火蟲"
 		},
-		"property_hexagon": [
-			"D",
-			"B",
-			"E",
-			"A",
-			"D",
-			"D"
-		],
+		"property_hexagon": "DBEADD",
 		"type": 1,
+		"armor": 1,
+		"slots": [
+			[
+				1
+			],
+			[
+				5
+			],
+			[
+				6
+			],
+			[
+				10,
+				14
+			],
+			[
+				10,
+				14
+			]
+		],
 		"nationality": 2,
 		"data": {
 			"201141": {
@@ -14000,15 +15622,28 @@
 			"jp": "ハーディ",
 			"kr": "하디"
 		},
-		"property_hexagon": [
-			"D",
-			"B",
-			"E",
-			"A",
-			"D",
-			"D"
-		],
+		"property_hexagon": "DBEADD",
 		"type": 1,
+		"armor": 1,
+		"slots": [
+			[
+				1
+			],
+			[
+				5
+			],
+			[
+				6
+			],
+			[
+				10,
+				14
+			],
+			[
+				10,
+				14
+			]
+		],
 		"nationality": 2,
 		"data": {
 			"201161": {
@@ -14107,15 +15742,28 @@
 			"jp": "ハンター",
 			"kr": "헌터"
 		},
-		"property_hexagon": [
-			"D",
-			"B",
-			"E",
-			"A",
-			"D",
-			"D"
-		],
+		"property_hexagon": "DBEADD",
 		"type": 1,
+		"armor": 1,
+		"slots": [
+			[
+				1
+			],
+			[
+				5
+			],
+			[
+				6
+			],
+			[
+				10,
+				14
+			],
+			[
+				10,
+				14
+			]
+		],
 		"nationality": 2,
 		"data": {
 			"201201": {
@@ -14215,15 +15863,28 @@
 			"kr": "재블린",
 			"tw": "標槍"
 		},
-		"property_hexagon": [
-			"D",
-			"B",
-			"E",
-			"A",
-			"D",
-			"D"
-		],
+		"property_hexagon": "DBEADD",
 		"type": 1,
+		"armor": 1,
+		"slots": [
+			[
+				1
+			],
+			[
+				5
+			],
+			[
+				6
+			],
+			[
+				10,
+				14
+			],
+			[
+				10,
+				14
+			]
+		],
 		"nationality": 2,
 		"data": {
 			"201211": {
@@ -14362,15 +16023,28 @@
 			"kr": "주노",
 			"tw": "天后"
 		},
-		"property_hexagon": [
-			"D",
-			"B",
-			"E",
-			"A",
-			"D",
-			"D"
-		],
+		"property_hexagon": "DBEADD",
 		"type": 1,
+		"armor": 1,
+		"slots": [
+			[
+				1
+			],
+			[
+				5
+			],
+			[
+				6
+			],
+			[
+				10,
+				14
+			],
+			[
+				10,
+				14
+			]
+		],
 		"nationality": 2,
 		"data": {
 			"201221": {
@@ -14482,15 +16156,28 @@
 			"kr": "뱀파이어",
 			"tw": "吸血鬼"
 		},
-		"property_hexagon": [
-			"D",
-			"B",
-			"E",
-			"B",
-			"D",
-			"D"
-		],
+		"property_hexagon": "DBEBDD",
 		"type": 1,
+		"armor": 1,
+		"slots": [
+			[
+				1
+			],
+			[
+				5
+			],
+			[
+				6
+			],
+			[
+				10,
+				14
+			],
+			[
+				10,
+				14
+			]
+		],
 		"nationality": 2,
 		"data": {
 			"201231": {
@@ -14590,15 +16277,28 @@
 			"kr": "주피터",
 			"tw": "丘比特"
 		},
-		"property_hexagon": [
-			"D",
-			"B",
-			"E",
-			"A",
-			"D",
-			"D"
-		],
+		"property_hexagon": "DBEADD",
 		"type": 1,
+		"armor": 1,
+		"slots": [
+			[
+				1
+			],
+			[
+				5
+			],
+			[
+				6
+			],
+			[
+				10,
+				14
+			],
+			[
+				10,
+				14
+			]
+		],
 		"nationality": 2,
 		"data": {
 			"201241": {
@@ -14710,15 +16410,28 @@
 			"kr": "저지",
 			"tw": "澤西"
 		},
-		"property_hexagon": [
-			"D",
-			"B",
-			"E",
-			"A",
-			"D",
-			"D"
-		],
+		"property_hexagon": "DBEADD",
 		"type": 1,
+		"armor": 1,
+		"slots": [
+			[
+				1
+			],
+			[
+				5
+			],
+			[
+				6
+			],
+			[
+				10,
+				14
+			],
+			[
+				10,
+				14
+			]
+		],
 		"nationality": 2,
 		"data": {
 			"201251": {
@@ -14818,15 +16531,28 @@
 			"kr": "매치리스",
 			"tw": "無敵"
 		},
-		"property_hexagon": [
-			"D",
-			"B",
-			"E",
-			"A",
-			"D",
-			"D"
-		],
+		"property_hexagon": "DBEADD",
 		"type": 1,
+		"armor": 1,
+		"slots": [
+			[
+				1
+			],
+			[
+				5
+			],
+			[
+				6
+			],
+			[
+				10,
+				14
+			],
+			[
+				10,
+				14
+			]
+		],
 		"nationality": 2,
 		"data": {
 			"201261": {
@@ -14926,15 +16652,28 @@
 			"kr": "머스킷티어",
 			"tw": "火槍手"
 		},
-		"property_hexagon": [
-			"D",
-			"B",
-			"E",
-			"A",
-			"D",
-			"D"
-		],
+		"property_hexagon": "DBEADD",
 		"type": 1,
+		"armor": 1,
+		"slots": [
+			[
+				1
+			],
+			[
+				5
+			],
+			[
+				6
+			],
+			[
+				10,
+				14
+			],
+			[
+				10,
+				14
+			]
+		],
 		"nationality": 2,
 		"data": {
 			"201271": {
@@ -15034,15 +16773,28 @@
 			"kr": "에코",
 			"tw": "回聲"
 		},
-		"property_hexagon": [
-			"D",
-			"B",
-			"E",
-			"A",
-			"D",
-			"D"
-		],
+		"property_hexagon": "DBEADD",
 		"type": 1,
+		"armor": 1,
+		"slots": [
+			[
+				1
+			],
+			[
+				5
+			],
+			[
+				6
+			],
+			[
+				10,
+				14
+			],
+			[
+				10,
+				14
+			]
+		],
 		"nationality": 2,
 		"data": {
 			"201291": {
@@ -15141,15 +16893,28 @@
 			"jp": "エスキモー",
 			"kr": "에스키모"
 		},
-		"property_hexagon": [
-			"C",
-			"B",
-			"E",
-			"A",
-			"C",
-			"C"
-		],
+		"property_hexagon": "CBEACC",
 		"type": 1,
+		"armor": 1,
+		"slots": [
+			[
+				1
+			],
+			[
+				5
+			],
+			[
+				6
+			],
+			[
+				10,
+				14
+			],
+			[
+				10,
+				14
+			]
+		],
 		"nationality": 2,
 		"data": {
 			"201321": {
@@ -15248,15 +17013,28 @@
 			"jp": "イカルス",
 			"kr": "이카로스"
 		},
-		"property_hexagon": [
-			"D",
-			"B",
-			"E",
-			"A",
-			"D",
-			"D"
-		],
+		"property_hexagon": "DBEADD",
 		"type": 1,
+		"armor": 1,
+		"slots": [
+			[
+				1
+			],
+			[
+				5
+			],
+			[
+				6
+			],
+			[
+				10,
+				14
+			],
+			[
+				10,
+				14
+			]
+		],
 		"nationality": 2,
 		"data": {
 			"201331": {
@@ -15356,15 +17134,28 @@
 			"kr": "리엔더",
 			"tw": "利安得"
 		},
-		"property_hexagon": [
-			"C",
-			"C",
-			"E",
-			"B",
-			"B",
-			"C"
-		],
+		"property_hexagon": "CCEBBC",
 		"type": 2,
+		"armor": 1,
+		"slots": [
+			[
+				2
+			],
+			[
+				5
+			],
+			[
+				6
+			],
+			[
+				10,
+				14
+			],
+			[
+				10,
+				14
+			]
+		],
 		"nationality": 2,
 		"data": {
 			"202011": {
@@ -15464,15 +17255,28 @@
 			"kr": "아킬레스",
 			"tw": "阿基里斯"
 		},
-		"property_hexagon": [
-			"B",
-			"B",
-			"E",
-			"B",
-			"C",
-			"C"
-		],
+		"property_hexagon": "BBEBCC",
 		"type": 2,
+		"armor": 1,
+		"slots": [
+			[
+				2
+			],
+			[
+				5
+			],
+			[
+				6
+			],
+			[
+				10,
+				14
+			],
+			[
+				10,
+				14
+			]
+		],
 		"nationality": 2,
 		"data": {
 			"202021": {
@@ -15572,15 +17376,28 @@
 			"kr": "에이잭스",
 			"tw": "阿賈克斯"
 		},
-		"property_hexagon": [
-			"B",
-			"B",
-			"E",
-			"B",
-			"C",
-			"C"
-		],
+		"property_hexagon": "BBEBCC",
 		"type": 2,
+		"armor": 1,
+		"slots": [
+			[
+				2
+			],
+			[
+				5
+			],
+			[
+				6
+			],
+			[
+				10,
+				14
+			],
+			[
+				10,
+				14
+			]
+		],
 		"nationality": 2,
 		"data": {
 			"202031": {
@@ -15679,15 +17496,29 @@
 			"jp": "ダイドー",
 			"kr": "다이도"
 		},
-		"property_hexagon": [
-			"B",
-			"D",
-			"E",
-			"B",
-			"A",
-			"C"
-		],
+		"property_hexagon": "BDEBAC",
 		"type": 2,
+		"armor": 1,
+		"slots": [
+			[
+				1,
+				2
+			],
+			[
+				5
+			],
+			[
+				6
+			],
+			[
+				10,
+				14
+			],
+			[
+				10,
+				14
+			]
+		],
 		"nationality": 2,
 		"data": {
 			"202041": {
@@ -15798,15 +17629,28 @@
 			"jp": "サウサンプトン",
 			"kr": "사우스햄튼"
 		},
-		"property_hexagon": [
-			"B",
-			"B",
-			"E",
-			"B",
-			"C",
-			"C"
-		],
+		"property_hexagon": "BBEBCC",
 		"type": 2,
+		"armor": 1,
+		"slots": [
+			[
+				2
+			],
+			[
+				5
+			],
+			[
+				6
+			],
+			[
+				10,
+				14
+			],
+			[
+				10,
+				14
+			]
+		],
 		"nationality": 2,
 		"data": {
 			"202071": {
@@ -15906,15 +17750,28 @@
 			"kr": "셰필드",
 			"tw": "謝菲爾德"
 		},
-		"property_hexagon": [
-			"B",
-			"B",
-			"E",
-			"B",
-			"C",
-			"C"
-		],
+		"property_hexagon": "BBEBCC",
 		"type": 2,
+		"armor": 1,
+		"slots": [
+			[
+				2
+			],
+			[
+				5
+			],
+			[
+				6
+			],
+			[
+				10,
+				14
+			],
+			[
+				10,
+				14
+			]
+		],
 		"nationality": 2,
 		"data": {
 			"202081": {
@@ -16013,15 +17870,28 @@
 			"jp": "グロスター",
 			"kr": "글로스터"
 		},
-		"property_hexagon": [
-			"B",
-			"B",
-			"E",
-			"B",
-			"C",
-			"C"
-		],
+		"property_hexagon": "BBEBCC",
 		"type": 2,
+		"armor": 1,
+		"slots": [
+			[
+				2
+			],
+			[
+				5
+			],
+			[
+				6
+			],
+			[
+				10,
+				14
+			],
+			[
+				10,
+				14
+			]
+		],
 		"nationality": 2,
 		"data": {
 			"202101": {
@@ -16121,15 +17991,28 @@
 			"kr": "에든버러",
 			"tw": "愛丁堡"
 		},
-		"property_hexagon": [
-			"B",
-			"B",
-			"E",
-			"B",
-			"C",
-			"C"
-		],
+		"property_hexagon": "BBEBCC",
 		"type": 2,
+		"armor": 1,
+		"slots": [
+			[
+				2
+			],
+			[
+				5
+			],
+			[
+				6
+			],
+			[
+				10,
+				14
+			],
+			[
+				10,
+				14
+			]
+		],
 		"nationality": 2,
 		"data": {
 			"202111": {
@@ -16229,15 +18112,28 @@
 			"kr": "벨파스트",
 			"tw": "貝爾法斯特"
 		},
-		"property_hexagon": [
-			"B",
-			"A",
-			"E",
-			"B",
-			"C",
-			"B"
-		],
+		"property_hexagon": "BAEBCB",
 		"type": 2,
+		"armor": 1,
+		"slots": [
+			[
+				2
+			],
+			[
+				5
+			],
+			[
+				6
+			],
+			[
+				10,
+				14
+			],
+			[
+				10,
+				14
+			]
+		],
 		"nationality": 2,
 		"data": {
 			"202121": {
@@ -16337,15 +18233,28 @@
 			"kr": "아레투사",
 			"tw": "阿瑞托莎"
 		},
-		"property_hexagon": [
-			"C",
-			"C",
-			"E",
-			"B",
-			"B",
-			"C"
-		],
+		"property_hexagon": "CCEBBC",
 		"type": 2,
+		"armor": 1,
+		"slots": [
+			[
+				2
+			],
+			[
+				5
+			],
+			[
+				6
+			],
+			[
+				10,
+				14
+			],
+			[
+				10,
+				14
+			]
+		],
 		"nationality": 2,
 		"data": {
 			"202131": {
@@ -16445,15 +18354,28 @@
 			"kr": "갈라테아",
 			"tw": "加拉蒂亞"
 		},
-		"property_hexagon": [
-			"C",
-			"C",
-			"E",
-			"B",
-			"B",
-			"C"
-		],
+		"property_hexagon": "CCEBBC",
 		"type": 2,
+		"armor": 1,
+		"slots": [
+			[
+				2
+			],
+			[
+				5
+			],
+			[
+				6
+			],
+			[
+				10,
+				14
+			],
+			[
+				10,
+				14
+			]
+		],
 		"nationality": 2,
 		"data": {
 			"202141": {
@@ -16553,15 +18475,28 @@
 			"kr": "오로라",
 			"tw": "歐若拉"
 		},
-		"property_hexagon": [
-			"C",
-			"B",
-			"E",
-			"B",
-			"B",
-			"C"
-		],
+		"property_hexagon": "CBEBBC",
 		"type": 2,
+		"armor": 1,
+		"slots": [
+			[
+				2
+			],
+			[
+				5
+			],
+			[
+				6
+			],
+			[
+				10,
+				14
+			],
+			[
+				10,
+				14
+			]
+		],
 		"nationality": 2,
 		"data": {
 			"202151": {
@@ -16661,15 +18596,28 @@
 			"kr": "피지",
 			"tw": "斐濟"
 		},
-		"property_hexagon": [
-			"C",
-			"C",
-			"E",
-			"B",
-			"B",
-			"C"
-		],
+		"property_hexagon": "CCEBBC",
 		"type": 2,
+		"armor": 1,
+		"slots": [
+			[
+				2
+			],
+			[
+				5
+			],
+			[
+				6
+			],
+			[
+				10,
+				14
+			],
+			[
+				10,
+				14
+			]
+		],
 		"nationality": 2,
 		"data": {
 			"202161": {
@@ -16769,15 +18717,28 @@
 			"kr": "자메이카",
 			"tw": "牙買加"
 		},
-		"property_hexagon": [
-			"C",
-			"C",
-			"E",
-			"B",
-			"B",
-			"C"
-		],
+		"property_hexagon": "CCEBBC",
 		"type": 2,
+		"armor": 1,
+		"slots": [
+			[
+				2
+			],
+			[
+				5
+			],
+			[
+				6
+			],
+			[
+				10,
+				14
+			],
+			[
+				10,
+				14
+			]
+		],
 		"nationality": 2,
 		"data": {
 			"202171": {
@@ -16877,15 +18838,28 @@
 			"kr": "꼬마 벨파스트",
 			"tw": "小貝法"
 		},
-		"property_hexagon": [
-			"C",
-			"B",
-			"E",
-			"B",
-			"C",
-			"C"
-		],
+		"property_hexagon": "CBEBCC",
 		"type": 2,
+		"armor": 1,
+		"slots": [
+			[
+				2
+			],
+			[
+				5
+			],
+			[
+				6
+			],
+			[
+				10,
+				14
+			],
+			[
+				10,
+				14
+			]
+		],
 		"nationality": 2,
 		"data": {
 			"202181": {
@@ -16984,15 +18958,28 @@
 			"jp": "ニューカッスル",
 			"kr": "뉴캐슬"
 		},
-		"property_hexagon": [
-			"B",
-			"B",
-			"E",
-			"B",
-			"A",
-			"C"
-		],
+		"property_hexagon": "BBEBAC",
 		"type": 2,
+		"armor": 1,
+		"slots": [
+			[
+				2
+			],
+			[
+				5
+			],
+			[
+				6
+			],
+			[
+				10,
+				14
+			],
+			[
+				10,
+				14
+			]
+		],
 		"nationality": 2,
 		"data": {
 			"202191": {
@@ -17092,15 +19079,29 @@
 			"kr": "시리우스",
 			"tw": "天狼星"
 		},
-		"property_hexagon": [
-			"B",
-			"D",
-			"E",
-			"B",
-			"A",
-			"C"
-		],
+		"property_hexagon": "BDEBAC",
 		"type": 2,
+		"armor": 1,
+		"slots": [
+			[
+				1,
+				2
+			],
+			[
+				5
+			],
+			[
+				6
+			],
+			[
+				10,
+				14
+			],
+			[
+				10,
+				14
+			]
+		],
 		"nationality": 2,
 		"data": {
 			"202201": {
@@ -17212,15 +19213,29 @@
 			"kr": "퀴라소",
 			"tw": "庫拉索"
 		},
-		"property_hexagon": [
-			"C",
-			"E",
-			"E",
-			"B",
-			"A",
-			"C"
-		],
+		"property_hexagon": "CEEBAC",
 		"type": 2,
+		"armor": 1,
+		"slots": [
+			[
+				1,
+				2
+			],
+			[
+				6
+			],
+			[
+				6
+			],
+			[
+				10,
+				14
+			],
+			[
+				10,
+				14
+			]
+		],
 		"nationality": 2,
 		"data": {
 			"202211": {
@@ -17320,15 +19335,29 @@
 			"kr": "컬루",
 			"tw": "杓鷸"
 		},
-		"property_hexagon": [
-			"C",
-			"E",
-			"E",
-			"B",
-			"A",
-			"C"
-		],
+		"property_hexagon": "CEEBAC",
 		"type": 2,
+		"armor": 1,
+		"slots": [
+			[
+				1,
+				2
+			],
+			[
+				6
+			],
+			[
+				6
+			],
+			[
+				10,
+				14
+			],
+			[
+				10,
+				14
+			]
+		],
 		"nationality": 2,
 		"data": {
 			"202221": {
@@ -17427,15 +19456,28 @@
 			"jp": "スウィフトシュア",
 			"kr": "스위프트슈어"
 		},
-		"property_hexagon": [
-			"B",
-			"A",
-			"E",
-			"B",
-			"B",
-			"C"
-		],
+		"property_hexagon": "BAEBBC",
 		"type": 2,
+		"armor": 1,
+		"slots": [
+			[
+				2
+			],
+			[
+				5
+			],
+			[
+				6
+			],
+			[
+				10,
+				14
+			],
+			[
+				10,
+				14
+			]
+		],
 		"nationality": 2,
 		"data": {
 			"202231": {
@@ -17534,15 +19576,29 @@
 			"jp": "ブラック・プリンス",
 			"kr": "블랙 프린스"
 		},
-		"property_hexagon": [
-			"B",
-			"D",
-			"E",
-			"B",
-			"A",
-			"C"
-		],
+		"property_hexagon": "BDEBAC",
 		"type": 2,
+		"armor": 1,
+		"slots": [
+			[
+				1,
+				2
+			],
+			[
+				5
+			],
+			[
+				6
+			],
+			[
+				10,
+				14
+			],
+			[
+				10,
+				14
+			]
+		],
 		"nationality": 2,
 		"data": {
 			"202241": {
@@ -17653,15 +19709,28 @@
 			"jp": "シェフィールド（μ兵装）",
 			"kr": "셰필드(μ장비)"
 		},
-		"property_hexagon": [
-			"B",
-			"B",
-			"E",
-			"B",
-			"A",
-			"C"
-		],
+		"property_hexagon": "BBEBAC",
 		"type": 2,
+		"armor": 1,
+		"slots": [
+			[
+				2
+			],
+			[
+				5
+			],
+			[
+				6
+			],
+			[
+				10,
+				14
+			],
+			[
+				10,
+				14
+			]
+		],
 		"nationality": 2,
 		"data": {
 			"202251": {
@@ -17772,15 +19841,28 @@
 			"jp": "グラスゴー",
 			"kr": "글래스고"
 		},
-		"property_hexagon": [
-			"B",
-			"B",
-			"E",
-			"B",
-			"A",
-			"C"
-		],
+		"property_hexagon": "BBEBAC",
 		"type": 2,
+		"armor": 1,
+		"slots": [
+			[
+				2
+			],
+			[
+				5
+			],
+			[
+				6
+			],
+			[
+				10,
+				14
+			],
+			[
+				10,
+				14
+			]
+		],
 		"nationality": 2,
 		"data": {
 			"202261": {
@@ -17879,15 +19961,29 @@
 			"jp": "ハーマイオニー",
 			"kr": "허마이오니"
 		},
-		"property_hexagon": [
-			"B",
-			"D",
-			"E",
-			"B",
-			"A",
-			"C"
-		],
+		"property_hexagon": "BDEBAC",
 		"type": 2,
+		"armor": 1,
+		"slots": [
+			[
+				1,
+				2
+			],
+			[
+				5
+			],
+			[
+				6
+			],
+			[
+				10,
+				14
+			],
+			[
+				10,
+				14
+			]
+		],
 		"nationality": 2,
 		"data": {
 			"202271": {
@@ -17999,15 +20095,26 @@
 			"kr": "런던",
 			"tw": "倫敦"
 		},
-		"property_hexagon": [
-			"A",
-			"C",
-			"E",
-			"C",
-			"C",
-			"C"
-		],
+		"property_hexagon": "ACECCC",
 		"type": 3,
+		"armor": 1,
+		"slots": [
+			[
+				3
+			],
+			[
+				5
+			],
+			[
+				6
+			],
+			[
+				10
+			],
+			[
+				10
+			]
+		],
 		"nationality": 2,
 		"data": {
 			"203011": {
@@ -18114,6 +20221,24 @@
 					"luk": 62,
 					"asw": 0
 				},
+				"slots": [
+					[
+						3
+					],
+					[
+						1,
+						5
+					],
+					[
+						6
+					],
+					[
+						10
+					],
+					[
+						10
+					]
+				],
 				"name": {
 					"en": "London Retrofit",
 					"cn": "伦敦.改",
@@ -18135,15 +20260,26 @@
 			"kr": "슈롭셔",
 			"tw": "什羅普郡"
 		},
-		"property_hexagon": [
-			"A",
-			"C",
-			"E",
-			"C",
-			"C",
-			"C"
-		],
+		"property_hexagon": "ACECCC",
 		"type": 3,
+		"armor": 1,
+		"slots": [
+			[
+				3
+			],
+			[
+				5
+			],
+			[
+				6
+			],
+			[
+				10
+			],
+			[
+				10
+			]
+		],
 		"nationality": 2,
 		"data": {
 			"203021": {
@@ -18243,15 +20379,26 @@
 			"kr": "켄트",
 			"tw": "肯特"
 		},
-		"property_hexagon": [
-			"A",
-			"C",
-			"E",
-			"C",
-			"C",
-			"C"
-		],
+		"property_hexagon": "ACECCC",
 		"type": 3,
+		"armor": 1,
+		"slots": [
+			[
+				3
+			],
+			[
+				5
+			],
+			[
+				6
+			],
+			[
+				10
+			],
+			[
+				10
+			]
+		],
 		"nationality": 2,
 		"data": {
 			"203031": {
@@ -18351,15 +20498,26 @@
 			"kr": "서포크",
 			"tw": "薩福克"
 		},
-		"property_hexagon": [
-			"A",
-			"C",
-			"E",
-			"C",
-			"C",
-			"C"
-		],
+		"property_hexagon": "ACECCC",
 		"type": 3,
+		"armor": 1,
+		"slots": [
+			[
+				3
+			],
+			[
+				5
+			],
+			[
+				6
+			],
+			[
+				10
+			],
+			[
+				10
+			]
+		],
 		"nationality": 2,
 		"data": {
 			"203041": {
@@ -18459,15 +20617,26 @@
 			"kr": "노포크",
 			"tw": "諾福克"
 		},
-		"property_hexagon": [
-			"B",
-			"D",
-			"E",
-			"C",
-			"B",
-			"A"
-		],
+		"property_hexagon": "BDECBA",
 		"type": 3,
+		"armor": 2,
+		"slots": [
+			[
+				3
+			],
+			[
+				5
+			],
+			[
+				6
+			],
+			[
+				10
+			],
+			[
+				10
+			]
+		],
 		"nationality": 2,
 		"data": {
 			"203051": {
@@ -18567,15 +20736,26 @@
 			"kr": "도셋셔",
 			"tw": "多塞特郡"
 		},
-		"property_hexagon": [
-			"B",
-			"B",
-			"E",
-			"C",
-			"B",
-			"A"
-		],
+		"property_hexagon": "BBECBA",
 		"type": 3,
+		"armor": 2,
+		"slots": [
+			[
+				3
+			],
+			[
+				5
+			],
+			[
+				6
+			],
+			[
+				10
+			],
+			[
+				10
+			]
+		],
 		"nationality": 2,
 		"data": {
 			"203061": {
@@ -18675,15 +20855,26 @@
 			"kr": "요크",
 			"tw": "約克"
 		},
-		"property_hexagon": [
-			"B",
-			"C",
-			"E",
-			"C",
-			"B",
-			"B"
-		],
+		"property_hexagon": "BCECBB",
 		"type": 3,
+		"armor": 2,
+		"slots": [
+			[
+				3
+			],
+			[
+				5
+			],
+			[
+				6
+			],
+			[
+				10
+			],
+			[
+				10
+			]
+		],
 		"nationality": 2,
 		"data": {
 			"203071": {
@@ -18783,15 +20974,26 @@
 			"kr": "엑세터",
 			"tw": "埃克塞特"
 		},
-		"property_hexagon": [
-			"B",
-			"C",
-			"E",
-			"C",
-			"B",
-			"B"
-		],
+		"property_hexagon": "BCECBB",
 		"type": 3,
+		"armor": 2,
+		"slots": [
+			[
+				3
+			],
+			[
+				5
+			],
+			[
+				6
+			],
+			[
+				10
+			],
+			[
+				10
+			]
+		],
 		"nationality": 2,
 		"data": {
 			"203081": {
@@ -18891,15 +21093,26 @@
 			"kr": "서식스",
 			"tw": "蘇塞克斯"
 		},
-		"property_hexagon": [
-			"B",
-			"C",
-			"E",
-			"C",
-			"B",
-			"C"
-		],
+		"property_hexagon": "BCECBC",
 		"type": 3,
+		"armor": 1,
+		"slots": [
+			[
+				3
+			],
+			[
+				5
+			],
+			[
+				6
+			],
+			[
+				10
+			],
+			[
+				10
+			]
+		],
 		"nationality": 2,
 		"data": {
 			"203091": {
@@ -18999,15 +21212,26 @@
 			"kr": "리나운",
 			"tw": "聲望"
 		},
-		"property_hexagon": [
-			"S",
-			"E",
-			"E",
-			"C",
-			"C",
-			"B"
-		],
+		"property_hexagon": "SEECCB",
 		"type": 4,
+		"armor": 2,
+		"slots": [
+			[
+				4
+			],
+			[
+				1
+			],
+			[
+				6
+			],
+			[
+				10
+			],
+			[
+				10
+			]
+		],
 		"nationality": 2,
 		"data": {
 			"204011": {
@@ -19131,15 +21355,26 @@
 			"kr": "리펄스",
 			"tw": "反擊"
 		},
-		"property_hexagon": [
-			"A",
-			"E",
-			"E",
-			"C",
-			"C",
-			"B"
-		],
+		"property_hexagon": "AEECCB",
 		"type": 4,
+		"armor": 2,
+		"slots": [
+			[
+				4
+			],
+			[
+				1
+			],
+			[
+				6
+			],
+			[
+				10
+			],
+			[
+				10
+			]
+		],
 		"nationality": 2,
 		"data": {
 			"204021": {
@@ -19239,15 +21474,26 @@
 			"kr": "후드",
 			"tw": "胡德"
 		},
-		"property_hexagon": [
-			"A",
-			"E",
-			"E",
-			"C",
-			"B",
-			"A"
-		],
+		"property_hexagon": "AEECBA",
 		"type": 4,
+		"armor": 2,
+		"slots": [
+			[
+				4
+			],
+			[
+				1
+			],
+			[
+				6
+			],
+			[
+				10
+			],
+			[
+				10
+			]
+		],
 		"nationality": 2,
 		"data": {
 			"204031": {
@@ -19367,15 +21613,26 @@
 			"jp": "リトル・レナウン",
 			"kr": "꼬마 리나운"
 		},
-		"property_hexagon": [
-			"A",
-			"E",
-			"E",
-			"C",
-			"C",
-			"B"
-		],
+		"property_hexagon": "AEECCB",
 		"type": 4,
+		"armor": 2,
+		"slots": [
+			[
+				4
+			],
+			[
+				1
+			],
+			[
+				6
+			],
+			[
+				10
+			],
+			[
+				10
+			]
+		],
 		"nationality": 2,
 		"data": {
 			"204041": {
@@ -19475,15 +21732,27 @@
 			"kr": "퀸 엘리자베스",
 			"tw": "伊莉莎白女王"
 		},
-		"property_hexagon": [
-			"A",
-			"E",
-			"E",
-			"D",
-			"D",
-			"A"
-		],
+		"property_hexagon": "AEEDDA",
 		"type": 5,
+		"armor": 3,
+		"slots": [
+			[
+				4
+			],
+			[
+				1,
+				2
+			],
+			[
+				6
+			],
+			[
+				10
+			],
+			[
+				10
+			]
+		],
 		"nationality": 2,
 		"data": {
 			"205011": {
@@ -19595,15 +21864,27 @@
 			"kr": "워스파이트",
 			"tw": "厭戰"
 		},
-		"property_hexagon": [
-			"S",
-			"E",
-			"E",
-			"D",
-			"D",
-			"A"
-		],
+		"property_hexagon": "SEEDDA",
 		"type": 5,
+		"armor": 3,
+		"slots": [
+			[
+				4
+			],
+			[
+				1,
+				2
+			],
+			[
+				6
+			],
+			[
+				10
+			],
+			[
+				10
+			]
+		],
 		"nationality": 2,
 		"data": {
 			"205021": {
@@ -19710,6 +21991,25 @@
 					"luk": 90,
 					"asw": 58
 				},
+				"slots": [
+					[
+						4
+					],
+					[
+						1,
+						2
+					],
+					[
+						6
+					],
+					[
+						10,
+						15
+					],
+					[
+						10
+					]
+				],
 				"name": {
 					"en": "Warspite Retrofit",
 					"cn": "厌战.改",
@@ -19754,15 +22054,27 @@
 			"kr": "넬슨",
 			"tw": "納爾遜"
 		},
-		"property_hexagon": [
-			"A",
-			"E",
-			"E",
-			"D",
-			"C",
-			"A"
-		],
+		"property_hexagon": "AEEDCA",
 		"type": 5,
+		"armor": 3,
+		"slots": [
+			[
+				4
+			],
+			[
+				1,
+				2
+			],
+			[
+				6
+			],
+			[
+				10
+			],
+			[
+				10
+			]
+		],
 		"nationality": 2,
 		"data": {
 			"205031": {
@@ -19862,15 +22174,27 @@
 			"kr": "로드니",
 			"tw": "羅德尼"
 		},
-		"property_hexagon": [
-			"A",
-			"E",
-			"E",
-			"D",
-			"C",
-			"A"
-		],
+		"property_hexagon": "AEEDCA",
 		"type": 5,
+		"armor": 3,
+		"slots": [
+			[
+				4
+			],
+			[
+				1,
+				2
+			],
+			[
+				6
+			],
+			[
+				10
+			],
+			[
+				10
+			]
+		],
 		"nationality": 2,
 		"data": {
 			"205041": {
@@ -19994,15 +22318,27 @@
 			"kr": "킹 조지 5세",
 			"tw": "英王喬治五世"
 		},
-		"property_hexagon": [
-			"S",
-			"E",
-			"E",
-			"D",
-			"D",
-			"A"
-		],
+		"property_hexagon": "SEEDDA",
 		"type": 5,
+		"armor": 3,
+		"slots": [
+			[
+				4
+			],
+			[
+				1,
+				2
+			],
+			[
+				6
+			],
+			[
+				10
+			],
+			[
+				10
+			]
+		],
 		"nationality": 2,
 		"data": {
 			"205051": {
@@ -20141,15 +22477,27 @@
 			"kr": "프린스 오브 웨일즈",
 			"tw": "威爾斯親王"
 		},
-		"property_hexagon": [
-			"S",
-			"E",
-			"E",
-			"D",
-			"D",
-			"A"
-		],
+		"property_hexagon": "SEEDDA",
 		"type": 5,
+		"armor": 3,
+		"slots": [
+			[
+				4
+			],
+			[
+				1,
+				2
+			],
+			[
+				6
+			],
+			[
+				10
+			],
+			[
+				10
+			]
+		],
 		"nationality": 2,
 		"data": {
 			"205061": {
@@ -20261,15 +22609,27 @@
 			"kr": "듀크 오브 요크",
 			"tw": "約克公爵"
 		},
-		"property_hexagon": [
-			"S",
-			"E",
-			"E",
-			"D",
-			"D",
-			"A"
-		],
+		"property_hexagon": "SEEDDA",
 		"type": 5,
+		"armor": 3,
+		"slots": [
+			[
+				4
+			],
+			[
+				1,
+				2
+			],
+			[
+				6
+			],
+			[
+				10
+			],
+			[
+				10
+			]
+		],
 		"nationality": 2,
 		"data": {
 			"205071": {
@@ -20407,15 +22767,27 @@
 			"jp": "ハウ",
 			"tw": "豪"
 		},
-		"property_hexagon": [
-			"S",
-			"E",
-			"E",
-			"D",
-			"D",
-			"A"
-		],
+		"property_hexagon": "SEEDDA",
 		"type": 5,
+		"armor": 3,
+		"slots": [
+			[
+				4
+			],
+			[
+				1,
+				2
+			],
+			[
+				6
+			],
+			[
+				10
+			],
+			[
+				10
+			]
+		],
 		"nationality": 2,
 		"data": {
 			"205091": {
@@ -20551,15 +22923,27 @@
 			"kr": "밸리언트",
 			"tw": "英勇"
 		},
-		"property_hexagon": [
-			"A",
-			"E",
-			"E",
-			"D",
-			"D",
-			"A"
-		],
+		"property_hexagon": "AEEDDA",
 		"type": 5,
+		"armor": 3,
+		"slots": [
+			[
+				4
+			],
+			[
+				1,
+				2
+			],
+			[
+				6
+			],
+			[
+				10
+			],
+			[
+				10
+			]
+		],
 		"nationality": 2,
 		"data": {
 			"205101": {
@@ -20680,15 +23064,28 @@
 			"kr": "허미즈",
 			"tw": "競技神"
 		},
-		"property_hexagon": [
-			"E",
-			"E",
-			"B",
-			"D",
-			"B",
-			"C"
-		],
+		"property_hexagon": "EEBDBC",
 		"type": 6,
+		"armor": 2,
+		"slots": [
+			[
+				8
+			],
+			[
+				8
+			],
+			[
+				6
+			],
+			[
+				10,
+				15
+			],
+			[
+				10,
+				15
+			]
+		],
 		"nationality": 2,
 		"data": {
 			"206011": {
@@ -20788,15 +23185,28 @@
 			"kr": "유니콘",
 			"tw": "獨角獸"
 		},
-		"property_hexagon": [
-			"E",
-			"E",
-			"B",
-			"D",
-			"B",
-			"C"
-		],
+		"property_hexagon": "EEBDBC",
 		"type": 6,
+		"armor": 2,
+		"slots": [
+			[
+				7
+			],
+			[
+				8
+			],
+			[
+				6
+			],
+			[
+				10,
+				15
+			],
+			[
+				10,
+				15
+			]
+		],
 		"nationality": 2,
 		"data": {
 			"206031": {
@@ -20896,15 +23306,28 @@
 			"kr": "센토",
 			"tw": "半人馬"
 		},
-		"property_hexagon": [
-			"E",
-			"E",
-			"A",
-			"C",
-			"B",
-			"S"
-		],
+		"property_hexagon": "EEACBS",
 		"type": 6,
+		"armor": 2,
+		"slots": [
+			[
+				7
+			],
+			[
+				7
+			],
+			[
+				8
+			],
+			[
+				10,
+				15
+			],
+			[
+				10,
+				15
+			]
+		],
 		"nationality": 2,
 		"data": {
 			"206041": {
@@ -21004,15 +23427,28 @@
 			"kr": "체이서",
 			"tw": "追趕者"
 		},
-		"property_hexagon": [
-			"E",
-			"E",
-			"A",
-			"D",
-			"B",
-			"B"
-		],
+		"property_hexagon": "EEADBB",
 		"type": 6,
+		"armor": 2,
+		"slots": [
+			[
+				7
+			],
+			[
+				8
+			],
+			[
+				6
+			],
+			[
+				10,
+				15
+			],
+			[
+				10,
+				15
+			]
+		],
 		"nationality": 2,
 		"data": {
 			"206051": {
@@ -21112,15 +23548,28 @@
 			"kr": "퍼시어스",
 			"tw": "英仙座"
 		},
-		"property_hexagon": [
-			"E",
-			"E",
-			"A",
-			"D",
-			"B",
-			"B"
-		],
+		"property_hexagon": "EEADBB",
 		"type": 6,
+		"armor": 2,
+		"slots": [
+			[
+				7
+			],
+			[
+				8
+			],
+			[
+				6
+			],
+			[
+				10,
+				15
+			],
+			[
+				10,
+				15
+			]
+		],
 		"nationality": 2,
 		"data": {
 			"206061": {
@@ -21244,15 +23693,27 @@
 			"kr": "이글",
 			"tw": "鹰"
 		},
-		"property_hexagon": [
-			"D",
-			"E",
-			"A",
-			"C",
-			"B",
-			"B"
-		],
+		"property_hexagon": "DEACBB",
 		"type": 7,
+		"armor": 2,
+		"slots": [
+			[
+				7
+			],
+			[
+				8
+			],
+			[
+				2,
+				9
+			],
+			[
+				10
+			],
+			[
+				10
+			]
+		],
 		"nationality": 2,
 		"data": {
 			"207011": {
@@ -21373,15 +23834,26 @@
 			"kr": "아크 로열",
 			"tw": "皇家方舟"
 		},
-		"property_hexagon": [
-			"E",
-			"E",
-			"A",
-			"C",
-			"B",
-			"B"
-		],
+		"property_hexagon": "EEACBB",
 		"type": 7,
+		"armor": 2,
+		"slots": [
+			[
+				8
+			],
+			[
+				8
+			],
+			[
+				9
+			],
+			[
+				10
+			],
+			[
+				10
+			]
+		],
 		"nationality": 2,
 		"data": {
 			"207021": {
@@ -21502,15 +23974,26 @@
 			"kr": "일러스트리어스",
 			"tw": "光輝"
 		},
-		"property_hexagon": [
-			"E",
-			"E",
-			"A",
-			"D",
-			"B",
-			"S"
-		],
+		"property_hexagon": "EEADBS",
 		"type": 7,
+		"armor": 3,
+		"slots": [
+			[
+				7
+			],
+			[
+				7
+			],
+			[
+				8
+			],
+			[
+				10
+			],
+			[
+				10
+			]
+		],
 		"nationality": 2,
 		"data": {
 			"207031": {
@@ -21616,7 +24099,26 @@
 					"spd": 30.5,
 					"luk": 44,
 					"asw": 0
-				}
+				},
+				"slots": [
+					[
+						7
+					],
+					[
+						7
+					],
+					[
+						8
+					],
+					[
+						10,
+						14
+					],
+					[
+						10,
+						14
+					]
+				]
 			},
 			"900195": {
 				"id": 900195,
@@ -21676,15 +24178,26 @@
 			"kr": "빅토리어스",
 			"tw": "勝利"
 		},
-		"property_hexagon": [
-			"E",
-			"E",
-			"A",
-			"D",
-			"B",
-			"S"
-		],
+		"property_hexagon": "EEADBS",
 		"type": 7,
+		"armor": 3,
+		"slots": [
+			[
+				7
+			],
+			[
+				9
+			],
+			[
+				8
+			],
+			[
+				10
+			],
+			[
+				10
+			]
+		],
 		"nationality": 2,
 		"data": {
 			"207041": {
@@ -21808,15 +24321,26 @@
 			"kr": "포미더블",
 			"tw": "可畏"
 		},
-		"property_hexagon": [
-			"E",
-			"E",
-			"A",
-			"D",
-			"B",
-			"S"
-		],
+		"property_hexagon": "EEADBS",
 		"type": 7,
+		"armor": 3,
+		"slots": [
+			[
+				7
+			],
+			[
+				8
+			],
+			[
+				8
+			],
+			[
+				10
+			],
+			[
+				10
+			]
+		],
 		"nationality": 2,
 		"data": {
 			"207051": {
@@ -21913,7 +24437,25 @@
 					"spd": 30,
 					"luk": 75,
 					"asw": 0
-				}
+				},
+				"slots": [
+					[
+						7,
+						9
+					],
+					[
+						8
+					],
+					[
+						8
+					],
+					[
+						10
+					],
+					[
+						10
+					]
+				]
 			},
 			"900265": {
 				"id": 900265,
@@ -21937,7 +24479,25 @@
 					"spd": 34.5,
 					"luk": 73,
 					"asw": 0
-				}
+				},
+				"slots": [
+					[
+						7,
+						9
+					],
+					[
+						8
+					],
+					[
+						8
+					],
+					[
+						10
+					],
+					[
+						10
+					]
+				]
 			}
 		},
 		"stars": 6
@@ -21952,15 +24512,26 @@
 			"kr": "글로리어스",
 			"tw": "光榮"
 		},
-		"property_hexagon": [
-			"E",
-			"E",
-			"B",
-			"D",
-			"B",
-			"A"
-		],
+		"property_hexagon": "EEBDBA",
 		"type": 7,
+		"armor": 2,
+		"slots": [
+			[
+				7
+			],
+			[
+				8
+			],
+			[
+				8
+			],
+			[
+				10
+			],
+			[
+				10
+			]
+		],
 		"nationality": 2,
 		"data": {
 			"207061": {
@@ -22059,15 +24630,26 @@
 			"jp": "リトル・イラストリアス",
 			"kr": "꼬마 일러스트리어스"
 		},
-		"property_hexagon": [
-			"E",
-			"E",
-			"A",
-			"D",
-			"B",
-			"B"
-		],
+		"property_hexagon": "EEADBB",
 		"type": 7,
+		"armor": 3,
+		"slots": [
+			[
+				7
+			],
+			[
+				7
+			],
+			[
+				8
+			],
+			[
+				10
+			],
+			[
+				10
+			]
+		],
 		"nationality": 2,
 		"data": {
 			"207091": {
@@ -22167,15 +24749,26 @@
 			"kr": "에레버스",
 			"tw": "黑暗界"
 		},
-		"property_hexagon": [
-			"B",
-			"E",
-			"E",
-			"E",
-			"D",
-			"C"
-		],
+		"property_hexagon": "BEEEDC",
 		"type": 13,
+		"armor": 1,
+		"slots": [
+			[
+				4
+			],
+			[
+				1
+			],
+			[
+				6
+			],
+			[
+				10
+			],
+			[
+				10
+			]
+		],
 		"nationality": 2,
 		"data": {
 			"213011": {
@@ -22275,15 +24868,26 @@
 			"kr": "테러",
 			"tw": "恐怖"
 		},
-		"property_hexagon": [
-			"B",
-			"E",
-			"E",
-			"E",
-			"D",
-			"C"
-		],
+		"property_hexagon": "BEEEDC",
 		"type": 13,
+		"armor": 1,
+		"slots": [
+			[
+				4
+			],
+			[
+				1
+			],
+			[
+				6
+			],
+			[
+				10
+			],
+			[
+				10
+			]
+		],
 		"nationality": 2,
 		"data": {
 			"213021": {
@@ -22383,15 +24987,26 @@
 			"kr": "애버크롬비",
 			"tw": "阿貝克隆比"
 		},
-		"property_hexagon": [
-			"B",
-			"E",
-			"E",
-			"E",
-			"D",
-			"C"
-		],
+		"property_hexagon": "BEEEDC",
 		"type": 13,
+		"armor": 1,
+		"slots": [
+			[
+				4
+			],
+			[
+				1
+			],
+			[
+				6
+			],
+			[
+				10
+			],
+			[
+				10
+			]
+		],
 		"nationality": 2,
 		"data": {
 			"213041": {
@@ -22491,15 +25106,28 @@
 			"kr": "넵튠",
 			"tw": "海王星"
 		},
-		"property_hexagon": [
-			"B",
-			"A",
-			"E",
-			"B",
-			"A",
-			"B"
-		],
+		"property_hexagon": "BAEBAB",
 		"type": 2,
+		"armor": 1,
+		"slots": [
+			[
+				2
+			],
+			[
+				5
+			],
+			[
+				6
+			],
+			[
+				10,
+				14
+			],
+			[
+				10,
+				14
+			]
+		],
 		"nationality": 2,
 		"data": {
 			"299011": {
@@ -22599,15 +25227,27 @@
 			"kr": "모나크",
 			"tw": "君主"
 		},
-		"property_hexagon": [
-			"S",
-			"E",
-			"E",
-			"C",
-			"D",
-			"S"
-		],
+		"property_hexagon": "SEECDS",
 		"type": 5,
+		"armor": 3,
+		"slots": [
+			[
+				4
+			],
+			[
+				1,
+				2
+			],
+			[
+				6
+			],
+			[
+				10
+			],
+			[
+				10
+			]
+		],
 		"nationality": 2,
 		"data": {
 			"299021": {
@@ -22718,15 +25358,26 @@
 			"jp": "チェシャー",
 			"kr": "체셔"
 		},
-		"property_hexagon": [
-			"A",
-			"C",
-			"E",
-			"B",
-			"S",
-			"A"
-		],
+		"property_hexagon": "ACEBSA",
 		"type": 3,
+		"armor": 2,
+		"slots": [
+			[
+				3
+			],
+			[
+				5
+			],
+			[
+				6
+			],
+			[
+				10
+			],
+			[
+				10
+			]
+		],
 		"nationality": 2,
 		"data": {
 			"299031": {
@@ -22850,15 +25501,26 @@
 			"jp": "ドレイク",
 			"kr": "드레이크"
 		},
-		"property_hexagon": [
-			"A",
-			"C",
-			"E",
-			"B",
-			"A",
-			"S"
-		],
+		"property_hexagon": "ACEBAS",
 		"type": 3,
+		"armor": 2,
+		"slots": [
+			[
+				3
+			],
+			[
+				5
+			],
+			[
+				6
+			],
+			[
+				10
+			],
+			[
+				10
+			]
+		],
 		"nationality": 2,
 		"data": {
 			"299041": {
@@ -22983,15 +25645,28 @@
 			"kr": "후부키",
 			"tw": "吹雪"
 		},
-		"property_hexagon": [
-			"D",
-			"A",
-			"E",
-			"A",
-			"D",
-			"D"
-		],
+		"property_hexagon": "DAEADD",
 		"type": 1,
+		"armor": 1,
+		"slots": [
+			[
+				1
+			],
+			[
+				5
+			],
+			[
+				6
+			],
+			[
+				10,
+				14
+			],
+			[
+				10,
+				14
+			]
+		],
 		"nationality": 3,
 		"data": {
 			"301011": {
@@ -23103,15 +25778,28 @@
 			"kr": "아야나미",
 			"tw": "綾波"
 		},
-		"property_hexagon": [
-			"D",
-			"A",
-			"E",
-			"A",
-			"D",
-			"D"
-		],
+		"property_hexagon": "DAEADD",
 		"type": 1,
+		"armor": 1,
+		"slots": [
+			[
+				1
+			],
+			[
+				5
+			],
+			[
+				6
+			],
+			[
+				10,
+				14
+			],
+			[
+				10,
+				14
+			]
+		],
 		"nationality": 3,
 		"data": {
 			"301051": {
@@ -23273,15 +25961,28 @@
 			"kr": "아카츠키",
 			"tw": "曉"
 		},
-		"property_hexagon": [
-			"D",
-			"A",
-			"E",
-			"A",
-			"D",
-			"D"
-		],
+		"property_hexagon": "DAEADD",
 		"type": 1,
+		"armor": 1,
+		"slots": [
+			[
+				1
+			],
+			[
+				5
+			],
+			[
+				6
+			],
+			[
+				10,
+				14
+			],
+			[
+				10,
+				14
+			]
+		],
 		"nationality": 3,
 		"data": {
 			"301091": {
@@ -23396,15 +26097,28 @@
 			"jp": "響",
 			"kr": "히비키"
 		},
-		"property_hexagon": [
-			"D",
-			"A",
-			"E",
-			"A",
-			"D",
-			"D"
-		],
+		"property_hexagon": "DAEADD",
 		"type": 1,
+		"armor": 1,
+		"slots": [
+			[
+				1
+			],
+			[
+				5
+			],
+			[
+				6
+			],
+			[
+				10,
+				14
+			],
+			[
+				10,
+				14
+			]
+		],
 		"nationality": 3,
 		"data": {
 			"301101": {
@@ -23520,15 +26234,28 @@
 			"kr": "이카즈치",
 			"tw": "雷"
 		},
-		"property_hexagon": [
-			"D",
-			"A",
-			"E",
-			"A",
-			"D",
-			"D"
-		],
+		"property_hexagon": "DAEADD",
 		"type": 1,
+		"armor": 1,
+		"slots": [
+			[
+				1
+			],
+			[
+				5
+			],
+			[
+				6
+			],
+			[
+				10,
+				14
+			],
+			[
+				10,
+				14
+			]
+		],
 		"nationality": 3,
 		"data": {
 			"301111": {
@@ -23665,15 +26392,28 @@
 			"kr": "이나즈마",
 			"tw": "電"
 		},
-		"property_hexagon": [
-			"D",
-			"A",
-			"E",
-			"A",
-			"D",
-			"D"
-		],
+		"property_hexagon": "DAEADD",
 		"type": 1,
+		"armor": 1,
+		"slots": [
+			[
+				1
+			],
+			[
+				5
+			],
+			[
+				6
+			],
+			[
+				10,
+				14
+			],
+			[
+				10,
+				14
+			]
+		],
 		"nationality": 3,
 		"data": {
 			"301121": {
@@ -23810,15 +26550,28 @@
 			"kr": "시라츠유",
 			"tw": "白露"
 		},
-		"property_hexagon": [
-			"D",
-			"A",
-			"E",
-			"A",
-			"D",
-			"D"
-		],
+		"property_hexagon": "DAEADD",
 		"type": 1,
+		"armor": 1,
+		"slots": [
+			[
+				1
+			],
+			[
+				5
+			],
+			[
+				6
+			],
+			[
+				10,
+				14
+			],
+			[
+				10,
+				14
+			]
+		],
 		"nationality": 3,
 		"data": {
 			"301131": {
@@ -23918,15 +26671,28 @@
 			"kr": "유다치",
 			"tw": "夕立"
 		},
-		"property_hexagon": [
-			"C",
-			"S",
-			"E",
-			"A",
-			"D",
-			"D"
-		],
+		"property_hexagon": "CSEADD",
 		"type": 1,
+		"armor": 1,
+		"slots": [
+			[
+				1
+			],
+			[
+				5
+			],
+			[
+				6
+			],
+			[
+				10,
+				14
+			],
+			[
+				10,
+				14
+			]
+		],
 		"nationality": 3,
 		"data": {
 			"301141": {
@@ -24026,15 +26792,28 @@
 			"kr": "시구레",
 			"tw": "時雨"
 		},
-		"property_hexagon": [
-			"D",
-			"A",
-			"E",
-			"A",
-			"D",
-			"D"
-		],
+		"property_hexagon": "DAEADD",
 		"type": 1,
+		"armor": 1,
+		"slots": [
+			[
+				1
+			],
+			[
+				5
+			],
+			[
+				6
+			],
+			[
+				10,
+				14
+			],
+			[
+				10,
+				14
+			]
+		],
 		"nationality": 3,
 		"data": {
 			"301151": {
@@ -24134,15 +26913,28 @@
 			"kr": "유키카제",
 			"tw": "雪風"
 		},
-		"property_hexagon": [
-			"D",
-			"A",
-			"E",
-			"A",
-			"D",
-			"C"
-		],
+		"property_hexagon": "DAEADC",
 		"type": 1,
+		"armor": 1,
+		"slots": [
+			[
+				1
+			],
+			[
+				5
+			],
+			[
+				6
+			],
+			[
+				10,
+				14
+			],
+			[
+				10,
+				14
+			]
+		],
 		"nationality": 3,
 		"data": {
 			"301161": {
@@ -24254,15 +27046,28 @@
 			"kr": "카게로",
 			"tw": "陽炎"
 		},
-		"property_hexagon": [
-			"D",
-			"A",
-			"E",
-			"A",
-			"D",
-			"D"
-		],
+		"property_hexagon": "DAEADD",
 		"type": 1,
+		"armor": 1,
+		"slots": [
+			[
+				1
+			],
+			[
+				5
+			],
+			[
+				6
+			],
+			[
+				10,
+				14
+			],
+			[
+				10,
+				14
+			]
+		],
 		"nationality": 3,
 		"data": {
 			"301171": {
@@ -24362,15 +27167,28 @@
 			"kr": "시라누이",
 			"tw": "不知火"
 		},
-		"property_hexagon": [
-			"D",
-			"A",
-			"E",
-			"A",
-			"D",
-			"D"
-		],
+		"property_hexagon": "DAEADD",
 		"type": 1,
+		"armor": 1,
+		"slots": [
+			[
+				1
+			],
+			[
+				5
+			],
+			[
+				6
+			],
+			[
+				10,
+				14
+			],
+			[
+				10,
+				14
+			]
+		],
 		"nationality": 3,
 		"data": {
 			"301181": {
@@ -24482,15 +27300,28 @@
 			"kr": "노와키",
 			"tw": "野分"
 		},
-		"property_hexagon": [
-			"D",
-			"A",
-			"E",
-			"A",
-			"D",
-			"D"
-		],
+		"property_hexagon": "DAEADD",
 		"type": 1,
+		"armor": 1,
+		"slots": [
+			[
+				1
+			],
+			[
+				5
+			],
+			[
+				6
+			],
+			[
+				10,
+				14
+			],
+			[
+				10,
+				14
+			]
+		],
 		"nationality": 3,
 		"data": {
 			"301201": {
@@ -24590,15 +27421,28 @@
 			"kr": "하츠하루",
 			"tw": "初春"
 		},
-		"property_hexagon": [
-			"D",
-			"A",
-			"E",
-			"A",
-			"D",
-			"D"
-		],
+		"property_hexagon": "DAEADD",
 		"type": 1,
+		"armor": 1,
+		"slots": [
+			[
+				1
+			],
+			[
+				5
+			],
+			[
+				6
+			],
+			[
+				10,
+				14
+			],
+			[
+				10,
+				14
+			]
+		],
 		"nationality": 3,
 		"data": {
 			"301211": {
@@ -24698,15 +27542,28 @@
 			"kr": "와카바",
 			"tw": "若葉"
 		},
-		"property_hexagon": [
-			"D",
-			"A",
-			"E",
-			"A",
-			"D",
-			"D"
-		],
+		"property_hexagon": "DAEADD",
 		"type": 1,
+		"armor": 1,
+		"slots": [
+			[
+				1
+			],
+			[
+				5
+			],
+			[
+				6
+			],
+			[
+				10,
+				14
+			],
+			[
+				10,
+				14
+			]
+		],
 		"nationality": 3,
 		"data": {
 			"301231": {
@@ -24806,15 +27663,28 @@
 			"kr": "하츠시모",
 			"tw": "初霜"
 		},
-		"property_hexagon": [
-			"D",
-			"A",
-			"E",
-			"A",
-			"D",
-			"D"
-		],
+		"property_hexagon": "DAEADD",
 		"type": 1,
+		"armor": 1,
+		"slots": [
+			[
+				1
+			],
+			[
+				5
+			],
+			[
+				6
+			],
+			[
+				10,
+				14
+			],
+			[
+				10,
+				14
+			]
+		],
 		"nationality": 3,
 		"data": {
 			"301241": {
@@ -24914,15 +27784,28 @@
 			"kr": "아리아케",
 			"tw": "有明"
 		},
-		"property_hexagon": [
-			"D",
-			"A",
-			"E",
-			"A",
-			"D",
-			"D"
-		],
+		"property_hexagon": "DAEADD",
 		"type": 1,
+		"armor": 1,
+		"slots": [
+			[
+				1
+			],
+			[
+				5
+			],
+			[
+				6
+			],
+			[
+				10,
+				14
+			],
+			[
+				10,
+				14
+			]
+		],
 		"nationality": 3,
 		"data": {
 			"301251": {
@@ -25022,15 +27905,28 @@
 			"kr": "유구레",
 			"tw": "夕暮"
 		},
-		"property_hexagon": [
-			"D",
-			"A",
-			"E",
-			"A",
-			"D",
-			"D"
-		],
+		"property_hexagon": "DAEADD",
 		"type": 1,
+		"armor": 1,
+		"slots": [
+			[
+				1
+			],
+			[
+				5
+			],
+			[
+				6
+			],
+			[
+				10,
+				14
+			],
+			[
+				10,
+				14
+			]
+		],
 		"nationality": 3,
 		"data": {
 			"301261": {
@@ -25130,15 +28026,28 @@
 			"kr": "쿠로시오",
 			"tw": "黑潮"
 		},
-		"property_hexagon": [
-			"D",
-			"A",
-			"E",
-			"A",
-			"D",
-			"D"
-		],
+		"property_hexagon": "DAEADD",
 		"type": 1,
+		"armor": 1,
+		"slots": [
+			[
+				1
+			],
+			[
+				5
+			],
+			[
+				6
+			],
+			[
+				10,
+				14
+			],
+			[
+				10,
+				14
+			]
+		],
 		"nationality": 3,
 		"data": {
 			"301271": {
@@ -25238,15 +28147,28 @@
 			"kr": "오야시오",
 			"tw": "親潮"
 		},
-		"property_hexagon": [
-			"D",
-			"A",
-			"E",
-			"A",
-			"D",
-			"D"
-		],
+		"property_hexagon": "DAEADD",
 		"type": 1,
+		"armor": 1,
+		"slots": [
+			[
+				1
+			],
+			[
+				5
+			],
+			[
+				6
+			],
+			[
+				10,
+				14
+			],
+			[
+				10,
+				14
+			]
+		],
 		"nationality": 3,
 		"data": {
 			"301281": {
@@ -25346,15 +28268,28 @@
 			"kr": "카미카제",
 			"tw": "神風"
 		},
-		"property_hexagon": [
-			"D",
-			"B",
-			"E",
-			"A",
-			"D",
-			"D"
-		],
+		"property_hexagon": "DBEADD",
 		"type": 1,
+		"armor": 1,
+		"slots": [
+			[
+				1
+			],
+			[
+				5
+			],
+			[
+				6
+			],
+			[
+				10,
+				14
+			],
+			[
+				10,
+				14
+			]
+		],
 		"nationality": 3,
 		"data": {
 			"301301": {
@@ -25454,15 +28389,28 @@
 			"kr": "마츠카제",
 			"tw": "松風"
 		},
-		"property_hexagon": [
-			"D",
-			"B",
-			"E",
-			"A",
-			"D",
-			"D"
-		],
+		"property_hexagon": "DBEADD",
 		"type": 1,
+		"armor": 1,
+		"slots": [
+			[
+				1
+			],
+			[
+				5
+			],
+			[
+				6
+			],
+			[
+				10,
+				14
+			],
+			[
+				10,
+				14
+			]
+		],
 		"nationality": 3,
 		"data": {
 			"301311": {
@@ -25562,15 +28510,28 @@
 			"kr": "무츠키",
 			"tw": "睦月"
 		},
-		"property_hexagon": [
-			"D",
-			"A",
-			"E",
-			"A",
-			"D",
-			"D"
-		],
+		"property_hexagon": "DAEADD",
 		"type": 1,
+		"armor": 1,
+		"slots": [
+			[
+				1
+			],
+			[
+				5
+			],
+			[
+				6
+			],
+			[
+				10,
+				14
+			],
+			[
+				10,
+				14
+			]
+		],
 		"nationality": 3,
 		"data": {
 			"301321": {
@@ -25670,15 +28631,28 @@
 			"kr": "키사라기",
 			"tw": "如月"
 		},
-		"property_hexagon": [
-			"D",
-			"A",
-			"E",
-			"A",
-			"D",
-			"D"
-		],
+		"property_hexagon": "DAEADD",
 		"type": 1,
+		"armor": 1,
+		"slots": [
+			[
+				1
+			],
+			[
+				5
+			],
+			[
+				6
+			],
+			[
+				10,
+				14
+			],
+			[
+				10,
+				14
+			]
+		],
 		"nationality": 3,
 		"data": {
 			"301331": {
@@ -25778,15 +28752,28 @@
 			"kr": "우즈키",
 			"tw": "卯月"
 		},
-		"property_hexagon": [
-			"D",
-			"A",
-			"E",
-			"A",
-			"D",
-			"D"
-		],
+		"property_hexagon": "DAEADD",
 		"type": 1,
+		"armor": 1,
+		"slots": [
+			[
+				1
+			],
+			[
+				5
+			],
+			[
+				6
+			],
+			[
+				10,
+				14
+			],
+			[
+				10,
+				14
+			]
+		],
 		"nationality": 3,
 		"data": {
 			"301351": {
@@ -25886,15 +28873,28 @@
 			"kr": "미나즈키",
 			"tw": "水無月"
 		},
-		"property_hexagon": [
-			"D",
-			"A",
-			"E",
-			"A",
-			"D",
-			"D"
-		],
+		"property_hexagon": "DAEADD",
 		"type": 1,
+		"armor": 1,
+		"slots": [
+			[
+				1
+			],
+			[
+				5
+			],
+			[
+				6
+			],
+			[
+				10,
+				14
+			],
+			[
+				10,
+				14
+			]
+		],
 		"nationality": 3,
 		"data": {
 			"301371": {
@@ -25994,15 +28994,28 @@
 			"kr": "후미즈키",
 			"tw": "文月"
 		},
-		"property_hexagon": [
-			"D",
-			"A",
-			"E",
-			"A",
-			"D",
-			"D"
-		],
+		"property_hexagon": "DAEADD",
 		"type": 1,
+		"armor": 1,
+		"slots": [
+			[
+				1
+			],
+			[
+				5
+			],
+			[
+				6
+			],
+			[
+				10,
+				14
+			],
+			[
+				10,
+				14
+			]
+		],
 		"nationality": 3,
 		"data": {
 			"301381": {
@@ -26101,15 +29114,28 @@
 			"jp": "長月",
 			"kr": "나가츠키"
 		},
-		"property_hexagon": [
-			"D",
-			"A",
-			"E",
-			"A",
-			"D",
-			"D"
-		],
+		"property_hexagon": "DAEADD",
 		"type": 1,
+		"armor": 1,
+		"slots": [
+			[
+				1
+			],
+			[
+				5
+			],
+			[
+				6
+			],
+			[
+				10,
+				14
+			],
+			[
+				10,
+				14
+			]
+		],
 		"nationality": 3,
 		"data": {
 			"301391": {
@@ -26209,15 +29235,28 @@
 			"kr": "미카즈키",
 			"tw": "三日月"
 		},
-		"property_hexagon": [
-			"D",
-			"A",
-			"E",
-			"A",
-			"D",
-			"D"
-		],
+		"property_hexagon": "DAEADD",
 		"type": 1,
+		"armor": 1,
+		"slots": [
+			[
+				1
+			],
+			[
+				5
+			],
+			[
+				6
+			],
+			[
+				10,
+				14
+			],
+			[
+				10,
+				14
+			]
+		],
 		"nationality": 3,
 		"data": {
 			"301411": {
@@ -26317,15 +29356,28 @@
 			"kr": "카와카제",
 			"tw": "江風"
 		},
-		"property_hexagon": [
-			"C",
-			"S",
-			"E",
-			"A",
-			"D",
-			"D"
-		],
+		"property_hexagon": "CSEADD",
 		"type": 1,
+		"armor": 1,
+		"slots": [
+			[
+				1
+			],
+			[
+				5
+			],
+			[
+				6
+			],
+			[
+				10,
+				14
+			],
+			[
+				10,
+				14
+			]
+		],
 		"nationality": 3,
 		"data": {
 			"301491": {
@@ -26424,15 +29476,28 @@
 			"jp": "清波",
 			"kr": "키요나미"
 		},
-		"property_hexagon": [
-			"D",
-			"A",
-			"E",
-			"A",
-			"D",
-			"C"
-		],
+		"property_hexagon": "DAEADC",
 		"type": 1,
+		"armor": 1,
+		"slots": [
+			[
+				1
+			],
+			[
+				5
+			],
+			[
+				6
+			],
+			[
+				10,
+				14
+			],
+			[
+				10,
+				14
+			]
+		],
 		"nationality": 3,
 		"data": {
 			"301541": {
@@ -26532,15 +29597,28 @@
 			"kr": "니이즈키",
 			"tw": "新月"
 		},
-		"property_hexagon": [
-			"C",
-			"B",
-			"E",
-			"A",
-			"B",
-			"C"
-		],
+		"property_hexagon": "CBEABC",
 		"type": 1,
+		"armor": 1,
+		"slots": [
+			[
+				1
+			],
+			[
+				5
+			],
+			[
+				6
+			],
+			[
+				10,
+				14
+			],
+			[
+				10,
+				14
+			]
+		],
 		"nationality": 3,
 		"data": {
 			"301561": {
@@ -26640,15 +29718,28 @@
 			"kr": "하루츠키",
 			"tw": "春月"
 		},
-		"property_hexagon": [
-			"C",
-			"B",
-			"E",
-			"A",
-			"B",
-			"C"
-		],
+		"property_hexagon": "CBEABC",
 		"type": 1,
+		"armor": 1,
+		"slots": [
+			[
+				1
+			],
+			[
+				5
+			],
+			[
+				6
+			],
+			[
+				10,
+				14
+			],
+			[
+				10,
+				14
+			]
+		],
 		"nationality": 3,
 		"data": {
 			"301571": {
@@ -26748,15 +29839,28 @@
 			"kr": "요이즈키",
 			"tw": "宵月"
 		},
-		"property_hexagon": [
-			"C",
-			"B",
-			"E",
-			"A",
-			"B",
-			"C"
-		],
+		"property_hexagon": "CBEABC",
 		"type": 1,
+		"armor": 1,
+		"slots": [
+			[
+				1
+			],
+			[
+				5
+			],
+			[
+				6
+			],
+			[
+				10,
+				14
+			],
+			[
+				10,
+				14
+			]
+		],
 		"nationality": 3,
 		"data": {
 			"301581": {
@@ -26856,15 +29960,28 @@
 			"kr": "우라카제",
 			"tw": "浦風"
 		},
-		"property_hexagon": [
-			"D",
-			"A",
-			"E",
-			"A",
-			"D",
-			"D"
-		],
+		"property_hexagon": "DAEADD",
 		"type": 1,
+		"armor": 1,
+		"slots": [
+			[
+				1
+			],
+			[
+				5
+			],
+			[
+				6
+			],
+			[
+				10,
+				14
+			],
+			[
+				10,
+				14
+			]
+		],
 		"nationality": 3,
 		"data": {
 			"301591": {
@@ -26964,15 +30081,28 @@
 			"kr": "이소카제",
 			"tw": "磯風"
 		},
-		"property_hexagon": [
-			"D",
-			"A",
-			"E",
-			"A",
-			"D",
-			"D"
-		],
+		"property_hexagon": "DAEADD",
 		"type": 1,
+		"armor": 1,
+		"slots": [
+			[
+				1
+			],
+			[
+				5
+			],
+			[
+				6
+			],
+			[
+				10,
+				14
+			],
+			[
+				10,
+				14
+			]
+		],
 		"nationality": 3,
 		"data": {
 			"301601": {
@@ -27072,15 +30202,28 @@
 			"kr": "하마카제",
 			"tw": "濱風"
 		},
-		"property_hexagon": [
-			"D",
-			"A",
-			"E",
-			"A",
-			"D",
-			"D"
-		],
+		"property_hexagon": "DAEADD",
 		"type": 1,
+		"armor": 1,
+		"slots": [
+			[
+				1
+			],
+			[
+				5
+			],
+			[
+				6
+			],
+			[
+				10,
+				14
+			],
+			[
+				10,
+				14
+			]
+		],
 		"nationality": 3,
 		"data": {
 			"301611": {
@@ -27180,15 +30323,28 @@
 			"kr": "타니카제",
 			"tw": "谷風"
 		},
-		"property_hexagon": [
-			"D",
-			"A",
-			"E",
-			"A",
-			"D",
-			"D"
-		],
+		"property_hexagon": "DAEADD",
 		"type": 1,
+		"armor": 1,
+		"slots": [
+			[
+				1
+			],
+			[
+				5
+			],
+			[
+				6
+			],
+			[
+				10,
+				14
+			],
+			[
+				10,
+				14
+			]
+		],
 		"nationality": 3,
 		"data": {
 			"301621": {
@@ -27288,15 +30444,28 @@
 			"kr": "아사시오",
 			"tw": "朝潮"
 		},
-		"property_hexagon": [
-			"D",
-			"A",
-			"E",
-			"A",
-			"D",
-			"D"
-		],
+		"property_hexagon": "DAEADD",
 		"type": 1,
+		"armor": 1,
+		"slots": [
+			[
+				1
+			],
+			[
+				5
+			],
+			[
+				6
+			],
+			[
+				10,
+				14
+			],
+			[
+				10,
+				14
+			]
+		],
 		"nationality": 3,
 		"data": {
 			"301631": {
@@ -27408,15 +30577,28 @@
 			"kr": "오오시오",
 			"tw": "大潮"
 		},
-		"property_hexagon": [
-			"D",
-			"A",
-			"E",
-			"A",
-			"D",
-			"D"
-		],
+		"property_hexagon": "DAEADD",
 		"type": 1,
+		"armor": 1,
+		"slots": [
+			[
+				1
+			],
+			[
+				5
+			],
+			[
+				6
+			],
+			[
+				10,
+				14
+			],
+			[
+				10,
+				14
+			]
+		],
 		"nationality": 3,
 		"data": {
 			"301641": {
@@ -27528,15 +30710,28 @@
 			"kr": "미치시오",
 			"tw": "滿潮"
 		},
-		"property_hexagon": [
-			"D",
-			"A",
-			"E",
-			"A",
-			"D",
-			"D"
-		],
+		"property_hexagon": "DAEADD",
 		"type": 1,
+		"armor": 1,
+		"slots": [
+			[
+				1
+			],
+			[
+				5
+			],
+			[
+				6
+			],
+			[
+				10,
+				14
+			],
+			[
+				10,
+				14
+			]
+		],
 		"nationality": 3,
 		"data": {
 			"301651": {
@@ -27647,15 +30842,28 @@
 			"jp": "荒潮",
 			"kr": "아라시오"
 		},
-		"property_hexagon": [
-			"D",
-			"A",
-			"E",
-			"A",
-			"D",
-			"D"
-		],
+		"property_hexagon": "DAEADD",
 		"type": 1,
+		"armor": 1,
+		"slots": [
+			[
+				1
+			],
+			[
+				5
+			],
+			[
+				6
+			],
+			[
+				10,
+				14
+			],
+			[
+				10,
+				14
+			]
+		],
 		"nationality": 3,
 		"data": {
 			"301661": {
@@ -27766,15 +30974,28 @@
 			"jp": "浦波",
 			"kr": "우라나미"
 		},
-		"property_hexagon": [
-			"D",
-			"A",
-			"E",
-			"A",
-			"D",
-			"D"
-		],
+		"property_hexagon": "DAEADD",
 		"type": 1,
+		"armor": 1,
+		"slots": [
+			[
+				1
+			],
+			[
+				5
+			],
+			[
+				6
+			],
+			[
+				10,
+				14
+			],
+			[
+				10,
+				14
+			]
+		],
 		"nationality": 3,
 		"data": {
 			"301721": {
@@ -27886,15 +31107,28 @@
 			"kr": "하타카제",
 			"tw": "旗風"
 		},
-		"property_hexagon": [
-			"D",
-			"B",
-			"E",
-			"A",
-			"D",
-			"D"
-		],
+		"property_hexagon": "DBEADD",
 		"type": 1,
+		"armor": 1,
+		"slots": [
+			[
+				1
+			],
+			[
+				5
+			],
+			[
+				6
+			],
+			[
+				10,
+				14
+			],
+			[
+				10,
+				14
+			]
+		],
 		"nationality": 3,
 		"data": {
 			"301791": {
@@ -27994,15 +31228,28 @@
 			"kr": "마키나미",
 			"tw": "卷波"
 		},
-		"property_hexagon": [
-			"D",
-			"A",
-			"E",
-			"A",
-			"D",
-			"C"
-		],
+		"property_hexagon": "DAEADC",
 		"type": 1,
+		"armor": 1,
+		"slots": [
+			[
+				1
+			],
+			[
+				5
+			],
+			[
+				6
+			],
+			[
+				10,
+				14
+			],
+			[
+				10,
+				14
+			]
+		],
 		"nationality": 3,
 		"data": {
 			"301801": {
@@ -28101,15 +31348,28 @@
 			"jp": "霞",
 			"kr": "카스미"
 		},
-		"property_hexagon": [
-			"D",
-			"A",
-			"E",
-			"A",
-			"D",
-			"C"
-		],
+		"property_hexagon": "DAEADC",
 		"type": 1,
+		"armor": 1,
+		"slots": [
+			[
+				1
+			],
+			[
+				5
+			],
+			[
+				6
+			],
+			[
+				10,
+				14
+			],
+			[
+				10,
+				14
+			]
+		],
 		"nationality": 3,
 		"data": {
 			"301811": {
@@ -28220,15 +31480,28 @@
 			"jp": "花月",
 			"kr": "하나즈키"
 		},
-		"property_hexagon": [
-			"C",
-			"B",
-			"E",
-			"A",
-			"B",
-			"C"
-		],
+		"property_hexagon": "CBEABC",
 		"type": 1,
+		"armor": 1,
+		"slots": [
+			[
+				1
+			],
+			[
+				5
+			],
+			[
+				6
+			],
+			[
+				10,
+				14
+			],
+			[
+				10,
+				14
+			]
+		],
 		"nationality": 3,
 		"data": {
 			"301821": {
@@ -28327,15 +31600,28 @@
 			"jp": "長波",
 			"kr": "나가나미"
 		},
-		"property_hexagon": [
-			"D",
-			"A",
-			"E",
-			"A",
-			"D",
-			"C"
-		],
+		"property_hexagon": "DAEADC",
 		"type": 1,
+		"armor": 1,
+		"slots": [
+			[
+				1
+			],
+			[
+				5
+			],
+			[
+				6
+			],
+			[
+				10,
+				14
+			],
+			[
+				10,
+				14
+			]
+		],
 		"nationality": 3,
 		"data": {
 			"301831": {
@@ -28434,15 +31720,28 @@
 			"jp": "涼月",
 			"kr": "스즈츠키"
 		},
-		"property_hexagon": [
-			"C",
-			"B",
-			"E",
-			"A",
-			"B",
-			"C"
-		],
+		"property_hexagon": "CBEABC",
 		"type": 1,
+		"armor": 1,
+		"slots": [
+			[
+				1
+			],
+			[
+				5
+			],
+			[
+				6
+			],
+			[
+				10,
+				14
+			],
+			[
+				10,
+				14
+			]
+		],
 		"nationality": 3,
 		"data": {
 			"301841": {
@@ -28542,15 +31841,28 @@
 			"kr": "유바리",
 			"tw": "夕張"
 		},
-		"property_hexagon": [
-			"C",
-			"B",
-			"E",
-			"B",
-			"B",
-			"C"
-		],
+		"property_hexagon": "CBEBBC",
 		"type": 2,
+		"armor": 1,
+		"slots": [
+			[
+				2
+			],
+			[
+				5
+			],
+			[
+				6
+			],
+			[
+				10,
+				14
+			],
+			[
+				10,
+				14
+			]
+		],
 		"nationality": 3,
 		"data": {
 			"302011": {
@@ -28650,15 +31962,28 @@
 			"kr": "나가라",
 			"tw": "長良"
 		},
-		"property_hexagon": [
-			"C",
-			"B",
-			"E",
-			"B",
-			"B",
-			"C"
-		],
+		"property_hexagon": "CBEBBC",
 		"type": 2,
+		"armor": 1,
+		"slots": [
+			[
+				2
+			],
+			[
+				5
+			],
+			[
+				6
+			],
+			[
+				10,
+				14
+			],
+			[
+				10,
+				14
+			]
+		],
 		"nationality": 3,
 		"data": {
 			"302041": {
@@ -28758,15 +32083,28 @@
 			"kr": "이스즈",
 			"tw": "五十鈴"
 		},
-		"property_hexagon": [
-			"C",
-			"C",
-			"E",
-			"B",
-			"A",
-			"C"
-		],
+		"property_hexagon": "CCEBAC",
 		"type": 2,
+		"armor": 1,
+		"slots": [
+			[
+				2
+			],
+			[
+				5
+			],
+			[
+				6
+			],
+			[
+				10,
+				14
+			],
+			[
+				10,
+				14
+			]
+		],
 		"nationality": 3,
 		"data": {
 			"302051": {
@@ -28830,7 +32168,27 @@
 					"spd": 36,
 					"luk": 33,
 					"asw": 42
-				}
+				},
+				"slots": [
+					[
+						1,
+						2
+					],
+					[
+						5
+					],
+					[
+						6
+					],
+					[
+						10,
+						14
+					],
+					[
+						10,
+						14
+					]
+				]
 			},
 			"302054": {
 				"id": 302054,
@@ -28851,7 +32209,27 @@
 					"spd": 36,
 					"luk": 33,
 					"asw": 59
-				}
+				},
+				"slots": [
+					[
+						1,
+						2
+					],
+					[
+						5
+					],
+					[
+						6
+					],
+					[
+						10,
+						14
+					],
+					[
+						10,
+						14
+					]
+				]
 			}
 		},
 		"stars": 5
@@ -28865,15 +32243,28 @@
 			"jp": "鬼怒",
 			"kr": "키누"
 		},
-		"property_hexagon": [
-			"C",
-			"B",
-			"E",
-			"B",
-			"B",
-			"C"
-		],
+		"property_hexagon": "CBEBBC",
 		"type": 2,
+		"armor": 1,
+		"slots": [
+			[
+				2
+			],
+			[
+				5
+			],
+			[
+				6
+			],
+			[
+				10,
+				14
+			],
+			[
+				10,
+				14
+			]
+		],
 		"nationality": 3,
 		"data": {
 			"302081": {
@@ -28973,15 +32364,28 @@
 			"kr": "아부쿠마",
 			"tw": "阿武隈"
 		},
-		"property_hexagon": [
-			"C",
-			"B",
-			"E",
-			"B",
-			"B",
-			"C"
-		],
+		"property_hexagon": "CBEBBC",
 		"type": 2,
+		"armor": 1,
+		"slots": [
+			[
+				2
+			],
+			[
+				5
+			],
+			[
+				6
+			],
+			[
+				10,
+				14
+			],
+			[
+				10,
+				14
+			]
+		],
 		"nationality": 3,
 		"data": {
 			"302091": {
@@ -29081,15 +32485,28 @@
 			"kr": "모가미",
 			"tw": "最上"
 		},
-		"property_hexagon": [
-			"B",
-			"C",
-			"E",
-			"D",
-			"C",
-			"A"
-		],
+		"property_hexagon": "BCEDCA",
 		"type": 2,
+		"armor": 2,
+		"slots": [
+			[
+				2
+			],
+			[
+				5
+			],
+			[
+				6
+			],
+			[
+				10,
+				14
+			],
+			[
+				10,
+				14
+			]
+		],
 		"nationality": 3,
 		"data": {
 			"302101": {
@@ -29196,6 +32613,23 @@
 					"luk": 14,
 					"asw": 0
 				},
+				"slots": [
+					[
+						3
+					],
+					[
+						5
+					],
+					[
+						6
+					],
+					[
+						10
+					],
+					[
+						10
+					]
+				],
 				"name": {
 					"en": "Mogami Retrofit",
 					"cn": "最上.改",
@@ -29217,15 +32651,28 @@
 			"kr": "미쿠마",
 			"tw": "三隈"
 		},
-		"property_hexagon": [
-			"B",
-			"C",
-			"E",
-			"D",
-			"C",
-			"A"
-		],
+		"property_hexagon": "BCEDCA",
 		"type": 2,
+		"armor": 2,
+		"slots": [
+			[
+				2
+			],
+			[
+				5
+			],
+			[
+				6
+			],
+			[
+				10,
+				14
+			],
+			[
+				10,
+				14
+			]
+		],
 		"nationality": 3,
 		"data": {
 			"302111": {
@@ -29325,15 +32772,28 @@
 			"kr": "센다이",
 			"tw": "川內"
 		},
-		"property_hexagon": [
-			"C",
-			"B",
-			"E",
-			"B",
-			"B",
-			"C"
-		],
+		"property_hexagon": "CBEBBC",
 		"type": 2,
+		"armor": 1,
+		"slots": [
+			[
+				2
+			],
+			[
+				5
+			],
+			[
+				6
+			],
+			[
+				10,
+				14
+			],
+			[
+				10,
+				14
+			]
+		],
 		"nationality": 3,
 		"data": {
 			"302121": {
@@ -29433,15 +32893,28 @@
 			"kr": "진츠",
 			"tw": "神通"
 		},
-		"property_hexagon": [
-			"C",
-			"B",
-			"E",
-			"B",
-			"B",
-			"C"
-		],
+		"property_hexagon": "CBEBBC",
 		"type": 2,
+		"armor": 1,
+		"slots": [
+			[
+				2
+			],
+			[
+				5
+			],
+			[
+				6
+			],
+			[
+				10,
+				14
+			],
+			[
+				10,
+				14
+			]
+		],
 		"nationality": 3,
 		"data": {
 			"302131": {
@@ -29541,15 +33014,28 @@
 			"kr": "나카",
 			"tw": "那珂"
 		},
-		"property_hexagon": [
-			"C",
-			"B",
-			"E",
-			"B",
-			"B",
-			"C"
-		],
+		"property_hexagon": "CBEBBC",
 		"type": 2,
+		"armor": 1,
+		"slots": [
+			[
+				2
+			],
+			[
+				5
+			],
+			[
+				6
+			],
+			[
+				10,
+				14
+			],
+			[
+				10,
+				14
+			]
+		],
 		"nationality": 3,
 		"data": {
 			"302141": {
@@ -29649,15 +33135,28 @@
 			"kr": "아가노",
 			"tw": "阿賀野"
 		},
-		"property_hexagon": [
-			"C",
-			"B",
-			"E",
-			"B",
-			"B",
-			"C"
-		],
+		"property_hexagon": "CBEBBC",
 		"type": 2,
+		"armor": 1,
+		"slots": [
+			[
+				2
+			],
+			[
+				5
+			],
+			[
+				6
+			],
+			[
+				10,
+				14
+			],
+			[
+				10,
+				14
+			]
+		],
 		"nationality": 3,
 		"data": {
 			"302201": {
@@ -29756,15 +33255,28 @@
 			"jp": "能代",
 			"kr": "노시로"
 		},
-		"property_hexagon": [
-			"C",
-			"A",
-			"E",
-			"B",
-			"B",
-			"C"
-		],
+		"property_hexagon": "CAEBBC",
 		"type": 2,
+		"armor": 1,
+		"slots": [
+			[
+				2
+			],
+			[
+				5
+			],
+			[
+				6
+			],
+			[
+				10,
+				14
+			],
+			[
+				10,
+				14
+			]
+		],
 		"nationality": 3,
 		"data": {
 			"302211": {
@@ -29864,15 +33376,26 @@
 			"kr": "후루타카",
 			"tw": "古鷹"
 		},
-		"property_hexagon": [
-			"C",
-			"C",
-			"E",
-			"C",
-			"C",
-			"B"
-		],
+		"property_hexagon": "CCECCB",
 		"type": 3,
+		"armor": 2,
+		"slots": [
+			[
+				3
+			],
+			[
+				5
+			],
+			[
+				6
+			],
+			[
+				10
+			],
+			[
+				10
+			]
+		],
 		"nationality": 3,
 		"data": {
 			"303011": {
@@ -29972,15 +33495,26 @@
 			"kr": "카코",
 			"tw": "加古"
 		},
-		"property_hexagon": [
-			"C",
-			"C",
-			"E",
-			"C",
-			"C",
-			"B"
-		],
+		"property_hexagon": "CCECCB",
 		"type": 3,
+		"armor": 2,
+		"slots": [
+			[
+				3
+			],
+			[
+				5
+			],
+			[
+				6
+			],
+			[
+				10
+			],
+			[
+				10
+			]
+		],
 		"nationality": 3,
 		"data": {
 			"303021": {
@@ -30080,15 +33614,26 @@
 			"kr": "아오바",
 			"tw": "青葉"
 		},
-		"property_hexagon": [
-			"C",
-			"C",
-			"E",
-			"C",
-			"C",
-			"B"
-		],
+		"property_hexagon": "CCECCB",
 		"type": 3,
+		"armor": 2,
+		"slots": [
+			[
+				3
+			],
+			[
+				5
+			],
+			[
+				6
+			],
+			[
+				10
+			],
+			[
+				10
+			]
+		],
 		"nationality": 3,
 		"data": {
 			"303031": {
@@ -30188,15 +33733,26 @@
 			"kr": "키누가사",
 			"tw": "衣笠"
 		},
-		"property_hexagon": [
-			"C",
-			"C",
-			"E",
-			"C",
-			"C",
-			"B"
-		],
+		"property_hexagon": "CCECCB",
 		"type": 3,
+		"armor": 2,
+		"slots": [
+			[
+				3
+			],
+			[
+				5
+			],
+			[
+				6
+			],
+			[
+				10
+			],
+			[
+				10
+			]
+		],
 		"nationality": 3,
 		"data": {
 			"303041": {
@@ -30296,15 +33852,26 @@
 			"kr": "묘코",
 			"tw": "妙高"
 		},
-		"property_hexagon": [
-			"B",
-			"C",
-			"E",
-			"C",
-			"C",
-			"A"
-		],
+		"property_hexagon": "BCECCA",
 		"type": 3,
+		"armor": 2,
+		"slots": [
+			[
+				3
+			],
+			[
+				5
+			],
+			[
+				6
+			],
+			[
+				10
+			],
+			[
+				10
+			]
+		],
 		"nationality": 3,
 		"data": {
 			"303071": {
@@ -30404,15 +33971,26 @@
 			"kr": "나치",
 			"tw": "那智"
 		},
-		"property_hexagon": [
-			"B",
-			"C",
-			"E",
-			"C",
-			"C",
-			"A"
-		],
+		"property_hexagon": "BCECCA",
 		"type": 3,
+		"armor": 2,
+		"slots": [
+			[
+				3
+			],
+			[
+				5
+			],
+			[
+				6
+			],
+			[
+				10
+			],
+			[
+				10
+			]
+		],
 		"nationality": 3,
 		"data": {
 			"303081": {
@@ -30512,15 +34090,26 @@
 			"kr": "아시가라",
 			"tw": "足柄"
 		},
-		"property_hexagon": [
-			"B",
-			"C",
-			"E",
-			"C",
-			"C",
-			"A"
-		],
+		"property_hexagon": "BCECCA",
 		"type": 3,
+		"armor": 2,
+		"slots": [
+			[
+				3
+			],
+			[
+				5
+			],
+			[
+				6
+			],
+			[
+				10
+			],
+			[
+				10
+			]
+		],
 		"nationality": 3,
 		"data": {
 			"303091": {
@@ -30620,15 +34209,26 @@
 			"kr": "타카오",
 			"tw": "高雄"
 		},
-		"property_hexagon": [
-			"A",
-			"C",
-			"E",
-			"C",
-			"C",
-			"A"
-		],
+		"property_hexagon": "ACECCA",
 		"type": 3,
+		"armor": 2,
+		"slots": [
+			[
+				3
+			],
+			[
+				5
+			],
+			[
+				6
+			],
+			[
+				10
+			],
+			[
+				10
+			]
+		],
 		"nationality": 3,
 		"data": {
 			"303111": {
@@ -30734,7 +34334,26 @@
 					"spd": 28.4,
 					"luk": 65,
 					"asw": 0
-				}
+				},
+				"slots": [
+					[
+						3
+					],
+					[
+						5
+					],
+					[
+						6
+					],
+					[
+						10,
+						14
+					],
+					[
+						10,
+						14
+					]
+				]
 			}
 		},
 		"stars": 6
@@ -30749,15 +34368,26 @@
 			"kr": "아타고",
 			"tw": "愛宕"
 		},
-		"property_hexagon": [
-			"A",
-			"C",
-			"E",
-			"C",
-			"C",
-			"A"
-		],
+		"property_hexagon": "ACECCA",
 		"type": 3,
+		"armor": 2,
+		"slots": [
+			[
+				3
+			],
+			[
+				5
+			],
+			[
+				6
+			],
+			[
+				10
+			],
+			[
+				10
+			]
+		],
 		"nationality": 3,
 		"data": {
 			"303121": {
@@ -30857,15 +34487,26 @@
 			"kr": "마야",
 			"tw": "摩耶"
 		},
-		"property_hexagon": [
-			"A",
-			"C",
-			"E",
-			"C",
-			"C",
-			"A"
-		],
+		"property_hexagon": "ACECCA",
 		"type": 3,
+		"armor": 2,
+		"slots": [
+			[
+				3
+			],
+			[
+				5
+			],
+			[
+				6
+			],
+			[
+				10
+			],
+			[
+				10
+			]
+		],
 		"nationality": 3,
 		"data": {
 			"303131": {
@@ -30965,15 +34606,26 @@
 			"kr": "초카이",
 			"tw": "鳥海"
 		},
-		"property_hexagon": [
-			"B",
-			"C",
-			"E",
-			"C",
-			"C",
-			"A"
-		],
+		"property_hexagon": "BCECCA",
 		"type": 3,
+		"armor": 2,
+		"slots": [
+			[
+				3
+			],
+			[
+				5
+			],
+			[
+				6
+			],
+			[
+				10
+			],
+			[
+				10
+			]
+		],
 		"nationality": 3,
 		"data": {
 			"303141": {
@@ -31072,15 +34724,27 @@
 			"jp": "鈴谷",
 			"kr": "스즈야"
 		},
-		"property_hexagon": [
-			"B",
-			"C",
-			"E",
-			"C",
-			"C",
-			"A"
-		],
+		"property_hexagon": "BCECCA",
 		"type": 3,
+		"armor": 2,
+		"slots": [
+			[
+				2,
+				3
+			],
+			[
+				5
+			],
+			[
+				6
+			],
+			[
+				10
+			],
+			[
+				10
+			]
+		],
 		"nationality": 3,
 		"data": {
 			"303171": {
@@ -31179,15 +34843,27 @@
 			"jp": "熊野",
 			"kr": "쿠마노"
 		},
-		"property_hexagon": [
-			"B",
-			"C",
-			"E",
-			"C",
-			"C",
-			"A"
-		],
+		"property_hexagon": "BCECCA",
 		"type": 3,
+		"armor": 2,
+		"slots": [
+			[
+				2,
+				3
+			],
+			[
+				5
+			],
+			[
+				6
+			],
+			[
+				10
+			],
+			[
+				10
+			]
+		],
 		"nationality": 3,
 		"data": {
 			"303181": {
@@ -31287,15 +34963,27 @@
 			"kr": "콘고",
 			"tw": "金剛"
 		},
-		"property_hexagon": [
-			"A",
-			"E",
-			"E",
-			"C",
-			"C",
-			"B"
-		],
+		"property_hexagon": "AEECCB",
 		"type": 4,
+		"armor": 2,
+		"slots": [
+			[
+				4
+			],
+			[
+				1,
+				2
+			],
+			[
+				6
+			],
+			[
+				10
+			],
+			[
+				10
+			]
+		],
 		"nationality": 3,
 		"data": {
 			"304011": {
@@ -31407,15 +35095,27 @@
 			"kr": "히에이",
 			"tw": "比叡"
 		},
-		"property_hexagon": [
-			"A",
-			"E",
-			"E",
-			"C",
-			"C",
-			"B"
-		],
+		"property_hexagon": "AEECCB",
 		"type": 4,
+		"armor": 2,
+		"slots": [
+			[
+				4
+			],
+			[
+				1,
+				2
+			],
+			[
+				6
+			],
+			[
+				10
+			],
+			[
+				10
+			]
+		],
 		"nationality": 3,
 		"data": {
 			"304021": {
@@ -31527,15 +35227,27 @@
 			"kr": "하루나",
 			"tw": "榛名"
 		},
-		"property_hexagon": [
-			"A",
-			"E",
-			"E",
-			"C",
-			"C",
-			"B"
-		],
+		"property_hexagon": "AEECCB",
 		"type": 4,
+		"armor": 2,
+		"slots": [
+			[
+				4
+			],
+			[
+				1,
+				2
+			],
+			[
+				6
+			],
+			[
+				10
+			],
+			[
+				10
+			]
+		],
 		"nationality": 3,
 		"data": {
 			"304031": {
@@ -31647,15 +35359,27 @@
 			"kr": "키리시마",
 			"tw": "霧島"
 		},
-		"property_hexagon": [
-			"A",
-			"E",
-			"E",
-			"C",
-			"C",
-			"B"
-		],
+		"property_hexagon": "AEECCB",
 		"type": 4,
+		"armor": 2,
+		"slots": [
+			[
+				4
+			],
+			[
+				1,
+				2
+			],
+			[
+				6
+			],
+			[
+				10
+			],
+			[
+				10
+			]
+		],
 		"nationality": 3,
 		"data": {
 			"304041": {
@@ -31767,15 +35491,27 @@
 			"kr": "아마기",
 			"tw": "天城"
 		},
-		"property_hexagon": [
-			"A",
-			"C",
-			"E",
-			"C",
-			"D",
-			"B"
-		],
+		"property_hexagon": "ACECDB",
 		"type": 4,
+		"armor": 2,
+		"slots": [
+			[
+				4
+			],
+			[
+				1,
+				2
+			],
+			[
+				6
+			],
+			[
+				10
+			],
+			[
+				10
+			]
+		],
 		"nationality": 3,
 		"data": {
 			"304051": {
@@ -31875,15 +35611,27 @@
 			"kr": "꼬마 히에이",
 			"tw": "小比叡"
 		},
-		"property_hexagon": [
-			"A",
-			"D",
-			"E",
-			"C",
-			"D",
-			"B"
-		],
+		"property_hexagon": "ADECDB",
 		"type": 4,
+		"armor": 2,
+		"slots": [
+			[
+				4
+			],
+			[
+				1,
+				2
+			],
+			[
+				6
+			],
+			[
+				10
+			],
+			[
+				10
+			]
+		],
 		"nationality": 3,
 		"data": {
 			"304061": {
@@ -31995,15 +35743,27 @@
 			"kr": "후소",
 			"tw": "扶桑"
 		},
-		"property_hexagon": [
-			"A",
-			"E",
-			"E",
-			"D",
-			"D",
-			"B"
-		],
+		"property_hexagon": "AEEDDB",
 		"type": 5,
+		"armor": 3,
+		"slots": [
+			[
+				4
+			],
+			[
+				1,
+				2
+			],
+			[
+				6
+			],
+			[
+				10
+			],
+			[
+				10
+			]
+		],
 		"nationality": 3,
 		"data": {
 			"305011": {
@@ -32110,6 +35870,23 @@
 					"luk": 13,
 					"asw": 0
 				},
+				"slots": [
+					[
+						4
+					],
+					[
+						12
+					],
+					[
+						6
+					],
+					[
+						10
+					],
+					[
+						10
+					]
+				],
 				"name": {
 					"en": "Fusou Retrofit",
 					"cn": "扶桑.改",
@@ -32131,15 +35908,27 @@
 			"kr": "야마시로",
 			"tw": "山城"
 		},
-		"property_hexagon": [
-			"A",
-			"E",
-			"E",
-			"D",
-			"D",
-			"B"
-		],
+		"property_hexagon": "AEEDDB",
 		"type": 5,
+		"armor": 3,
+		"slots": [
+			[
+				4
+			],
+			[
+				1,
+				2
+			],
+			[
+				6
+			],
+			[
+				10
+			],
+			[
+				10
+			]
+		],
 		"nationality": 3,
 		"data": {
 			"305021": {
@@ -32246,6 +36035,23 @@
 					"luk": 14,
 					"asw": 0
 				},
+				"slots": [
+					[
+						4
+					],
+					[
+						12
+					],
+					[
+						6
+					],
+					[
+						10
+					],
+					[
+						10
+					]
+				],
 				"name": {
 					"en": "Yamashiro Retrofit",
 					"cn": "山城.改",
@@ -32274,6 +36080,23 @@
 					"luk": 32,
 					"asw": 0
 				},
+				"slots": [
+					[
+						4
+					],
+					[
+						12
+					],
+					[
+						6
+					],
+					[
+						10
+					],
+					[
+						10
+					]
+				],
 				"name": {
 					"cn": "山城.改",
 					"jp": "山城改",
@@ -32294,15 +36117,27 @@
 			"kr": "이세",
 			"tw": "伊勢"
 		},
-		"property_hexagon": [
-			"A",
-			"E",
-			"E",
-			"D",
-			"D",
-			"B"
-		],
+		"property_hexagon": "AEEDDB",
 		"type": 5,
+		"armor": 3,
+		"slots": [
+			[
+				4
+			],
+			[
+				1,
+				2
+			],
+			[
+				6
+			],
+			[
+				10
+			],
+			[
+				10
+			]
+		],
 		"nationality": 3,
 		"data": {
 			"305031": {
@@ -32409,6 +36244,23 @@
 					"luk": 60,
 					"asw": 0
 				},
+				"slots": [
+					[
+						4
+					],
+					[
+						12
+					],
+					[
+						6
+					],
+					[
+						10
+					],
+					[
+						10
+					]
+				],
 				"name": {
 					"en": "Ise Retrofit",
 					"cn": "伊势.改",
@@ -32430,15 +36282,27 @@
 			"kr": "휴가",
 			"tw": "日向"
 		},
-		"property_hexagon": [
-			"A",
-			"E",
-			"E",
-			"D",
-			"D",
-			"B"
-		],
+		"property_hexagon": "AEEDDB",
 		"type": 5,
+		"armor": 3,
+		"slots": [
+			[
+				4
+			],
+			[
+				1,
+				2
+			],
+			[
+				6
+			],
+			[
+				10
+			],
+			[
+				10
+			]
+		],
 		"nationality": 3,
 		"data": {
 			"305041": {
@@ -32545,6 +36409,23 @@
 					"luk": 60,
 					"asw": 0
 				},
+				"slots": [
+					[
+						4
+					],
+					[
+						12
+					],
+					[
+						6
+					],
+					[
+						10
+					],
+					[
+						10
+					]
+				],
 				"name": {
 					"en": "Hyuuga Retrofit",
 					"cn": "日向.改",
@@ -32566,15 +36447,27 @@
 			"kr": "나가토",
 			"tw": "長門"
 		},
-		"property_hexagon": [
-			"A",
-			"E",
-			"E",
-			"D",
-			"D",
-			"B"
-		],
+		"property_hexagon": "AEEDDB",
 		"type": 5,
+		"armor": 3,
+		"slots": [
+			[
+				4
+			],
+			[
+				1,
+				2
+			],
+			[
+				6
+			],
+			[
+				10
+			],
+			[
+				10
+			]
+		],
 		"nationality": 3,
 		"data": {
 			"305051": {
@@ -32698,15 +36591,27 @@
 			"kr": "무츠",
 			"tw": "陸奧"
 		},
-		"property_hexagon": [
-			"A",
-			"E",
-			"E",
-			"D",
-			"D",
-			"B"
-		],
+		"property_hexagon": "AEEDDB",
 		"type": 5,
+		"armor": 3,
+		"slots": [
+			[
+				4
+			],
+			[
+				1,
+				2
+			],
+			[
+				6
+			],
+			[
+				10
+			],
+			[
+				10
+			]
+		],
 		"nationality": 3,
 		"data": {
 			"305061": {
@@ -32806,15 +36711,27 @@
 			"kr": "카가",
 			"tw": "加賀"
 		},
-		"property_hexagon": [
-			"A",
-			"C",
-			"E",
-			"D",
-			"D",
-			"B"
-		],
+		"property_hexagon": "ACEDDB",
 		"type": 5,
+		"armor": 3,
+		"slots": [
+			[
+				4
+			],
+			[
+				1,
+				2
+			],
+			[
+				6
+			],
+			[
+				10
+			],
+			[
+				10
+			]
+		],
 		"nationality": 3,
 		"data": {
 			"305071": {
@@ -32938,15 +36855,27 @@
 			"jp": "土佐",
 			"kr": "토사"
 		},
-		"property_hexagon": [
-			"A",
-			"C",
-			"E",
-			"D",
-			"D",
-			"B"
-		],
+		"property_hexagon": "ACEDDB",
 		"type": 5,
+		"armor": 3,
+		"slots": [
+			[
+				4
+			],
+			[
+				1,
+				2
+			],
+			[
+				6
+			],
+			[
+				10
+			],
+			[
+				10
+			]
+		],
 		"nationality": 3,
 		"data": {
 			"305081": {
@@ -33058,15 +36987,27 @@
 			"kr": "미카사",
 			"tw": "三笠"
 		},
-		"property_hexagon": [
-			"B",
-			"E",
-			"E",
-			"D",
-			"D",
-			"B"
-		],
+		"property_hexagon": "BEEDDB",
 		"type": 5,
+		"armor": 3,
+		"slots": [
+			[
+				4
+			],
+			[
+				1,
+				2
+			],
+			[
+				1
+			],
+			[
+				10
+			],
+			[
+				10
+			]
+		],
 		"nationality": 3,
 		"data": {
 			"305111": {
@@ -33186,15 +37127,27 @@
 			"jp": "紀伊",
 			"kr": "키이"
 		},
-		"property_hexagon": [
-			"A",
-			"C",
-			"E",
-			"D",
-			"C",
-			"B"
-		],
+		"property_hexagon": "ACEDCB",
 		"type": 5,
+		"armor": 3,
+		"slots": [
+			[
+				4
+			],
+			[
+				1,
+				2
+			],
+			[
+				6
+			],
+			[
+				10
+			],
+			[
+				10
+			]
+		],
 		"nationality": 3,
 		"data": {
 			"305121": {
@@ -33293,15 +37246,27 @@
 			"jp": "駿河",
 			"kr": "스루가"
 		},
-		"property_hexagon": [
-			"A",
-			"C",
-			"E",
-			"D",
-			"C",
-			"B"
-		],
+		"property_hexagon": "ACEDCB",
 		"type": 5,
+		"armor": 3,
+		"slots": [
+			[
+				4
+			],
+			[
+				1,
+				2
+			],
+			[
+				6
+			],
+			[
+				10
+			],
+			[
+				10
+			]
+		],
 		"nationality": 3,
 		"data": {
 			"305141": {
@@ -33413,15 +37378,28 @@
 			"kr": "히요",
 			"tw": "飛鷹"
 		},
-		"property_hexagon": [
-			"E",
-			"E",
-			"B",
-			"D",
-			"B",
-			"B"
-		],
+		"property_hexagon": "EEBDBB",
 		"type": 6,
+		"armor": 2,
+		"slots": [
+			[
+				7
+			],
+			[
+				9
+			],
+			[
+				8
+			],
+			[
+				10,
+				15
+			],
+			[
+				10,
+				15
+			]
+		],
 		"nationality": 3,
 		"data": {
 			"306011": {
@@ -33521,15 +37499,28 @@
 			"kr": "준요",
 			"tw": "隼鷹"
 		},
-		"property_hexagon": [
-			"E",
-			"E",
-			"B",
-			"D",
-			"B",
-			"B"
-		],
+		"property_hexagon": "EEBDBB",
 		"type": 6,
+		"armor": 2,
+		"slots": [
+			[
+				7
+			],
+			[
+				9
+			],
+			[
+				8
+			],
+			[
+				10,
+				15
+			],
+			[
+				10,
+				15
+			]
+		],
 		"nationality": 3,
 		"data": {
 			"306021": {
@@ -33629,15 +37620,28 @@
 			"kr": "호쇼",
 			"tw": "鳳翔"
 		},
-		"property_hexagon": [
-			"E",
-			"E",
-			"B",
-			"D",
-			"B",
-			"C"
-		],
+		"property_hexagon": "EEBDBC",
 		"type": 6,
+		"armor": 2,
+		"slots": [
+			[
+				2
+			],
+			[
+				7
+			],
+			[
+				8
+			],
+			[
+				10,
+				15
+			],
+			[
+				10,
+				15
+			]
+		],
 		"nationality": 3,
 		"data": {
 			"306031": {
@@ -33761,15 +37765,28 @@
 			"kr": "쇼호",
 			"tw": "祥鳳"
 		},
-		"property_hexagon": [
-			"E",
-			"E",
-			"B",
-			"D",
-			"B",
-			"C"
-		],
+		"property_hexagon": "EEBDBC",
 		"type": 6,
+		"armor": 2,
+		"slots": [
+			[
+				9
+			],
+			[
+				8
+			],
+			[
+				6
+			],
+			[
+				10,
+				15
+			],
+			[
+				10,
+				15
+			]
+		],
 		"nationality": 3,
 		"data": {
 			"306051": {
@@ -33868,15 +37885,28 @@
 			"jp": "龍驤",
 			"kr": "류조"
 		},
-		"property_hexagon": [
-			"E",
-			"E",
-			"A",
-			"C",
-			"B",
-			"C"
-		],
+		"property_hexagon": "EEACBC",
 		"type": 6,
+		"armor": 2,
+		"slots": [
+			[
+				7
+			],
+			[
+				8
+			],
+			[
+				6
+			],
+			[
+				10,
+				15
+			],
+			[
+				10,
+				15
+			]
+		],
 		"nationality": 3,
 		"data": {
 			"306061": {
@@ -33975,15 +38005,28 @@
 			"jp": "龍鳳",
 			"kr": "류호"
 		},
-		"property_hexagon": [
-			"E",
-			"E",
-			"B",
-			"D",
-			"B",
-			"C"
-		],
+		"property_hexagon": "EEBDBC",
 		"type": 6,
+		"armor": 2,
+		"slots": [
+			[
+				7
+			],
+			[
+				8
+			],
+			[
+				6
+			],
+			[
+				10,
+				15
+			],
+			[
+				10,
+				15
+			]
+		],
 		"nationality": 3,
 		"data": {
 			"306071": {
@@ -34094,15 +38137,28 @@
 			"jp": "千歳",
 			"kr": "치토세"
 		},
-		"property_hexagon": [
-			"E",
-			"E",
-			"A",
-			"C",
-			"B",
-			"C"
-		],
+		"property_hexagon": "EEACBC",
 		"type": 6,
+		"armor": 2,
+		"slots": [
+			[
+				7
+			],
+			[
+				8
+			],
+			[
+				6
+			],
+			[
+				10,
+				15
+			],
+			[
+				10,
+				15
+			]
+		],
 		"nationality": 3,
 		"data": {
 			"306081": {
@@ -34201,15 +38257,28 @@
 			"jp": "千代田",
 			"kr": "치요다"
 		},
-		"property_hexagon": [
-			"E",
-			"E",
-			"A",
-			"C",
-			"B",
-			"C"
-		],
+		"property_hexagon": "EEACBC",
 		"type": 6,
+		"armor": 2,
+		"slots": [
+			[
+				7
+			],
+			[
+				8
+			],
+			[
+				6
+			],
+			[
+				10,
+				15
+			],
+			[
+				10,
+				15
+			]
+		],
 		"nationality": 3,
 		"data": {
 			"306091": {
@@ -34309,15 +38378,26 @@
 			"kr": "아카기",
 			"tw": "赤城"
 		},
-		"property_hexagon": [
-			"E",
-			"E",
-			"S",
-			"C",
-			"B",
-			"B"
-		],
+		"property_hexagon": "EESCBB",
 		"type": 7,
+		"armor": 2,
+		"slots": [
+			[
+				7
+			],
+			[
+				9
+			],
+			[
+				8
+			],
+			[
+				10
+			],
+			[
+				10
+			]
+		],
 		"nationality": 3,
 		"data": {
 			"307011": {
@@ -34438,15 +38518,26 @@
 			"kr": "카가",
 			"tw": "加賀"
 		},
-		"property_hexagon": [
-			"E",
-			"E",
-			"S",
-			"C",
-			"B",
-			"B"
-		],
+		"property_hexagon": "EESCBB",
 		"type": 7,
+		"armor": 2,
+		"slots": [
+			[
+				7
+			],
+			[
+				9
+			],
+			[
+				8
+			],
+			[
+				10
+			],
+			[
+				10
+			]
+		],
 		"nationality": 3,
 		"data": {
 			"307021": {
@@ -34570,15 +38661,26 @@
 			"kr": "소류",
 			"tw": "蒼龍"
 		},
-		"property_hexagon": [
-			"E",
-			"E",
-			"A",
-			"C",
-			"B",
-			"B"
-		],
+		"property_hexagon": "EEACBB",
 		"type": 7,
+		"armor": 2,
+		"slots": [
+			[
+				7
+			],
+			[
+				9
+			],
+			[
+				8
+			],
+			[
+				10
+			],
+			[
+				10
+			]
+		],
 		"nationality": 3,
 		"data": {
 			"307031": {
@@ -34678,15 +38780,26 @@
 			"kr": "히류",
 			"tw": "飛龍"
 		},
-		"property_hexagon": [
-			"E",
-			"E",
-			"A",
-			"C",
-			"B",
-			"B"
-		],
+		"property_hexagon": "EEACBB",
 		"type": 7,
+		"armor": 2,
+		"slots": [
+			[
+				7
+			],
+			[
+				9
+			],
+			[
+				8
+			],
+			[
+				10
+			],
+			[
+				10
+			]
+		],
 		"nationality": 3,
 		"data": {
 			"307041": {
@@ -34786,15 +38899,26 @@
 			"kr": "쇼카쿠",
 			"tw": "翔鶴"
 		},
-		"property_hexagon": [
-			"E",
-			"E",
-			"S",
-			"C",
-			"B",
-			"B"
-		],
+		"property_hexagon": "EESCBB",
 		"type": 7,
+		"armor": 2,
+		"slots": [
+			[
+				7
+			],
+			[
+				9
+			],
+			[
+				8
+			],
+			[
+				10
+			],
+			[
+				10
+			]
+		],
 		"nationality": 3,
 		"data": {
 			"307051": {
@@ -34900,7 +39024,26 @@
 					"spd": 34.2,
 					"luk": 49,
 					"asw": 0
-				}
+				},
+				"slots": [
+					[
+						7
+					],
+					[
+						9
+					],
+					[
+						8
+					],
+					[
+						10,
+						14
+					],
+					[
+						10,
+						14
+					]
+				]
 			},
 			"900247": {
 				"id": 900247,
@@ -34939,15 +39082,26 @@
 			"kr": "즈이카쿠",
 			"tw": "瑞鶴"
 		},
-		"property_hexagon": [
-			"E",
-			"E",
-			"S",
-			"B",
-			"B",
-			"B"
-		],
+		"property_hexagon": "EESBBB",
 		"type": 7,
+		"armor": 2,
+		"slots": [
+			[
+				7
+			],
+			[
+				9
+			],
+			[
+				8
+			],
+			[
+				10
+			],
+			[
+				10
+			]
+		],
 		"nationality": 3,
 		"data": {
 			"307061": {
@@ -35053,7 +39207,26 @@
 					"spd": 34.5,
 					"luk": 73,
 					"asw": 0
-				}
+				},
+				"slots": [
+					[
+						7
+					],
+					[
+						9
+					],
+					[
+						8
+					],
+					[
+						10,
+						14
+					],
+					[
+						10,
+						14
+					]
+				]
 			},
 			"900248": {
 				"id": 900248,
@@ -35092,15 +39265,26 @@
 			"jp": "大鳳",
 			"kr": "다이호"
 		},
-		"property_hexagon": [
-			"E",
-			"E",
-			"S",
-			"B",
-			"B",
-			"S"
-		],
+		"property_hexagon": "EESBBS",
 		"type": 7,
+		"armor": 3,
+		"slots": [
+			[
+				7
+			],
+			[
+				9
+			],
+			[
+				8
+			],
+			[
+				10
+			],
+			[
+				10
+			]
+		],
 		"nationality": 3,
 		"data": {
 			"307071": {
@@ -35199,15 +39383,26 @@
 			"jp": "信濃",
 			"kr": "시나노"
 		},
-		"property_hexagon": [
-			"E",
-			"E",
-			"S",
-			"B",
-			"B",
-			"S"
-		],
+		"property_hexagon": "EESBBS",
 		"type": 7,
+		"armor": 3,
+		"slots": [
+			[
+				7
+			],
+			[
+				9
+			],
+			[
+				8
+			],
+			[
+				10
+			],
+			[
+				10
+			]
+		],
 		"nationality": 3,
 		"data": {
 			"307081": {
@@ -35256,7 +39451,26 @@
 					"spd": 28,
 					"luk": 32,
 					"asw": 0
-				}
+				},
+				"slots": [
+					[
+						7,
+						8,
+						9
+					],
+					[
+						9
+					],
+					[
+						8
+					],
+					[
+						10
+					],
+					[
+						10
+					]
+				]
 			},
 			"307083": {
 				"id": 307083,
@@ -35280,7 +39494,26 @@
 					"spd": 28,
 					"luk": 32,
 					"asw": 0
-				}
+				},
+				"slots": [
+					[
+						7,
+						8,
+						9
+					],
+					[
+						9
+					],
+					[
+						8
+					],
+					[
+						10
+					],
+					[
+						10
+					]
+				]
 			},
 			"307084": {
 				"id": 307084,
@@ -35304,7 +39537,26 @@
 					"spd": 28,
 					"luk": 32,
 					"asw": 0
-				}
+				},
+				"slots": [
+					[
+						7,
+						8,
+						9
+					],
+					[
+						9
+					],
+					[
+						8
+					],
+					[
+						10
+					],
+					[
+						10
+					]
+				]
 			}
 		},
 		"stars": 6
@@ -35319,15 +39571,26 @@
 			"kr": "꼬마 아카기",
 			"tw": "小赤城"
 		},
-		"property_hexagon": [
-			"E",
-			"E",
-			"A",
-			"C",
-			"B",
-			"B"
-		],
+		"property_hexagon": "EEACBB",
 		"type": 7,
+		"armor": 2,
+		"slots": [
+			[
+				7
+			],
+			[
+				9
+			],
+			[
+				8
+			],
+			[
+				10
+			],
+			[
+				10
+			]
+		],
 		"nationality": 3,
 		"data": {
 			"307091": {
@@ -35426,15 +39689,26 @@
 			"jp": "赤城（μ兵装）",
 			"kr": "아카기(μ장비)"
 		},
-		"property_hexagon": [
-			"E",
-			"E",
-			"S",
-			"C",
-			"B",
-			"B"
-		],
+		"property_hexagon": "EESCBB",
 		"type": 7,
+		"armor": 2,
+		"slots": [
+			[
+				7
+			],
+			[
+				9
+			],
+			[
+				8
+			],
+			[
+				10
+			],
+			[
+				10
+			]
+		],
 		"nationality": 3,
 		"data": {
 			"307101": {
@@ -35540,15 +39814,10 @@
 		"id": 30801,
 		"code": 338,
 		"name": {},
-		"property_hexagon": [
-			"D",
-			"S",
-			"E",
-			"D",
-			"E",
-			"D"
-		],
+		"property_hexagon": "DSEDED",
 		"type": 8,
+		"armor": null,
+		"slots": null,
 		"nationality": 3,
 		"data": {}
 	},
@@ -35556,15 +39825,10 @@
 		"id": 30802,
 		"code": 339,
 		"name": {},
-		"property_hexagon": [
-			"D",
-			"S",
-			"E",
-			"D",
-			"E",
-			"D"
-		],
+		"property_hexagon": "DSEDED",
 		"type": 8,
+		"armor": null,
+		"slots": null,
 		"nationality": 3,
 		"data": {}
 	},
@@ -35572,15 +39836,10 @@
 		"id": 30803,
 		"code": 340,
 		"name": {},
-		"property_hexagon": [
-			"D",
-			"S",
-			"E",
-			"D",
-			"E",
-			"D"
-		],
+		"property_hexagon": "DSEDED",
 		"type": 8,
+		"armor": null,
+		"slots": null,
 		"nationality": 3,
 		"data": {}
 	},
@@ -35588,15 +39847,10 @@
 		"id": 30804,
 		"code": 396,
 		"name": {},
-		"property_hexagon": [
-			"D",
-			"S",
-			"E",
-			"D",
-			"E",
-			"D"
-		],
+		"property_hexagon": "DSEDED",
 		"type": 8,
+		"armor": null,
+		"slots": null,
 		"nationality": 3,
 		"data": {}
 	},
@@ -35604,15 +39858,10 @@
 		"id": 30805,
 		"code": 397,
 		"name": {},
-		"property_hexagon": [
-			"D",
-			"S",
-			"E",
-			"D",
-			"E",
-			"D"
-		],
+		"property_hexagon": "DSEDED",
 		"type": 8,
+		"armor": null,
+		"slots": null,
 		"nationality": 3,
 		"data": {}
 	},
@@ -35620,15 +39869,10 @@
 		"id": 30806,
 		"code": 398,
 		"name": {},
-		"property_hexagon": [
-			"D",
-			"S",
-			"E",
-			"D",
-			"E",
-			"D"
-		],
+		"property_hexagon": "DSEDED",
 		"type": 8,
+		"armor": null,
+		"slots": null,
 		"nationality": 3,
 		"data": {}
 	},
@@ -35642,15 +39886,26 @@
 			"kr": "아카시",
 			"tw": "明石"
 		},
-		"property_hexagon": [
-			"E",
-			"E",
-			"E",
-			"C",
-			"D",
-			"C"
-		],
+		"property_hexagon": "EEECDC",
 		"type": 12,
+		"armor": 1,
+		"slots": [
+			[
+				10
+			],
+			[
+				6
+			],
+			[
+				6
+			],
+			[
+				10
+			],
+			[
+				10
+			]
+		],
 		"nationality": 3,
 		"data": {
 			"312011": {
@@ -35744,15 +39999,10 @@
 		"id": 31701,
 		"code": 381,
 		"name": {},
-		"property_hexagon": [
-			"D",
-			"A",
-			"B",
-			"D",
-			"E",
-			"D"
-		],
+		"property_hexagon": "DABDED",
 		"type": 8,
+		"armor": null,
+		"slots": null,
 		"nationality": 3,
 		"data": {}
 	},
@@ -35765,15 +40015,29 @@
 			"jp": "樫野",
 			"kr": "카시노"
 		},
-		"property_hexagon": [
-			"D",
-			"E",
-			"E",
-			"D",
-			"D",
-			"B"
-		],
+		"property_hexagon": "DEEDDB",
 		"type": 1,
+		"armor": 1,
+		"slots": [
+			[
+				1
+			],
+			[
+				6
+			],
+			[
+				10,
+				18
+			],
+			[
+				10,
+				18
+			],
+			[
+				10,
+				18
+			]
+		],
 		"nationality": 3,
 		"data": {
 			"319011": {
@@ -35885,15 +40149,26 @@
 			"kr": "이부키",
 			"tw": "伊吹"
 		},
-		"property_hexagon": [
-			"A",
-			"B",
-			"E",
-			"C",
-			"C",
-			"A"
-		],
+		"property_hexagon": "ABECCA",
 		"type": 3,
+		"armor": 2,
+		"slots": [
+			[
+				3
+			],
+			[
+				5
+			],
+			[
+				6
+			],
+			[
+				10
+			],
+			[
+				10
+			]
+		],
 		"nationality": 3,
 		"data": {
 			"399011": {
@@ -35993,15 +40268,27 @@
 			"kr": "이즈모",
 			"tw": "出雲"
 		},
-		"property_hexagon": [
-			"S",
-			"E",
-			"E",
-			"C",
-			"D",
-			"S"
-		],
+		"property_hexagon": "SEECDS",
 		"type": 5,
+		"armor": 3,
+		"slots": [
+			[
+				4
+			],
+			[
+				1,
+				2
+			],
+			[
+				6
+			],
+			[
+				10
+			],
+			[
+				10
+			]
+		],
 		"nationality": 3,
 		"data": {
 			"399021": {
@@ -36101,15 +40388,28 @@
 			"kr": "키타카제",
 			"tw": "北風"
 		},
-		"property_hexagon": [
-			"C",
-			"B",
-			"E",
-			"A",
-			"B",
-			"C"
-		],
+		"property_hexagon": "CBEABC",
 		"type": 1,
+		"armor": 1,
+		"slots": [
+			[
+				1
+			],
+			[
+				5
+			],
+			[
+				6
+			],
+			[
+				10,
+				14
+			],
+			[
+				10,
+				14
+			]
+		],
 		"nationality": 3,
 		"data": {
 			"399031": {
@@ -36230,15 +40530,27 @@
 			"kr": "아즈마",
 			"tw": "吾妻"
 		},
-		"property_hexagon": [
-			"A",
-			"E",
-			"E",
-			"C",
-			"C",
-			"S"
-		],
+		"property_hexagon": "AEECCS",
 		"type": 18,
+		"armor": 2,
+		"slots": [
+			[
+				3,
+				11
+			],
+			[
+				1
+			],
+			[
+				6
+			],
+			[
+				10
+			],
+			[
+				10
+			]
+		],
 		"nationality": 3,
 		"data": {
 			"399041": {
@@ -36359,15 +40671,28 @@
 			"kr": "Z1",
 			"tw": "Z1"
 		},
-		"property_hexagon": [
-			"D",
-			"A",
-			"E",
-			"A",
-			"D",
-			"D"
-		],
+		"property_hexagon": "DAEADD",
 		"type": 1,
+		"armor": 1,
+		"slots": [
+			[
+				1
+			],
+			[
+				5
+			],
+			[
+				6
+			],
+			[
+				10,
+				14
+			],
+			[
+				10,
+				14
+			]
+		],
 		"nationality": 4,
 		"data": {
 			"401011": {
@@ -36478,15 +40803,28 @@
 			"jp": "Z2",
 			"kr": "Z2"
 		},
-		"property_hexagon": [
-			"D",
-			"A",
-			"E",
-			"A",
-			"D",
-			"D"
-		],
+		"property_hexagon": "DAEADD",
 		"type": 1,
+		"armor": 1,
+		"slots": [
+			[
+				1
+			],
+			[
+				5
+			],
+			[
+				6
+			],
+			[
+				10,
+				14
+			],
+			[
+				10,
+				14
+			]
+		],
 		"nationality": 4,
 		"data": {
 			"401021": {
@@ -36598,15 +40936,28 @@
 			"kr": "Z18",
 			"tw": "Z18"
 		},
-		"property_hexagon": [
-			"D",
-			"A",
-			"E",
-			"B",
-			"D",
-			"D"
-		],
+		"property_hexagon": "DAEBDD",
 		"type": 1,
+		"armor": 1,
+		"slots": [
+			[
+				1
+			],
+			[
+				5
+			],
+			[
+				6
+			],
+			[
+				10,
+				14
+			],
+			[
+				10,
+				14
+			]
+		],
 		"nationality": 4,
 		"data": {
 			"401181": {
@@ -36718,15 +41069,28 @@
 			"kr": "Z19",
 			"tw": "Z19"
 		},
-		"property_hexagon": [
-			"D",
-			"A",
-			"E",
-			"B",
-			"D",
-			"D"
-		],
+		"property_hexagon": "DAEBDD",
 		"type": 1,
+		"armor": 1,
+		"slots": [
+			[
+				1
+			],
+			[
+				5
+			],
+			[
+				6
+			],
+			[
+				10,
+				14
+			],
+			[
+				10,
+				14
+			]
+		],
 		"nationality": 4,
 		"data": {
 			"401191": {
@@ -36838,15 +41202,28 @@
 			"kr": "Z20",
 			"tw": "Z20"
 		},
-		"property_hexagon": [
-			"D",
-			"A",
-			"E",
-			"B",
-			"D",
-			"D"
-		],
+		"property_hexagon": "DAEBDD",
 		"type": 1,
+		"armor": 1,
+		"slots": [
+			[
+				1
+			],
+			[
+				5
+			],
+			[
+				6
+			],
+			[
+				10,
+				14
+			],
+			[
+				10,
+				14
+			]
+		],
 		"nationality": 4,
 		"data": {
 			"401201": {
@@ -36958,15 +41335,28 @@
 			"kr": "Z21",
 			"tw": "Z21"
 		},
-		"property_hexagon": [
-			"D",
-			"A",
-			"E",
-			"B",
-			"D",
-			"D"
-		],
+		"property_hexagon": "DAEBDD",
 		"type": 1,
+		"armor": 1,
+		"slots": [
+			[
+				1
+			],
+			[
+				5
+			],
+			[
+				6
+			],
+			[
+				10,
+				14
+			],
+			[
+				10,
+				14
+			]
+		],
 		"nationality": 4,
 		"data": {
 			"401211": {
@@ -37078,15 +41468,29 @@
 			"kr": "Z23",
 			"tw": "Z23"
 		},
-		"property_hexagon": [
-			"A",
-			"C",
-			"E",
-			"B",
-			"D",
-			"D"
-		],
+		"property_hexagon": "ACEBDD",
 		"type": 1,
+		"armor": 1,
+		"slots": [
+			[
+				1,
+				2
+			],
+			[
+				5
+			],
+			[
+				6
+			],
+			[
+				10,
+				14
+			],
+			[
+				10,
+				14
+			]
+		],
 		"nationality": 4,
 		"data": {
 			"401231": {
@@ -37222,15 +41626,29 @@
 			"kr": "Z25",
 			"tw": "Z25"
 		},
-		"property_hexagon": [
-			"A",
-			"C",
-			"E",
-			"B",
-			"D",
-			"D"
-		],
+		"property_hexagon": "ACEBDD",
 		"type": 1,
+		"armor": 1,
+		"slots": [
+			[
+				1,
+				2
+			],
+			[
+				5
+			],
+			[
+				6
+			],
+			[
+				10,
+				14
+			],
+			[
+				10,
+				14
+			]
+		],
 		"nationality": 4,
 		"data": {
 			"401251": {
@@ -37341,15 +41759,29 @@
 			"jp": "Z26",
 			"kr": "Z26"
 		},
-		"property_hexagon": [
-			"A",
-			"C",
-			"E",
-			"B",
-			"D",
-			"D"
-		],
+		"property_hexagon": "ACEBDD",
 		"type": 1,
+		"armor": 1,
+		"slots": [
+			[
+				1,
+				2
+			],
+			[
+				5
+			],
+			[
+				6
+			],
+			[
+				10,
+				14
+			],
+			[
+				10,
+				14
+			]
+		],
 		"nationality": 4,
 		"data": {
 			"401261": {
@@ -37461,15 +41893,28 @@
 			"kr": "Z35",
 			"tw": "Z35"
 		},
-		"property_hexagon": [
-			"C",
-			"A",
-			"E",
-			"A",
-			"B",
-			"D"
-		],
+		"property_hexagon": "CAEABD",
 		"type": 1,
+		"armor": 1,
+		"slots": [
+			[
+				1
+			],
+			[
+				5
+			],
+			[
+				6
+			],
+			[
+				10,
+				14
+			],
+			[
+				10,
+				14
+			]
+		],
 		"nationality": 4,
 		"data": {
 			"401351": {
@@ -37581,15 +42026,28 @@
 			"kr": "Z36",
 			"tw": "Z36"
 		},
-		"property_hexagon": [
-			"C",
-			"A",
-			"E",
-			"A",
-			"B",
-			"D"
-		],
+		"property_hexagon": "CAEABD",
 		"type": 1,
+		"armor": 1,
+		"slots": [
+			[
+				1
+			],
+			[
+				5
+			],
+			[
+				6
+			],
+			[
+				10,
+				14
+			],
+			[
+				10,
+				14
+			]
+		],
 		"nationality": 4,
 		"data": {
 			"401361": {
@@ -37701,15 +42159,28 @@
 			"kr": "Z46",
 			"tw": "Z46"
 		},
-		"property_hexagon": [
-			"C",
-			"A",
-			"E",
-			"B",
-			"A",
-			"C"
-		],
+		"property_hexagon": "CAEBAC",
 		"type": 1,
+		"armor": 1,
+		"slots": [
+			[
+				1
+			],
+			[
+				5
+			],
+			[
+				6
+			],
+			[
+				10,
+				14
+			],
+			[
+				10,
+				14
+			]
+		],
 		"nationality": 4,
 		"data": {
 			"401461": {
@@ -37821,15 +42292,28 @@
 			"kr": "쾨니히스베르크",
 			"tw": "柯尼斯堡"
 		},
-		"property_hexagon": [
-			"C",
-			"B",
-			"E",
-			"B",
-			"C",
-			"C"
-		],
+		"property_hexagon": "CBEBCC",
 		"type": 2,
+		"armor": 1,
+		"slots": [
+			[
+				2
+			],
+			[
+				5
+			],
+			[
+				6
+			],
+			[
+				10,
+				14
+			],
+			[
+				10,
+				14
+			]
+		],
 		"nationality": 4,
 		"data": {
 			"402011": {
@@ -37929,15 +42413,28 @@
 			"kr": "카를스루에",
 			"tw": "卡爾斯魯厄"
 		},
-		"property_hexagon": [
-			"C",
-			"B",
-			"E",
-			"B",
-			"C",
-			"C"
-		],
+		"property_hexagon": "CBEBCC",
 		"type": 2,
+		"armor": 1,
+		"slots": [
+			[
+				2
+			],
+			[
+				5
+			],
+			[
+				6
+			],
+			[
+				10,
+				14
+			],
+			[
+				10,
+				14
+			]
+		],
 		"nationality": 4,
 		"data": {
 			"402021": {
@@ -38037,15 +42534,28 @@
 			"kr": "쾰른",
 			"tw": "科隆"
 		},
-		"property_hexagon": [
-			"C",
-			"B",
-			"E",
-			"B",
-			"C",
-			"C"
-		],
+		"property_hexagon": "CBEBCC",
 		"type": 2,
+		"armor": 1,
+		"slots": [
+			[
+				2
+			],
+			[
+				5
+			],
+			[
+				6
+			],
+			[
+				10,
+				14
+			],
+			[
+				10,
+				14
+			]
+		],
 		"nationality": 4,
 		"data": {
 			"402031": {
@@ -38152,6 +42662,26 @@
 					"luk": 62,
 					"asw": 63
 				},
+				"slots": [
+					[
+						2
+					],
+					[
+						5
+					],
+					[
+						6
+					],
+					[
+						10,
+						14,
+						17
+					],
+					[
+						10,
+						14
+					]
+				],
 				"name": {
 					"en": "Köln Retrofit",
 					"cn": "科隆·改",
@@ -38173,15 +42703,28 @@
 			"kr": "라이프치히",
 			"tw": "萊比錫"
 		},
-		"property_hexagon": [
-			"C",
-			"B",
-			"E",
-			"B",
-			"C",
-			"C"
-		],
+		"property_hexagon": "CBEBCC",
 		"type": 2,
+		"armor": 1,
+		"slots": [
+			[
+				2
+			],
+			[
+				5
+			],
+			[
+				6
+			],
+			[
+				10,
+				14
+			],
+			[
+				10,
+				14
+			]
+		],
 		"nationality": 4,
 		"data": {
 			"402041": {
@@ -38281,15 +42824,26 @@
 			"kr": "아드미랄 히퍼",
 			"tw": "希佩爾將軍"
 		},
-		"property_hexagon": [
-			"A",
-			"C",
-			"E",
-			"C",
-			"C",
-			"A"
-		],
+		"property_hexagon": "ACECCA",
 		"type": 3,
+		"armor": 2,
+		"slots": [
+			[
+				3
+			],
+			[
+				5
+			],
+			[
+				6
+			],
+			[
+				10
+			],
+			[
+				10
+			]
+		],
 		"nationality": 4,
 		"data": {
 			"403011": {
@@ -38389,15 +42943,26 @@
 			"kr": "프린츠 오이겐",
 			"tw": "歐根親王"
 		},
-		"property_hexagon": [
-			"B",
-			"D",
-			"E",
-			"C",
-			"B",
-			"S"
-		],
+		"property_hexagon": "BDECBS",
 		"type": 3,
+		"armor": 2,
+		"slots": [
+			[
+				3
+			],
+			[
+				5
+			],
+			[
+				6
+			],
+			[
+				10
+			],
+			[
+				10
+			]
+		],
 		"nationality": 4,
 		"data": {
 			"403031": {
@@ -38497,15 +43062,27 @@
 			"kr": "도이칠란트",
 			"tw": "德意志"
 		},
-		"property_hexagon": [
-			"A",
-			"C",
-			"E",
-			"C",
-			"C",
-			"A"
-		],
+		"property_hexagon": "ACECCA",
 		"type": 3,
+		"armor": 2,
+		"slots": [
+			[
+				3,
+				11
+			],
+			[
+				5
+			],
+			[
+				6
+			],
+			[
+				10
+			],
+			[
+				10
+			]
+		],
 		"nationality": 4,
 		"data": {
 			"403041": {
@@ -38605,15 +43182,27 @@
 			"kr": "아드미랄 그라프 슈피",
 			"tw": "施佩伯爵將軍"
 		},
-		"property_hexagon": [
-			"A",
-			"C",
-			"E",
-			"C",
-			"C",
-			"A"
-		],
+		"property_hexagon": "ACECCA",
 		"type": 3,
+		"armor": 2,
+		"slots": [
+			[
+				3,
+				11
+			],
+			[
+				5
+			],
+			[
+				6
+			],
+			[
+				10
+			],
+			[
+				10
+			]
+		],
 		"nationality": 4,
 		"data": {
 			"403051": {
@@ -38712,15 +43301,26 @@
 			"jp": "アドミラル·ヒッパー（μ兵装）",
 			"kr": "아드미랄 히퍼(μ장비)"
 		},
-		"property_hexagon": [
-			"A",
-			"C",
-			"E",
-			"C",
-			"C",
-			"A"
-		],
+		"property_hexagon": "ACECCA",
 		"type": 3,
+		"armor": 2,
+		"slots": [
+			[
+				3
+			],
+			[
+				5
+			],
+			[
+				6
+			],
+			[
+				10
+			],
+			[
+				10
+			]
+		],
 		"nationality": 4,
 		"data": {
 			"403071": {
@@ -38832,15 +43432,27 @@
 			"kr": "샤른호르스트",
 			"tw": "沙恩霍斯特"
 		},
-		"property_hexagon": [
-			"A",
-			"D",
-			"E",
-			"D",
-			"C",
-			"A"
-		],
+		"property_hexagon": "ADEDCA",
 		"type": 4,
+		"armor": 2,
+		"slots": [
+			[
+				4
+			],
+			[
+				1,
+				2
+			],
+			[
+				6
+			],
+			[
+				10
+			],
+			[
+				10
+			]
+		],
 		"nationality": 4,
 		"data": {
 			"404011": {
@@ -38940,15 +43552,27 @@
 			"kr": "그나이제나우",
 			"tw": "格奈森瑙"
 		},
-		"property_hexagon": [
-			"A",
-			"D",
-			"E",
-			"D",
-			"C",
-			"A"
-		],
+		"property_hexagon": "ADEDCA",
 		"type": 4,
+		"armor": 2,
+		"slots": [
+			[
+				4
+			],
+			[
+				1,
+				2
+			],
+			[
+				6
+			],
+			[
+				10
+			],
+			[
+				10
+			]
+		],
 		"nationality": 4,
 		"data": {
 			"404021": {
@@ -39069,15 +43693,27 @@
 			"kr": "비스마르크",
 			"tw": "俾斯麥"
 		},
-		"property_hexagon": [
-			"S",
-			"E",
-			"E",
-			"D",
-			"C",
-			"S"
-		],
+		"property_hexagon": "SEEDCS",
 		"type": 5,
+		"armor": 3,
+		"slots": [
+			[
+				4
+			],
+			[
+				1,
+				2
+			],
+			[
+				6
+			],
+			[
+				10
+			],
+			[
+				10
+			]
+		],
 		"nationality": 4,
 		"data": {
 			"405011": {
@@ -39189,15 +43825,27 @@
 			"kr": "티르피츠",
 			"tw": "鐵必制"
 		},
-		"property_hexagon": [
-			"A",
-			"C",
-			"E",
-			"D",
-			"C",
-			"S"
-		],
+		"property_hexagon": "ACEDCS",
 		"type": 5,
+		"armor": 3,
+		"slots": [
+			[
+				4
+			],
+			[
+				1,
+				2
+			],
+			[
+				6
+			],
+			[
+				10
+			],
+			[
+				10
+			]
+		],
 		"nationality": 4,
 		"data": {
 			"405021": {
@@ -39336,15 +43984,26 @@
 			"kr": "그라프 체펠린",
 			"tw": "齊柏林伯爵"
 		},
-		"property_hexagon": [
-			"E",
-			"E",
-			"S",
-			"C",
-			"B",
-			"A"
-		],
+		"property_hexagon": "EESCBA",
 		"type": 7,
+		"armor": 2,
+		"slots": [
+			[
+				7
+			],
+			[
+				9
+			],
+			[
+				9
+			],
+			[
+				10
+			],
+			[
+				10
+			]
+		],
 		"nationality": 4,
 		"data": {
 			"407011": {
@@ -39468,15 +44127,27 @@
 			"kr": "꼬마 그라프 체펠린",
 			"tw": "小齊柏林"
 		},
-		"property_hexagon": [
-			"D",
-			"E",
-			"A",
-			"C",
-			"B",
-			"B"
-		],
+		"property_hexagon": "DEACBB",
 		"type": 7,
+		"armor": 2,
+		"slots": [
+			[
+				7
+			],
+			[
+				9
+			],
+			[
+				2,
+				9
+			],
+			[
+				10
+			],
+			[
+				10
+			]
+		],
 		"nationality": 4,
 		"data": {
 			"407021": {
@@ -39570,15 +44241,10 @@
 		"id": 40801,
 		"code": 341,
 		"name": {},
-		"property_hexagon": [
-			"D",
-			"S",
-			"E",
-			"D",
-			"E",
-			"D"
-		],
+		"property_hexagon": "DSEDED",
 		"type": 8,
+		"armor": null,
+		"slots": null,
 		"nationality": 4,
 		"data": {}
 	},
@@ -39586,15 +44252,10 @@
 		"id": 40802,
 		"code": 343,
 		"name": {},
-		"property_hexagon": [
-			"D",
-			"S",
-			"E",
-			"D",
-			"E",
-			"D"
-		],
+		"property_hexagon": "DSEDED",
 		"type": 8,
+		"armor": null,
+		"slots": null,
 		"nationality": 4,
 		"data": {}
 	},
@@ -39602,15 +44263,10 @@
 		"id": 40803,
 		"code": 344,
 		"name": {},
-		"property_hexagon": [
-			"D",
-			"A",
-			"E",
-			"D",
-			"E",
-			"D"
-		],
+		"property_hexagon": "DAEDED",
 		"type": 8,
+		"armor": null,
+		"slots": null,
 		"nationality": 4,
 		"data": {}
 	},
@@ -39618,15 +44274,10 @@
 		"id": 40804,
 		"code": 386,
 		"name": {},
-		"property_hexagon": [
-			"D",
-			"A",
-			"E",
-			"D",
-			"E",
-			"D"
-		],
+		"property_hexagon": "DAEDED",
 		"type": 8,
+		"armor": null,
+		"slots": null,
 		"nationality": 4,
 		"data": {}
 	},
@@ -39634,15 +44285,10 @@
 		"id": 40805,
 		"code": 387,
 		"name": {},
-		"property_hexagon": [
-			"D",
-			"S",
-			"E",
-			"D",
-			"E",
-			"D"
-		],
+		"property_hexagon": "DSEDED",
 		"type": 8,
+		"armor": null,
+		"slots": null,
 		"nationality": 4,
 		"data": {}
 	},
@@ -39650,15 +44296,10 @@
 		"id": 40806,
 		"code": 399,
 		"name": {},
-		"property_hexagon": [
-			"D",
-			"S",
-			"E",
-			"D",
-			"E",
-			"D"
-		],
+		"property_hexagon": "DSEDED",
 		"type": 8,
+		"armor": null,
+		"slots": null,
 		"nationality": 4,
 		"data": {}
 	},
@@ -39666,15 +44307,10 @@
 		"id": 40807,
 		"code": 400,
 		"name": {},
-		"property_hexagon": [
-			"D",
-			"A",
-			"E",
-			"D",
-			"E",
-			"D"
-		],
+		"property_hexagon": "DAEDED",
 		"type": 8,
+		"armor": null,
+		"slots": null,
 		"nationality": 4,
 		"data": {}
 	},
@@ -39682,15 +44318,10 @@
 		"id": 40808,
 		"code": 416,
 		"name": {},
-		"property_hexagon": [
-			"D",
-			"A",
-			"E",
-			"D",
-			"E",
-			"D"
-		],
+		"property_hexagon": "DAEDED",
 		"type": 8,
+		"armor": null,
+		"slots": null,
 		"nationality": 4,
 		"data": {}
 	},
@@ -39698,15 +44329,10 @@
 		"id": 40809,
 		"code": 467,
 		"name": {},
-		"property_hexagon": [
-			"D",
-			"S",
-			"E",
-			"D",
-			"E",
-			"D"
-		],
+		"property_hexagon": "DSEDED",
 		"type": 8,
+		"armor": null,
+		"slots": null,
 		"nationality": 4,
 		"data": {}
 	},
@@ -39720,15 +44346,26 @@
 			"kr": "론",
 			"tw": "羅恩"
 		},
-		"property_hexagon": [
-			"A",
-			"C",
-			"E",
-			"C",
-			"B",
-			"S"
-		],
+		"property_hexagon": "ACECBS",
 		"type": 3,
+		"armor": 2,
+		"slots": [
+			[
+				3
+			],
+			[
+				5
+			],
+			[
+				6
+			],
+			[
+				10
+			],
+			[
+				10
+			]
+		],
 		"nationality": 4,
 		"data": {
 			"499011": {
@@ -39828,15 +44465,27 @@
 			"kr": "프리드리히 데어 그로세",
 			"tw": "腓特烈大帝"
 		},
-		"property_hexagon": [
-			"S",
-			"E",
-			"E",
-			"C",
-			"C",
-			"S"
-		],
+		"property_hexagon": "SEECCS",
 		"type": 5,
+		"armor": 3,
+		"slots": [
+			[
+				4
+			],
+			[
+				1,
+				2
+			],
+			[
+				6
+			],
+			[
+				10
+			],
+			[
+				10
+			]
+		],
 		"nationality": 4,
 		"data": {
 			"499021": {
@@ -39959,15 +44608,28 @@
 			"jp": "マインツ",
 			"kr": "마인츠"
 		},
-		"property_hexagon": [
-			"B",
-			"C",
-			"E",
-			"C",
-			"B",
-			"A"
-		],
+		"property_hexagon": "BCECBA",
 		"type": 2,
+		"armor": 2,
+		"slots": [
+			[
+				2
+			],
+			[
+				5
+			],
+			[
+				6
+			],
+			[
+				10,
+				14
+			],
+			[
+				10,
+				14
+			]
+		],
 		"nationality": 4,
 		"data": {
 			"499031": {
@@ -40090,15 +44752,26 @@
 			"jp": "オーディン",
 			"kr": "오딘"
 		},
-		"property_hexagon": [
-			"A",
-			"C",
-			"E",
-			"D",
-			"C",
-			"A"
-		],
+		"property_hexagon": "ACEDCA",
 		"type": 4,
+		"armor": 3,
+		"slots": [
+			[
+				4
+			],
+			[
+				5
+			],
+			[
+				6
+			],
+			[
+				10
+			],
+			[
+				10
+			]
+		],
 		"nationality": 4,
 		"data": {
 			"499041": {
@@ -40222,15 +44895,28 @@
 			"kr": "안샨",
 			"tw": "鞍山"
 		},
-		"property_hexagon": [
-			"A",
-			"D",
-			"E",
-			"B",
-			"C",
-			"D"
-		],
+		"property_hexagon": "ADEBCD",
 		"type": 1,
+		"armor": 1,
+		"slots": [
+			[
+				1
+			],
+			[
+				5
+			],
+			[
+				6
+			],
+			[
+				10,
+				14
+			],
+			[
+				10,
+				14
+			]
+		],
 		"nationality": 5,
 		"data": {
 			"501011": {
@@ -40346,15 +45032,28 @@
 			"kr": "푸슌",
 			"tw": "撫順"
 		},
-		"property_hexagon": [
-			"A",
-			"D",
-			"E",
-			"B",
-			"C",
-			"D"
-		],
+		"property_hexagon": "ADEBCD",
 		"type": 1,
+		"armor": 1,
+		"slots": [
+			[
+				1
+			],
+			[
+				5
+			],
+			[
+				6
+			],
+			[
+				10,
+				14
+			],
+			[
+				10,
+				14
+			]
+		],
 		"nationality": 5,
 		"data": {
 			"501021": {
@@ -40470,15 +45169,28 @@
 			"kr": "창춘",
 			"tw": "長春"
 		},
-		"property_hexagon": [
-			"A",
-			"D",
-			"E",
-			"B",
-			"C",
-			"D"
-		],
+		"property_hexagon": "ADEBCD",
 		"type": 1,
+		"armor": 1,
+		"slots": [
+			[
+				1
+			],
+			[
+				5
+			],
+			[
+				6
+			],
+			[
+				10,
+				14
+			],
+			[
+				10,
+				14
+			]
+		],
 		"nationality": 5,
 		"data": {
 			"501031": {
@@ -40594,15 +45306,28 @@
 			"kr": "타이위안",
 			"tw": "太原"
 		},
-		"property_hexagon": [
-			"A",
-			"D",
-			"E",
-			"B",
-			"C",
-			"D"
-		],
+		"property_hexagon": "ADEBCD",
 		"type": 1,
+		"armor": 1,
+		"slots": [
+			[
+				1
+			],
+			[
+				5
+			],
+			[
+				6
+			],
+			[
+				10,
+				14
+			],
+			[
+				10,
+				14
+			]
+		],
 		"nationality": 5,
 		"data": {
 			"501041": {
@@ -40718,15 +45443,28 @@
 			"kr": "얏센",
 			"tw": "逸仙"
 		},
-		"property_hexagon": [
-			"B",
-			"E",
-			"E",
-			"C",
-			"B",
-			"D"
-		],
+		"property_hexagon": "BEECBD",
 		"type": 2,
+		"armor": 1,
+		"slots": [
+			[
+				2
+			],
+			[
+				2
+			],
+			[
+				6
+			],
+			[
+				10,
+				14
+			],
+			[
+				10,
+				14
+			]
+		],
 		"nationality": 5,
 		"data": {
 			"502011": {
@@ -40826,15 +45564,28 @@
 			"kr": "닝하이",
 			"tw": "寧海"
 		},
-		"property_hexagon": [
-			"B",
-			"C",
-			"E",
-			"C",
-			"B",
-			"D"
-		],
+		"property_hexagon": "BCECBD",
 		"type": 2,
+		"armor": 1,
+		"slots": [
+			[
+				2
+			],
+			[
+				5
+			],
+			[
+				6
+			],
+			[
+				10,
+				14
+			],
+			[
+				10,
+				14
+			]
+		],
 		"nationality": 5,
 		"data": {
 			"502021": {
@@ -40934,15 +45685,28 @@
 			"kr": "핑하이",
 			"tw": "平海"
 		},
-		"property_hexagon": [
-			"B",
-			"C",
-			"E",
-			"C",
-			"B",
-			"D"
-		],
+		"property_hexagon": "BCECBD",
 		"type": 2,
+		"armor": 1,
+		"slots": [
+			[
+				2
+			],
+			[
+				5
+			],
+			[
+				6
+			],
+			[
+				10,
+				14
+			],
+			[
+				10,
+				14
+			]
+		],
 		"nationality": 5,
 		"data": {
 			"502031": {
@@ -41041,15 +45805,28 @@
 			"jp": "カラビニエーレ",
 			"kr": "카라비니에레"
 		},
-		"property_hexagon": [
-			"A",
-			"D",
-			"E",
-			"A",
-			"C",
-			"D"
-		],
+		"property_hexagon": "ADEACD",
 		"type": 1,
+		"armor": 1,
+		"slots": [
+			[
+				1
+			],
+			[
+				5
+			],
+			[
+				6
+			],
+			[
+				10,
+				14
+			],
+			[
+				10,
+				14
+			]
+		],
 		"nationality": 6,
 		"data": {
 			"601021": {
@@ -41148,15 +45925,26 @@
 			"jp": "トレント",
 			"kr": "트렌토"
 		},
-		"property_hexagon": [
-			"B",
-			"C",
-			"E",
-			"C",
-			"B",
-			"C"
-		],
+		"property_hexagon": "BCECBC",
 		"type": 3,
+		"armor": 1,
+		"slots": [
+			[
+				3
+			],
+			[
+				5
+			],
+			[
+				6
+			],
+			[
+				10
+			],
+			[
+				10
+			]
+		],
 		"nationality": 6,
 		"data": {
 			"603011": {
@@ -41255,15 +46043,26 @@
 			"jp": "ザラ",
 			"kr": "차라"
 		},
-		"property_hexagon": [
-			"B",
-			"E",
-			"E",
-			"C",
-			"B",
-			"A"
-		],
+		"property_hexagon": "BEECBA",
 		"type": 3,
+		"armor": 2,
+		"slots": [
+			[
+				3
+			],
+			[
+				1
+			],
+			[
+				6
+			],
+			[
+				10
+			],
+			[
+				10
+			]
+		],
 		"nationality": 6,
 		"data": {
 			"603021": {
@@ -41374,15 +46173,27 @@
 			"jp": "リットリオ",
 			"kr": "리토리오"
 		},
-		"property_hexagon": [
-			"S",
-			"E",
-			"E",
-			"D",
-			"C",
-			"S"
-		],
+		"property_hexagon": "SEEDCS",
 		"type": 5,
+		"armor": 3,
+		"slots": [
+			[
+				4
+			],
+			[
+				1,
+				2
+			],
+			[
+				6
+			],
+			[
+				10
+			],
+			[
+				10
+			]
+		],
 		"nationality": 6,
 		"data": {
 			"605021": {
@@ -41481,15 +46292,26 @@
 			"jp": "コンテ・ディ・カブール",
 			"kr": "콘테 디 카보우르"
 		},
-		"property_hexagon": [
-			"A",
-			"D",
-			"E",
-			"D",
-			"D",
-			"B"
-		],
+		"property_hexagon": "ADEDDB",
 		"type": 5,
+		"armor": 3,
+		"slots": [
+			[
+				4
+			],
+			[
+				1
+			],
+			[
+				6
+			],
+			[
+				10
+			],
+			[
+				10
+			]
+		],
 		"nationality": 6,
 		"data": {
 			"605051": {
@@ -41588,15 +46410,26 @@
 			"jp": "ジュリオ・チェザーレ",
 			"kr": "줄리오 체사레"
 		},
-		"property_hexagon": [
-			"A",
-			"D",
-			"E",
-			"D",
-			"D",
-			"B"
-		],
+		"property_hexagon": "ADEDDB",
 		"type": 5,
+		"armor": 3,
+		"slots": [
+			[
+				4
+			],
+			[
+				1
+			],
+			[
+				6
+			],
+			[
+				10
+			],
+			[
+				10
+			]
+		],
 		"nationality": 6,
 		"data": {
 			"605061": {
@@ -41695,15 +46528,28 @@
 			"jp": "グロズヌイ",
 			"kr": "그로즈니"
 		},
-		"property_hexagon": [
-			"A",
-			"D",
-			"E",
-			"B",
-			"C",
-			"D"
-		],
+		"property_hexagon": "ADEBCD",
 		"type": 1,
+		"armor": 1,
+		"slots": [
+			[
+				1
+			],
+			[
+				5
+			],
+			[
+				6
+			],
+			[
+				10,
+				14
+			],
+			[
+				10,
+				14
+			]
+		],
 		"nationality": 7,
 		"data": {
 			"701021": {
@@ -41802,15 +46648,28 @@
 			"jp": "ミンスク",
 			"kr": "민스크"
 		},
-		"property_hexagon": [
-			"A",
-			"D",
-			"E",
-			"A",
-			"C",
-			"D"
-		],
+		"property_hexagon": "ADEACD",
 		"type": 1,
+		"armor": 1,
+		"slots": [
+			[
+				1
+			],
+			[
+				5
+			],
+			[
+				6
+			],
+			[
+				10,
+				14
+			],
+			[
+				10,
+				14
+			]
+		],
 		"nationality": 7,
 		"data": {
 			"701031": {
@@ -41909,15 +46768,28 @@
 			"jp": "タシュケント",
 			"kr": "타슈켄트"
 		},
-		"property_hexagon": [
-			"A",
-			"D",
-			"E",
-			"A",
-			"C",
-			"D"
-		],
+		"property_hexagon": "ADEACD",
 		"type": 1,
+		"armor": 1,
+		"slots": [
+			[
+				1
+			],
+			[
+				5
+			],
+			[
+				6
+			],
+			[
+				10,
+				14
+			],
+			[
+				10,
+				14
+			]
+		],
 		"nationality": 7,
 		"data": {
 			"701041": {
@@ -42029,15 +46901,28 @@
 			"kr": "아브로라",
 			"tw": "曙光"
 		},
-		"property_hexagon": [
-			"D",
-			"D",
-			"E",
-			"C",
-			"C",
-			"C"
-		],
+		"property_hexagon": "DDECCC",
 		"type": 2,
+		"armor": 2,
+		"slots": [
+			[
+				2
+			],
+			[
+				5
+			],
+			[
+				6
+			],
+			[
+				10,
+				14
+			],
+			[
+				10,
+				14
+			]
+		],
 		"nationality": 7,
 		"data": {
 			"702011": {
@@ -42136,15 +47021,28 @@
 			"jp": "パーミャチ・メルクーリヤ",
 			"kr": "파먀티 메르쿠리야"
 		},
-		"property_hexagon": [
-			"D",
-			"D",
-			"E",
-			"C",
-			"C",
-			"C"
-		],
+		"property_hexagon": "DDECCC",
 		"type": 2,
+		"armor": 2,
+		"slots": [
+			[
+				2
+			],
+			[
+				5
+			],
+			[
+				6
+			],
+			[
+				10,
+				14
+			],
+			[
+				10,
+				14
+			]
+		],
 		"nationality": 7,
 		"data": {
 			"702021": {
@@ -42243,15 +47141,28 @@
 			"jp": "チャパエフ",
 			"kr": "차파예프"
 		},
-		"property_hexagon": [
-			"B",
-			"E",
-			"E",
-			"B",
-			"B",
-			"B"
-		],
+		"property_hexagon": "BEEBBB",
 		"type": 2,
+		"armor": 1,
+		"slots": [
+			[
+				2
+			],
+			[
+				1
+			],
+			[
+				6
+			],
+			[
+				10,
+				14
+			],
+			[
+				10,
+				14
+			]
+		],
 		"nationality": 7,
 		"data": {
 			"702031": {
@@ -42351,15 +47262,27 @@
 			"kr": "강구트",
 			"tw": "甘古特"
 		},
-		"property_hexagon": [
-			"A",
-			"E",
-			"E",
-			"D",
-			"D",
-			"B"
-		],
+		"property_hexagon": "AEEDDB",
 		"type": 5,
+		"armor": 3,
+		"slots": [
+			[
+				4
+			],
+			[
+				1,
+				2
+			],
+			[
+				6
+			],
+			[
+				10
+			],
+			[
+				10
+			]
+		],
 		"nationality": 7,
 		"data": {
 			"705011": {
@@ -42480,15 +47403,27 @@
 			"kr": "소비에츠카야 러시아",
 			"tw": "苏维埃罗西亚"
 		},
-		"property_hexagon": [
-			"S",
-			"E",
-			"E",
-			"D",
-			"C",
-			"S"
-		],
+		"property_hexagon": "SEEDCS",
 		"type": 5,
+		"armor": 3,
+		"slots": [
+			[
+				4
+			],
+			[
+				1,
+				2
+			],
+			[
+				6
+			],
+			[
+				10
+			],
+			[
+				10
+			]
+		],
 		"nationality": 7,
 		"data": {
 			"705051": {
@@ -42609,15 +47544,28 @@
 			"kr": "르 트리옹팡",
 			"tw": "凱旋"
 		},
-		"property_hexagon": [
-			"A",
-			"C",
-			"E",
-			"A",
-			"C",
-			"D"
-		],
+		"property_hexagon": "ACEACD",
 		"type": 1,
+		"armor": 1,
+		"slots": [
+			[
+				1
+			],
+			[
+				5
+			],
+			[
+				6
+			],
+			[
+				10,
+				14
+			],
+			[
+				10,
+				14
+			]
+		],
 		"nationality": 8,
 		"data": {
 			"801011": {
@@ -42717,15 +47665,28 @@
 			"kr": "포르뱅",
 			"tw": "福爾班"
 		},
-		"property_hexagon": [
-			"C",
-			"B",
-			"E",
-			"A",
-			"D",
-			"D"
-		],
+		"property_hexagon": "CBEADD",
 		"type": 1,
+		"armor": 1,
+		"slots": [
+			[
+				1
+			],
+			[
+				5
+			],
+			[
+				6
+			],
+			[
+				10,
+				14
+			],
+			[
+				10,
+				14
+			]
+		],
 		"nationality": 8,
 		"data": {
 			"801021": {
@@ -42824,15 +47785,28 @@
 			"jp": "ル・テメレール",
 			"kr": "르 테메레르"
 		},
-		"property_hexagon": [
-			"C",
-			"B",
-			"E",
-			"A",
-			"C",
-			"D"
-		],
+		"property_hexagon": "CBEACD",
 		"type": 1,
+		"armor": 1,
+		"slots": [
+			[
+				1
+			],
+			[
+				5
+			],
+			[
+				6
+			],
+			[
+				10,
+				14
+			],
+			[
+				10,
+				14
+			]
+		],
 		"nationality": 8,
 		"data": {
 			"801031": {
@@ -42952,15 +47926,28 @@
 			"jp": "ルピニャート",
 			"kr": "로피니아트르"
 		},
-		"property_hexagon": [
-			"B",
-			"C",
-			"E",
-			"A",
-			"B",
-			"D"
-		],
+		"property_hexagon": "BCEABD",
 		"type": 1,
+		"armor": 1,
+		"slots": [
+			[
+				1
+			],
+			[
+				5
+			],
+			[
+				6
+			],
+			[
+				10,
+				14
+			],
+			[
+				10,
+				14
+			]
+		],
 		"nationality": 8,
 		"data": {
 			"801041": {
@@ -43081,15 +48068,28 @@
 			"kr": "에밀 베르탱",
 			"tw": "埃米爾•貝爾坦"
 		},
-		"property_hexagon": [
-			"C",
-			"B",
-			"E",
-			"B",
-			"B",
-			"C"
-		],
+		"property_hexagon": "CBEBBC",
 		"type": 2,
+		"armor": 1,
+		"slots": [
+			[
+				2
+			],
+			[
+				5
+			],
+			[
+				6
+			],
+			[
+				10,
+				14
+			],
+			[
+				10,
+				14
+			]
+		],
 		"nationality": 8,
 		"data": {
 			"802011": {
@@ -43200,15 +48200,28 @@
 			"jp": "ジャンヌ・ダルク",
 			"kr": "잔 다르크"
 		},
-		"property_hexagon": [
-			"B",
-			"B",
-			"E",
-			"B",
-			"C",
-			"B"
-		],
+		"property_hexagon": "BBEBCB",
 		"type": 2,
+		"armor": 1,
+		"slots": [
+			[
+				2
+			],
+			[
+				5
+			],
+			[
+				6
+			],
+			[
+				10,
+				14
+			],
+			[
+				10,
+				14
+			]
+		],
 		"nationality": 8,
 		"data": {
 			"802021": {
@@ -43329,15 +48342,27 @@
 			"kr": "리슐리외",
 			"tw": "黎塞留"
 		},
-		"property_hexagon": [
-			"S",
-			"E",
-			"E",
-			"C",
-			"D",
-			"A"
-		],
+		"property_hexagon": "SEECDA",
 		"type": 5,
+		"armor": 3,
+		"slots": [
+			[
+				4
+			],
+			[
+				1,
+				2
+			],
+			[
+				6
+			],
+			[
+				10
+			],
+			[
+				10
+			]
+		],
 		"nationality": 8,
 		"data": {
 			"805011": {
@@ -43479,15 +48504,27 @@
 			"kr": "베아른",
 			"tw": "贝亚恩"
 		},
-		"property_hexagon": [
-			"D",
-			"D",
-			"A",
-			"C",
-			"B",
-			"B"
-		],
+		"property_hexagon": "DDACBB",
 		"type": 7,
+		"armor": 2,
+		"slots": [
+			[
+				7
+			],
+			[
+				8
+			],
+			[
+				2,
+				9
+			],
+			[
+				10
+			],
+			[
+				10
+			]
+		],
 		"nationality": 8,
 		"data": {
 			"807011": {
@@ -43593,7 +48630,26 @@
 					"spd": 30,
 					"luk": 32,
 					"asw": 0
-				}
+				},
+				"slots": [
+					[
+						7
+					],
+					[
+						9
+					],
+					[
+						2,
+						9
+					],
+					[
+						10
+					],
+					[
+						10
+					]
+				],
+				"armor": 3
 			},
 			"900273": {
 				"id": 900273,
@@ -43623,15 +48679,10 @@
 		"id": 80801,
 		"code": 350,
 		"name": {},
-		"property_hexagon": [
-			"B",
-			"A",
-			"E",
-			"D",
-			"E",
-			"C"
-		],
+		"property_hexagon": "BAEDEC",
 		"type": 8,
+		"armor": null,
+		"slots": null,
 		"nationality": 8,
 		"data": {}
 	},
@@ -43645,15 +48696,26 @@
 			"kr": "생 루이",
 			"tw": "路易九世"
 		},
-		"property_hexagon": [
-			"A",
-			"C",
-			"E",
-			"B",
-			"B",
-			"A"
-		],
+		"property_hexagon": "ACEBBA",
 		"type": 3,
+		"armor": 2,
+		"slots": [
+			[
+				3
+			],
+			[
+				5
+			],
+			[
+				6
+			],
+			[
+				10
+			],
+			[
+				10
+			]
+		],
 		"nationality": 8,
 		"data": {
 			"899011": {
@@ -43752,15 +48814,27 @@
 			"jp": "シャンパーニュ",
 			"kr": "샹파뉴"
 		},
-		"property_hexagon": [
-			"S",
-			"E",
-			"E",
-			"C",
-			"D",
-			"A"
-		],
+		"property_hexagon": "SEECDA",
 		"type": 5,
+		"armor": 2,
+		"slots": [
+			[
+				4
+			],
+			[
+				1,
+				2
+			],
+			[
+				6
+			],
+			[
+				10
+			],
+			[
+				10
+			]
+		],
 		"nationality": 8,
 		"data": {
 			"899021": {
@@ -43884,15 +48958,28 @@
 			"kr": "르 마르스",
 			"tw": "勒馬爾"
 		},
-		"property_hexagon": [
-			"C",
-			"B",
-			"E",
-			"A",
-			"D",
-			"D"
-		],
+		"property_hexagon": "CBEADD",
 		"type": 1,
+		"armor": 1,
+		"slots": [
+			[
+				1
+			],
+			[
+				5
+			],
+			[
+				6
+			],
+			[
+				10,
+				14
+			],
+			[
+				10,
+				14
+			]
+		],
 		"nationality": 9,
 		"data": {
 			"901011": {
@@ -43991,15 +49078,28 @@
 			"jp": "タルテュ",
 			"kr": "타르투"
 		},
-		"property_hexagon": [
-			"A",
-			"C",
-			"E",
-			"A",
-			"D",
-			"D"
-		],
+		"property_hexagon": "ACEADD",
 		"type": 1,
+		"armor": 1,
+		"slots": [
+			[
+				1
+			],
+			[
+				5
+			],
+			[
+				6
+			],
+			[
+				10,
+				14
+			],
+			[
+				10,
+				14
+			]
+		],
 		"nationality": 9,
 		"data": {
 			"901021": {
@@ -44110,15 +49210,28 @@
 			"jp": "ヴォークラン",
 			"kr": "보클랭"
 		},
-		"property_hexagon": [
-			"A",
-			"C",
-			"E",
-			"A",
-			"D",
-			"D"
-		],
+		"property_hexagon": "ACEADD",
 		"type": 1,
+		"armor": 1,
+		"slots": [
+			[
+				1
+			],
+			[
+				5
+			],
+			[
+				6
+			],
+			[
+				10,
+				14
+			],
+			[
+				10,
+				14
+			]
+		],
 		"nationality": 9,
 		"data": {
 			"901031": {
@@ -44229,15 +49342,28 @@
 			"jp": "ル・マラン",
 			"kr": "르 말랭"
 		},
-		"property_hexagon": [
-			"A",
-			"C",
-			"E",
-			"A",
-			"D",
-			"D"
-		],
+		"property_hexagon": "ACEADD",
 		"type": 1,
+		"armor": 1,
+		"slots": [
+			[
+				1
+			],
+			[
+				5
+			],
+			[
+				6
+			],
+			[
+				10,
+				14
+			],
+			[
+				10,
+				14
+			]
+		],
 		"nationality": 9,
 		"data": {
 			"901111": {
@@ -44336,15 +49462,28 @@
 			"jp": "ラ・ガリソニエール",
 			"kr": "라 갈리소니에르"
 		},
-		"property_hexagon": [
-			"B",
-			"B",
-			"E",
-			"B",
-			"C",
-			"C"
-		],
+		"property_hexagon": "BBEBCC",
 		"type": 2,
+		"armor": 1,
+		"slots": [
+			[
+				2
+			],
+			[
+				5
+			],
+			[
+				6
+			],
+			[
+				10,
+				14
+			],
+			[
+				10,
+				14
+			]
+		],
 		"nationality": 9,
 		"data": {
 			"902011": {
@@ -44443,15 +49582,26 @@
 			"jp": "アルジェリー",
 			"kr": "알제리"
 		},
-		"property_hexagon": [
-			"A",
-			"C",
-			"E",
-			"C",
-			"C",
-			"A"
-		],
+		"property_hexagon": "ACECCA",
 		"type": 3,
+		"armor": 2,
+		"slots": [
+			[
+				3
+			],
+			[
+				5
+			],
+			[
+				6
+			],
+			[
+				10
+			],
+			[
+				10
+			]
+		],
 		"nationality": 9,
 		"data": {
 			"903021": {
@@ -44551,15 +49701,26 @@
 			"kr": "됭케르크",
 			"tw": "敦克爾克"
 		},
-		"property_hexagon": [
-			"A",
-			"E",
-			"E",
-			"C",
-			"D",
-			"B"
-		],
+		"property_hexagon": "AEECDB",
 		"type": 4,
+		"armor": 2,
+		"slots": [
+			[
+				4
+			],
+			[
+				1
+			],
+			[
+				6
+			],
+			[
+				10
+			],
+			[
+				10
+			]
+		],
 		"nationality": 9,
 		"data": {
 			"904011": {
@@ -44659,15 +49820,27 @@
 			"kr": "장 바르",
 			"tw": "讓·巴爾"
 		},
-		"property_hexagon": [
-			"A",
-			"E",
-			"E",
-			"C",
-			"D",
-			"A"
-		],
+		"property_hexagon": "AEECDA",
 		"type": 5,
+		"armor": 3,
+		"slots": [
+			[
+				4
+			],
+			[
+				1,
+				2
+			],
+			[
+				6
+			],
+			[
+				10
+			],
+			[
+				10
+			]
+		],
 		"nationality": 9,
 		"data": {
 			"905011": {
@@ -44766,15 +49939,27 @@
 			"jp": "ガスコーニュ（μ兵装）",
 			"kr": "가스코뉴(μ장비)"
 		},
-		"property_hexagon": [
-			"S",
-			"E",
-			"E",
-			"C",
-			"D",
-			"A"
-		],
+		"property_hexagon": "SEECDA",
 		"type": 5,
+		"armor": 3,
+		"slots": [
+			[
+				4
+			],
+			[
+				1,
+				2
+			],
+			[
+				6
+			],
+			[
+				10
+			],
+			[
+				10
+			]
+		],
 		"nationality": 9,
 		"data": {
 			"905031": {
@@ -44886,15 +50071,27 @@
 			"kr": "가스코뉴",
 			"tw": "加斯科涅"
 		},
-		"property_hexagon": [
-			"S",
-			"E",
-			"E",
-			"C",
-			"D",
-			"A"
-		],
+		"property_hexagon": "SEECDA",
 		"type": 5,
+		"armor": 3,
+		"slots": [
+			[
+				4
+			],
+			[
+				1,
+				2
+			],
+			[
+				6
+			],
+			[
+				10
+			],
+			[
+				10
+			]
+		],
 		"nationality": 9,
 		"data": {
 			"900912": {
@@ -45014,15 +50211,28 @@
 			"jp": "ネプテューヌ",
 			"kr": "넵튠"
 		},
-		"property_hexagon": [
-			"C",
-			"B",
-			"E",
-			"C",
-			"A",
-			"C"
-		],
+		"property_hexagon": "CBECAC",
 		"type": 2,
+		"armor": 1,
+		"slots": [
+			[
+				2
+			],
+			[
+				5
+			],
+			[
+				6
+			],
+			[
+				10,
+				14
+			],
+			[
+				10,
+				14
+			]
+		],
 		"nationality": 101,
 		"data": {
 			"10100011": {
@@ -45121,15 +50331,26 @@
 			"jp": "ノワール",
 			"kr": "느와르"
 		},
-		"property_hexagon": [
-			"A",
-			"C",
-			"E",
-			"C",
-			"B",
-			"B"
-		],
+		"property_hexagon": "ACECBB",
 		"type": 3,
+		"armor": 2,
+		"slots": [
+			[
+				3
+			],
+			[
+				5
+			],
+			[
+				6
+			],
+			[
+				10
+			],
+			[
+				10
+			]
+		],
 		"nationality": 101,
 		"data": {
 			"10100021": {
@@ -45228,15 +50449,28 @@
 			"jp": "ブラン",
 			"kr": "블랑"
 		},
-		"property_hexagon": [
-			"C",
-			"B",
-			"E",
-			"B",
-			"C",
-			"D"
-		],
+		"property_hexagon": "CBEBCD",
 		"type": 1,
+		"armor": 1,
+		"slots": [
+			[
+				1
+			],
+			[
+				5
+			],
+			[
+				6
+			],
+			[
+				10,
+				14
+			],
+			[
+				10,
+				14
+			]
+		],
 		"nationality": 101,
 		"data": {
 			"10100031": {
@@ -45335,15 +50569,26 @@
 			"jp": "ベール",
 			"kr": "벨"
 		},
-		"property_hexagon": [
-			"E",
-			"E",
-			"B",
-			"C",
-			"B",
-			"B"
-		],
+		"property_hexagon": "EEBCBB",
 		"type": 7,
+		"armor": 2,
+		"slots": [
+			[
+				7
+			],
+			[
+				9
+			],
+			[
+				9
+			],
+			[
+				10
+			],
+			[
+				10
+			]
+		],
 		"nationality": 101,
 		"data": {
 			"10100041": {
@@ -45442,15 +50687,28 @@
 			"jp": "パープルハート",
 			"kr": "퍼플 하트"
 		},
-		"property_hexagon": [
-			"C",
-			"B",
-			"E",
-			"C",
-			"A",
-			"C"
-		],
+		"property_hexagon": "CBECAC",
 		"type": 2,
+		"armor": 1,
+		"slots": [
+			[
+				2
+			],
+			[
+				5
+			],
+			[
+				6
+			],
+			[
+				10,
+				14
+			],
+			[
+				10,
+				14
+			]
+		],
 		"nationality": 101,
 		"data": {
 			"10100051": {
@@ -45549,15 +50807,26 @@
 			"jp": "ブラックハート",
 			"kr": "블랙 하트"
 		},
-		"property_hexagon": [
-			"A",
-			"C",
-			"E",
-			"C",
-			"B",
-			"B"
-		],
+		"property_hexagon": "ACECBB",
 		"type": 3,
+		"armor": 2,
+		"slots": [
+			[
+				3
+			],
+			[
+				5
+			],
+			[
+				6
+			],
+			[
+				10
+			],
+			[
+				10
+			]
+		],
 		"nationality": 101,
 		"data": {
 			"10100061": {
@@ -45656,15 +50925,28 @@
 			"jp": "ホワイトハート",
 			"kr": "화이트 하트"
 		},
-		"property_hexagon": [
-			"C",
-			"A",
-			"E",
-			"B",
-			"C",
-			"D"
-		],
+		"property_hexagon": "CAEBCD",
 		"type": 1,
+		"armor": 1,
+		"slots": [
+			[
+				1
+			],
+			[
+				5
+			],
+			[
+				6
+			],
+			[
+				10,
+				14
+			],
+			[
+				10,
+				14
+			]
+		],
 		"nationality": 101,
 		"data": {
 			"10100071": {
@@ -45763,15 +51045,26 @@
 			"jp": "グリーンハート",
 			"kr": "그린 하트"
 		},
-		"property_hexagon": [
-			"E",
-			"E",
-			"A",
-			"C",
-			"B",
-			"B"
-		],
+		"property_hexagon": "EEACBB",
 		"type": 7,
+		"armor": 2,
+		"slots": [
+			[
+				7
+			],
+			[
+				9
+			],
+			[
+				9
+			],
+			[
+				10
+			],
+			[
+				10
+			]
+		],
 		"nationality": 101,
 		"data": {
 			"10100081": {
@@ -45867,15 +51160,28 @@
 		"name": {
 			"cn": "22"
 		},
-		"property_hexagon": [
-			"D",
-			"D",
-			"E",
-			"B",
-			"D",
-			"D"
-		],
+		"property_hexagon": "DDEBDD",
 		"type": 1,
+		"armor": 1,
+		"slots": [
+			[
+				1
+			],
+			[
+				5
+			],
+			[
+				6
+			],
+			[
+				10,
+				14
+			],
+			[
+				10,
+				14
+			]
+		],
 		"nationality": 102,
 		"data": {
 			"10200011": {
@@ -45971,15 +51277,28 @@
 		"name": {
 			"cn": "33"
 		},
-		"property_hexagon": [
-			"D",
-			"D",
-			"E",
-			"B",
-			"D",
-			"D"
-		],
+		"property_hexagon": "DDEBDD",
 		"type": 1,
+		"armor": 1,
+		"slots": [
+			[
+				1
+			],
+			[
+				5
+			],
+			[
+				6
+			],
+			[
+				10,
+				14
+			],
+			[
+				10,
+				14
+			]
+		],
 		"nationality": 102,
 		"data": {
 			"10200021": {
@@ -46077,15 +51396,26 @@
 			"jp": "クオン",
 			"kr": "쿠온"
 		},
-		"property_hexagon": [
-			"A",
-			"C",
-			"E",
-			"C",
-			"B",
-			"B"
-		],
+		"property_hexagon": "ACECBB",
 		"type": 3,
+		"armor": 2,
+		"slots": [
+			[
+				3
+			],
+			[
+				5
+			],
+			[
+				6
+			],
+			[
+				10
+			],
+			[
+				10
+			]
+		],
 		"nationality": 103,
 		"data": {
 			"10300011": {
@@ -46183,15 +51513,28 @@
 			"jp": "ネコネ",
 			"kr": "네코네"
 		},
-		"property_hexagon": [
-			"C",
-			"B",
-			"E",
-			"A",
-			"B",
-			"C"
-		],
+		"property_hexagon": "CBEABC",
 		"type": 1,
+		"armor": 1,
+		"slots": [
+			[
+				1
+			],
+			[
+				5
+			],
+			[
+				6
+			],
+			[
+				10,
+				14
+			],
+			[
+				10,
+				14
+			]
+		],
 		"nationality": 103,
 		"data": {
 			"10300021": {
@@ -46289,15 +51632,28 @@
 			"jp": "ルルティエ",
 			"kr": "루루티에"
 		},
-		"property_hexagon": [
-			"C",
-			"B",
-			"E",
-			"B",
-			"B",
-			"A"
-		],
+		"property_hexagon": "CBEBBA",
 		"type": 2,
+		"armor": 1,
+		"slots": [
+			[
+				2
+			],
+			[
+				5
+			],
+			[
+				6
+			],
+			[
+				10,
+				14
+			],
+			[
+				10,
+				14
+			]
+		],
 		"nationality": 103,
 		"data": {
 			"10300031": {
@@ -46395,15 +51751,28 @@
 			"jp": "ウルゥル",
 			"kr": "우루루"
 		},
-		"property_hexagon": [
-			"E",
-			"E",
-			"B",
-			"C",
-			"B",
-			"C"
-		],
+		"property_hexagon": "EEBCBC",
 		"type": 6,
+		"armor": 1,
+		"slots": [
+			[
+				7
+			],
+			[
+				9
+			],
+			[
+				6
+			],
+			[
+				10,
+				15
+			],
+			[
+				10,
+				15
+			]
+		],
 		"nationality": 103,
 		"data": {
 			"10300041": {
@@ -46501,15 +51870,28 @@
 			"jp": "サラァナ",
 			"kr": "사라나"
 		},
-		"property_hexagon": [
-			"E",
-			"E",
-			"B",
-			"C",
-			"B",
-			"C"
-		],
+		"property_hexagon": "EEBCBC",
 		"type": 6,
+		"armor": 1,
+		"slots": [
+			[
+				7
+			],
+			[
+				8
+			],
+			[
+				6
+			],
+			[
+				10,
+				15
+			],
+			[
+				10,
+				15
+			]
+		],
 		"nationality": 103,
 		"data": {
 			"10300051": {
@@ -46607,15 +51989,26 @@
 			"jp": "フミルィル",
 			"kr": "후미뤼르"
 		},
-		"property_hexagon": [
-			"E",
-			"E",
-			"C",
-			"C",
-			"C",
-			"B"
-		],
+		"property_hexagon": "EECCCB",
 		"type": 7,
+		"armor": 2,
+		"slots": [
+			[
+				7
+			],
+			[
+				8
+			],
+			[
+				8
+			],
+			[
+				10
+			],
+			[
+				10
+			]
+		],
 		"nationality": 103,
 		"data": {
 			"10300061": {
@@ -46714,15 +52107,28 @@
 			"jp": "キズナアイ",
 			"kr": "키즈나 아이"
 		},
-		"property_hexagon": [
-			"D",
-			"A",
-			"E",
-			"A",
-			"D",
-			"D"
-		],
+		"property_hexagon": "DAEADD",
 		"type": 1,
+		"armor": 1,
+		"slots": [
+			[
+				1
+			],
+			[
+				5
+			],
+			[
+				6
+			],
+			[
+				10,
+				14
+			],
+			[
+				10,
+				14
+			]
+		],
 		"nationality": 104,
 		"data": {
 			"10400011": {
@@ -46833,15 +52239,26 @@
 			"jp": "キズナアイ・エレガント",
 			"kr": "키즈나 아이 - 엘레강트"
 		},
-		"property_hexagon": [
-			"B",
-			"E",
-			"E",
-			"C",
-			"B",
-			"A"
-		],
+		"property_hexagon": "BEECBA",
 		"type": 3,
+		"armor": 2,
+		"slots": [
+			[
+				3
+			],
+			[
+				1
+			],
+			[
+				6
+			],
+			[
+				10
+			],
+			[
+				10
+			]
+		],
 		"nationality": 104,
 		"data": {
 			"10400021": {
@@ -46952,15 +52369,26 @@
 			"jp": "キズナアイ・アニバーサリー",
 			"kr": "키즈나 아이 - 애니버서리"
 		},
-		"property_hexagon": [
-			"E",
-			"E",
-			"S",
-			"C",
-			"B",
-			"B"
-		],
+		"property_hexagon": "EESCBB",
 		"type": 7,
+		"armor": 2,
+		"slots": [
+			[
+				7
+			],
+			[
+				9
+			],
+			[
+				8
+			],
+			[
+				10
+			],
+			[
+				10
+			]
+		],
 		"nationality": 104,
 		"data": {
 			"10400031": {
@@ -47071,15 +52499,27 @@
 			"jp": "キズナアイ・スーパーゲーマー",
 			"kr": "키즈나 아이 - 슈퍼 게이머"
 		},
-		"property_hexagon": [
-			"A",
-			"D",
-			"E",
-			"D",
-			"D",
-			"B"
-		],
+		"property_hexagon": "ADEDDB",
 		"type": 5,
+		"armor": 3,
+		"slots": [
+			[
+				4
+			],
+			[
+				1,
+				2
+			],
+			[
+				6
+			],
+			[
+				10
+			],
+			[
+				10
+			]
+		],
 		"nationality": 104,
 		"data": {
 			"10400041": {
@@ -47190,15 +52630,28 @@
 			"jp": "白上フブキ",
 			"kr": "白上吹雪"
 		},
-		"property_hexagon": [
-			"C",
-			"A",
-			"C",
-			"A",
-			"D",
-			"D"
-		],
+		"property_hexagon": "CACADD",
 		"type": 1,
+		"armor": 1,
+		"slots": [
+			[
+				1
+			],
+			[
+				5
+			],
+			[
+				9
+			],
+			[
+				10,
+				14
+			],
+			[
+				10,
+				14
+			]
+		],
 		"nationality": 105,
 		"data": {
 			"900801": {
@@ -47345,15 +52798,26 @@
 			"jp": "ときのそら",
 			"kr": "时乃空"
 		},
-		"property_hexagon": [
-			"E",
-			"E",
-			"S",
-			"C",
-			"B",
-			"B"
-		],
+		"property_hexagon": "EESCBB",
 		"type": 7,
+		"armor": 2,
+		"slots": [
+			[
+				7
+			],
+			[
+				9
+			],
+			[
+				8
+			],
+			[
+				10
+			],
+			[
+				10
+			]
+		],
 		"nationality": 105,
 		"data": {
 			"900804": {
@@ -47500,15 +52964,26 @@
 			"jp": "湊あくあ",
 			"kr": "湊阿库娅"
 		},
-		"property_hexagon": [
-			"D",
-			"S",
-			"E",
-			"D",
-			"E",
-			"D"
-		],
+		"property_hexagon": "DSEDED",
 		"type": 8,
+		"armor": 1,
+		"slots": [
+			[
+				13
+			],
+			[
+				13
+			],
+			[
+				1
+			],
+			[
+				10
+			],
+			[
+				10
+			]
+		],
 		"nationality": 105,
 		"data": {
 			"900807": {
@@ -47655,15 +53130,28 @@
 			"jp": "夏色まつり",
 			"kr": "夏色祭"
 		},
-		"property_hexagon": [
-			"D",
-			"A",
-			"E",
-			"A",
-			"D",
-			"D"
-		],
+		"property_hexagon": "DAEADD",
 		"type": 1,
+		"armor": 1,
+		"slots": [
+			[
+				1
+			],
+			[
+				5
+			],
+			[
+				6
+			],
+			[
+				10,
+				14
+			],
+			[
+				10,
+				14
+			]
+		],
 		"nationality": 105,
 		"data": {
 			"900802": {
@@ -47810,15 +53298,26 @@
 			"jp": "百鬼あやめ",
 			"kr": "百鬼绫目"
 		},
-		"property_hexagon": [
-			"B",
-			"E",
-			"E",
-			"C",
-			"B",
-			"B"
-		],
+		"property_hexagon": "BEECBB",
 		"type": 3,
+		"armor": 2,
+		"slots": [
+			[
+				3
+			],
+			[
+				1
+			],
+			[
+				6
+			],
+			[
+				10
+			],
+			[
+				10
+			]
+		],
 		"nationality": 105,
 		"data": {
 			"900803": {
@@ -47868,6 +53367,7 @@
 					"luk": 65,
 					"asw": 0
 				},
+				"armor": 1,
 				"name": {
 					"kr": "나키리 아야메"
 				}
@@ -47895,6 +53395,7 @@
 					"luk": 65,
 					"asw": 0
 				},
+				"armor": 1,
 				"name": {
 					"kr": "나키리 아야메"
 				}
@@ -47922,6 +53423,7 @@
 					"luk": 65,
 					"asw": 0
 				},
+				"armor": 1,
 				"name": {
 					"kr": "나키리 아야메"
 				}
@@ -47949,6 +53451,7 @@
 					"luk": 65,
 					"asw": 0
 				},
+				"armor": 1,
 				"name": {
 					"kr": "나키리 아야메"
 				}
@@ -47965,15 +53468,28 @@
 			"jp": "紫咲シオン",
 			"kr": "紫咲诗音"
 		},
-		"property_hexagon": [
-			"E",
-			"E",
-			"B",
-			"C",
-			"B",
-			"C"
-		],
+		"property_hexagon": "EEBCBC",
 		"type": 6,
+		"armor": 2,
+		"slots": [
+			[
+				7
+			],
+			[
+				8
+			],
+			[
+				6
+			],
+			[
+				10,
+				15
+			],
+			[
+				10,
+				15
+			]
+		],
 		"nationality": 105,
 		"data": {
 			"900805": {
@@ -48120,15 +53636,26 @@
 			"jp": "大神ミオ",
 			"kr": "大神澪"
 		},
-		"property_hexagon": [
-			"E",
-			"E",
-			"A",
-			"C",
-			"C",
-			"B"
-		],
+		"property_hexagon": "EEACCB",
 		"type": 7,
+		"armor": 2,
+		"slots": [
+			[
+				7
+			],
+			[
+				9
+			],
+			[
+				8
+			],
+			[
+				10
+			],
+			[
+				10
+			]
+		],
 		"nationality": 105,
 		"data": {
 			"900806": {
