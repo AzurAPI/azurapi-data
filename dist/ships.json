@@ -3,8 +3,8 @@
     "id": 10000,
     "code": 1,
     "name": {
-      "code": "UNIV Universal Bulin",
       "en": "Universal Bulin",
+      "code": "UNIV Universal Bulin",
       "cn": "泛用型布里",
       "jp": "汎用型ブリ",
       "kr": "범용형 부린",
@@ -44,8 +44,8 @@
     "id": 10001,
     "code": 2,
     "name": {
-      "code": "UNIV Trial Bulin MKII",
       "en": "Prototype Bulin MKII",
+      "code": "UNIV Trial Bulin MKII",
       "cn": "试作型布里MKII",
       "jp": "試作型ブリMKII",
       "kr": "시제형 부린 MKⅡ",
@@ -85,8 +85,8 @@
     "id": 10002,
     "code": 3,
     "name": {
-      "code": "UNIV Specialized Bulin Custom MKIII",
       "en": "Specialized Bulin Custom MKIII",
+      "code": "UNIV Specialized Bulin Custom MKIII",
       "cn": "特装型布里MKIII",
       "jp": "特装型ブリMKⅢ",
       "kr": "특장형 부린 MKIII"
@@ -125,8 +125,8 @@
     "id": 10102,
     "code": 4,
     "name": {
-      "code": "USS Dewey",
       "en": "Dewey",
+      "code": "USS Dewey",
       "cn": "杜威",
       "jp": "デューイ",
       "kr": "듀이",
@@ -229,8 +229,8 @@
     "id": 10103,
     "code": 5,
     "name": {
-      "code": "USS Cassin",
       "en": "Cassin",
+      "code": "USS Cassin",
       "cn": "卡辛",
       "jp": "カッシン",
       "kr": "캐신",
@@ -333,8 +333,8 @@
     "id": 10104,
     "code": 6,
     "name": {
-      "code": "USS Downes",
       "en": "Downes",
+      "code": "USS Downes",
       "cn": "唐斯",
       "jp": "ダウンズ",
       "kr": "다운즈",
@@ -437,8 +437,8 @@
     "id": 10105,
     "code": 7,
     "name": {
-      "code": "USS Gridley",
       "en": "Gridley",
+      "code": "USS Gridley",
       "cn": "格里德利",
       "jp": "グリッドレイ",
       "kr": "그리들리",
@@ -545,8 +545,8 @@
     "id": 10106,
     "code": 8,
     "name": {
-      "code": "USS Craven",
       "en": "Craven",
+      "code": "USS Craven",
       "cn": "克雷文",
       "jp": "クレイヴン",
       "kr": "크레이븐",
@@ -649,8 +649,8 @@
     "id": 10107,
     "code": 9,
     "name": {
-      "code": "USS McCall",
       "en": "McCall",
+      "code": "USS McCall",
       "cn": "麦考尔",
       "jp": "マッコール",
       "kr": "맥콜",
@@ -753,8 +753,8 @@
     "id": 10108,
     "code": 10,
     "name": {
-      "code": "USS Maury",
       "en": "Maury",
+      "code": "USS Maury",
       "cn": "莫里",
       "jp": "モーリー",
       "kr": "모리",
@@ -857,8 +857,8 @@
     "id": 10109,
     "code": 11,
     "name": {
-      "code": "USS Fletcher",
       "en": "Fletcher",
+      "code": "USS Fletcher",
       "cn": "弗莱彻",
       "jp": "フレッチャー",
       "kr": "플레처",
@@ -965,8 +965,8 @@
     "id": 10111,
     "code": 13,
     "name": {
-      "code": "USS Charles Ausburne",
       "en": "Charles Ausburne",
+      "code": "USS Charles Ausburne",
       "cn": "查尔斯·奥斯本",
       "jp": "チャールズ・オースバーン",
       "kr": "찰스 오스본",
@@ -1073,8 +1073,8 @@
     "id": 10112,
     "code": 14,
     "name": {
-      "code": "USS Thatcher",
       "en": "Thatcher",
+      "code": "USS Thatcher",
       "cn": "撒切尔",
       "jp": "サッチャー",
       "kr": "대처",
@@ -1181,8 +1181,8 @@
     "id": 10113,
     "code": 15,
     "name": {
-      "code": "USS Aulick",
       "en": "Aulick",
+      "code": "USS Aulick",
       "cn": "奥利克",
       "jp": "オーリック",
       "kr": "얼릭",
@@ -1289,8 +1289,8 @@
     "id": 10114,
     "code": 16,
     "name": {
-      "code": "USS Foote",
       "en": "Foote",
+      "code": "USS Foote",
       "cn": "富特",
       "jp": "フート",
       "kr": "푸트",
@@ -1397,8 +1397,8 @@
     "id": 10115,
     "code": 17,
     "name": {
-      "code": "USS Spence",
       "en": "Spence",
+      "code": "USS Spence",
       "cn": "斯彭斯",
       "jp": "スペンス",
       "kr": "스펜스",
@@ -1505,8 +1505,8 @@
     "id": 10116,
     "code": 18,
     "name": {
-      "code": "USS Benson",
       "en": "Benson",
+      "code": "USS Benson",
       "cn": "本森",
       "jp": "ベンソン",
       "kr": "벤슨",
@@ -1609,8 +1609,8 @@
     "id": 10117,
     "code": 19,
     "name": {
-      "code": "USS Laffey",
       "en": "Laffey",
+      "code": "USS Laffey",
       "cn": "拉菲",
       "jp": "ラフィー",
       "kr": "라피",
@@ -1713,8 +1713,8 @@
     "id": 10124,
     "code": 26,
     "name": {
-      "code": "USS Sims",
       "en": "Sims",
+      "code": "USS Sims",
       "cn": "西姆斯",
       "jp": "シムス",
       "kr": "심즈",
@@ -1817,8 +1817,8 @@
     "id": 10125,
     "code": 27,
     "name": {
-      "code": "USS Hammann",
       "en": "Hammann",
+      "code": "USS Hammann",
       "cn": "哈曼",
       "jp": "ハムマン",
       "kr": "허먼",
@@ -1921,8 +1921,8 @@
     "id": 10126,
     "code": 28,
     "name": {
-      "code": "USS Eldridge",
       "en": "Eldridge",
+      "code": "USS Eldridge",
       "cn": "埃尔德里奇",
       "jp": "エルドリッジ",
       "kr": "엘드릿지",
@@ -2025,8 +2025,8 @@
     "id": 10127,
     "code": 263,
     "name": {
-      "code": "USS Bailey",
       "en": "Bailey",
+      "code": "USS Bailey",
       "cn": "贝利",
       "jp": "ベイリー",
       "kr": "베일리",
@@ -2129,8 +2129,8 @@
     "id": 10129,
     "code": 299,
     "name": {
-      "code": "USS Radford",
       "en": "Radford",
+      "code": "USS Radford",
       "cn": "拉德福特",
       "jp": "ラドフォード",
       "kr": "래드포드",
@@ -2237,8 +2237,8 @@
     "id": 10130,
     "code": 300,
     "name": {
-      "code": "USS Jenkins",
       "en": "Jenkins",
+      "code": "USS Jenkins",
       "cn": "杰金斯",
       "jp": "ジェンキンス",
       "kr": "젠킨스",
@@ -2345,8 +2345,8 @@
     "id": 10131,
     "code": 301,
     "name": {
-      "code": "USS Nicholas",
       "en": "Nicholas",
+      "code": "USS Nicholas",
       "cn": "尼古拉斯",
       "jp": "ニコラス",
       "kr": "니콜라스",
@@ -2453,8 +2453,8 @@
     "id": 10133,
     "code": 355,
     "name": {
-      "code": "USS Bush",
       "en": "Bush",
+      "code": "USS Bush",
       "cn": "布什",
       "jp": "ブッシュ",
       "kr": "부시",
@@ -2561,8 +2561,8 @@
     "id": 10134,
     "code": 365,
     "name": {
-      "code": "USS Hazelwood",
       "en": "Hazelwood",
+      "code": "USS Hazelwood",
       "cn": "黑泽伍德",
       "jp": "ヘイゼルウッド",
       "kr": "헤이즐우드"
@@ -2668,8 +2668,8 @@
     "id": 10135,
     "code": 407,
     "name": {
-      "code": "USS Bache",
       "en": "Bache",
+      "code": "USS Bache",
       "cn": "贝奇",
       "jp": "バッチ",
       "kr": "배시"
@@ -2775,8 +2775,8 @@
     "id": 10136,
     "code": 362,
     "name": {
-      "code": "USS Hobby",
       "en": "Hobby",
+      "code": "USS Hobby",
       "cn": "霍比",
       "jp": "ホビー",
       "kr": "하비",
@@ -2879,8 +2879,8 @@
     "id": 10137,
     "code": 363,
     "name": {
-      "code": "USS Kalk",
       "en": "Kalk",
+      "code": "USS Kalk",
       "cn": "科尔克",
       "jp": "カーク",
       "kr": "커크",
@@ -2983,8 +2983,8 @@
     "id": 10138,
     "code": 374,
     "name": {
-      "code": "USS Kimberly",
       "en": "Kimberly",
+      "code": "USS Kimberly",
       "cn": "金伯利",
       "jp": "キンバリー",
       "kr": "킴벌리",
@@ -3091,8 +3091,8 @@
     "id": 10139,
     "code": 375,
     "name": {
-      "code": "USS Mullany",
       "en": "Mullany",
+      "code": "USS Mullany",
       "cn": "马拉尼",
       "jp": "マラニー",
       "kr": "멀라니",
@@ -3199,8 +3199,8 @@
     "id": 10140,
     "code": 406,
     "name": {
-      "code": "USS Aylwin",
       "en": "Aylwin",
+      "code": "USS Aylwin",
       "cn": "艾尔温",
       "jp": "エールウィン",
       "kr": "아일윈",
@@ -3303,8 +3303,8 @@
     "id": 10141,
     "code": 409,
     "name": {
-      "code": "USS Stanly",
       "en": "Stanly",
+      "code": "USS Stanly",
       "cn": "斯坦利",
       "jp": "スタンリー",
       "kr": "스탠리"
@@ -3410,8 +3410,8 @@
     "id": 10142,
     "code": 417,
     "name": {
-      "code": "USS Smalley",
       "en": "Smalley",
+      "code": "USS Smalley",
       "cn": "斯莫利",
       "jp": "スモーリー",
       "kr": "스몰리"
@@ -3517,8 +3517,8 @@
     "id": 10143,
     "code": 427,
     "name": {
-      "code": "USS Halsey Powell",
       "en": "Halsey Powell",
+      "code": "USS Halsey Powell",
       "cn": "哈尔西·鲍威尔",
       "jp": "ハルゼー・パウエル",
       "kr": "할시 파웰"
@@ -3624,8 +3624,8 @@
     "id": 10144,
     "code": 444,
     "name": {
-      "code": "USS Cooper",
       "en": "Cooper",
+      "code": "USS Cooper",
       "cn": "库珀",
       "jp": "クーパー",
       "kr": "쿠퍼"
@@ -3727,8 +3727,8 @@
     "id": 10201,
     "code": 29,
     "name": {
-      "code": "USS Omaha",
       "en": "Omaha",
+      "code": "USS Omaha",
       "cn": "奥马哈",
       "jp": "オマハ",
       "kr": "오마하",
@@ -3831,8 +3831,8 @@
     "id": 10202,
     "code": 30,
     "name": {
-      "code": "USS Raleigh",
       "en": "Raleigh",
+      "code": "USS Raleigh",
       "cn": "罗利",
       "jp": "ローリー",
       "kr": "롤리",
@@ -3935,8 +3935,8 @@
     "id": 10203,
     "code": 31,
     "name": {
-      "code": "USS Brooklyn",
       "en": "Brooklyn",
+      "code": "USS Brooklyn",
       "cn": "布鲁克林",
       "jp": "ブルックリン",
       "kr": "브루클린",
@@ -4039,8 +4039,8 @@
     "id": 10204,
     "code": 32,
     "name": {
-      "code": "USS Phoenix",
       "en": "Phoenix",
+      "code": "USS Phoenix",
       "cn": "菲尼克斯",
       "jp": "フェニックス",
       "kr": "피닉스",
@@ -4143,8 +4143,8 @@
     "id": 10205,
     "code": 33,
     "name": {
-      "code": "USS Helena",
       "en": "Helena",
+      "code": "USS Helena",
       "cn": "海伦娜",
       "jp": "ヘレナ",
       "kr": "헬레나",
@@ -4274,8 +4274,8 @@
     "id": 10206,
     "code": 34,
     "name": {
-      "code": "USS Atlanta",
       "en": "Atlanta",
+      "code": "USS Atlanta",
       "cn": "亚特兰大",
       "jp": "アトランタ",
       "kr": "애틀란타",
@@ -4378,8 +4378,8 @@
     "id": 10207,
     "code": 35,
     "name": {
-      "code": "USS Juneau",
       "en": "Juneau",
+      "code": "USS Juneau",
       "cn": "朱诺",
       "jp": "ジュノー",
       "kr": "쥬노",
@@ -4482,8 +4482,8 @@
     "id": 10208,
     "code": 36,
     "name": {
-      "code": "USS San Diego",
       "en": "San Diego",
+      "code": "USS San Diego",
       "cn": "圣地亚哥",
       "jp": "サンディエゴ",
       "kr": "샌디에이고",
@@ -4614,8 +4614,8 @@
     "id": 10209,
     "code": 37,
     "name": {
-      "code": "USS Cleveland",
       "en": "Cleveland",
+      "code": "USS Cleveland",
       "cn": "克利夫兰",
       "jp": "クリーブランド",
       "kr": "클리블랜드",
@@ -4722,8 +4722,8 @@
     "id": 10210,
     "code": 38,
     "name": {
-      "code": "USS Columbia",
       "en": "Columbia",
+      "code": "USS Columbia",
       "cn": "哥伦比亚",
       "jp": "コロンビア",
       "kr": "컬럼비아",
@@ -4830,8 +4830,8 @@
     "id": 10211,
     "code": 303,
     "name": {
-      "code": "USS Richmond",
       "en": "Richmond",
+      "code": "USS Richmond",
       "cn": "里士满",
       "jp": "リッチモンド",
       "kr": "리치몬드",
@@ -4934,8 +4934,8 @@
     "id": 10212,
     "code": 304,
     "name": {
-      "code": "USS Honolulu",
       "en": "Honolulu",
+      "code": "USS Honolulu",
       "cn": "火奴鲁鲁",
       "jp": "ホノルル",
       "kr": "호놀룰루",
@@ -5038,8 +5038,8 @@
     "id": 10213,
     "code": 305,
     "name": {
-      "code": "USS St.Louis",
       "en": "St. Louis",
+      "code": "USS St.Louis",
       "cn": "圣路易斯",
       "jp": "セントルイス",
       "kr": "세인트루이스",
@@ -5142,8 +5142,8 @@
     "id": 10214,
     "code": 329,
     "name": {
-      "code": "USS Montpelier",
       "en": "Montpelier",
+      "code": "USS Montpelier",
       "cn": "蒙彼利埃",
       "jp": "モントピリア",
       "kr": "몬트필리어",
@@ -5250,8 +5250,8 @@
     "id": 10215,
     "code": 330,
     "name": {
-      "code": "USS Denver",
       "en": "Denver",
+      "code": "USS Denver",
       "cn": "丹佛",
       "jp": "デンバー",
       "kr": "덴버",
@@ -5358,8 +5358,8 @@
     "id": 10216,
     "code": 360,
     "name": {
-      "code": "USS Memphis",
       "en": "Memphis",
+      "code": "USS Memphis",
       "cn": "孟菲斯",
       "jp": "メンフィス",
       "kr": "멤피스"
@@ -5461,8 +5461,8 @@
     "id": 10218,
     "code": 366,
     "name": {
-      "code": "USS Concord",
       "en": "Concord",
+      "code": "USS Concord",
       "cn": "康克德",
       "jp": "コンコード",
       "kr": "콩코드",
@@ -5565,8 +5565,8 @@
     "id": 10219,
     "code": 390,
     "name": {
-      "code": "USS Helena",
       "en": "Lena",
+      "code": "USS Helena",
       "cn": "小海伦娜",
       "jp": "リトル・ヘレナ",
       "kr": "꼬마 헬레나"
@@ -5672,8 +5672,8 @@
     "id": 10220,
     "code": 391,
     "name": {
-      "code": "USS Cleveland",
       "en": "Clevelad",
+      "code": "USS Cleveland",
       "cn": "小克利夫兰",
       "jp": "リトル・クリーブランド",
       "kr": "꼬마 클리블랜드"
@@ -5779,8 +5779,8 @@
     "id": 10221,
     "code": 392,
     "name": {
-      "code": "USS San Diego",
       "en": "Li'l Sandy",
+      "code": "USS San Diego",
       "cn": "小圣地亚哥",
       "jp": "リトル・サンディエゴ",
       "kr": "꼬마 샌디에이고"
@@ -5886,8 +5886,8 @@
     "id": 10222,
     "code": 404,
     "name": {
-      "code": "USS San Juan",
       "en": "San Juan",
+      "code": "USS San Juan",
       "cn": "圣胡安",
       "jp": "サンフアン",
       "kr": "산후안",
@@ -5990,8 +5990,8 @@
     "id": 10223,
     "code": 405,
     "name": {
-      "code": "USS Birmingham",
       "en": "Birmingham",
+      "code": "USS Birmingham",
       "cn": "伯明翰",
       "jp": "バーミンガム",
       "kr": "버밍햄",
@@ -6098,8 +6098,8 @@
     "id": 10224,
     "code": 420,
     "name": {
-      "code": "USS Cleveland",
       "en": "Cleveland μ",
+      "code": "USS Cleveland",
       "cn": "克利夫兰(μ兵装)",
       "jp": "クリーブランド（μ兵装）",
       "kr": "클리블랜드(μ장비)"
@@ -6205,8 +6205,8 @@
     "id": 10225,
     "code": 428,
     "name": {
-      "code": "USS Biloxi",
       "en": "Biloxi",
+      "code": "USS Biloxi",
       "cn": "比洛克西",
       "jp": "ビロクシ",
       "kr": "빌럭시"
@@ -6312,8 +6312,8 @@
     "id": 10226,
     "code": 445,
     "name": {
-      "code": "USS Reno",
       "en": "Reno",
+      "code": "USS Reno",
       "cn": "里诺",
       "jp": "リノ",
       "kr": "리노"
@@ -6419,8 +6419,8 @@
     "id": 10227,
     "code": 448,
     "name": {
-      "code": "USS Marblehead",
       "en": "Marblehead",
+      "code": "USS Marblehead",
       "cn": "马布尔黑德",
       "jp": "マーブルヘッド",
       "kr": "마블헤드"
@@ -6522,8 +6522,8 @@
     "id": 10301,
     "code": 39,
     "name": {
-      "code": "USS Pensacola",
       "en": "Pensacola",
+      "code": "USS Pensacola",
       "cn": "彭萨科拉",
       "jp": "ペンサコーラ",
       "kr": "펜사콜라",
@@ -6626,8 +6626,8 @@
     "id": 10302,
     "code": 40,
     "name": {
-      "code": "USS Salt Lake City",
       "en": "Salt Lake City",
+      "code": "USS Salt Lake City",
       "cn": "盐湖城",
       "jp": "ソルトレイクシティ",
       "kr": "솔트레이크시티",
@@ -6730,8 +6730,8 @@
     "id": 10303,
     "code": 41,
     "name": {
-      "code": "USS Northampton",
       "en": "Northampton",
+      "code": "USS Northampton",
       "cn": "北安普敦",
       "jp": "ノーザンプトン",
       "kr": "노샘프턴",
@@ -6834,8 +6834,8 @@
     "id": 10304,
     "code": 42,
     "name": {
-      "code": "USS Chicago",
       "en": "Chicago",
+      "code": "USS Chicago",
       "cn": "芝加哥",
       "jp": "シカゴ",
       "kr": "시카고",
@@ -6938,8 +6938,8 @@
     "id": 10305,
     "code": 43,
     "name": {
-      "code": "USS Houston",
       "en": "Houston",
+      "code": "USS Houston",
       "cn": "休斯敦",
       "jp": "ヒューストン",
       "kr": "휴스턴",
@@ -7042,8 +7042,8 @@
     "id": 10306,
     "code": 44,
     "name": {
-      "code": "USS Portland",
       "en": "Portland",
+      "code": "USS Portland",
       "cn": "波特兰",
       "jp": "ポートランド",
       "kr": "포틀랜드",
@@ -7146,8 +7146,8 @@
     "id": 10307,
     "code": 45,
     "name": {
-      "code": "USS Indianapolis",
       "en": "Indianapolis",
+      "code": "USS Indianapolis",
       "cn": "印第安纳波利斯",
       "jp": "インディアナポリス",
       "kr": "인디애나폴리스",
@@ -7250,8 +7250,8 @@
     "id": 10308,
     "code": 46,
     "name": {
-      "code": "USS Astoria",
       "en": "Astoria",
+      "code": "USS Astoria",
       "cn": "阿斯托利亚",
       "jp": "アストリア",
       "kr": "아스토리아",
@@ -7358,8 +7358,8 @@
     "id": 10309,
     "code": 47,
     "name": {
-      "code": "USS Quincy",
       "en": "Quincy",
+      "code": "USS Quincy",
       "cn": "昆西",
       "jp": "クインシー",
       "kr": "퀸시",
@@ -7466,8 +7466,8 @@
     "id": 10310,
     "code": 48,
     "name": {
-      "code": "USS Vincennes",
       "en": "Vincennes",
+      "code": "USS Vincennes",
       "cn": "文森斯",
       "jp": "ヴィンセンス",
       "kr": "빈센스",
@@ -7574,8 +7574,8 @@
     "id": 10311,
     "code": 49,
     "name": {
-      "code": "USS Wichita",
       "en": "Wichita",
+      "code": "USS Wichita",
       "cn": "威奇塔",
       "jp": "ウィチタ",
       "kr": "위치타",
@@ -7678,8 +7678,8 @@
     "id": 10313,
     "code": 364,
     "name": {
-      "code": "USS Minneapolis",
       "en": "Minneapolis",
+      "code": "USS Minneapolis",
       "cn": "明尼阿波利斯",
       "jp": "ミネアポリス",
       "kr": "미니애폴리스",
@@ -7786,8 +7786,8 @@
     "id": 10316,
     "code": 50,
     "name": {
-      "code": "USS Baltimore",
       "en": "Baltimore",
+      "code": "USS Baltimore",
       "cn": "巴尔的摩",
       "jp": "ボルチモア",
       "kr": "볼티모어",
@@ -7890,8 +7890,8 @@
     "id": 10324,
     "code": 443,
     "name": {
-      "code": "USS Bremerton",
       "en": "Bremerton",
+      "code": "USS Bremerton",
       "cn": "布莱默顿",
       "jp": "ブレマートン",
       "kr": "브레머튼"
@@ -7993,8 +7993,8 @@
     "id": 10325,
     "code": 478,
     "name": {
-      "code": "USS Baltimore",
       "en": "Baltimore μ",
+      "code": "USS Baltimore",
       "cn": "巴尔的摩(μ兵装)",
       "jp": "ボルチモア（μ兵装）",
       "kr": "볼티모어(μ장비)"
@@ -8100,8 +8100,8 @@
     "id": 10501,
     "code": 52,
     "name": {
-      "code": "USS Nevada",
       "en": "Nevada",
+      "code": "USS Nevada",
       "cn": "内华达",
       "jp": "ネバダ",
       "kr": "네바다",
@@ -8204,8 +8204,8 @@
     "id": 10502,
     "code": 53,
     "name": {
-      "code": "USS Oklahoma",
       "en": "Oklahoma",
+      "code": "USS Oklahoma",
       "cn": "俄克拉荷马",
       "jp": "オクラホマ",
       "kr": "오클라호마",
@@ -8308,8 +8308,8 @@
     "id": 10503,
     "code": 54,
     "name": {
-      "code": "USS Pennsylvania",
       "en": "Pennsylvania",
+      "code": "USS Pennsylvania",
       "cn": "宾夕法尼亚",
       "jp": "ペンシルベニア",
       "kr": "펜실베이니아",
@@ -8412,8 +8412,8 @@
     "id": 10504,
     "code": 55,
     "name": {
-      "code": "USS Arizona",
       "en": "Arizona",
+      "code": "USS Arizona",
       "cn": "亚利桑那",
       "jp": "アリゾナ",
       "kr": "애리조나",
@@ -8516,8 +8516,8 @@
     "id": 10507,
     "code": 58,
     "name": {
-      "code": "USS Tennessee",
       "en": "Tennessee",
+      "code": "USS Tennessee",
       "cn": "田纳西",
       "jp": "テネシー",
       "kr": "테네시",
@@ -8620,8 +8620,8 @@
     "id": 10508,
     "code": 59,
     "name": {
-      "code": "USS California",
       "en": "California",
+      "code": "USS California",
       "cn": "加利福尼亚",
       "jp": "カリフォルニア",
       "kr": "캘리포니아",
@@ -8724,8 +8724,8 @@
     "id": 10509,
     "code": 60,
     "name": {
-      "code": "USS Colorado",
       "en": "Colorado",
+      "code": "USS Colorado",
       "cn": "科罗拉多",
       "jp": "コロラド",
       "kr": "콜로라도",
@@ -8828,8 +8828,8 @@
     "id": 10510,
     "code": 61,
     "name": {
-      "code": "USS Maryland",
       "en": "Maryland",
+      "code": "USS Maryland",
       "cn": "马里兰",
       "jp": "メリーランド",
       "kr": "메릴랜드",
@@ -8932,8 +8932,8 @@
     "id": 10511,
     "code": 62,
     "name": {
-      "code": "USS West Virginia",
       "en": "West Virginia",
+      "code": "USS West Virginia",
       "cn": "西弗吉尼亚",
       "jp": "ウェストバージニア",
       "kr": "웨스트버지니아",
@@ -9036,8 +9036,8 @@
     "id": 10512,
     "code": 63,
     "name": {
-      "code": "USS North Carolina",
       "en": "North Carolina",
+      "code": "USS North Carolina",
       "cn": "北卡罗来纳",
       "jp": "ノースカロライナ",
       "kr": "노스캐롤라이나",
@@ -9140,8 +9140,8 @@
     "id": 10513,
     "code": 64,
     "name": {
-      "code": "USS Washington",
       "en": "Washington",
+      "code": "USS Washington",
       "cn": "华盛顿",
       "jp": "ワシントン",
       "kr": "워싱턴",
@@ -9244,8 +9244,8 @@
     "id": 10514,
     "code": 65,
     "name": {
-      "code": "USS South Dakota",
       "en": "South Dakota",
+      "code": "USS South Dakota",
       "cn": "南达科他",
       "jp": "サウスダコタ",
       "kr": "사우스다코타",
@@ -9348,8 +9348,8 @@
     "id": 10519,
     "code": 354,
     "name": {
-      "code": "USS Massachusetts",
       "en": "Massachusetts",
+      "code": "USS Massachusetts",
       "cn": "马萨诸塞",
       "jp": "マサチューセッツ",
       "kr": "매사추세츠",
@@ -9452,8 +9452,8 @@
     "id": 10520,
     "code": 401,
     "name": {
-      "code": "USS Alabama",
       "en": "Alabama",
+      "code": "USS Alabama",
       "cn": "阿拉巴马",
       "jp": "アラバマ",
       "kr": "앨라배마",
@@ -9556,8 +9556,8 @@
     "id": 10601,
     "code": 70,
     "name": {
-      "code": "USS Long Island",
       "en": "Long Island",
+      "code": "USS Long Island",
       "cn": "长岛",
       "jp": "ロング・アイランド",
       "kr": "롱 아일랜드",
@@ -9660,8 +9660,8 @@
     "id": 10602,
     "code": 71,
     "name": {
-      "code": "USS Bogue",
       "en": "Bogue",
+      "code": "USS Bogue",
       "cn": "博格",
       "jp": "ボーグ",
       "kr": "보그",
@@ -9764,8 +9764,8 @@
     "id": 10655,
     "code": 447,
     "name": {
-      "code": "USS Casablanca",
       "en": "Casablanca",
+      "code": "USS Casablanca",
       "cn": "卡萨布兰卡",
       "jp": "カサブランカ",
       "kr": "카사블랑카"
@@ -9867,8 +9867,8 @@
     "id": 10701,
     "code": 72,
     "name": {
-      "code": "USS Langley",
       "en": "Langley",
+      "code": "USS Langley",
       "cn": "兰利",
       "jp": "ラングレー",
       "kr": "랭글리",
@@ -9974,8 +9974,8 @@
     "id": 10702,
     "code": 73,
     "name": {
-      "code": "USS Lexington",
       "en": "Lexington",
+      "code": "USS Lexington",
       "cn": "列克星敦",
       "jp": "レキシントン",
       "kr": "렉싱턴",
@@ -10078,8 +10078,8 @@
     "id": 10703,
     "code": 74,
     "name": {
-      "code": "USS Saratoga",
       "en": "Saratoga",
+      "code": "USS Saratoga",
       "cn": "萨拉托加",
       "jp": "サラトガ",
       "kr": "새러토가",
@@ -10182,8 +10182,8 @@
     "id": 10704,
     "code": 75,
     "name": {
-      "code": "USS Ranger",
       "en": "Ranger",
+      "code": "USS Ranger",
       "cn": "突击者",
       "jp": "レンジャー",
       "kr": "레인저",
@@ -10286,8 +10286,8 @@
     "id": 10705,
     "code": 76,
     "name": {
-      "code": "USS Yorktown",
       "en": "Yorktown",
+      "code": "USS Yorktown",
       "cn": "约克城",
       "jp": "ヨークタウン",
       "kr": "요크타운",
@@ -10390,8 +10390,8 @@
     "id": 10706,
     "code": 77,
     "name": {
-      "code": "USS Enterprise",
       "en": "Enterprise",
+      "code": "USS Enterprise",
       "cn": "企业",
       "jp": "エンタープライズ",
       "kr": "엔터프라이즈",
@@ -10494,8 +10494,8 @@
     "id": 10707,
     "code": 78,
     "name": {
-      "code": "USS Hornet",
       "en": "Hornet",
+      "code": "USS Hornet",
       "cn": "大黄蜂",
       "jp": "ホーネット",
       "kr": "호넷",
@@ -10598,8 +10598,8 @@
     "id": 10708,
     "code": 79,
     "name": {
-      "code": "USS Wasp",
       "en": "Wasp",
+      "code": "USS Wasp",
       "cn": "胡蜂",
       "jp": "ワスプ",
       "kr": "와스프",
@@ -10702,8 +10702,8 @@
     "id": 10709,
     "code": 357,
     "name": {
-      "code": "USS Essex",
       "en": "Essex",
+      "code": "USS Essex",
       "cn": "埃塞克斯",
       "jp": "エセックス",
       "kr": "에식스",
@@ -10806,8 +10806,8 @@
     "id": 10711,
     "code": 442,
     "name": {
-      "code": "USS Intrepid",
       "en": "Intrepid",
+      "code": "USS Intrepid",
       "cn": "无畏",
       "jp": "イントレピッド",
       "kr": "인트레피드"
@@ -10909,8 +10909,8 @@
     "id": 10717,
     "code": 380,
     "name": {
-      "code": "USS Bunker Hill",
       "en": "Bunker Hill",
+      "code": "USS Bunker Hill",
       "cn": "邦克山",
       "jp": "バンカー・ヒル",
       "kr": "벙커힐",
@@ -11013,8 +11013,8 @@
     "id": 10722,
     "code": 377,
     "name": {
-      "code": "USS Independence",
       "en": "Independence",
+      "code": "USS Independence",
       "cn": "独立",
       "jp": "インディペンデンス",
       "kr": "인디펜던스",
@@ -11117,8 +11117,8 @@
     "id": 10723,
     "code": 473,
     "name": {
-      "code": "USS Princeton",
       "en": "Princeton",
+      "code": "USS Princeton",
       "cn": "普林斯顿",
       "jp": "プリンストン",
       "kr": "프린스턴"
@@ -11220,8 +11220,8 @@
     "id": 10729,
     "code": 403,
     "name": {
-      "code": "USS Bataan",
       "en": "Bataan",
+      "code": "USS Bataan",
       "cn": "巴丹",
       "jp": "バターン",
       "kr": "바탄",
@@ -11324,8 +11324,8 @@
     "id": 10738,
     "code": 378,
     "name": {
-      "code": "USS Shangri-La",
       "en": "Shangri-La",
+      "code": "USS Shangri-La",
       "cn": "香格里拉",
       "jp": "シャングリラ",
       "kr": "샹그릴라",
@@ -11427,64 +11427,535 @@
   "10801": {
     "id": 10801,
     "code": 342,
-    "name": {"code": "USS Dace"},
+    "name": {
+      "en": "Dace",
+      "code": "USS Dace",
+      "cn": "鲦鱼",
+      "jp": "デイス",
+      "kr": "데이스",
+      "tw": "鰷魚"
+    },
     "property_hexagon": [1, 5, 0, 1, 0, 1],
     "type": 8,
-    "armor": null,
-    "slots": null,
+    "armor": 1,
+    "slots": [[13], [13], [1], [10], [10]],
     "nationality": 1,
-    "data": {}
+    "data": {
+      "108011": {
+        "id": 108011,
+        "type": 8,
+        "rarity": 4,
+        "stars": 2,
+        "oil": 4,
+        "max_level": 70,
+        "stats": {
+          "hp": 273,
+          "fp": 13,
+          "trp": 97,
+          "aa": 0,
+          "av": 0,
+          "rld": 33,
+          "acc": 61,
+          "eva": 9,
+          "spd": 16.8,
+          "luk": 68,
+          "asw": 0
+        }
+      },
+      "108012": {
+        "id": 108012,
+        "type": 8,
+        "rarity": 4,
+        "stars": 3,
+        "oil": 5,
+        "max_level": 80,
+        "stats": {
+          "hp": 340,
+          "fp": 16,
+          "trp": 121,
+          "aa": 0,
+          "av": 0,
+          "rld": 33,
+          "acc": 61,
+          "eva": 9,
+          "spd": 16.8,
+          "luk": 68,
+          "asw": 0
+        }
+      },
+      "108013": {
+        "id": 108013,
+        "type": 8,
+        "rarity": 4,
+        "stars": 4,
+        "oil": 6,
+        "max_level": 90,
+        "stats": {
+          "hp": 473,
+          "fp": 23,
+          "trp": 169,
+          "aa": 0,
+          "av": 0,
+          "rld": 33,
+          "acc": 61,
+          "eva": 9,
+          "spd": 16.8,
+          "luk": 68,
+          "asw": 0
+        }
+      },
+      "108014": {
+        "id": 108014,
+        "type": 8,
+        "rarity": 4,
+        "stars": 5,
+        "oil": 7,
+        "max_level": 100,
+        "stats": {
+          "hp": 672,
+          "fp": 33,
+          "trp": 241,
+          "aa": 0,
+          "av": 0,
+          "rld": 33,
+          "acc": 61,
+          "eva": 9,
+          "spd": 16.8,
+          "luk": 68,
+          "asw": 0
+        }
+      }
+    },
+    "stars": 5
   },
   "10802": {
     "id": 10802,
     "code": 358,
-    "name": {"code": "USS Albacore"},
+    "name": {
+      "en": "Albacore",
+      "code": "USS Albacore",
+      "cn": "大青花鱼",
+      "jp": "アルバコア",
+      "kr": "알바코어",
+      "tw": "大青花魚"
+    },
     "property_hexagon": [1, 5, 0, 1, 0, 1],
     "type": 8,
-    "armor": null,
-    "slots": null,
+    "armor": 1,
+    "slots": [[13], [13], [1], [10], [10]],
     "nationality": 1,
-    "data": {}
+    "data": {
+      "108021": {
+        "id": 108021,
+        "tags": ["Albacore"],
+        "type": 8,
+        "rarity": 5,
+        "stars": 3,
+        "oil": 5,
+        "max_level": 70,
+        "stats": {
+          "hp": 310,
+          "fp": 11,
+          "trp": 101,
+          "aa": 0,
+          "av": 0,
+          "rld": 35,
+          "acc": 66,
+          "eva": 9,
+          "spd": 16.8,
+          "luk": 79,
+          "asw": 0
+        }
+      },
+      "108022": {
+        "id": 108022,
+        "tags": ["Albacore"],
+        "type": 8,
+        "rarity": 5,
+        "stars": 4,
+        "oil": 6,
+        "max_level": 80,
+        "stats": {
+          "hp": 386,
+          "fp": 14,
+          "trp": 126,
+          "aa": 0,
+          "av": 0,
+          "rld": 35,
+          "acc": 66,
+          "eva": 9,
+          "spd": 16.8,
+          "luk": 79,
+          "asw": 0
+        }
+      },
+      "108023": {
+        "id": 108023,
+        "tags": ["Albacore"],
+        "type": 8,
+        "rarity": 5,
+        "stars": 5,
+        "oil": 7,
+        "max_level": 90,
+        "stats": {
+          "hp": 537,
+          "fp": 19,
+          "trp": 176,
+          "aa": 0,
+          "av": 0,
+          "rld": 35,
+          "acc": 66,
+          "eva": 9,
+          "spd": 16.8,
+          "luk": 79,
+          "asw": 0
+        }
+      },
+      "108024": {
+        "id": 108024,
+        "tags": ["Albacore"],
+        "type": 8,
+        "rarity": 5,
+        "stars": 6,
+        "oil": 8,
+        "max_level": 100,
+        "stats": {
+          "hp": 764,
+          "fp": 28,
+          "trp": 252,
+          "aa": 0,
+          "av": 0,
+          "rld": 35,
+          "acc": 66,
+          "eva": 9,
+          "spd": 16.8,
+          "luk": 79,
+          "asw": 0
+        }
+      }
+    },
+    "stars": 6
   },
   "10803": {
     "id": 10803,
     "code": 402,
-    "name": {"code": "USS Cavalla"},
+    "name": {
+      "en": "Cavalla",
+      "code": "USS Cavalla",
+      "cn": "棘鳍",
+      "jp": "カヴァラ",
+      "kr": "카발라",
+      "tw": "棘鰭"
+    },
     "property_hexagon": [1, 5, 0, 1, 0, 1],
     "type": 8,
-    "armor": null,
-    "slots": null,
+    "armor": 1,
+    "slots": [[13], [13], [1], [10], [10]],
     "nationality": 1,
-    "data": {}
+    "data": {
+      "108031": {
+        "id": 108031,
+        "type": 8,
+        "rarity": 5,
+        "stars": 3,
+        "oil": 5,
+        "max_level": 70,
+        "stats": {
+          "hp": 306,
+          "fp": 12,
+          "trp": 101,
+          "aa": 0,
+          "av": 0,
+          "rld": 34,
+          "acc": 66,
+          "eva": 9,
+          "spd": 16.8,
+          "luk": 78,
+          "asw": 0
+        }
+      },
+      "108032": {
+        "id": 108032,
+        "type": 8,
+        "rarity": 5,
+        "stars": 4,
+        "oil": 6,
+        "max_level": 80,
+        "stats": {
+          "hp": 381,
+          "fp": 15,
+          "trp": 126,
+          "aa": 0,
+          "av": 0,
+          "rld": 34,
+          "acc": 66,
+          "eva": 9,
+          "spd": 16.8,
+          "luk": 78,
+          "asw": 0
+        }
+      },
+      "108033": {
+        "id": 108033,
+        "type": 8,
+        "rarity": 5,
+        "stars": 5,
+        "oil": 7,
+        "max_level": 90,
+        "stats": {
+          "hp": 530,
+          "fp": 21,
+          "trp": 176,
+          "aa": 0,
+          "av": 0,
+          "rld": 34,
+          "acc": 66,
+          "eva": 9,
+          "spd": 16.8,
+          "luk": 78,
+          "asw": 0
+        }
+      },
+      "108034": {
+        "id": 108034,
+        "type": 8,
+        "rarity": 5,
+        "stars": 6,
+        "oil": 8,
+        "max_level": 100,
+        "stats": {
+          "hp": 754,
+          "fp": 30,
+          "trp": 251,
+          "aa": 0,
+          "av": 0,
+          "rld": 34,
+          "acc": 66,
+          "eva": 9,
+          "spd": 16.8,
+          "luk": 78,
+          "asw": 0
+        }
+      }
+    },
+    "stars": 6
   },
   "10804": {
     "id": 10804,
     "code": 446,
-    "name": {"code": "USS Bluegill"},
+    "name": {
+      "en": "Bluegill",
+      "code": "USS Bluegill",
+      "cn": "蓝鳃鱼",
+      "jp": "ブルーギル",
+      "kr": "블루길"
+    },
     "property_hexagon": [1, 5, 0, 1, 0, 1],
     "type": 8,
-    "armor": null,
-    "slots": null,
+    "armor": 1,
+    "slots": [[13], [13], [1], [10], [10]],
     "nationality": 1,
-    "data": {}
+    "data": {
+      "108041": {
+        "id": 108041,
+        "type": 8,
+        "rarity": 4,
+        "stars": 2,
+        "oil": 4,
+        "max_level": 70,
+        "stats": {
+          "hp": 273,
+          "fp": 13,
+          "trp": 96,
+          "aa": 0,
+          "av": 0,
+          "rld": 32,
+          "acc": 60,
+          "eva": 9,
+          "spd": 16.8,
+          "luk": 65,
+          "asw": 0
+        }
+      },
+      "108042": {
+        "id": 108042,
+        "type": 8,
+        "rarity": 4,
+        "stars": 3,
+        "oil": 5,
+        "max_level": 80,
+        "stats": {
+          "hp": 340,
+          "fp": 16,
+          "trp": 120,
+          "aa": 0,
+          "av": 0,
+          "rld": 32,
+          "acc": 60,
+          "eva": 9,
+          "spd": 16.8,
+          "luk": 65,
+          "asw": 0
+        }
+      },
+      "108043": {
+        "id": 108043,
+        "type": 8,
+        "rarity": 4,
+        "stars": 4,
+        "oil": 6,
+        "max_level": 90,
+        "stats": {
+          "hp": 473,
+          "fp": 23,
+          "trp": 168,
+          "aa": 0,
+          "av": 0,
+          "rld": 32,
+          "acc": 60,
+          "eva": 9,
+          "spd": 16.8,
+          "luk": 65,
+          "asw": 0
+        }
+      },
+      "108044": {
+        "id": 108044,
+        "type": 8,
+        "rarity": 4,
+        "stars": 5,
+        "oil": 7,
+        "max_level": 100,
+        "stats": {
+          "hp": 672,
+          "fp": 33,
+          "trp": 239,
+          "aa": 0,
+          "av": 0,
+          "rld": 32,
+          "acc": 60,
+          "eva": 9,
+          "spd": 16.8,
+          "luk": 65,
+          "asw": 0
+        }
+      }
+    },
+    "stars": 5
   },
   "10805": {
     "id": 10805,
     "code": 477,
-    "name": {"code": "USS Albacore"},
+    "name": {
+      "en": "Albacore μ",
+      "code": "USS Albacore",
+      "cn": "大青花鱼(μ兵装)",
+      "jp": "アルバコア（μ兵装）",
+      "kr": "알바코어(μ장비)"
+    },
     "property_hexagon": [1, 5, 0, 1, 0, 1],
     "type": 8,
-    "armor": null,
-    "slots": null,
+    "armor": 1,
+    "slots": [[13], [13], [1], [10], [10]],
     "nationality": 1,
-    "data": {}
+    "data": {
+      "108051": {
+        "id": 108051,
+        "tags": ["μ", "Albacore"],
+        "type": 8,
+        "rarity": 4,
+        "stars": 2,
+        "oil": 4,
+        "max_level": 70,
+        "stats": {
+          "hp": 297,
+          "fp": 11,
+          "trp": 98,
+          "aa": 0,
+          "av": 0,
+          "rld": 34,
+          "acc": 66,
+          "eva": 9,
+          "spd": 16.8,
+          "luk": 79,
+          "asw": 0
+        }
+      },
+      "108052": {
+        "id": 108052,
+        "tags": ["μ", "Albacore"],
+        "type": 8,
+        "rarity": 4,
+        "stars": 3,
+        "oil": 5,
+        "max_level": 80,
+        "stats": {
+          "hp": 370,
+          "fp": 14,
+          "trp": 122,
+          "aa": 0,
+          "av": 0,
+          "rld": 34,
+          "acc": 66,
+          "eva": 9,
+          "spd": 16.8,
+          "luk": 79,
+          "asw": 0
+        }
+      },
+      "108053": {
+        "id": 108053,
+        "tags": ["μ", "Albacore"],
+        "type": 8,
+        "rarity": 4,
+        "stars": 4,
+        "oil": 6,
+        "max_level": 90,
+        "stats": {
+          "hp": 515,
+          "fp": 19,
+          "trp": 170,
+          "aa": 0,
+          "av": 0,
+          "rld": 34,
+          "acc": 66,
+          "eva": 9,
+          "spd": 16.8,
+          "luk": 79,
+          "asw": 0
+        }
+      },
+      "108054": {
+        "id": 108054,
+        "tags": ["μ", "Albacore"],
+        "type": 8,
+        "rarity": 4,
+        "stars": 5,
+        "oil": 7,
+        "max_level": 100,
+        "stats": {
+          "hp": 732,
+          "fp": 27,
+          "trp": 243,
+          "aa": 0,
+          "av": 0,
+          "rld": 34,
+          "acc": 66,
+          "eva": 9,
+          "spd": 16.8,
+          "luk": 79,
+          "asw": 0
+        }
+      }
+    },
+    "stars": 5
   },
   "11201": {
     "id": 11201,
     "code": 80,
     "name": {
-      "code": "USS Vestal",
       "en": "Vestal",
+      "code": "USS Vestal",
       "cn": "女灶神",
       "jp": "ヴェスタル",
       "kr": "베스탈",
@@ -11587,8 +12058,8 @@
     "id": 19901,
     "code": 20007,
     "name": {
-      "code": "USS Seattle",
       "en": "Seattle",
+      "code": "USS Seattle",
       "cn": "西雅图",
       "jp": "シアトル",
       "kr": "시애틀",
@@ -11693,8 +12164,8 @@
     "id": 19902,
     "code": 20008,
     "name": {
-      "code": "USS Georgia",
       "en": "Georgia",
+      "code": "USS Georgia",
       "cn": "佐治亚",
       "jp": "ジョージア",
       "kr": "조지아",
@@ -11797,8 +12268,8 @@
     "id": 20101,
     "code": 81,
     "name": {
-      "code": "HMS Amazon",
       "en": "Amazon",
+      "code": "HMS Amazon",
       "cn": "女将",
       "jp": "アマゾン",
       "kr": "아마존",
@@ -11928,8 +12399,8 @@
     "id": 20102,
     "code": 82,
     "name": {
-      "code": "HMS Acasta",
       "en": "Acasta",
+      "code": "HMS Acasta",
       "cn": "阿卡司塔",
       "jp": "アカスタ",
       "kr": "아카스타",
@@ -12032,8 +12503,8 @@
     "id": 20103,
     "code": 83,
     "name": {
-      "code": "HMS Ardent",
       "en": "Ardent",
+      "code": "HMS Ardent",
       "cn": "热心",
       "jp": "アーデント",
       "kr": "아덴트",
@@ -12136,8 +12607,8 @@
     "id": 20106,
     "code": 86,
     "name": {
-      "code": "HMS Beagle",
       "en": "Beagle",
+      "code": "HMS Beagle",
       "cn": "小猎兔犬",
       "jp": "ビーグル",
       "kr": "비글",
@@ -12240,8 +12711,8 @@
     "id": 20107,
     "code": 87,
     "name": {
-      "code": "HMS Bulldog",
       "en": "Bulldog",
+      "code": "HMS Bulldog",
       "cn": "大斗犬",
       "jp": "ブルドッグ",
       "kr": "불독",
@@ -12344,8 +12815,8 @@
     "id": 20108,
     "code": 88,
     "name": {
-      "code": "HMS Comet",
       "en": "Comet",
+      "code": "HMS Comet",
       "cn": "彗星",
       "jp": "コメット",
       "kr": "코멧",
@@ -12448,8 +12919,8 @@
     "id": 20109,
     "code": 89,
     "name": {
-      "code": "HMS Crescent",
       "en": "Crescent",
+      "code": "HMS Crescent",
       "cn": "新月",
       "jp": "クレセント",
       "kr": "크레센트",
@@ -12552,8 +13023,8 @@
     "id": 20110,
     "code": 90,
     "name": {
-      "code": "HMS Cygnet",
       "en": "Cygnet",
+      "code": "HMS Cygnet",
       "cn": "小天鹅",
       "jp": "シグニット",
       "kr": "시그넷",
@@ -12656,8 +13127,8 @@
     "id": 20111,
     "code": 91,
     "name": {
-      "code": "HMS Foxhound",
       "en": "Foxhound",
+      "code": "HMS Foxhound",
       "cn": "狐提",
       "jp": "フォックスハウンド",
       "kr": "폭스하운드",
@@ -12760,8 +13231,8 @@
     "id": 20112,
     "code": 92,
     "name": {
-      "code": "HMS Fortune",
       "en": "Fortune",
+      "code": "HMS Fortune",
       "cn": "命运女神",
       "jp": "フォーチュン",
       "kr": "포춘",
@@ -12864,8 +13335,8 @@
     "id": 20113,
     "code": 93,
     "name": {
-      "code": "HMS Grenville",
       "en": "Grenville",
+      "code": "HMS Grenville",
       "cn": "格伦维尔",
       "jp": "グレンヴィル",
       "kr": "그렌빌",
@@ -12968,8 +13439,8 @@
     "id": 20114,
     "code": 94,
     "name": {
-      "code": "HMS Glowworm",
       "en": "Glowworm",
+      "code": "HMS Glowworm",
       "cn": "萤火虫",
       "jp": "グローウォーム",
       "kr": "글로우웜",
@@ -13072,8 +13543,8 @@
     "id": 20116,
     "code": 96,
     "name": {
-      "code": "HMS Hardy",
       "en": "Hardy",
+      "code": "HMS Hardy",
       "cn": "勇敢",
       "jp": "ハーディ",
       "kr": "하디"
@@ -13175,8 +13646,8 @@
     "id": 20120,
     "code": 100,
     "name": {
-      "code": "HMS Hunter",
       "en": "Hunter",
+      "code": "HMS Hunter",
       "cn": "猎人",
       "jp": "ハンター",
       "kr": "헌터"
@@ -13278,8 +13749,8 @@
     "id": 20121,
     "code": 101,
     "name": {
-      "code": "HMS Javelin",
       "en": "Javelin",
+      "code": "HMS Javelin",
       "cn": "标枪",
       "jp": "ジャベリン",
       "kr": "재블린",
@@ -13386,8 +13857,8 @@
     "id": 20122,
     "code": 102,
     "name": {
-      "code": "HMS Juno",
       "en": "Juno",
+      "code": "HMS Juno",
       "cn": "天后",
       "jp": "ジュノー",
       "kr": "주노",
@@ -13494,8 +13965,8 @@
     "id": 20123,
     "code": 103,
     "name": {
-      "code": "HMS Vampire",
       "en": "Vampire",
+      "code": "HMS Vampire",
       "cn": "吸血鬼",
       "jp": "ヴァンパイア",
       "kr": "뱀파이어",
@@ -13598,8 +14069,8 @@
     "id": 20124,
     "code": 306,
     "name": {
-      "code": "HMS Jupiter",
       "en": "Jupiter",
+      "code": "HMS Jupiter",
       "cn": "丘比特",
       "jp": "ジュピター",
       "kr": "주피터",
@@ -13706,8 +14177,8 @@
     "id": 20125,
     "code": 307,
     "name": {
-      "code": "HMS Jersey",
       "en": "Jersey",
+      "code": "HMS Jersey",
       "cn": "泽西",
       "jp": "ジャージー",
       "kr": "저지",
@@ -13810,8 +14281,8 @@
     "id": 20126,
     "code": 325,
     "name": {
-      "code": "HMS Matchless",
       "en": "Matchless",
+      "code": "HMS Matchless",
       "cn": "无敌",
       "jp": "マッチレス",
       "kr": "매치리스",
@@ -13914,8 +14385,8 @@
     "id": 20127,
     "code": 326,
     "name": {
-      "code": "HMS Musketeer",
       "en": "Musketeer",
+      "code": "HMS Musketeer",
       "cn": "火枪手",
       "jp": "マスケティーア",
       "kr": "머스킷티어",
@@ -14018,8 +14489,8 @@
     "id": 20129,
     "code": 389,
     "name": {
-      "code": "HMS Echo",
       "en": "Echo",
+      "code": "HMS Echo",
       "cn": "回声",
       "jp": "エコー",
       "kr": "에코",
@@ -14122,8 +14593,8 @@
     "id": 20132,
     "code": 460,
     "name": {
-      "code": "HMS Eskimo",
       "en": "Eskimo",
+      "code": "HMS Eskimo",
       "cn": "爱斯基摩人",
       "jp": "エスキモー",
       "kr": "에스키모"
@@ -14225,8 +14696,8 @@
     "id": 20133,
     "code": 465,
     "name": {
-      "code": "HMS Icarus",
       "en": "Icarus",
+      "code": "HMS Icarus",
       "cn": "伊卡洛斯",
       "jp": "イカルス",
       "kr": "이카로스"
@@ -14328,8 +14799,8 @@
     "id": 20201,
     "code": 104,
     "name": {
-      "code": "HMS Leander",
       "en": "Leander",
+      "code": "HMS Leander",
       "cn": "利安得",
       "jp": "リアンダー",
       "kr": "리엔더",
@@ -14432,8 +14903,8 @@
     "id": 20202,
     "code": 105,
     "name": {
-      "code": "HMS Achilles",
       "en": "Achilles",
+      "code": "HMS Achilles",
       "cn": "阿基里斯",
       "jp": "アキリーズ",
       "kr": "아킬레스",
@@ -14536,8 +15007,8 @@
     "id": 20203,
     "code": 106,
     "name": {
-      "code": "HMS Ajax",
       "en": "Ajax",
+      "code": "HMS Ajax",
       "cn": "阿贾克斯",
       "jp": "エイジャックス",
       "kr": "에이잭스",
@@ -14640,8 +15111,8 @@
     "id": 20204,
     "code": 107,
     "name": {
-      "code": "HMS Dido",
       "en": "Dido",
+      "code": "HMS Dido",
       "cn": "黛朵",
       "jp": "ダイドー",
       "kr": "다이도"
@@ -14747,8 +15218,8 @@
     "id": 20207,
     "code": 110,
     "name": {
-      "code": "HMS Southampton",
       "en": "Southampton",
+      "code": "HMS Southampton",
       "cn": "南安普顿",
       "jp": "サウサンプトン",
       "kr": "사우스햄튼"
@@ -14850,8 +15321,8 @@
     "id": 20208,
     "code": 111,
     "name": {
-      "code": "HMS Sheffield",
       "en": "Sheffield",
+      "code": "HMS Sheffield",
       "cn": "谢菲尔德",
       "jp": "シェフィールド",
       "kr": "셰필드",
@@ -14954,8 +15425,8 @@
     "id": 20210,
     "code": 113,
     "name": {
-      "code": "HMS Gloucester",
       "en": "Gloucester",
+      "code": "HMS Gloucester",
       "cn": "格罗斯特",
       "jp": "グロスター",
       "kr": "글로스터"
@@ -15057,8 +15528,8 @@
     "id": 20211,
     "code": 114,
     "name": {
-      "code": "HMS Edinburgh",
       "en": "Edinburgh",
+      "code": "HMS Edinburgh",
       "cn": "爱丁堡",
       "jp": "エディンバラ",
       "kr": "에든버러",
@@ -15161,8 +15632,8 @@
     "id": 20212,
     "code": 115,
     "name": {
-      "code": "HMS Belfast",
       "en": "Belfast",
+      "code": "HMS Belfast",
       "cn": "贝尔法斯特",
       "jp": "ベルファスト",
       "kr": "벨파스트",
@@ -15265,8 +15736,8 @@
     "id": 20213,
     "code": 116,
     "name": {
-      "code": "HMS Arethusa",
       "en": "Arethusa",
+      "code": "HMS Arethusa",
       "cn": "阿瑞托莎",
       "jp": "アリシューザ",
       "kr": "아레투사",
@@ -15369,8 +15840,8 @@
     "id": 20214,
     "code": 117,
     "name": {
-      "code": "HMS Galatea",
       "en": "Galatea",
+      "code": "HMS Galatea",
       "cn": "加拉蒂亚",
       "jp": "ガラティア",
       "kr": "갈라테아",
@@ -15473,8 +15944,8 @@
     "id": 20215,
     "code": 118,
     "name": {
-      "code": "HMS Aurora",
       "en": "Aurora",
+      "code": "HMS Aurora",
       "cn": "欧若拉",
       "jp": "オーロラ",
       "kr": "오로라",
@@ -15577,8 +16048,8 @@
     "id": 20216,
     "code": 327,
     "name": {
-      "code": "HMS Fiji",
       "en": "Fiji",
+      "code": "HMS Fiji",
       "cn": "斐济",
       "jp": "フィジー",
       "kr": "피지",
@@ -15681,8 +16152,8 @@
     "id": 20217,
     "code": 328,
     "name": {
-      "code": "HMS Jamaica",
       "en": "Jamaica",
+      "code": "HMS Jamaica",
       "cn": "牙买加",
       "jp": "ジャマイカ",
       "kr": "자메이카",
@@ -15785,8 +16256,8 @@
     "id": 20218,
     "code": 335,
     "name": {
-      "code": "HMS Belfast",
       "en": "Little Bel",
+      "code": "HMS Belfast",
       "cn": "小贝法",
       "jp": "ベルちゃん",
       "kr": "꼬마 벨파스트",
@@ -15889,8 +16360,8 @@
     "id": 20219,
     "code": 361,
     "name": {
-      "code": "HMS Newcastle",
       "en": "Newcastle",
+      "code": "HMS Newcastle",
       "cn": "纽卡斯尔",
       "jp": "ニューカッスル",
       "kr": "뉴캐슬"
@@ -15992,8 +16463,8 @@
     "id": 20220,
     "code": 371,
     "name": {
-      "code": "HMS Sirius",
       "en": "Sirius",
+      "code": "HMS Sirius",
       "cn": "天狼星",
       "jp": "シリアス",
       "kr": "시리우스",
@@ -16100,8 +16571,8 @@
     "id": 20221,
     "code": 372,
     "name": {
-      "code": "HMS Curacoa",
       "en": "Curacoa",
+      "code": "HMS Curacoa",
       "cn": "库拉索",
       "jp": "キュラソー",
       "kr": "퀴라소",
@@ -16204,8 +16675,8 @@
     "id": 20222,
     "code": 373,
     "name": {
-      "code": "HMS Curlew",
       "en": "Curlew",
+      "code": "HMS Curlew",
       "cn": "杓鹬",
       "jp": "カーリュー",
       "kr": "컬루",
@@ -16308,8 +16779,8 @@
     "id": 20223,
     "code": 393,
     "name": {
-      "code": "HMS Swiftsure",
       "en": "Swiftsure",
+      "code": "HMS Swiftsure",
       "cn": "确捷",
       "jp": "スウィフトシュア",
       "kr": "스위프트슈어"
@@ -16411,8 +16882,8 @@
     "id": 20224,
     "code": 408,
     "name": {
-      "code": "HMS Black Prince",
       "en": "Black Prince",
+      "code": "HMS Black Prince",
       "cn": "黑太子",
       "jp": "ブラック・プリンス",
       "kr": "블랙 프린스"
@@ -16518,8 +16989,8 @@
     "id": 20225,
     "code": 421,
     "name": {
-      "code": "HMS Sheffield",
       "en": "Sheffield μ",
+      "code": "HMS Sheffield",
       "cn": "谢菲尔德(μ兵装)",
       "jp": "シェフィールド（μ兵装）",
       "kr": "셰필드(μ장비)"
@@ -16625,8 +17096,8 @@
     "id": 20226,
     "code": 423,
     "name": {
-      "code": "HMS Glasgow",
       "en": "Glasgow",
+      "code": "HMS Glasgow",
       "cn": "格拉斯哥",
       "jp": "グラスゴー",
       "kr": "글래스고"
@@ -16728,8 +17199,8 @@
     "id": 20227,
     "code": 463,
     "name": {
-      "code": "HMS Hermione",
       "en": "Hermione",
+      "code": "HMS Hermione",
       "cn": "赫敏",
       "jp": "ハーマイオニー",
       "kr": "허마이오니"
@@ -16835,8 +17306,8 @@
     "id": 20228,
     "code": 476,
     "name": {
-      "code": "HMS Dido",
       "en": "Dido μ",
+      "code": "HMS Dido",
       "cn": "黛朵(μ兵装)",
       "jp": "ダイドー（μ兵装）",
       "kr": "다이도(μ장비)"
@@ -16942,8 +17413,8 @@
     "id": 20301,
     "code": 119,
     "name": {
-      "code": "HMS London",
       "en": "London",
+      "code": "HMS London",
       "cn": "伦敦",
       "jp": "ロンドン",
       "kr": "런던",
@@ -17075,8 +17546,8 @@
     "id": 20302,
     "code": 120,
     "name": {
-      "code": "HMS Shropshire",
       "en": "Shropshire",
+      "code": "HMS Shropshire",
       "cn": "什罗普郡",
       "jp": "シュロップシャー",
       "kr": "슈롭셔",
@@ -17179,8 +17650,8 @@
     "id": 20303,
     "code": 121,
     "name": {
-      "code": "HMS Kent",
       "en": "Kent",
+      "code": "HMS Kent",
       "cn": "肯特",
       "jp": "ケント",
       "kr": "켄트",
@@ -17283,8 +17754,8 @@
     "id": 20304,
     "code": 122,
     "name": {
-      "code": "HMS Suffolk",
       "en": "Suffolk",
+      "code": "HMS Suffolk",
       "cn": "萨福克",
       "jp": "サフォーク",
       "kr": "서포크",
@@ -17387,8 +17858,8 @@
     "id": 20305,
     "code": 123,
     "name": {
-      "code": "HMS Norfolk",
       "en": "Norfolk",
+      "code": "HMS Norfolk",
       "cn": "诺福克",
       "jp": "ノーフォーク",
       "kr": "노포크",
@@ -17491,8 +17962,8 @@
     "id": 20306,
     "code": 124,
     "name": {
-      "code": "HMS Dorsetshire",
       "en": "Dorsetshire",
+      "code": "HMS Dorsetshire",
       "cn": "多塞特郡",
       "jp": "ドーセットシャー",
       "kr": "도셋셔",
@@ -17595,8 +18066,8 @@
     "id": 20307,
     "code": 125,
     "name": {
-      "code": "HMS York",
       "en": "York",
+      "code": "HMS York",
       "cn": "约克",
       "jp": "ヨーク",
       "kr": "요크",
@@ -17699,8 +18170,8 @@
     "id": 20308,
     "code": 126,
     "name": {
-      "code": "HMS Exeter",
       "en": "Exeter",
+      "code": "HMS Exeter",
       "cn": "埃克塞特",
       "jp": "エクセター",
       "kr": "엑세터",
@@ -17803,8 +18274,8 @@
     "id": 20309,
     "code": 337,
     "name": {
-      "code": "HMS Sussex",
       "en": "Sussex",
+      "code": "HMS Sussex",
       "cn": "苏塞克斯",
       "jp": "サセックス",
       "kr": "서식스",
@@ -17907,8 +18378,8 @@
     "id": 20401,
     "code": 127,
     "name": {
-      "code": "HMS Renown",
       "en": "Renown",
+      "code": "HMS Renown",
       "cn": "声望",
       "jp": "レナウン",
       "kr": "리나운",
@@ -18011,8 +18482,8 @@
     "id": 20402,
     "code": 128,
     "name": {
-      "code": "HMS Repulse",
       "en": "Repulse",
+      "code": "HMS Repulse",
       "cn": "反击",
       "jp": "レパルス",
       "kr": "리펄스",
@@ -18115,8 +18586,8 @@
     "id": 20403,
     "code": 129,
     "name": {
-      "code": "HMS Hood",
       "en": "Hood",
+      "code": "HMS Hood",
       "cn": "胡德",
       "jp": "フッド",
       "kr": "후드",
@@ -18219,8 +18690,8 @@
     "id": 20404,
     "code": 451,
     "name": {
-      "code": "HMS Renown",
       "en": "Little Renown",
+      "code": "HMS Renown",
       "cn": "小声望",
       "jp": "リトル・レナウン",
       "kr": "꼬마 리나운"
@@ -18322,8 +18793,8 @@
     "id": 20501,
     "code": 130,
     "name": {
-      "code": "HMS Queen Elizabeth",
       "en": "Queen Elizabeth",
+      "code": "HMS Queen Elizabeth",
       "cn": "伊丽莎白女王",
       "jp": "クイーン・エリザベス",
       "kr": "퀸 엘리자베스",
@@ -18430,8 +18901,8 @@
     "id": 20502,
     "code": 131,
     "name": {
-      "code": "HMS Warspite",
       "en": "Warspite",
+      "code": "HMS Warspite",
       "cn": "厌战",
       "jp": "ウォースパイト",
       "kr": "워스파이트",
@@ -18562,8 +19033,8 @@
     "id": 20503,
     "code": 132,
     "name": {
-      "code": "HMS Nelson",
       "en": "Nelson",
+      "code": "HMS Nelson",
       "cn": "纳尔逊",
       "jp": "ネルソン",
       "kr": "넬슨",
@@ -18666,8 +19137,8 @@
     "id": 20504,
     "code": 133,
     "name": {
-      "code": "HMS Rodney",
       "en": "Rodney",
+      "code": "HMS Rodney",
       "cn": "罗德尼",
       "jp": "ロドニー",
       "kr": "로드니",
@@ -18770,8 +19241,8 @@
     "id": 20505,
     "code": 134,
     "name": {
-      "code": "HMS King George V",
       "en": "King George V",
+      "code": "HMS King George V",
       "cn": "英王乔治五世",
       "jp": "キング・ジョージ5世",
       "kr": "킹 조지 5세",
@@ -18878,8 +19349,8 @@
     "id": 20506,
     "code": 135,
     "name": {
-      "code": "HMS Prince of Wales",
       "en": "Prince of Wales",
+      "code": "HMS Prince of Wales",
       "cn": "威尔士亲王",
       "jp": "プリンス・オブ・ウェールズ",
       "kr": "프린스 오브 웨일즈",
@@ -18986,8 +19457,8 @@
     "id": 20507,
     "code": 136,
     "name": {
-      "code": "HMS Duke of York",
       "en": "Duke of York",
+      "code": "HMS Duke of York",
       "cn": "约克公爵",
       "jp": "デューク・オブ・ヨーク",
       "kr": "듀크 오브 요크",
@@ -19093,7 +19564,7 @@
   "20509": {
     "id": 20509,
     "code": 461,
-    "name": {"code": "HMS Howe", "en": "Howe", "cn": "豪", "jp": "ハウ"},
+    "name": {"en": "Howe", "code": "HMS Howe", "cn": "豪", "jp": "ハウ"},
     "property_hexagon": [5, 0, 0, 1, 1, 4],
     "type": 5,
     "armor": 3,
@@ -19195,8 +19666,8 @@
     "id": 20510,
     "code": 464,
     "name": {
-      "code": "HMS Valiant",
       "en": "Valiant",
+      "code": "HMS Valiant",
       "cn": "英勇",
       "jp": "ヴァリアント",
       "kr": "밸리언트"
@@ -19298,8 +19769,8 @@
     "id": 20601,
     "code": 140,
     "name": {
-      "code": "HMS Hermes",
       "en": "Hermes",
+      "code": "HMS Hermes",
       "cn": "竞技神",
       "jp": "ハーミーズ",
       "kr": "허미즈",
@@ -19402,8 +19873,8 @@
     "id": 20603,
     "code": 142,
     "name": {
-      "code": "HMS Unicorn",
       "en": "Unicorn",
+      "code": "HMS Unicorn",
       "cn": "独角兽",
       "jp": "ユニコーン",
       "kr": "유니콘",
@@ -19506,8 +19977,8 @@
     "id": 20604,
     "code": 356,
     "name": {
-      "code": "HMS Centaur",
       "en": "Centaur",
+      "code": "HMS Centaur",
       "cn": "半人马",
       "jp": "セントー",
       "kr": "센토",
@@ -19610,8 +20081,8 @@
     "id": 20605,
     "code": 376,
     "name": {
-      "code": "HMS Chaser",
       "en": "Chaser",
+      "code": "HMS Chaser",
       "cn": "追赶者",
       "jp": "チェイサー",
       "kr": "체이서",
@@ -19714,8 +20185,8 @@
     "id": 20606,
     "code": 462,
     "name": {
-      "code": "HMS Perseus",
       "en": "Perseus",
+      "code": "HMS Perseus",
       "cn": "英仙座",
       "jp": "パーシュース",
       "kr": "퍼시어스"
@@ -19817,8 +20288,8 @@
     "id": 20701,
     "code": 143,
     "name": {
-      "code": "HMS Eagle",
       "en": "Eagle",
+      "code": "HMS Eagle",
       "cn": "鹰",
       "jp": "イーグル",
       "kr": "이글"
@@ -19920,8 +20391,8 @@
     "id": 20702,
     "code": 144,
     "name": {
-      "code": "HMS Ark Royal",
       "en": "Ark Royal",
+      "code": "HMS Ark Royal",
       "cn": "皇家方舟",
       "jp": "アーク・ロイヤル",
       "kr": "아크 로열",
@@ -20024,8 +20495,8 @@
     "id": 20703,
     "code": 145,
     "name": {
-      "code": "HMS Illustrious",
       "en": "Illustrious",
+      "code": "HMS Illustrious",
       "cn": "光辉",
       "jp": "イラストリアス",
       "kr": "일러스트리어스",
@@ -20128,8 +20599,8 @@
     "id": 20704,
     "code": 146,
     "name": {
-      "code": "HMS Victorious",
       "en": "Victorious",
+      "code": "HMS Victorious",
       "cn": "胜利",
       "jp": "ヴィクトリアス",
       "kr": "빅토리어스",
@@ -20232,8 +20703,8 @@
     "id": 20705,
     "code": 147,
     "name": {
-      "code": "HMS Formidable",
       "en": "Formidable",
+      "code": "HMS Formidable",
       "cn": "可畏",
       "jp": "フォーミダブル",
       "kr": "포미더블"
@@ -20340,8 +20811,8 @@
     "id": 20706,
     "code": 148,
     "name": {
-      "code": "HMS Glorious",
       "en": "Glorious",
+      "code": "HMS Glorious",
       "cn": "光荣",
       "jp": "グロリアス",
       "kr": "글로리어스",
@@ -20444,8 +20915,8 @@
     "id": 20709,
     "code": 459,
     "name": {
-      "code": "HMS Illustrious",
       "en": "Little Illustrious",
+      "code": "HMS Illustrious",
       "cn": "小光辉",
       "jp": "リトル・イラストリアス",
       "kr": "꼬마 일러스트리어스"
@@ -20547,8 +21018,8 @@
     "id": 20711,
     "code": 480,
     "name": {
-      "code": "HMS Illustrious",
       "en": "Illustrious μ",
+      "code": "HMS Illustrious",
       "cn": "光辉(μ兵装)",
       "jp": "イラストリアス（μ兵装）",
       "kr": "일러스트리어스(μ장비)"
@@ -20654,8 +21125,8 @@
     "id": 21301,
     "code": 149,
     "name": {
-      "code": "HMS Erebus",
       "en": "Erebus",
+      "code": "HMS Erebus",
       "cn": "黑暗界",
       "jp": "エレバス",
       "kr": "에레버스",
@@ -20758,8 +21229,8 @@
     "id": 21302,
     "code": 150,
     "name": {
-      "code": "HMS Terror",
       "en": "Terror",
+      "code": "HMS Terror",
       "cn": "恐怖",
       "jp": "テラー",
       "kr": "테러",
@@ -20862,8 +21333,8 @@
     "id": 21304,
     "code": 336,
     "name": {
-      "code": "HMS Abercrombie",
       "en": "Abercrombie",
+      "code": "HMS Abercrombie",
       "cn": "阿贝克隆比",
       "jp": "アバークロンビー",
       "kr": "애버크롬비",
@@ -20966,8 +21437,8 @@
     "id": 29901,
     "code": 20001,
     "name": {
-      "code": "HMS Neptune",
       "en": "Neptune",
+      "code": "HMS Neptune",
       "cn": "海王星",
       "jp": "ネプチューン",
       "kr": "넵튠",
@@ -21070,8 +21541,8 @@
     "id": 29902,
     "code": 20002,
     "name": {
-      "code": "HMS Monarch",
       "en": "Monarch",
+      "code": "HMS Monarch",
       "cn": "君主",
       "jp": "モナーク",
       "kr": "모나크",
@@ -21178,8 +21649,8 @@
     "id": 29903,
     "code": 20013,
     "name": {
-      "code": "HMS Cheshire",
       "en": "Cheshire",
+      "code": "HMS Cheshire",
       "cn": "柴郡",
       "jp": "チェシャー",
       "kr": "체셔"
@@ -21281,8 +21752,8 @@
     "id": 29904,
     "code": 20014,
     "name": {
-      "code": "HMS Drake",
       "en": "Drake",
+      "code": "HMS Drake",
       "cn": "德雷克",
       "jp": "ドレイク",
       "kr": "드레이크"
@@ -21384,8 +21855,8 @@
     "id": 30101,
     "code": 151,
     "name": {
-      "code": "IJN Fubuki",
       "en": "Fubuki",
+      "code": "IJN Fubuki",
       "cn": "吹雪",
       "jp": "吹雪",
       "kr": "후부키",
@@ -21492,8 +21963,8 @@
     "id": 30105,
     "code": 155,
     "name": {
-      "code": "IJN Ayanami",
       "en": "Ayanami",
+      "code": "IJN Ayanami",
       "cn": "绫波",
       "jp": "綾波",
       "kr": "아야나미",
@@ -21600,8 +22071,8 @@
     "id": 30109,
     "code": 159,
     "name": {
-      "code": "IJN Akatsuki",
       "en": "Akatsuki",
+      "code": "IJN Akatsuki",
       "cn": "晓",
       "jp": "暁",
       "kr": "아카츠키",
@@ -21708,8 +22179,8 @@
     "id": 30110,
     "code": 160,
     "name": {
-      "code": "IJN Hibiki",
       "en": "Hibiki",
+      "code": "IJN Hibiki",
       "cn": "响",
       "jp": "響",
       "kr": "히비키"
@@ -21815,8 +22286,8 @@
     "id": 30111,
     "code": 161,
     "name": {
-      "code": "IJN Ikazuchi",
       "en": "Ikazuchi",
+      "code": "IJN Ikazuchi",
       "cn": "雷",
       "jp": "雷",
       "kr": "이카즈치",
@@ -21923,8 +22394,8 @@
     "id": 30112,
     "code": 162,
     "name": {
-      "code": "IJN Inazuma",
       "en": "Inazuma",
+      "code": "IJN Inazuma",
       "cn": "电",
       "jp": "電",
       "kr": "이나즈마",
@@ -22031,8 +22502,8 @@
     "id": 30113,
     "code": 163,
     "name": {
-      "code": "IJN Shiratsuyu",
       "en": "Shiratsuyu",
+      "code": "IJN Shiratsuyu",
       "cn": "白露",
       "jp": "白露",
       "kr": "시라츠유",
@@ -22135,8 +22606,8 @@
     "id": 30114,
     "code": 164,
     "name": {
-      "code": "IJN Yūdachi",
       "en": "Yuudachi",
+      "code": "IJN Yūdachi",
       "cn": "夕立",
       "jp": "夕立",
       "kr": "유다치",
@@ -22239,8 +22710,8 @@
     "id": 30115,
     "code": 165,
     "name": {
-      "code": "IJN Shigure",
       "en": "Shigure",
+      "code": "IJN Shigure",
       "cn": "时雨",
       "jp": "時雨",
       "kr": "시구레",
@@ -22343,8 +22814,8 @@
     "id": 30116,
     "code": 166,
     "name": {
-      "code": "IJN Yukikaze",
       "en": "Yukikaze",
+      "code": "IJN Yukikaze",
       "cn": "雪风",
       "jp": "雪風",
       "kr": "유키카제",
@@ -22451,8 +22922,8 @@
     "id": 30117,
     "code": 167,
     "name": {
-      "code": "IJN Kagerō",
       "en": "Kagerou",
+      "code": "IJN Kagerō",
       "cn": "阳炎",
       "jp": "陽炎",
       "kr": "카게로",
@@ -22555,8 +23026,8 @@
     "id": 30118,
     "code": 168,
     "name": {
-      "code": "IJN Shiranui",
       "en": "Shiranui",
+      "code": "IJN Shiranui",
       "cn": "不知火",
       "jp": "不知火",
       "kr": "시라누이",
@@ -22663,8 +23134,8 @@
     "id": 30120,
     "code": 170,
     "name": {
-      "code": "IJN Nowaki",
       "en": "Nowaki",
+      "code": "IJN Nowaki",
       "cn": "野分",
       "jp": "野分",
       "kr": "노와키",
@@ -22767,8 +23238,8 @@
     "id": 30121,
     "code": 171,
     "name": {
-      "code": "IJN Hatsuharu",
       "en": "Hatsuharu",
+      "code": "IJN Hatsuharu",
       "cn": "初春",
       "jp": "初春",
       "kr": "하츠하루",
@@ -22871,8 +23342,8 @@
     "id": 30123,
     "code": 173,
     "name": {
-      "code": "IJN Wakaba",
       "en": "Wakaba",
+      "code": "IJN Wakaba",
       "cn": "若叶",
       "jp": "若葉",
       "kr": "와카바",
@@ -22975,8 +23446,8 @@
     "id": 30124,
     "code": 174,
     "name": {
-      "code": "IJN Hatsushimo",
       "en": "Hatsushimo",
+      "code": "IJN Hatsushimo",
       "cn": "初霜",
       "jp": "初霜",
       "kr": "하츠시모",
@@ -23079,8 +23550,8 @@
     "id": 30125,
     "code": 175,
     "name": {
-      "code": "IJN Ariake",
       "en": "Ariake",
+      "code": "IJN Ariake",
       "cn": "有明",
       "jp": "有明",
       "kr": "아리아케",
@@ -23183,8 +23654,8 @@
     "id": 30126,
     "code": 176,
     "name": {
-      "code": "IJN Yūgure",
       "en": "Yuugure",
+      "code": "IJN Yūgure",
       "cn": "夕暮",
       "jp": "夕暮",
       "kr": "유구레",
@@ -23287,8 +23758,8 @@
     "id": 30127,
     "code": 177,
     "name": {
-      "code": "IJN Kuroshio",
       "en": "Kuroshio",
+      "code": "IJN Kuroshio",
       "cn": "黑潮",
       "jp": "黒潮",
       "kr": "쿠로시오",
@@ -23391,8 +23862,8 @@
     "id": 30128,
     "code": 178,
     "name": {
-      "code": "IJN Oyashio",
       "en": "Oyashio",
+      "code": "IJN Oyashio",
       "cn": "亲潮",
       "jp": "親潮",
       "kr": "오야시오",
@@ -23495,8 +23966,8 @@
     "id": 30130,
     "code": 269,
     "name": {
-      "code": "IJN Kamikaze",
       "en": "Kamikaze",
+      "code": "IJN Kamikaze",
       "cn": "神风",
       "jp": "神風",
       "kr": "카미카제",
@@ -23599,8 +24070,8 @@
     "id": 30131,
     "code": 270,
     "name": {
-      "code": "IJN Matsukaze",
       "en": "Matsukaze",
+      "code": "IJN Matsukaze",
       "cn": "松风",
       "jp": "松風",
       "kr": "마츠카제",
@@ -23703,8 +24174,8 @@
     "id": 30132,
     "code": 271,
     "name": {
-      "code": "IJN Mutsuki",
       "en": "Mutsuki",
+      "code": "IJN Mutsuki",
       "cn": "睦月",
       "jp": "睦月",
       "kr": "무츠키",
@@ -23807,8 +24278,8 @@
     "id": 30133,
     "code": 272,
     "name": {
-      "code": "IJN Kisaragi",
       "en": "Kisaragi",
+      "code": "IJN Kisaragi",
       "cn": "如月",
       "jp": "如月",
       "kr": "키사라기",
@@ -23911,8 +24382,8 @@
     "id": 30135,
     "code": 274,
     "name": {
-      "code": "IJN Uzuki",
       "en": "Uzuki",
+      "code": "IJN Uzuki",
       "cn": "卯月",
       "jp": "卯月",
       "kr": "우즈키",
@@ -24015,8 +24486,8 @@
     "id": 30137,
     "code": 276,
     "name": {
-      "code": "IJN Minazuki",
       "en": "Minazuki",
+      "code": "IJN Minazuki",
       "cn": "水无月",
       "jp": "水無月",
       "kr": "미나즈키",
@@ -24119,8 +24590,8 @@
     "id": 30138,
     "code": 277,
     "name": {
-      "code": "IJN Fumizuki",
       "en": "Fumizuki",
+      "code": "IJN Fumizuki",
       "cn": "文月",
       "jp": "文月",
       "kr": "후미즈키",
@@ -24223,8 +24694,8 @@
     "id": 30139,
     "code": 278,
     "name": {
-      "code": "IJN Nagatsuki",
       "en": "Nagatsuki",
+      "code": "IJN Nagatsuki",
       "cn": "长月",
       "jp": "長月",
       "kr": "나가츠키"
@@ -24326,8 +24797,8 @@
     "id": 30141,
     "code": 280,
     "name": {
-      "code": "IJN Mikazuki",
       "en": "Mikazuki",
+      "code": "IJN Mikazuki",
       "cn": "三日月",
       "jp": "三日月",
       "kr": "미카즈키",
@@ -24430,8 +24901,8 @@
     "id": 30149,
     "code": 288,
     "name": {
-      "code": "IJN Kawakaze",
       "en": "Kawakaze",
+      "code": "IJN Kawakaze",
       "cn": "江风",
       "jp": "江風",
       "kr": "카와카제",
@@ -24534,8 +25005,8 @@
     "id": 30154,
     "code": 293,
     "name": {
-      "code": "IJN Kiyonami",
       "en": "Kiyonami",
+      "code": "IJN Kiyonami",
       "cn": "清波",
       "jp": "清波",
       "kr": "키요나미"
@@ -24637,8 +25108,8 @@
     "id": 30156,
     "code": 295,
     "name": {
-      "code": "IJN Niizuki",
       "en": "Niizuki",
+      "code": "IJN Niizuki",
       "cn": "新月",
       "jp": "新月",
       "kr": "니이즈키",
@@ -24741,8 +25212,8 @@
     "id": 30157,
     "code": 296,
     "name": {
-      "code": "IJN Harutsuki",
       "en": "Harutsuki",
+      "code": "IJN Harutsuki",
       "cn": "春月",
       "jp": "春月",
       "kr": "하루츠키",
@@ -24845,8 +25316,8 @@
     "id": 30158,
     "code": 297,
     "name": {
-      "code": "IJN Yoizuki",
       "en": "Yoizuki",
+      "code": "IJN Yoizuki",
       "cn": "宵月",
       "jp": "宵月",
       "kr": "요이즈키",
@@ -24949,8 +25420,8 @@
     "id": 30159,
     "code": 316,
     "name": {
-      "code": "IJN Urakaze",
       "en": "Urakaze",
+      "code": "IJN Urakaze",
       "cn": "浦风",
       "jp": "浦風",
       "kr": "우라카제",
@@ -25053,8 +25524,8 @@
     "id": 30160,
     "code": 317,
     "name": {
-      "code": "IJN Isokaze",
       "en": "Isokaze",
+      "code": "IJN Isokaze",
       "cn": "矶风",
       "jp": "磯風",
       "kr": "이소카제",
@@ -25157,8 +25628,8 @@
     "id": 30161,
     "code": 318,
     "name": {
-      "code": "IJN Hamakaze",
       "en": "Hamakaze",
+      "code": "IJN Hamakaze",
       "cn": "滨风",
       "jp": "浜風",
       "kr": "하마카제",
@@ -25261,8 +25732,8 @@
     "id": 30162,
     "code": 319,
     "name": {
-      "code": "IJN Tanikaze",
       "en": "Tanikaze",
+      "code": "IJN Tanikaze",
       "cn": "谷风",
       "jp": "谷風",
       "kr": "타니카제",
@@ -25365,8 +25836,8 @@
     "id": 30163,
     "code": 331,
     "name": {
-      "code": "IJN Asashio",
       "en": "Asashio",
+      "code": "IJN Asashio",
       "cn": "朝潮",
       "jp": "朝潮",
       "kr": "아사시오",
@@ -25473,8 +25944,8 @@
     "id": 30164,
     "code": 332,
     "name": {
-      "code": "IJN Ōshio",
       "en": "Ooshio",
+      "code": "IJN Ōshio",
       "cn": "大潮",
       "jp": "大潮",
       "kr": "오오시오",
@@ -25581,8 +26052,8 @@
     "id": 30165,
     "code": 333,
     "name": {
-      "code": "IJN Michishio",
       "en": "Michishio",
+      "code": "IJN Michishio",
       "cn": "满潮",
       "jp": "満潮",
       "kr": "미치시오",
@@ -25689,8 +26160,8 @@
     "id": 30166,
     "code": 334,
     "name": {
-      "code": "IJN Arashio",
       "en": "Arashio",
+      "code": "IJN Arashio",
       "cn": "荒潮",
       "jp": "荒潮",
       "kr": "아라시오"
@@ -25796,8 +26267,8 @@
     "id": 30172,
     "code": 429,
     "name": {
-      "code": "IJN Uranami",
       "en": "Uranami",
+      "code": "IJN Uranami",
       "cn": "浦波",
       "jp": "浦波",
       "kr": "우라나미"
@@ -25903,8 +26374,8 @@
     "id": 30179,
     "code": 369,
     "name": {
-      "code": "IJN Hatakaze",
       "en": "Hatakaze",
+      "code": "IJN Hatakaze",
       "cn": "旗风",
       "jp": "旗風",
       "kr": "하타카제",
@@ -26007,8 +26478,8 @@
     "id": 30180,
     "code": 370,
     "name": {
-      "code": "IJN Makinami",
       "en": "Makinami",
+      "code": "IJN Makinami",
       "cn": "卷波",
       "jp": "巻波",
       "kr": "마키나미",
@@ -26111,8 +26582,8 @@
     "id": 30181,
     "code": 424,
     "name": {
-      "code": "IJN Kasumi",
       "en": "Kasumi",
+      "code": "IJN Kasumi",
       "cn": "霞",
       "jp": "霞",
       "kr": "카스미"
@@ -26218,8 +26689,8 @@
     "id": 30182,
     "code": 449,
     "name": {
-      "code": "IJN Hanazuki",
       "en": "Hanazuki",
+      "code": "IJN Hanazuki",
       "cn": "花月",
       "jp": "花月",
       "kr": "하나즈키"
@@ -26321,8 +26792,8 @@
     "id": 30183,
     "code": 450,
     "name": {
-      "code": "IJN Naganami",
       "en": "Naganami",
+      "code": "IJN Naganami",
       "cn": "长波",
       "jp": "長波",
       "kr": "나가나미"
@@ -26424,8 +26895,8 @@
     "id": 30184,
     "code": 468,
     "name": {
-      "code": "IJN Suzutsuki",
       "en": "Suzutsuki",
+      "code": "IJN Suzutsuki",
       "cn": "凉月",
       "jp": "涼月",
       "kr": "스즈츠키"
@@ -26527,8 +26998,8 @@
     "id": 30201,
     "code": 179,
     "name": {
-      "code": "IJN Yūbari",
       "en": "Yuubari",
+      "code": "IJN Yūbari",
       "cn": "夕张",
       "jp": "夕張",
       "kr": "유바리",
@@ -26631,8 +27102,8 @@
     "id": 30204,
     "code": 182,
     "name": {
-      "code": "IJN Nagara",
       "en": "Nagara",
+      "code": "IJN Nagara",
       "cn": "长良",
       "jp": "長良",
       "kr": "나가라",
@@ -26735,8 +27206,8 @@
     "id": 30205,
     "code": 183,
     "name": {
-      "code": "IJN Isuzu",
       "en": "Isuzu",
+      "code": "IJN Isuzu",
       "cn": "五十铃",
       "jp": "五十鈴",
       "kr": "이스즈",
@@ -26841,8 +27312,8 @@
     "id": 30208,
     "code": 186,
     "name": {
-      "code": "IJN Kinu",
       "en": "Kinu",
+      "code": "IJN Kinu",
       "cn": "鬼怒",
       "jp": "鬼怒",
       "kr": "키누"
@@ -26944,8 +27415,8 @@
     "id": 30209,
     "code": 187,
     "name": {
-      "code": "IJN Abukuma",
       "en": "Abukuma",
+      "code": "IJN Abukuma",
       "cn": "阿武隈",
       "jp": "阿武隈",
       "kr": "아부쿠마",
@@ -27048,8 +27519,8 @@
     "id": 30210,
     "code": 188,
     "name": {
-      "code": "IJN Mogami",
       "en": "Mogami",
+      "code": "IJN Mogami",
       "cn": "最上",
       "jp": "最上",
       "kr": "모가미",
@@ -27181,8 +27652,8 @@
     "id": 30211,
     "code": 189,
     "name": {
-      "code": "IJN Mikuma",
       "en": "Mikuma",
+      "code": "IJN Mikuma",
       "cn": "三隈",
       "jp": "三隈",
       "kr": "미쿠마",
@@ -27285,8 +27756,8 @@
     "id": 30212,
     "code": 308,
     "name": {
-      "code": "IJN Sendai",
       "en": "Sendai",
+      "code": "IJN Sendai",
       "cn": "川内",
       "jp": "川内",
       "kr": "센다이",
@@ -27389,8 +27860,8 @@
     "id": 30213,
     "code": 309,
     "name": {
-      "code": "IJN Jintsū",
       "en": "Jintsuu",
+      "code": "IJN Jintsū",
       "cn": "神通",
       "jp": "神通",
       "kr": "진츠",
@@ -27493,8 +27964,8 @@
     "id": 30214,
     "code": 310,
     "name": {
-      "code": "IJN Naka",
       "en": "Naka",
+      "code": "IJN Naka",
       "cn": "那珂",
       "jp": "那珂",
       "kr": "나카",
@@ -27597,8 +28068,8 @@
     "id": 30220,
     "code": 321,
     "name": {
-      "code": "IJN Agano",
       "en": "Agano",
+      "code": "IJN Agano",
       "cn": "阿贺野",
       "jp": "阿賀野",
       "kr": "아가노",
@@ -27701,8 +28172,8 @@
     "id": 30221,
     "code": 322,
     "name": {
-      "code": "IJN Noshiro",
       "en": "Noshiro",
+      "code": "IJN Noshiro",
       "cn": "能代",
       "jp": "能代",
       "kr": "노시로"
@@ -27804,8 +28275,8 @@
     "id": 30301,
     "code": 190,
     "name": {
-      "code": "IJN Furutaka",
       "en": "Furutaka",
+      "code": "IJN Furutaka",
       "cn": "古鹰",
       "jp": "古鷹",
       "kr": "후루타카",
@@ -27908,8 +28379,8 @@
     "id": 30302,
     "code": 191,
     "name": {
-      "code": "IJN Kako",
       "en": "Kako",
+      "code": "IJN Kako",
       "cn": "加古",
       "jp": "加古",
       "kr": "카코",
@@ -28012,8 +28483,8 @@
     "id": 30303,
     "code": 192,
     "name": {
-      "code": "IJN Aoba",
       "en": "Aoba",
+      "code": "IJN Aoba",
       "cn": "青叶",
       "jp": "青葉",
       "kr": "아오바",
@@ -28116,8 +28587,8 @@
     "id": 30304,
     "code": 193,
     "name": {
-      "code": "IJN Kinugasa",
       "en": "Kinugasa",
+      "code": "IJN Kinugasa",
       "cn": "衣笠",
       "jp": "衣笠",
       "kr": "키누가사",
@@ -28220,8 +28691,8 @@
     "id": 30307,
     "code": 196,
     "name": {
-      "code": "IJN Myōkō",
       "en": "Myoukou",
+      "code": "IJN Myōkō",
       "cn": "妙高",
       "jp": "妙高",
       "kr": "묘코",
@@ -28324,8 +28795,8 @@
     "id": 30308,
     "code": 197,
     "name": {
-      "code": "IJN Nachi",
       "en": "Nachi",
+      "code": "IJN Nachi",
       "cn": "那智",
       "jp": "那智",
       "kr": "나치",
@@ -28428,8 +28899,8 @@
     "id": 30309,
     "code": 198,
     "name": {
-      "code": "IJN Ashigara",
       "en": "Ashigara",
+      "code": "IJN Ashigara",
       "cn": "足柄",
       "jp": "足柄",
       "kr": "아시가라",
@@ -28532,8 +29003,8 @@
     "id": 30311,
     "code": 200,
     "name": {
-      "code": "IJN Takao",
       "en": "Takao",
+      "code": "IJN Takao",
       "cn": "高雄",
       "jp": "高雄",
       "kr": "타카오",
@@ -28636,8 +29107,8 @@
     "id": 30312,
     "code": 201,
     "name": {
-      "code": "IJN Atago",
       "en": "Atago",
+      "code": "IJN Atago",
       "cn": "爱宕",
       "jp": "愛宕",
       "kr": "아타고",
@@ -28740,8 +29211,8 @@
     "id": 30313,
     "code": 202,
     "name": {
-      "code": "IJN Maya",
       "en": "Maya",
+      "code": "IJN Maya",
       "cn": "摩耶",
       "jp": "摩耶",
       "kr": "마야",
@@ -28844,8 +29315,8 @@
     "id": 30314,
     "code": 203,
     "name": {
-      "code": "IJN Chōkai",
       "en": "Choukai",
+      "code": "IJN Chōkai",
       "cn": "鸟海",
       "jp": "鳥海",
       "kr": "초카이",
@@ -28948,8 +29419,8 @@
     "id": 30317,
     "code": 382,
     "name": {
-      "code": "IJN Suzuya",
       "en": "Suzuya",
+      "code": "IJN Suzuya",
       "cn": "铃谷",
       "jp": "鈴谷",
       "kr": "스즈야"
@@ -29051,8 +29522,8 @@
     "id": 30318,
     "code": 469,
     "name": {
-      "code": "IJN Kumano",
       "en": "Kumano",
+      "code": "IJN Kumano",
       "cn": "熊野",
       "jp": "熊野",
       "kr": "쿠마노"
@@ -29154,8 +29625,8 @@
     "id": 30401,
     "code": 204,
     "name": {
-      "code": "IJN Kongō",
       "en": "Kongou",
+      "code": "IJN Kongō",
       "cn": "金刚",
       "jp": "金剛",
       "kr": "콘고",
@@ -29262,8 +29733,8 @@
     "id": 30402,
     "code": 205,
     "name": {
-      "code": "IJN Hiei",
       "en": "Hiei",
+      "code": "IJN Hiei",
       "cn": "比叡",
       "jp": "比叡",
       "kr": "히에이",
@@ -29370,8 +29841,8 @@
     "id": 30403,
     "code": 206,
     "name": {
-      "code": "IJN Haruna",
       "en": "Haruna",
+      "code": "IJN Haruna",
       "cn": "榛名",
       "jp": "榛名",
       "kr": "하루나",
@@ -29478,8 +29949,8 @@
     "id": 30404,
     "code": 207,
     "name": {
-      "code": "IJN Kirishima",
       "en": "Kirishima",
+      "code": "IJN Kirishima",
       "cn": "雾岛",
       "jp": "霧島",
       "kr": "키리시마",
@@ -29586,8 +30057,8 @@
     "id": 30405,
     "code": 367,
     "name": {
-      "code": "IJN Amagi",
       "en": "Amagi",
+      "code": "IJN Amagi",
       "cn": "天城",
       "jp": "天城",
       "kr": "아마기",
@@ -29690,8 +30161,8 @@
     "id": 30406,
     "code": 383,
     "name": {
-      "code": "IJN Hiei",
       "en": "Hiei-chan",
+      "code": "IJN Hiei",
       "cn": "小比叡",
       "jp": "比叡ちゃん",
       "kr": "꼬마 히에이",
@@ -29798,8 +30269,8 @@
     "id": 30501,
     "code": 208,
     "name": {
-      "code": "IJN Fuso",
       "en": "Fusou",
+      "code": "IJN Fuso",
       "cn": "扶桑",
       "jp": "扶桑",
       "kr": "후소",
@@ -29931,8 +30402,8 @@
     "id": 30502,
     "code": 209,
     "name": {
-      "code": "IJN Yamashiro",
       "en": "Yamashiro",
+      "code": "IJN Yamashiro",
       "cn": "山城",
       "jp": "山城",
       "kr": "야마시로",
@@ -30064,8 +30535,8 @@
     "id": 30503,
     "code": 210,
     "name": {
-      "code": "IJN Ise",
       "en": "Ise",
+      "code": "IJN Ise",
       "cn": "伊势",
       "jp": "伊勢",
       "kr": "이세",
@@ -30197,8 +30668,8 @@
     "id": 30504,
     "code": 211,
     "name": {
-      "code": "IJN Hyūga",
       "en": "Hyuuga",
+      "code": "IJN Hyūga",
       "cn": "日向",
       "jp": "日向",
       "kr": "휴가",
@@ -30330,8 +30801,8 @@
     "id": 30505,
     "code": 212,
     "name": {
-      "code": "IJN Nagato",
       "en": "Nagato",
+      "code": "IJN Nagato",
       "cn": "长门",
       "jp": "長門",
       "kr": "나가토",
@@ -30434,8 +30905,8 @@
     "id": 30506,
     "code": 213,
     "name": {
-      "code": "IJN Mutsu",
       "en": "Mutsu",
+      "code": "IJN Mutsu",
       "cn": "陆奥",
       "jp": "陸奧",
       "kr": "무츠",
@@ -30538,8 +31009,8 @@
     "id": 30507,
     "code": 368,
     "name": {
-      "code": "IJN Kaga",
       "en": "Kaga(BB)",
+      "code": "IJN Kaga",
       "cn": "加贺",
       "jp": "加賀",
       "kr": "카가",
@@ -30642,8 +31113,8 @@
     "id": 30508,
     "code": 215,
     "name": {
-      "code": "IJN Tosa",
       "en": "Tosa",
+      "code": "IJN Tosa",
       "cn": "土佐",
       "jp": "土佐",
       "kr": "토사"
@@ -30749,8 +31220,8 @@
     "id": 30511,
     "code": 320,
     "name": {
-      "code": "IJN Mikasa",
       "en": "Mikasa",
+      "code": "IJN Mikasa",
       "cn": "三笠",
       "jp": "三笠",
       "kr": "미카사",
@@ -30853,8 +31324,8 @@
     "id": 30512,
     "code": 214,
     "name": {
-      "code": "IJN Kii",
       "en": "Kii",
+      "code": "IJN Kii",
       "cn": "纪伊",
       "jp": "紀伊",
       "kr": "키이"
@@ -30956,8 +31427,8 @@
     "id": 30514,
     "code": 425,
     "name": {
-      "code": "IJN Suruga",
       "en": "Suruga",
+      "code": "IJN Suruga",
       "cn": "骏河",
       "jp": "駿河",
       "kr": "스루가"
@@ -31063,8 +31534,8 @@
     "id": 30601,
     "code": 218,
     "name": {
-      "code": "IJN Hiyō",
       "en": "Hiyou",
+      "code": "IJN Hiyō",
       "cn": "飞鹰",
       "jp": "飛鷹",
       "kr": "히요",
@@ -31167,8 +31638,8 @@
     "id": 30602,
     "code": 219,
     "name": {
-      "code": "IJN Jun'yō",
       "en": "Junyou",
+      "code": "IJN Jun'yō",
       "cn": "隼鹰",
       "jp": "隼鷹",
       "kr": "준요",
@@ -31271,8 +31742,8 @@
     "id": 30603,
     "code": 220,
     "name": {
-      "code": "IJN Hōshō",
       "en": "Houshou",
+      "code": "IJN Hōshō",
       "cn": "凤翔",
       "jp": "鳳翔",
       "kr": "호쇼",
@@ -31375,8 +31846,8 @@
     "id": 30605,
     "code": 222,
     "name": {
-      "code": "IJN Shōhō",
       "en": "Shouhou",
+      "code": "IJN Shōhō",
       "cn": "祥凤",
       "jp": "祥鳳",
       "kr": "쇼호",
@@ -31479,8 +31950,8 @@
     "id": 30606,
     "code": 223,
     "name": {
-      "code": "IJN Ryūjō",
       "en": "Ryuujou",
+      "code": "IJN Ryūjō",
       "cn": "龙骧",
       "jp": "龍驤",
       "kr": "류조",
@@ -31583,8 +32054,8 @@
     "id": 30607,
     "code": 426,
     "name": {
-      "code": "IJN Ryūhō",
       "en": "Ryuuhou",
+      "code": "IJN Ryūhō",
       "cn": "龙凤",
       "jp": "龍鳳",
       "kr": "류호"
@@ -31690,8 +32161,8 @@
     "id": 30608,
     "code": 470,
     "name": {
-      "code": "IJN Chitose",
       "en": "Chitose",
+      "code": "IJN Chitose",
       "cn": "千岁",
       "jp": "千歳",
       "kr": "치토세"
@@ -31793,8 +32264,8 @@
     "id": 30609,
     "code": 471,
     "name": {
-      "code": "IJN Chiyoda",
       "en": "Chiyoda",
+      "code": "IJN Chiyoda",
       "cn": "千代田",
       "jp": "千代田",
       "kr": "치요다"
@@ -31896,8 +32367,8 @@
     "id": 30701,
     "code": 224,
     "name": {
-      "code": "IJN Akagi",
       "en": "Akagi",
+      "code": "IJN Akagi",
       "cn": "赤城",
       "jp": "赤城",
       "kr": "아카기",
@@ -32000,8 +32471,8 @@
     "id": 30702,
     "code": 225,
     "name": {
-      "code": "IJN Kaga",
       "en": "Kaga",
+      "code": "IJN Kaga",
       "cn": "加贺",
       "jp": "加賀",
       "kr": "카가",
@@ -32104,8 +32575,8 @@
     "id": 30703,
     "code": 226,
     "name": {
-      "code": "IJN Sōryū",
       "en": "Souryuu",
+      "code": "IJN Sōryū",
       "cn": "苍龙",
       "jp": "蒼龍",
       "kr": "소류",
@@ -32208,8 +32679,8 @@
     "id": 30704,
     "code": 227,
     "name": {
-      "code": "IJN Hiryū",
       "en": "Hiryuu",
+      "code": "IJN Hiryū",
       "cn": "飞龙",
       "jp": "飛龍",
       "kr": "히류",
@@ -32312,8 +32783,8 @@
     "id": 30705,
     "code": 228,
     "name": {
-      "code": "IJN Shōkaku",
       "en": "Shoukaku",
+      "code": "IJN Shōkaku",
       "cn": "翔鹤",
       "jp": "翔鶴",
       "kr": "쇼카쿠",
@@ -32416,8 +32887,8 @@
     "id": 30706,
     "code": 229,
     "name": {
-      "code": "IJN Zuikaku",
       "en": "Zuikaku",
+      "code": "IJN Zuikaku",
       "cn": "瑞鹤",
       "jp": "瑞鶴",
       "kr": "즈이카쿠",
@@ -32520,8 +32991,8 @@
     "id": 30707,
     "code": 230,
     "name": {
-      "code": "IJN Taihō",
       "en": "Taihou",
+      "code": "IJN Taihō",
       "cn": "大凤",
       "jp": "大鳳",
       "kr": "다이호"
@@ -32623,8 +33094,8 @@
     "id": 30708,
     "code": 231,
     "name": {
-      "code": "IJN Shinano",
       "en": "Shinano",
+      "code": "IJN Shinano",
       "cn": "信浓",
       "jp": "信濃",
       "kr": "시나노"
@@ -32733,8 +33204,8 @@
     "id": 30709,
     "code": 384,
     "name": {
-      "code": "IJN Akagi",
       "en": "Akagi-chan",
+      "code": "IJN Akagi",
       "cn": "小赤城",
       "jp": "赤城ちゃん",
       "kr": "꼬마 아카기",
@@ -32837,8 +33308,8 @@
     "id": 30710,
     "code": 419,
     "name": {
-      "code": "IJN Akagi",
       "en": "Akagi μ",
+      "code": "IJN Akagi",
       "cn": "赤城(μ兵装)",
       "jp": "赤城（μ兵装）",
       "kr": "아카기(μ장비)"
@@ -32944,8 +33415,8 @@
     "id": 30711,
     "code": 474,
     "name": {
-      "code": "IJN Taihō",
       "en": "Taihou μ",
+      "code": "IJN Taihō",
       "cn": "大凤(μ兵装)",
       "jp": "大鳳（μ兵装）",
       "kr": "다이호(μ장비)"
@@ -33050,75 +33521,633 @@
   "30801": {
     "id": 30801,
     "code": 338,
-    "name": {"code": "IJN I19"},
+    "name": {
+      "en": "I-19",
+      "code": "IJN I19",
+      "cn": "伊19",
+      "jp": "伊19",
+      "kr": "이19",
+      "tw": "伊19"
+    },
     "property_hexagon": [1, 5, 0, 1, 0, 1],
     "type": 8,
-    "armor": null,
-    "slots": null,
+    "armor": 1,
+    "slots": [[13], [13], [1], [10], [10]],
     "nationality": 3,
-    "data": {}
+    "data": {
+      "308011": {
+        "id": 308011,
+        "type": 8,
+        "rarity": 5,
+        "stars": 3,
+        "oil": 5,
+        "max_level": 70,
+        "stats": {
+          "hp": 349,
+          "fp": 11,
+          "trp": 106,
+          "aa": 0,
+          "av": 0,
+          "rld": 41,
+          "acc": 58,
+          "eva": 10,
+          "spd": 18.8,
+          "luk": 19,
+          "asw": 0
+        }
+      },
+      "308012": {
+        "id": 308012,
+        "type": 8,
+        "rarity": 5,
+        "stars": 4,
+        "oil": 6,
+        "max_level": 80,
+        "stats": {
+          "hp": 434,
+          "fp": 14,
+          "trp": 132,
+          "aa": 0,
+          "av": 0,
+          "rld": 41,
+          "acc": 58,
+          "eva": 10,
+          "spd": 18.8,
+          "luk": 19,
+          "asw": 0
+        }
+      },
+      "308013": {
+        "id": 308013,
+        "type": 8,
+        "rarity": 5,
+        "stars": 5,
+        "oil": 7,
+        "max_level": 90,
+        "stats": {
+          "hp": 604,
+          "fp": 19,
+          "trp": 184,
+          "aa": 0,
+          "av": 0,
+          "rld": 41,
+          "acc": 58,
+          "eva": 10,
+          "spd": 18.8,
+          "luk": 19,
+          "asw": 0
+        }
+      },
+      "308014": {
+        "id": 308014,
+        "type": 8,
+        "rarity": 5,
+        "stars": 6,
+        "oil": 8,
+        "max_level": 100,
+        "stats": {
+          "hp": 860,
+          "fp": 27,
+          "trp": 263,
+          "aa": 0,
+          "av": 0,
+          "rld": 41,
+          "acc": 58,
+          "eva": 10,
+          "spd": 18.8,
+          "luk": 19,
+          "asw": 0
+        }
+      }
+    },
+    "stars": 6
   },
   "30802": {
     "id": 30802,
     "code": 339,
-    "name": {"code": "IJN I26"},
+    "name": {
+      "en": "I-26",
+      "code": "IJN I26",
+      "cn": "伊26",
+      "jp": "伊26",
+      "kr": "이26",
+      "tw": "伊26"
+    },
     "property_hexagon": [1, 5, 0, 1, 0, 1],
     "type": 8,
-    "armor": null,
-    "slots": null,
+    "armor": 1,
+    "slots": [[13], [13], [1], [10], [10]],
     "nationality": 3,
-    "data": {}
+    "data": {
+      "308021": {
+        "id": 308021,
+        "type": 8,
+        "rarity": 4,
+        "stars": 2,
+        "oil": 4,
+        "max_level": 70,
+        "stats": {
+          "hp": 333,
+          "fp": 11,
+          "trp": 100,
+          "aa": 0,
+          "av": 0,
+          "rld": 40,
+          "acc": 56,
+          "eva": 10,
+          "spd": 18.8,
+          "luk": 26,
+          "asw": 0
+        }
+      },
+      "308022": {
+        "id": 308022,
+        "type": 8,
+        "rarity": 4,
+        "stars": 3,
+        "oil": 5,
+        "max_level": 80,
+        "stats": {
+          "hp": 414,
+          "fp": 14,
+          "trp": 125,
+          "aa": 0,
+          "av": 0,
+          "rld": 40,
+          "acc": 56,
+          "eva": 10,
+          "spd": 18.8,
+          "luk": 26,
+          "asw": 0
+        }
+      },
+      "308023": {
+        "id": 308023,
+        "type": 8,
+        "rarity": 4,
+        "stars": 4,
+        "oil": 6,
+        "max_level": 90,
+        "stats": {
+          "hp": 577,
+          "fp": 19,
+          "trp": 174,
+          "aa": 0,
+          "av": 0,
+          "rld": 40,
+          "acc": 56,
+          "eva": 10,
+          "spd": 18.8,
+          "luk": 26,
+          "asw": 0
+        }
+      },
+      "308024": {
+        "id": 308024,
+        "type": 8,
+        "rarity": 4,
+        "stars": 5,
+        "oil": 7,
+        "max_level": 100,
+        "stats": {
+          "hp": 821,
+          "fp": 28,
+          "trp": 249,
+          "aa": 0,
+          "av": 0,
+          "rld": 40,
+          "acc": 56,
+          "eva": 10,
+          "spd": 18.8,
+          "luk": 26,
+          "asw": 0
+        }
+      }
+    },
+    "stars": 5
   },
   "30803": {
     "id": 30803,
     "code": 340,
-    "name": {"code": "IJN I58"},
+    "name": {
+      "en": "I-58",
+      "code": "IJN I58",
+      "cn": "伊58",
+      "jp": "伊58",
+      "kr": "이58",
+      "tw": "伊58"
+    },
     "property_hexagon": [1, 5, 0, 1, 0, 1],
     "type": 8,
-    "armor": null,
-    "slots": null,
+    "armor": 1,
+    "slots": [[13], [13], [1], [10], [10]],
     "nationality": 3,
-    "data": {}
+    "data": {
+      "308031": {
+        "id": 308031,
+        "type": 8,
+        "rarity": 4,
+        "stars": 2,
+        "oil": 4,
+        "max_level": 70,
+        "stats": {
+          "hp": 335,
+          "fp": 11,
+          "trp": 97,
+          "aa": 0,
+          "av": 0,
+          "rld": 29,
+          "acc": 58,
+          "eva": 7,
+          "spd": 14.4,
+          "luk": 58,
+          "asw": 0
+        }
+      },
+      "308032": {
+        "id": 308032,
+        "type": 8,
+        "rarity": 4,
+        "stars": 3,
+        "oil": 5,
+        "max_level": 80,
+        "stats": {
+          "hp": 417,
+          "fp": 14,
+          "trp": 121,
+          "aa": 0,
+          "av": 0,
+          "rld": 29,
+          "acc": 58,
+          "eva": 7,
+          "spd": 14.4,
+          "luk": 58,
+          "asw": 0
+        }
+      },
+      "308033": {
+        "id": 308033,
+        "type": 8,
+        "rarity": 4,
+        "stars": 4,
+        "oil": 6,
+        "max_level": 90,
+        "stats": {
+          "hp": 580,
+          "fp": 19,
+          "trp": 169,
+          "aa": 0,
+          "av": 0,
+          "rld": 29,
+          "acc": 58,
+          "eva": 7,
+          "spd": 14.4,
+          "luk": 58,
+          "asw": 0
+        }
+      },
+      "308034": {
+        "id": 308034,
+        "type": 8,
+        "rarity": 4,
+        "stars": 5,
+        "oil": 7,
+        "max_level": 100,
+        "stats": {
+          "hp": 826,
+          "fp": 27,
+          "trp": 241,
+          "aa": 0,
+          "av": 0,
+          "rld": 29,
+          "acc": 58,
+          "eva": 7,
+          "spd": 14.4,
+          "luk": 58,
+          "asw": 0
+        }
+      }
+    },
+    "stars": 5
   },
   "30804": {
     "id": 30804,
     "code": 396,
-    "name": {"code": "IJN I25"},
+    "name": {
+      "en": "I-25",
+      "code": "IJN I25",
+      "cn": "伊25",
+      "jp": "伊25",
+      "kr": "이25",
+      "tw": "伊25"
+    },
     "property_hexagon": [1, 5, 0, 1, 0, 1],
     "type": 8,
-    "armor": null,
-    "slots": null,
+    "armor": 1,
+    "slots": [[13], [13], [1], [10], [10]],
     "nationality": 3,
-    "data": {}
+    "data": {
+      "308041": {
+        "id": 308041,
+        "type": 8,
+        "rarity": 4,
+        "stars": 2,
+        "oil": 4,
+        "max_level": 70,
+        "stats": {
+          "hp": 314,
+          "fp": 12,
+          "trp": 99,
+          "aa": 0,
+          "av": 0,
+          "rld": 26,
+          "acc": 61,
+          "eva": 10,
+          "spd": 18.8,
+          "luk": 25,
+          "asw": 0
+        }
+      },
+      "308042": {
+        "id": 308042,
+        "type": 8,
+        "rarity": 4,
+        "stars": 3,
+        "oil": 5,
+        "max_level": 80,
+        "stats": {
+          "hp": 391,
+          "fp": 15,
+          "trp": 124,
+          "aa": 0,
+          "av": 0,
+          "rld": 26,
+          "acc": 61,
+          "eva": 10,
+          "spd": 18.8,
+          "luk": 25,
+          "asw": 0
+        }
+      },
+      "308043": {
+        "id": 308043,
+        "type": 8,
+        "rarity": 4,
+        "stars": 4,
+        "oil": 6,
+        "max_level": 90,
+        "stats": {
+          "hp": 544,
+          "fp": 21,
+          "trp": 173,
+          "aa": 0,
+          "av": 0,
+          "rld": 26,
+          "acc": 61,
+          "eva": 10,
+          "spd": 18.8,
+          "luk": 25,
+          "asw": 0
+        }
+      },
+      "308044": {
+        "id": 308044,
+        "type": 8,
+        "rarity": 4,
+        "stars": 5,
+        "oil": 7,
+        "max_level": 100,
+        "stats": {
+          "hp": 773,
+          "fp": 30,
+          "trp": 246,
+          "aa": 0,
+          "av": 0,
+          "rld": 26,
+          "acc": 61,
+          "eva": 10,
+          "spd": 18.8,
+          "luk": 25,
+          "asw": 0
+        }
+      }
+    },
+    "stars": 5
   },
   "30805": {
     "id": 30805,
     "code": 397,
-    "name": {"code": "IJN I56"},
+    "name": {
+      "en": "I-56",
+      "code": "IJN I56",
+      "cn": "伊56",
+      "jp": "伊56",
+      "kr": "이56",
+      "tw": "伊56"
+    },
     "property_hexagon": [1, 5, 0, 1, 0, 1],
     "type": 8,
-    "armor": null,
-    "slots": null,
+    "armor": 1,
+    "slots": [[13], [13], [1], [10], [10]],
     "nationality": 3,
-    "data": {}
+    "data": {
+      "308051": {
+        "id": 308051,
+        "type": 8,
+        "rarity": 4,
+        "stars": 2,
+        "oil": 4,
+        "max_level": 70,
+        "stats": {
+          "hp": 335,
+          "fp": 11,
+          "trp": 97,
+          "aa": 0,
+          "av": 0,
+          "rld": 23,
+          "acc": 57,
+          "eva": 7,
+          "spd": 14.4,
+          "luk": 46,
+          "asw": 0
+        }
+      },
+      "308052": {
+        "id": 308052,
+        "type": 8,
+        "rarity": 4,
+        "stars": 3,
+        "oil": 5,
+        "max_level": 80,
+        "stats": {
+          "hp": 417,
+          "fp": 14,
+          "trp": 121,
+          "aa": 0,
+          "av": 0,
+          "rld": 23,
+          "acc": 57,
+          "eva": 7,
+          "spd": 14.4,
+          "luk": 46,
+          "asw": 0
+        }
+      },
+      "308053": {
+        "id": 308053,
+        "type": 8,
+        "rarity": 4,
+        "stars": 4,
+        "oil": 6,
+        "max_level": 90,
+        "stats": {
+          "hp": 580,
+          "fp": 19,
+          "trp": 169,
+          "aa": 0,
+          "av": 0,
+          "rld": 23,
+          "acc": 57,
+          "eva": 7,
+          "spd": 14.4,
+          "luk": 46,
+          "asw": 0
+        }
+      },
+      "308054": {
+        "id": 308054,
+        "type": 8,
+        "rarity": 4,
+        "stars": 5,
+        "oil": 7,
+        "max_level": 100,
+        "stats": {
+          "hp": 826,
+          "fp": 27,
+          "trp": 240,
+          "aa": 0,
+          "av": 0,
+          "rld": 23,
+          "acc": 57,
+          "eva": 7,
+          "spd": 14.4,
+          "luk": 46,
+          "asw": 0
+        }
+      }
+    },
+    "stars": 5
   },
   "30806": {
     "id": 30806,
     "code": 398,
-    "name": {"code": "IJN I168"},
+    "name": {
+      "en": "I-168",
+      "code": "IJN I168",
+      "cn": "伊168",
+      "jp": "伊168",
+      "kr": "이168",
+      "tw": "伊168"
+    },
     "property_hexagon": [1, 5, 0, 1, 0, 1],
     "type": 8,
-    "armor": null,
-    "slots": null,
+    "armor": 1,
+    "slots": [[13], [13], [1], [10], [10]],
     "nationality": 3,
-    "data": {}
+    "data": {
+      "308061": {
+        "id": 308061,
+        "type": 8,
+        "rarity": 5,
+        "stars": 3,
+        "oil": 5,
+        "max_level": 70,
+        "stats": {
+          "hp": 321,
+          "fp": 12,
+          "trp": 104,
+          "aa": 0,
+          "av": 0,
+          "rld": 42,
+          "acc": 59,
+          "eva": 9,
+          "spd": 18.4,
+          "luk": 22,
+          "asw": 0
+        }
+      },
+      "308062": {
+        "id": 308062,
+        "type": 8,
+        "rarity": 5,
+        "stars": 4,
+        "oil": 6,
+        "max_level": 80,
+        "stats": {
+          "hp": 399,
+          "fp": 15,
+          "trp": 130,
+          "aa": 0,
+          "av": 0,
+          "rld": 42,
+          "acc": 59,
+          "eva": 9,
+          "spd": 18.4,
+          "luk": 22,
+          "asw": 0
+        }
+      },
+      "308063": {
+        "id": 308063,
+        "type": 8,
+        "rarity": 5,
+        "stars": 5,
+        "oil": 7,
+        "max_level": 90,
+        "stats": {
+          "hp": 556,
+          "fp": 21,
+          "trp": 181,
+          "aa": 0,
+          "av": 0,
+          "rld": 42,
+          "acc": 59,
+          "eva": 9,
+          "spd": 18.4,
+          "luk": 22,
+          "asw": 0
+        }
+      },
+      "308064": {
+        "id": 308064,
+        "type": 8,
+        "rarity": 5,
+        "stars": 6,
+        "oil": 8,
+        "max_level": 100,
+        "stats": {
+          "hp": 791,
+          "fp": 30,
+          "trp": 258,
+          "aa": 0,
+          "av": 0,
+          "rld": 42,
+          "acc": 59,
+          "eva": 9,
+          "spd": 18.4,
+          "luk": 22,
+          "asw": 0
+        }
+      }
+    },
+    "stars": 6
   },
   "31201": {
     "id": 31201,
     "code": 232,
     "name": {
-      "code": "IJN Akashi",
       "en": "Akashi",
+      "code": "IJN Akashi",
       "cn": "明石",
       "jp": "明石",
       "kr": "아카시",
@@ -33220,7 +34249,7 @@
   "31701": {
     "id": 31701,
     "code": 381,
-    "name": {"code": "IJN I13"},
+    "name": {},
     "property_hexagon": [1, 4, 3, 1, 0, 1],
     "type": 8,
     "armor": null,
@@ -33232,8 +34261,8 @@
     "id": 31901,
     "code": 472,
     "name": {
-      "code": "IJN Kashino",
       "en": "Kashino",
+      "code": "IJN Kashino",
       "cn": "樫野",
       "jp": "樫野",
       "kr": "카시노"
@@ -33339,8 +34368,8 @@
     "id": 39901,
     "code": 20003,
     "name": {
-      "code": "IJN Ibuki",
       "en": "Ibuki",
+      "code": "IJN Ibuki",
       "cn": "伊吹",
       "jp": "伊吹",
       "kr": "이부키",
@@ -33443,8 +34472,8 @@
     "id": 39902,
     "code": 20004,
     "name": {
-      "code": "IJN Izumo",
       "en": "Izumo",
+      "code": "IJN Izumo",
       "cn": "出云",
       "jp": "出雲",
       "kr": "이즈모",
@@ -33547,8 +34576,8 @@
     "id": 39903,
     "code": 20009,
     "name": {
-      "code": "IJN Kitakaze",
       "en": "Kitakaze",
+      "code": "IJN Kitakaze",
       "cn": "北风",
       "jp": "北風",
       "kr": "키타카제",
@@ -33651,8 +34680,8 @@
     "id": 39904,
     "code": 20010,
     "name": {
-      "code": "IJN Azuma",
       "en": "Azuma",
+      "code": "IJN Azuma",
       "cn": "吾妻",
       "jp": "吾妻",
       "kr": "아즈마",
@@ -33755,8 +34784,8 @@
     "id": 40101,
     "code": 233,
     "name": {
-      "code": "KMS Leberecht Maass",
       "en": "Z1",
+      "code": "KMS Leberecht Maass",
       "cn": "Z1",
       "jp": "Z1",
       "kr": "Z1",
@@ -33863,8 +34892,8 @@
     "id": 40102,
     "code": 379,
     "name": {
-      "code": "KMS Georg Thiele",
       "en": "Z2",
+      "code": "KMS Georg Thiele",
       "cn": "Z2",
       "jp": "Z2",
       "kr": "Z2"
@@ -33970,8 +34999,8 @@
     "id": 40118,
     "code": 346,
     "name": {
-      "code": "KMS Hans Lüdemann",
       "en": "Z18",
+      "code": "KMS Hans Lüdemann",
       "cn": "Z18",
       "jp": "Z18",
       "kr": "Z18",
@@ -34078,8 +35107,8 @@
     "id": 40119,
     "code": 264,
     "name": {
-      "code": "KMS Hermann Künne",
       "en": "Z19",
+      "code": "KMS Hermann Künne",
       "cn": "Z19",
       "jp": "Z19",
       "kr": "Z19",
@@ -34186,8 +35215,8 @@
     "id": 40120,
     "code": 265,
     "name": {
-      "code": "KMS Karl Galster",
       "en": "Z20",
+      "code": "KMS Karl Galster",
       "cn": "Z20",
       "jp": "Z20",
       "kr": "Z20",
@@ -34294,8 +35323,8 @@
     "id": 40121,
     "code": 266,
     "name": {
-      "code": "KMS Wilhelm Heidkamp",
       "en": "Z21",
+      "code": "KMS Wilhelm Heidkamp",
       "cn": "Z21",
       "jp": "Z21",
       "kr": "Z21",
@@ -34402,8 +35431,8 @@
     "id": 40123,
     "code": 236,
     "name": {
-      "code": "KMS Z23",
       "en": "Z23",
+      "code": "KMS Z23",
       "cn": "Z23",
       "jp": "Z23",
       "kr": "Z23",
@@ -34510,8 +35539,8 @@
     "id": 40125,
     "code": 237,
     "name": {
-      "code": "KMS Z25",
       "en": "Z25",
+      "code": "KMS Z25",
       "cn": "Z25",
       "jp": "Z25",
       "kr": "Z25",
@@ -34618,8 +35647,8 @@
     "id": 40126,
     "code": 466,
     "name": {
-      "code": "KMS Z26",
       "en": "Z26",
+      "code": "KMS Z26",
       "cn": "Z26",
       "jp": "Z26",
       "kr": "Z26"
@@ -34725,8 +35754,8 @@
     "id": 40135,
     "code": 345,
     "name": {
-      "code": "KMS Z35",
       "en": "Z35",
+      "code": "KMS Z35",
       "cn": "Z35",
       "jp": "Z35",
       "kr": "Z35",
@@ -34833,8 +35862,8 @@
     "id": 40136,
     "code": 388,
     "name": {
-      "code": "KMS Z36",
       "en": "Z36",
+      "code": "KMS Z36",
       "cn": "Z36",
       "jp": "Z36",
       "kr": "Z36",
@@ -34941,8 +35970,8 @@
     "id": 40146,
     "code": 267,
     "name": {
-      "code": "KMS Z46",
       "en": "Z46",
+      "code": "KMS Z46",
       "cn": "Z46",
       "jp": "Z46",
       "kr": "Z46",
@@ -35049,8 +36078,8 @@
     "id": 40201,
     "code": 238,
     "name": {
-      "code": "KMS Königsberg",
       "en": "Königsberg",
+      "code": "KMS Königsberg",
       "cn": "柯尼斯堡",
       "jp": "ケーニヒスベルク",
       "kr": "쾨니히스베르크",
@@ -35153,8 +36182,8 @@
     "id": 40202,
     "code": 239,
     "name": {
-      "code": "KMS Karlsruhe",
       "en": "Karlsruhe",
+      "code": "KMS Karlsruhe",
       "cn": "卡尔斯鲁厄",
       "jp": "カールスルーエ",
       "kr": "카를스루에",
@@ -35257,8 +36286,8 @@
     "id": 40203,
     "code": 240,
     "name": {
-      "code": "KMS Köln",
       "en": "Köln",
+      "code": "KMS Köln",
       "cn": "科隆",
       "jp": "ケルン",
       "kr": "쾰른",
@@ -35390,8 +36419,8 @@
     "id": 40204,
     "code": 241,
     "name": {
-      "code": "KMS Leipzig",
       "en": "Leipzig",
+      "code": "KMS Leipzig",
       "cn": "莱比锡",
       "jp": "ライプツィヒ",
       "kr": "라이프치히",
@@ -35494,8 +36523,8 @@
     "id": 40301,
     "code": 242,
     "name": {
-      "code": "KMS Admiral Hipper",
       "en": "Admiral Hipper",
+      "code": "KMS Admiral Hipper",
       "cn": "希佩尔海军上将",
       "jp": "アドミラル・ヒッパー",
       "kr": "아드미랄 히퍼",
@@ -35598,8 +36627,8 @@
     "id": 40303,
     "code": 244,
     "name": {
-      "code": "KMS Prinz Eugen",
       "en": "Prinz Eugen",
+      "code": "KMS Prinz Eugen",
       "cn": "欧根亲王",
       "jp": "プリンツ・オイゲン",
       "kr": "프린츠 오이겐",
@@ -35702,8 +36731,8 @@
     "id": 40304,
     "code": 245,
     "name": {
-      "code": "KMS Deutschland",
       "en": "Deutschland",
+      "code": "KMS Deutschland",
       "cn": "德意志",
       "jp": "ドイッチュラント",
       "kr": "도이칠란트",
@@ -35806,8 +36835,8 @@
     "id": 40305,
     "code": 246,
     "name": {
-      "code": "KMS Admiral Graf Spee",
       "en": "Admiral Graf Spee",
+      "code": "KMS Admiral Graf Spee",
       "cn": "斯佩伯爵海军上将",
       "jp": "アドミラル・グラーフ・シュペー",
       "kr": "아드미랄 그라프 슈피",
@@ -35910,8 +36939,8 @@
     "id": 40307,
     "code": 422,
     "name": {
-      "code": "KMS Admiral Hipper",
       "en": "Admiral Hipper μ",
+      "code": "KMS Admiral Hipper",
       "cn": "希佩尔海军上将(μ兵装)",
       "jp": "アドミラル·ヒッパー（μ兵装）",
       "kr": "아드미랄 히퍼(μ장비)"
@@ -36017,8 +37046,8 @@
     "id": 40308,
     "code": 479,
     "name": {
-      "code": "KMS Roon",
       "en": "Roon μ",
+      "code": "KMS Roon",
       "cn": "罗恩(μ兵装)",
       "jp": "ローン（μ兵装）",
       "kr": "론(μ장비)"
@@ -36124,8 +37153,8 @@
     "id": 40401,
     "code": 248,
     "name": {
-      "code": "KMS Scharnhorst",
       "en": "Scharnhorst",
+      "code": "KMS Scharnhorst",
       "cn": "沙恩霍斯特",
       "jp": "シャルンホルスト",
       "kr": "샤른호르스트",
@@ -36228,8 +37257,8 @@
     "id": 40402,
     "code": 249,
     "name": {
-      "code": "KMS Gneisenau",
       "en": "Gneisenau",
+      "code": "KMS Gneisenau",
       "cn": "格奈森瑙",
       "jp": "グナイゼナウ",
       "kr": "그나이제나우",
@@ -36332,8 +37361,8 @@
     "id": 40501,
     "code": 250,
     "name": {
-      "code": "KMS Bismarck",
       "en": "Bismarck",
+      "code": "KMS Bismarck",
       "cn": "俾斯麦",
       "jp": "ビスマルク",
       "kr": "비스마르크",
@@ -36440,8 +37469,8 @@
     "id": 40502,
     "code": 251,
     "name": {
-      "code": "KMS Tirpitz",
       "en": "Tirpitz",
+      "code": "KMS Tirpitz",
       "cn": "提尔比茨",
       "jp": "ティルピッツ",
       "kr": "티르피츠",
@@ -36548,8 +37577,8 @@
     "id": 40701,
     "code": 252,
     "name": {
-      "code": "KMS Graf Zeppelin",
       "en": "Graf Zeppelin",
+      "code": "KMS Graf Zeppelin",
       "cn": "齐柏林伯爵",
       "jp": "グラーフ・ツェッペリン",
       "kr": "그라프 체펠린",
@@ -36652,8 +37681,8 @@
     "id": 40702,
     "code": 385,
     "name": {
-      "code": "KMS Graf Zeppelin",
       "en": "Zeppy",
+      "code": "KMS Graf Zeppelin",
       "cn": "小齐柏林",
       "jp": "ツェッペリンちゃん",
       "kr": "꼬마 그라프 체펠린",
@@ -36755,108 +37784,943 @@
   "40801": {
     "id": 40801,
     "code": 341,
-    "name": {"code": "KMS U-81"},
+    "name": {
+      "en": "U-81",
+      "code": "KMS U-81",
+      "cn": "U-81",
+      "jp": "U-81",
+      "kr": "U-81",
+      "tw": "U-81"
+    },
     "property_hexagon": [1, 5, 0, 1, 0, 1],
     "type": 8,
-    "armor": null,
-    "slots": null,
+    "armor": 1,
+    "slots": [[13], [13], [1], [10], [10]],
     "nationality": 4,
-    "data": {}
+    "data": {
+      "408011": {
+        "id": 408011,
+        "type": 8,
+        "rarity": 5,
+        "stars": 3,
+        "oil": 5,
+        "max_level": 70,
+        "stats": {
+          "hp": 211,
+          "fp": 9,
+          "trp": 107,
+          "aa": 0,
+          "av": 0,
+          "rld": 40,
+          "acc": 60,
+          "eva": 7,
+          "spd": 14.4,
+          "luk": 23,
+          "asw": 0
+        }
+      },
+      "408012": {
+        "id": 408012,
+        "type": 8,
+        "rarity": 5,
+        "stars": 4,
+        "oil": 6,
+        "max_level": 80,
+        "stats": {
+          "hp": 262,
+          "fp": 11,
+          "trp": 133,
+          "aa": 0,
+          "av": 0,
+          "rld": 40,
+          "acc": 60,
+          "eva": 7,
+          "spd": 14.4,
+          "luk": 23,
+          "asw": 0
+        }
+      },
+      "408013": {
+        "id": 408013,
+        "type": 8,
+        "rarity": 5,
+        "stars": 5,
+        "oil": 7,
+        "max_level": 90,
+        "stats": {
+          "hp": 365,
+          "fp": 16,
+          "trp": 186,
+          "aa": 0,
+          "av": 0,
+          "rld": 40,
+          "acc": 60,
+          "eva": 7,
+          "spd": 14.4,
+          "luk": 23,
+          "asw": 0
+        }
+      },
+      "408014": {
+        "id": 408014,
+        "type": 8,
+        "rarity": 5,
+        "stars": 6,
+        "oil": 8,
+        "max_level": 100,
+        "stats": {
+          "hp": 520,
+          "fp": 23,
+          "trp": 266,
+          "aa": 0,
+          "av": 0,
+          "rld": 40,
+          "acc": 60,
+          "eva": 7,
+          "spd": 14.4,
+          "luk": 23,
+          "asw": 0
+        }
+      }
+    },
+    "stars": 6
   },
   "40802": {
     "id": 40802,
     "code": 343,
-    "name": {"code": "KMS U-47"},
+    "name": {
+      "en": "U-47",
+      "code": "KMS U-47",
+      "cn": "U-47",
+      "jp": "U-47",
+      "kr": "U-47",
+      "tw": "U-47"
+    },
     "property_hexagon": [1, 5, 0, 1, 0, 1],
     "type": 8,
-    "armor": null,
-    "slots": null,
+    "armor": 1,
+    "slots": [[13], [13], [1], [10], [10]],
     "nationality": 4,
-    "data": {}
+    "data": {
+      "408021": {
+        "id": 408021,
+        "type": 8,
+        "rarity": 5,
+        "stars": 3,
+        "oil": 5,
+        "max_level": 70,
+        "stats": {
+          "hp": 209,
+          "fp": 9,
+          "trp": 102,
+          "aa": 0,
+          "av": 0,
+          "rld": 41,
+          "acc": 61,
+          "eva": 7,
+          "spd": 14.4,
+          "luk": 32,
+          "asw": 0
+        }
+      },
+      "408022": {
+        "id": 408022,
+        "type": 8,
+        "rarity": 5,
+        "stars": 4,
+        "oil": 6,
+        "max_level": 80,
+        "stats": {
+          "hp": 260,
+          "fp": 11,
+          "trp": 127,
+          "aa": 0,
+          "av": 0,
+          "rld": 41,
+          "acc": 61,
+          "eva": 7,
+          "spd": 14.4,
+          "luk": 32,
+          "asw": 0
+        }
+      },
+      "408023": {
+        "id": 408023,
+        "type": 8,
+        "rarity": 5,
+        "stars": 5,
+        "oil": 7,
+        "max_level": 90,
+        "stats": {
+          "hp": 362,
+          "fp": 16,
+          "trp": 178,
+          "aa": 0,
+          "av": 0,
+          "rld": 41,
+          "acc": 61,
+          "eva": 7,
+          "spd": 14.4,
+          "luk": 32,
+          "asw": 0
+        }
+      },
+      "408024": {
+        "id": 408024,
+        "type": 8,
+        "rarity": 5,
+        "stars": 6,
+        "oil": 8,
+        "max_level": 100,
+        "stats": {
+          "hp": 515,
+          "fp": 22,
+          "trp": 254,
+          "aa": 0,
+          "av": 0,
+          "rld": 41,
+          "acc": 61,
+          "eva": 7,
+          "spd": 14.4,
+          "luk": 32,
+          "asw": 0
+        }
+      }
+    },
+    "stars": 6
   },
   "40803": {
     "id": 40803,
     "code": 344,
-    "name": {"code": "KMS U-557"},
+    "name": {
+      "en": "U-557",
+      "code": "KMS U-557",
+      "cn": "U-557",
+      "jp": "U-557",
+      "kr": "U-557",
+      "tw": "U-557"
+    },
     "property_hexagon": [1, 4, 0, 1, 0, 1],
     "type": 8,
-    "armor": null,
-    "slots": null,
+    "armor": 1,
+    "slots": [[13], [13], [1], [10], [10]],
     "nationality": 4,
-    "data": {}
+    "data": {
+      "408031": {
+        "id": 408031,
+        "type": 8,
+        "rarity": 4,
+        "stars": 2,
+        "oil": 4,
+        "max_level": 70,
+        "stats": {
+          "hp": 203,
+          "fp": 8,
+          "trp": 96,
+          "aa": 0,
+          "av": 0,
+          "rld": 31,
+          "acc": 57,
+          "eva": 7,
+          "spd": 14.4,
+          "luk": 18,
+          "asw": 0
+        }
+      },
+      "408032": {
+        "id": 408032,
+        "type": 8,
+        "rarity": 4,
+        "stars": 3,
+        "oil": 5,
+        "max_level": 80,
+        "stats": {
+          "hp": 253,
+          "fp": 10,
+          "trp": 120,
+          "aa": 0,
+          "av": 0,
+          "rld": 31,
+          "acc": 57,
+          "eva": 7,
+          "spd": 14.4,
+          "luk": 18,
+          "asw": 0
+        }
+      },
+      "408033": {
+        "id": 408033,
+        "type": 8,
+        "rarity": 4,
+        "stars": 4,
+        "oil": 6,
+        "max_level": 90,
+        "stats": {
+          "hp": 352,
+          "fp": 14,
+          "trp": 167,
+          "aa": 0,
+          "av": 0,
+          "rld": 31,
+          "acc": 57,
+          "eva": 7,
+          "spd": 14.4,
+          "luk": 18,
+          "asw": 0
+        }
+      },
+      "408034": {
+        "id": 408034,
+        "type": 8,
+        "rarity": 4,
+        "stars": 5,
+        "oil": 7,
+        "max_level": 100,
+        "stats": {
+          "hp": 501,
+          "fp": 20,
+          "trp": 239,
+          "aa": 0,
+          "av": 0,
+          "rld": 31,
+          "acc": 57,
+          "eva": 7,
+          "spd": 14.4,
+          "luk": 18,
+          "asw": 0
+        }
+      }
+    },
+    "stars": 5
   },
   "40804": {
     "id": 40804,
     "code": 386,
-    "name": {"code": "KMS U-556"},
+    "name": {
+      "en": "U-556",
+      "code": "KMS U-556",
+      "cn": "U-556",
+      "jp": "U-556",
+      "kr": "U-556",
+      "tw": "U-556"
+    },
     "property_hexagon": [1, 4, 0, 1, 0, 1],
     "type": 8,
-    "armor": null,
-    "slots": null,
+    "armor": 1,
+    "slots": [[13], [13], [1], [10], [10]],
     "nationality": 4,
-    "data": {}
+    "data": {
+      "408041": {
+        "id": 408041,
+        "type": 8,
+        "rarity": 4,
+        "stars": 2,
+        "oil": 4,
+        "max_level": 70,
+        "stats": {
+          "hp": 203,
+          "fp": 7,
+          "trp": 96,
+          "aa": 0,
+          "av": 0,
+          "rld": 31,
+          "acc": 61,
+          "eva": 7,
+          "spd": 14.4,
+          "luk": 45,
+          "asw": 0
+        }
+      },
+      "408042": {
+        "id": 408042,
+        "type": 8,
+        "rarity": 4,
+        "stars": 3,
+        "oil": 5,
+        "max_level": 80,
+        "stats": {
+          "hp": 253,
+          "fp": 9,
+          "trp": 120,
+          "aa": 0,
+          "av": 0,
+          "rld": 31,
+          "acc": 61,
+          "eva": 7,
+          "spd": 14.4,
+          "luk": 45,
+          "asw": 0
+        }
+      },
+      "408043": {
+        "id": 408043,
+        "type": 8,
+        "rarity": 4,
+        "stars": 4,
+        "oil": 6,
+        "max_level": 90,
+        "stats": {
+          "hp": 352,
+          "fp": 13,
+          "trp": 168,
+          "aa": 0,
+          "av": 0,
+          "rld": 31,
+          "acc": 61,
+          "eva": 7,
+          "spd": 14.4,
+          "luk": 45,
+          "asw": 0
+        }
+      },
+      "408044": {
+        "id": 408044,
+        "type": 8,
+        "rarity": 4,
+        "stars": 5,
+        "oil": 7,
+        "max_level": 100,
+        "stats": {
+          "hp": 501,
+          "fp": 18,
+          "trp": 239,
+          "aa": 0,
+          "av": 0,
+          "rld": 31,
+          "acc": 61,
+          "eva": 7,
+          "spd": 14.4,
+          "luk": 45,
+          "asw": 0
+        }
+      }
+    },
+    "stars": 5
   },
   "40805": {
     "id": 40805,
     "code": 387,
-    "name": {"code": "KMS U-73"},
+    "name": {
+      "en": "U-73",
+      "code": "KMS U-73",
+      "cn": "U-73",
+      "jp": "U-73",
+      "kr": "U-73",
+      "tw": "U-73"
+    },
     "property_hexagon": [1, 5, 0, 1, 0, 1],
     "type": 8,
-    "armor": null,
-    "slots": null,
+    "armor": 1,
+    "slots": [[13], [13], [1], [10], [10]],
     "nationality": 4,
-    "data": {}
+    "data": {
+      "408051": {
+        "id": 408051,
+        "type": 8,
+        "rarity": 4,
+        "stars": 2,
+        "oil": 4,
+        "max_level": 70,
+        "stats": {
+          "hp": 202,
+          "fp": 8,
+          "trp": 101,
+          "aa": 0,
+          "av": 0,
+          "rld": 31,
+          "acc": 57,
+          "eva": 7,
+          "spd": 14.4,
+          "luk": 35,
+          "asw": 0
+        }
+      },
+      "408052": {
+        "id": 408052,
+        "type": 8,
+        "rarity": 4,
+        "stars": 3,
+        "oil": 5,
+        "max_level": 80,
+        "stats": {
+          "hp": 251,
+          "fp": 10,
+          "trp": 126,
+          "aa": 0,
+          "av": 0,
+          "rld": 31,
+          "acc": 57,
+          "eva": 7,
+          "spd": 14.4,
+          "luk": 35,
+          "asw": 0
+        }
+      },
+      "408053": {
+        "id": 408053,
+        "type": 8,
+        "rarity": 4,
+        "stars": 4,
+        "oil": 6,
+        "max_level": 90,
+        "stats": {
+          "hp": 349,
+          "fp": 14,
+          "trp": 176,
+          "aa": 0,
+          "av": 0,
+          "rld": 31,
+          "acc": 57,
+          "eva": 7,
+          "spd": 14.4,
+          "luk": 35,
+          "asw": 0
+        }
+      },
+      "408054": {
+        "id": 408054,
+        "type": 8,
+        "rarity": 4,
+        "stars": 5,
+        "oil": 7,
+        "max_level": 100,
+        "stats": {
+          "hp": 497,
+          "fp": 21,
+          "trp": 250,
+          "aa": 0,
+          "av": 0,
+          "rld": 31,
+          "acc": 57,
+          "eva": 7,
+          "spd": 14.4,
+          "luk": 35,
+          "asw": 0
+        }
+      }
+    },
+    "stars": 5
   },
   "40806": {
     "id": 40806,
     "code": 399,
-    "name": {"code": "KMS U-101"},
+    "name": {
+      "en": "U-101",
+      "code": "KMS U-101",
+      "cn": "U-101",
+      "jp": "U-101",
+      "kr": "U-101",
+      "tw": "U-101"
+    },
     "property_hexagon": [1, 5, 0, 1, 0, 1],
     "type": 8,
-    "armor": null,
-    "slots": null,
+    "armor": 1,
+    "slots": [[13], [13], [1], [10], [10]],
     "nationality": 4,
-    "data": {}
+    "data": {
+      "408061": {
+        "id": 408061,
+        "type": 8,
+        "rarity": 5,
+        "stars": 3,
+        "oil": 5,
+        "max_level": 70,
+        "stats": {
+          "hp": 209,
+          "fp": 9,
+          "trp": 102,
+          "aa": 0,
+          "av": 0,
+          "rld": 41,
+          "acc": 60,
+          "eva": 7,
+          "spd": 14.4,
+          "luk": 68,
+          "asw": 0
+        }
+      },
+      "408062": {
+        "id": 408062,
+        "type": 8,
+        "rarity": 5,
+        "stars": 4,
+        "oil": 6,
+        "max_level": 80,
+        "stats": {
+          "hp": 260,
+          "fp": 11,
+          "trp": 127,
+          "aa": 0,
+          "av": 0,
+          "rld": 41,
+          "acc": 60,
+          "eva": 7,
+          "spd": 14.4,
+          "luk": 68,
+          "asw": 0
+        }
+      },
+      "408063": {
+        "id": 408063,
+        "type": 8,
+        "rarity": 5,
+        "stars": 5,
+        "oil": 7,
+        "max_level": 90,
+        "stats": {
+          "hp": 362,
+          "fp": 15,
+          "trp": 178,
+          "aa": 0,
+          "av": 0,
+          "rld": 41,
+          "acc": 60,
+          "eva": 7,
+          "spd": 14.4,
+          "luk": 68,
+          "asw": 0
+        }
+      },
+      "408064": {
+        "id": 408064,
+        "type": 8,
+        "rarity": 5,
+        "stars": 6,
+        "oil": 8,
+        "max_level": 100,
+        "stats": {
+          "hp": 515,
+          "fp": 22,
+          "trp": 254,
+          "aa": 0,
+          "av": 0,
+          "rld": 41,
+          "acc": 60,
+          "eva": 7,
+          "spd": 14.4,
+          "luk": 68,
+          "asw": 0
+        }
+      }
+    },
+    "stars": 6
   },
   "40807": {
     "id": 40807,
     "code": 400,
-    "name": {"code": "KMS U-522"},
+    "name": {
+      "en": "U-522",
+      "code": "KMS U-522",
+      "cn": "U-522",
+      "jp": "U-522",
+      "kr": "U-522",
+      "tw": "U-522"
+    },
     "property_hexagon": [1, 4, 0, 1, 0, 1],
     "type": 8,
-    "armor": null,
-    "slots": null,
+    "armor": 1,
+    "slots": [[13], [13], [1], [10], [10]],
     "nationality": 4,
-    "data": {}
+    "data": {
+      "408071": {
+        "id": 408071,
+        "type": 8,
+        "rarity": 4,
+        "stars": 2,
+        "oil": 4,
+        "max_level": 70,
+        "stats": {
+          "hp": 241,
+          "fp": 8,
+          "trp": 97,
+          "aa": 0,
+          "av": 0,
+          "rld": 31,
+          "acc": 61,
+          "eva": 7,
+          "spd": 14.4,
+          "luk": 22,
+          "asw": 0
+        }
+      },
+      "408072": {
+        "id": 408072,
+        "type": 8,
+        "rarity": 4,
+        "stars": 3,
+        "oil": 5,
+        "max_level": 80,
+        "stats": {
+          "hp": 300,
+          "fp": 10,
+          "trp": 121,
+          "aa": 0,
+          "av": 0,
+          "rld": 31,
+          "acc": 61,
+          "eva": 7,
+          "spd": 14.4,
+          "luk": 22,
+          "asw": 0
+        }
+      },
+      "408073": {
+        "id": 408073,
+        "type": 8,
+        "rarity": 4,
+        "stars": 4,
+        "oil": 6,
+        "max_level": 90,
+        "stats": {
+          "hp": 418,
+          "fp": 14,
+          "trp": 169,
+          "aa": 0,
+          "av": 0,
+          "rld": 31,
+          "acc": 61,
+          "eva": 7,
+          "spd": 14.4,
+          "luk": 22,
+          "asw": 0
+        }
+      },
+      "408074": {
+        "id": 408074,
+        "type": 8,
+        "rarity": 4,
+        "stars": 5,
+        "oil": 7,
+        "max_level": 100,
+        "stats": {
+          "hp": 594,
+          "fp": 20,
+          "trp": 242,
+          "aa": 0,
+          "av": 0,
+          "rld": 31,
+          "acc": 61,
+          "eva": 7,
+          "spd": 14.4,
+          "luk": 22,
+          "asw": 0
+        }
+      }
+    },
+    "stars": 5
   },
   "40808": {
     "id": 40808,
     "code": 416,
-    "name": {"code": "KMS U-110"},
+    "name": {
+      "en": "U-110",
+      "code": "KMS U-110",
+      "cn": "U-110",
+      "jp": "U-110",
+      "kr": "U-110"
+    },
     "property_hexagon": [1, 4, 0, 1, 0, 1],
     "type": 8,
-    "armor": null,
-    "slots": null,
+    "armor": 1,
+    "slots": [[13], [13], [1], [10], [10]],
     "nationality": 4,
-    "data": {}
+    "data": {
+      "408081": {
+        "id": 408081,
+        "type": 8,
+        "rarity": 4,
+        "stars": 2,
+        "oil": 4,
+        "max_level": 70,
+        "stats": {
+          "hp": 236,
+          "fp": 9,
+          "trp": 96,
+          "aa": 0,
+          "av": 0,
+          "rld": 30,
+          "acc": 61,
+          "eva": 7,
+          "spd": 14.4,
+          "luk": 28,
+          "asw": 0
+        }
+      },
+      "408082": {
+        "id": 408082,
+        "type": 8,
+        "rarity": 4,
+        "stars": 3,
+        "oil": 5,
+        "max_level": 80,
+        "stats": {
+          "hp": 294,
+          "fp": 11,
+          "trp": 120,
+          "aa": 0,
+          "av": 0,
+          "rld": 30,
+          "acc": 61,
+          "eva": 7,
+          "spd": 14.4,
+          "luk": 28,
+          "asw": 0
+        }
+      },
+      "408083": {
+        "id": 408083,
+        "type": 8,
+        "rarity": 4,
+        "stars": 4,
+        "oil": 6,
+        "max_level": 90,
+        "stats": {
+          "hp": 409,
+          "fp": 15,
+          "trp": 168,
+          "aa": 0,
+          "av": 0,
+          "rld": 30,
+          "acc": 61,
+          "eva": 7,
+          "spd": 14.4,
+          "luk": 28,
+          "asw": 0
+        }
+      },
+      "408084": {
+        "id": 408084,
+        "type": 8,
+        "rarity": 4,
+        "stars": 5,
+        "oil": 7,
+        "max_level": 100,
+        "stats": {
+          "hp": 581,
+          "fp": 22,
+          "trp": 239,
+          "aa": 0,
+          "av": 0,
+          "rld": 30,
+          "acc": 61,
+          "eva": 7,
+          "spd": 14.4,
+          "luk": 28,
+          "asw": 0
+        }
+      }
+    },
+    "stars": 5
   },
   "40809": {
     "id": 40809,
     "code": 467,
-    "name": {"code": "KMS U-96"},
+    "name": {
+      "en": "U-96",
+      "code": "KMS U-96",
+      "cn": "U-96",
+      "jp": "U-96",
+      "kr": "U-96"
+    },
     "property_hexagon": [1, 5, 0, 1, 0, 1],
     "type": 8,
-    "armor": null,
-    "slots": null,
+    "armor": 1,
+    "slots": [[13], [13], [1], [10], [10]],
     "nationality": 4,
-    "data": {}
+    "data": {
+      "408091": {
+        "id": 408091,
+        "type": 8,
+        "rarity": 5,
+        "stars": 3,
+        "oil": 5,
+        "max_level": 70,
+        "stats": {
+          "hp": 211,
+          "fp": 10,
+          "trp": 103,
+          "aa": 0,
+          "av": 0,
+          "rld": 40,
+          "acc": 63,
+          "eva": 7,
+          "spd": 14.4,
+          "luk": 62,
+          "asw": 0
+        }
+      },
+      "408092": {
+        "id": 408092,
+        "type": 8,
+        "rarity": 5,
+        "stars": 4,
+        "oil": 6,
+        "max_level": 80,
+        "stats": {
+          "hp": 262,
+          "fp": 12,
+          "trp": 129,
+          "aa": 0,
+          "av": 0,
+          "rld": 40,
+          "acc": 63,
+          "eva": 7,
+          "spd": 14.4,
+          "luk": 62,
+          "asw": 0
+        }
+      },
+      "408093": {
+        "id": 408093,
+        "type": 8,
+        "rarity": 5,
+        "stars": 5,
+        "oil": 7,
+        "max_level": 90,
+        "stats": {
+          "hp": 365,
+          "fp": 17,
+          "trp": 180,
+          "aa": 0,
+          "av": 0,
+          "rld": 40,
+          "acc": 63,
+          "eva": 7,
+          "spd": 14.4,
+          "luk": 62,
+          "asw": 0
+        }
+      },
+      "408094": {
+        "id": 408094,
+        "type": 8,
+        "rarity": 5,
+        "stars": 6,
+        "oil": 8,
+        "max_level": 100,
+        "stats": {
+          "hp": 519,
+          "fp": 24,
+          "trp": 257,
+          "aa": 0,
+          "av": 0,
+          "rld": 40,
+          "acc": 63,
+          "eva": 7,
+          "spd": 14.4,
+          "luk": 62,
+          "asw": 0
+        }
+      }
+    },
+    "stars": 6
   },
   "49901": {
     "id": 49901,
     "code": 20005,
     "name": {
-      "code": "KMS Roon",
       "en": "Roon",
+      "code": "KMS Roon",
       "cn": "罗恩",
       "jp": "ローン",
       "kr": "론",
@@ -36959,8 +38823,8 @@
     "id": 49902,
     "code": 20011,
     "name": {
-      "code": "KMS Friedrich der Grosse",
       "en": "Friedrich der Große",
+      "code": "KMS Friedrich der Grosse",
       "cn": "腓特烈大帝",
       "jp": "フリードリヒ・デア・グローセ",
       "kr": "프리드리히 데어 그로세",
@@ -37063,8 +38927,8 @@
     "id": 49903,
     "code": 20015,
     "name": {
-      "code": "KMS Mainz",
       "en": "Mainz",
+      "code": "KMS Mainz",
       "cn": "美因茨",
       "jp": "マインツ",
       "kr": "마인츠"
@@ -37166,8 +39030,8 @@
     "id": 49904,
     "code": 20016,
     "name": {
-      "code": "KMS Odin",
       "en": "Odin",
+      "code": "KMS Odin",
       "cn": "奥丁",
       "jp": "オーディン",
       "kr": "오딘"
@@ -37269,8 +39133,8 @@
     "id": 50101,
     "code": 253,
     "name": {
-      "code": "PRAN An shan",
       "en": "An Shan",
+      "code": "PRAN An shan",
       "cn": "鞍山",
       "jp": "鞍山",
       "kr": "안샨",
@@ -37377,8 +39241,8 @@
     "id": 50102,
     "code": 254,
     "name": {
-      "code": "PRAN Fu shun",
       "en": "Fu Shun",
+      "code": "PRAN Fu shun",
       "cn": "抚顺",
       "jp": "撫順",
       "kr": "푸슌",
@@ -37485,8 +39349,8 @@
     "id": 50103,
     "code": 255,
     "name": {
-      "code": "PRAN Chang Chun",
       "en": "Chang Chun",
+      "code": "PRAN Chang Chun",
       "cn": "长春",
       "jp": "長春",
       "kr": "창춘",
@@ -37593,8 +39457,8 @@
     "id": 50104,
     "code": 256,
     "name": {
-      "code": "PRAN Tai Yuan",
       "en": "Tai Yuan",
+      "code": "PRAN Tai Yuan",
       "cn": "太原",
       "jp": "太原",
       "kr": "타이위안",
@@ -37701,8 +39565,8 @@
     "id": 50201,
     "code": 257,
     "name": {
-      "code": "ROC Yat Sen",
       "en": "Yat Sen",
+      "code": "ROC Yat Sen",
       "cn": "逸仙",
       "jp": "逸仙",
       "kr": "얏센",
@@ -37805,8 +39669,8 @@
     "id": 50202,
     "code": 258,
     "name": {
-      "code": "ROC Ning Hai",
       "en": "Ning Hai",
+      "code": "ROC Ning Hai",
       "cn": "宁海",
       "jp": "寧海",
       "kr": "닝하이",
@@ -37909,8 +39773,8 @@
     "id": 50203,
     "code": 259,
     "name": {
-      "code": "ROC Ping Hai",
       "en": "Ping Hai",
+      "code": "ROC Ping Hai",
       "cn": "平海",
       "jp": "平海",
       "kr": "핑하이",
@@ -38013,8 +39877,8 @@
     "id": 60102,
     "code": 415,
     "name": {
-      "code": "RN Carabiniere",
       "en": "Carabiniere",
+      "code": "RN Carabiniere",
       "cn": "龙骑兵",
       "jp": "カラビニエーレ",
       "kr": "카라비니에레"
@@ -38116,8 +39980,8 @@
     "id": 60301,
     "code": 414,
     "name": {
-      "code": "RN Trento",
       "en": "Trento",
+      "code": "RN Trento",
       "cn": "特伦托",
       "jp": "トレント",
       "kr": "트렌토"
@@ -38219,8 +40083,8 @@
     "id": 60302,
     "code": 413,
     "name": {
-      "code": "RN Zara",
       "en": "Zara",
+      "code": "RN Zara",
       "cn": "扎拉",
       "jp": "ザラ",
       "kr": "차라"
@@ -38326,8 +40190,8 @@
     "id": 60502,
     "code": 410,
     "name": {
-      "code": "RN Littorio",
       "en": "Littorio",
+      "code": "RN Littorio",
       "cn": "利托里奥",
       "jp": "リットリオ",
       "kr": "리토리오"
@@ -38429,8 +40293,8 @@
     "id": 60505,
     "code": 411,
     "name": {
-      "code": "RN Conte di Cavour",
       "en": "Conte di Cavour",
+      "code": "RN Conte di Cavour",
       "cn": "加富尔伯爵",
       "jp": "コンテ・ディ・カブール",
       "kr": "콘테 디 카보우르"
@@ -38532,8 +40396,8 @@
     "id": 60506,
     "code": 412,
     "name": {
-      "code": "RN Giulio Cesare",
       "en": "Giulio Cesare",
+      "code": "RN Giulio Cesare",
       "cn": "朱利奥·凯撒",
       "jp": "ジュリオ・チェザーレ",
       "kr": "줄리오 체사레"
@@ -38635,8 +40499,8 @@
     "id": 70102,
     "code": 431,
     "name": {
-      "code": "SN Grozny",
       "en": "Grozny",
+      "code": "SN Grozny",
       "cn": "威严",
       "jp": "グロズヌイ",
       "kr": "그로즈니"
@@ -38738,8 +40602,8 @@
     "id": 70103,
     "code": 432,
     "name": {
-      "code": "SN Minsk",
       "en": "Minsk",
+      "code": "SN Minsk",
       "cn": "明斯克",
       "jp": "ミンスク",
       "kr": "민스크"
@@ -38841,8 +40705,8 @@
     "id": 70104,
     "code": 433,
     "name": {
-      "code": "SN Tashkent",
       "en": "Tashkent",
+      "code": "SN Tashkent",
       "cn": "塔什干",
       "jp": "タシュケント",
       "kr": "타슈켄트"
@@ -38948,8 +40812,8 @@
     "id": 70105,
     "code": 475,
     "name": {
-      "code": "SN Tashkent",
       "en": "Tashkent μ",
+      "code": "SN Tashkent",
       "cn": "塔什干(μ兵装)",
       "jp": "タシュケント（μ兵装）",
       "kr": "타슈켄트(μ장비)"
@@ -39055,8 +40919,8 @@
     "id": 70201,
     "code": 262,
     "name": {
-      "code": "SN Avrora",
       "en": "Avrora",
+      "code": "SN Avrora",
       "cn": "阿芙乐尔",
       "jp": "アヴローラ",
       "kr": "아브로라",
@@ -39159,8 +41023,8 @@
     "id": 70202,
     "code": 434,
     "name": {
-      "code": "SN Pamiat' Merkuria",
       "en": "Pamiat' Merkuria",
+      "code": "SN Pamiat' Merkuria",
       "cn": "水星纪念",
       "jp": "パーミャチ・メルクーリヤ",
       "kr": "파먀티 메르쿠리야"
@@ -39262,8 +41126,8 @@
     "id": 70203,
     "code": 436,
     "name": {
-      "code": "SN Chapayev",
       "en": "Chapayev",
+      "code": "SN Chapayev",
       "cn": "恰巴耶夫",
       "jp": "チャパエフ",
       "kr": "차파예프"
@@ -39365,8 +41229,8 @@
     "id": 70501,
     "code": 437,
     "name": {
-      "code": "SN Gangut",
       "en": "Gangut",
+      "code": "SN Gangut",
       "cn": "甘古特",
       "jp": "ガングート",
       "kr": "강구트"
@@ -39468,8 +41332,8 @@
     "id": 70505,
     "code": 441,
     "name": {
-      "code": "SN Sovetskaya Rossiya",
       "en": "Sovetskaya Rossiya",
+      "code": "SN Sovetskaya Rossiya",
       "cn": "苏维埃罗西亚",
       "jp": "ソビエツカヤ・ロシア",
       "kr": "소비에츠카야 러시아"
@@ -39571,8 +41435,8 @@
     "id": 80101,
     "code": 347,
     "name": {
-      "code": "FFNF Le Triomphant",
       "en": "Le Triomphant",
+      "code": "FFNF Le Triomphant",
       "cn": "凯旋",
       "jp": "ル・トリオンファン",
       "kr": "르 트리옹팡",
@@ -39675,8 +41539,8 @@
     "id": 80102,
     "code": 348,
     "name": {
-      "code": "FFNF Forbin",
       "en": "Forbin",
+      "code": "FFNF Forbin",
       "cn": "福尔班",
       "jp": "フォルバン",
       "kr": "포르뱅",
@@ -39779,8 +41643,8 @@
     "id": 80103,
     "code": 359,
     "name": {
-      "code": "FFNF Le Téméraire",
       "en": "Le Téméraire",
+      "code": "FFNF Le Téméraire",
       "cn": "鲁莽",
       "jp": "ル・テメレール",
       "kr": "르 테메레르"
@@ -39882,8 +41746,8 @@
     "id": 80104,
     "code": 395,
     "name": {
-      "code": "FFNF L'Opiniâtre",
       "en": "L'Opiniâtre",
+      "code": "FFNF L'Opiniâtre",
       "cn": "倔强",
       "jp": "ルピニャート",
       "kr": "로피니아트르"
@@ -39985,8 +41849,8 @@
     "id": 80201,
     "code": 349,
     "name": {
-      "code": "FFNF Émile Bertin",
       "en": "Émile Bertin",
+      "code": "FFNF Émile Bertin",
       "cn": "埃米尔·贝尔汀",
       "jp": "エミール・ベルタン",
       "kr": "에밀 베르탱",
@@ -40093,8 +41957,8 @@
     "id": 80202,
     "code": 454,
     "name": {
-      "code": "FFNF Jeanne d'Arc",
       "en": "Jeanne d'Arc",
+      "code": "FFNF Jeanne d'Arc",
       "cn": "圣女贞德",
       "jp": "ジャンヌ・ダルク",
       "kr": "잔 다르크"
@@ -40196,8 +42060,8 @@
     "id": 80501,
     "code": 453,
     "name": {
-      "code": "FFNF Richelieu",
       "en": "Richelieu",
+      "code": "FFNF Richelieu",
       "cn": "黎塞留",
       "jp": "リシュリュー",
       "kr": "리슐리외"
@@ -40299,8 +42163,8 @@
     "id": 80701,
     "code": 458,
     "name": {
-      "code": "FFNF Béarn",
       "en": "Béarn",
+      "code": "FFNF Béarn",
       "cn": "贝亚恩",
       "jp": "ベアルン",
       "kr": "베아른"
@@ -40401,20 +42265,113 @@
   "80801": {
     "id": 80801,
     "code": 350,
-    "name": {"code": "FFNF Surcouf"},
+    "name": {
+      "en": "Surcouf",
+      "code": "FFNF Surcouf",
+      "cn": "絮库夫",
+      "jp": "シュルクーフ",
+      "kr": "쉬르쿠프",
+      "tw": "速科夫"
+    },
     "property_hexagon": [3, 4, 0, 1, 0, 2],
     "type": 8,
-    "armor": null,
-    "slots": null,
+    "armor": 1,
+    "slots": [[13], [13], [3], [10], [10]],
     "nationality": 8,
-    "data": {}
+    "data": {
+      "808011": {
+        "id": 808011,
+        "type": 8,
+        "rarity": 4,
+        "stars": 2,
+        "oil": 4,
+        "max_level": 70,
+        "stats": {
+          "hp": 454,
+          "fp": 26,
+          "trp": 98,
+          "aa": 0,
+          "av": 0,
+          "rld": 28,
+          "acc": 57,
+          "eva": 8,
+          "spd": 18.5,
+          "luk": 60,
+          "asw": 0
+        }
+      },
+      "808012": {
+        "id": 808012,
+        "type": 8,
+        "rarity": 4,
+        "stars": 3,
+        "oil": 5,
+        "max_level": 80,
+        "stats": {
+          "hp": 565,
+          "fp": 32,
+          "trp": 122,
+          "aa": 0,
+          "av": 0,
+          "rld": 28,
+          "acc": 57,
+          "eva": 8,
+          "spd": 14.8,
+          "luk": 60,
+          "asw": 0
+        }
+      },
+      "808013": {
+        "id": 808013,
+        "type": 8,
+        "rarity": 4,
+        "stars": 4,
+        "oil": 6,
+        "max_level": 90,
+        "stats": {
+          "hp": 787,
+          "fp": 45,
+          "trp": 171,
+          "aa": 0,
+          "av": 0,
+          "rld": 28,
+          "acc": 57,
+          "eva": 8,
+          "spd": 14.8,
+          "luk": 60,
+          "asw": 0
+        }
+      },
+      "808014": {
+        "id": 808014,
+        "type": 8,
+        "rarity": 4,
+        "stars": 5,
+        "oil": 7,
+        "max_level": 100,
+        "stats": {
+          "hp": 1119,
+          "fp": 64,
+          "trp": 244,
+          "aa": 0,
+          "av": 0,
+          "rld": 28,
+          "acc": 57,
+          "eva": 8,
+          "spd": 14.8,
+          "luk": 60,
+          "asw": 0
+        }
+      }
+    },
+    "stars": 5
   },
   "89901": {
     "id": 89901,
     "code": 20006,
     "name": {
-      "code": "FFNF Saint-Louis",
       "en": "Saint Louis",
+      "code": "FFNF Saint-Louis",
       "cn": "路易九世",
       "jp": "サン・ルイ",
       "kr": "생 루이",
@@ -40517,8 +42474,8 @@
     "id": 89902,
     "code": 20017,
     "name": {
-      "code": "FFNF Champagne",
       "en": "Champagne",
+      "code": "FFNF Champagne",
       "cn": "香槟",
       "jp": "シャンパーニュ",
       "kr": "샹파뉴"
@@ -40741,8 +42698,8 @@
     "id": 1010001,
     "code": 10001,
     "name": {
-      "code": "HDN Neptune",
       "en": "Neptune",
+      "code": "HDN Neptune",
       "cn": "涅普顿",
       "jp": "ネプテューヌ",
       "kr": "넵튠"
@@ -40844,8 +42801,8 @@
     "id": 1010002,
     "code": 10002,
     "name": {
-      "code": "HDN Noire",
       "en": "Noire",
+      "code": "HDN Noire",
       "cn": "诺瓦露",
       "jp": "ノワール",
       "kr": "느와르"
@@ -40947,8 +42904,8 @@
     "id": 1010003,
     "code": 10003,
     "name": {
-      "code": "HDN Blanc",
       "en": "Blanc",
+      "code": "HDN Blanc",
       "cn": "布兰",
       "jp": "ブラン",
       "kr": "블랑"
@@ -41050,8 +43007,8 @@
     "id": 1010004,
     "code": 10004,
     "name": {
-      "code": "HDN Vert",
       "en": "Vert",
+      "code": "HDN Vert",
       "cn": "贝露",
       "jp": "ベール",
       "kr": "벨"
@@ -41153,8 +43110,8 @@
     "id": 1010005,
     "code": 10005,
     "name": {
-      "code": "HDN Purple Heart",
       "en": "Purple Heart",
+      "code": "HDN Purple Heart",
       "cn": "绀紫之心",
       "jp": "パープルハート",
       "kr": "퍼플 하트"
@@ -41256,8 +43213,8 @@
     "id": 1010006,
     "code": 10006,
     "name": {
-      "code": "HDN Black Heart",
       "en": "Black Heart",
+      "code": "HDN Black Heart",
       "cn": "圣黑之心",
       "jp": "ブラックハート",
       "kr": "블랙 하트"
@@ -41359,8 +43316,8 @@
     "id": 1010007,
     "code": 10007,
     "name": {
-      "code": "HDN White Heart",
       "en": "White Heart",
+      "code": "HDN White Heart",
       "cn": "群白之心",
       "jp": "ホワイトハート",
       "kr": "화이트 하트"
@@ -41462,8 +43419,8 @@
     "id": 1010008,
     "code": 10008,
     "name": {
-      "code": "HDN Green Heart",
       "en": "Green Heart",
+      "code": "HDN Green Heart",
       "cn": "翡绿之心",
       "jp": "グリーンハート",
       "kr": "그린 하트"
@@ -41564,7 +43521,7 @@
   "1020001": {
     "id": 1020001,
     "code": 10021,
-    "name": {"code": "BILI 22", "cn": "22"},
+    "name": {"cn": "22", "code": "BILI 22"},
     "property_hexagon": [1, 1, 0, 3, 1, 1],
     "type": 1,
     "armor": 1,
@@ -41661,7 +43618,7 @@
   "1020002": {
     "id": 1020002,
     "code": 10022,
-    "name": {"code": "BILI 33", "cn": "33"},
+    "name": {"cn": "33", "code": "BILI 33"},
     "property_hexagon": [1, 1, 0, 3, 1, 1],
     "type": 1,
     "armor": 1,
@@ -41758,7 +43715,7 @@
   "1030001": {
     "id": 1030001,
     "code": 10031,
-    "name": {"code": "Kuon", "cn": "久远", "jp": "クオン", "kr": "쿠온"},
+    "name": {"cn": "久远", "code": "Kuon", "jp": "クオン", "kr": "쿠온"},
     "property_hexagon": [4, 2, 0, 2, 3, 3],
     "type": 3,
     "armor": 2,
@@ -41855,7 +43812,7 @@
   "1030002": {
     "id": 1030002,
     "code": 10032,
-    "name": {"code": "Nekone", "cn": "猫音", "jp": "ネコネ", "kr": "네코네"},
+    "name": {"cn": "猫音", "code": "Nekone", "jp": "ネコネ", "kr": "네코네"},
     "property_hexagon": [2, 3, 0, 4, 3, 2],
     "type": 1,
     "armor": 1,
@@ -41952,7 +43909,7 @@
   "1030003": {
     "id": 1030003,
     "code": 10033,
-    "name": {"code": "Rurutie", "cn": "露露缇耶", "jp": "ルルティエ", "kr": "루루티에"},
+    "name": {"cn": "露露缇耶", "code": "Rurutie", "jp": "ルルティエ", "kr": "루루티에"},
     "property_hexagon": [2, 3, 0, 3, 3, 4],
     "type": 2,
     "armor": 1,
@@ -42049,7 +44006,7 @@
   "1030004": {
     "id": 1030004,
     "code": 10034,
-    "name": {"code": "Uruuru", "cn": "乌璐露", "jp": "ウルゥル", "kr": "우루루"},
+    "name": {"cn": "乌璐露", "code": "Uruuru", "jp": "ウルゥル", "kr": "우루루"},
     "property_hexagon": [0, 0, 3, 2, 3, 2],
     "type": 6,
     "armor": 1,
@@ -42146,7 +44103,7 @@
   "1030005": {
     "id": 1030005,
     "code": 10035,
-    "name": {"code": "Saraana", "cn": "萨拉娜", "jp": "サラァナ", "kr": "사라나"},
+    "name": {"cn": "萨拉娜", "code": "Saraana", "jp": "サラァナ", "kr": "사라나"},
     "property_hexagon": [0, 0, 3, 2, 3, 2],
     "type": 6,
     "armor": 1,
@@ -42243,7 +44200,7 @@
   "1030006": {
     "id": 1030006,
     "code": 10036,
-    "name": {"code": "Fumiruiru", "cn": "芙米露露", "jp": "フミルィル", "kr": "후미뤼르"},
+    "name": {"cn": "芙米露露", "code": "Fumiruiru", "jp": "フミルィル", "kr": "후미뤼르"},
     "property_hexagon": [0, 0, 2, 2, 2, 3],
     "type": 7,
     "armor": 2,
@@ -42341,8 +44298,8 @@
     "id": 1040001,
     "code": 10041,
     "name": {
-      "code": "KizunaAI",
       "en": "Kizuna AI",
+      "code": "KizunaAI",
       "cn": "绊爱",
       "jp": "キズナアイ",
       "kr": "키즈나 아이"
@@ -42448,8 +44405,8 @@
     "id": 1040002,
     "code": 10042,
     "name": {
-      "code": "KizunaAI·Elegant",
       "en": "Elegant Kizuna AI",
+      "code": "KizunaAI·Elegant",
       "cn": "绊爱·Elegant",
       "jp": "キズナアイ・エレガント",
       "kr": "키즈나 아이 - 엘레강트"
@@ -42555,8 +44512,8 @@
     "id": 1040003,
     "code": 10043,
     "name": {
-      "code": "KizunaAI·Anniversary",
       "en": "Anniversary Kizuna AI",
+      "code": "KizunaAI·Anniversary",
       "cn": "绊爱·Anniversary",
       "jp": "キズナアイ・アニバーサリー",
       "kr": "키즈나 아이 - 애니버서리"
@@ -42662,8 +44619,8 @@
     "id": 1040004,
     "code": 10044,
     "name": {
-      "code": "KizunaAI·SuperGamer",
       "en": "Super Gamer Kizuna AI",
+      "code": "KizunaAI·SuperGamer",
       "cn": "绊爱·SuperGamer",
       "jp": "キズナアイ・スーパーゲーマー",
       "kr": "키즈나 아이 - 슈퍼 게이머"
@@ -42769,8 +44726,8 @@
     "id": 1050001,
     "code": 10051,
     "name": {
-      "code": "Shirakami Fubuki",
       "en": "Shirakami Fubuki",
+      "code": "Shirakami Fubuki",
       "cn": "白上吹雪",
       "jp": "白上フブキ",
       "kr": "시라카미 후부키"
@@ -42876,8 +44833,8 @@
     "id": 1050002,
     "code": 10052,
     "name": {
-      "code": "Tokino Sora",
       "en": "Tokino Sora",
+      "code": "Tokino Sora",
       "cn": "时乃空",
       "jp": "ときのそら",
       "kr": "토키노 소라"
@@ -42983,8 +44940,8 @@
     "id": 1050003,
     "code": 10053,
     "name": {
-      "code": "Minato Aqua",
       "en": "Minato Aqua",
+      "code": "Minato Aqua",
       "cn": "湊阿库娅",
       "jp": "湊あくあ",
       "kr": "미나토 아쿠아"
@@ -43090,8 +45047,8 @@
     "id": 1050004,
     "code": 10054,
     "name": {
-      "code": "Natsuiro Matsuri",
       "en": "Natsuiro Matsuri",
+      "code": "Natsuiro Matsuri",
       "cn": "夏色祭",
       "jp": "夏色まつり",
       "kr": "나츠이로 마츠리"
@@ -43197,8 +45154,8 @@
     "id": 1050005,
     "code": 10055,
     "name": {
-      "code": "Nakiri Ayame",
       "en": "Nakiri Ayame",
+      "code": "Nakiri Ayame",
       "cn": "百鬼绫目",
       "jp": "百鬼あやめ",
       "kr": "나키리 아야메"
@@ -43304,8 +45261,8 @@
     "id": 1050006,
     "code": 10056,
     "name": {
-      "code": "Murasaki Shion",
       "en": "Murasaki Shion",
+      "code": "Murasaki Shion",
       "cn": "紫咲诗音",
       "jp": "紫咲シオン",
       "kr": "무라사키 시온"
@@ -43411,8 +45368,8 @@
     "id": 1050007,
     "code": 10057,
     "name": {
-      "code": "Ōkami Mio",
       "en": "Ōkami Mio",
+      "code": "Ōkami Mio",
       "cn": "大神澪",
       "jp": "大神ミオ",
       "kr": "오오카미 미오"

@@ -60,14 +60,13 @@ function readFilesFromLanguage(lang = "EN") {
         stat.english_name = stat.english_name.trim()
             .replace('Ultra Bulin MKIII', 'Specialized Bulin Custom MKIII')
             .replace('Große', 'Grosse');// special cases
+        stat.name = stat.name.trim();
         if (stat.english_name === "simulation") continue; // simulation ship
         if (stat.english_name.length === 0) continue; // unknown ship
         if (id.startsWith('9') && id.length >= 6) continue; // idk if this is true
-        if (compiled[ship.group_type].name.code && compiled[ship.group_type].name.code.toLowerCase() !== stat.english_name.toLowerCase()) console.log("SHIP CODE NAME NOT MATCH ", id, ship.group_type, lang, " ", compiled[ship.group_type].name.code, "≠", stat.english_name)
-        compiled[ship.group_type].name.code = stat.english_name;
 
         // compiled[ship.group_type].rarity.push(rarity[stat.rarity])
-        if (ship.oil_at_start === 0) continue; // pseudo ship
+        if (ship.oil_at_start === 0 && ship.type !== 8) continue; // pseudo ship
         if (compiled[ship.group_type].nationality !== stat.nationality) continue; // pseudo ship
         compiled[ship.group_type].stars = ship.star_max;
 
@@ -103,6 +102,14 @@ function readFilesFromLanguage(lang = "EN") {
             if (!specificShip.name) specificShip.name = {};
             specificShip.name[lang.toLowerCase()] = stat.name.trim();
         }
+        if (compiled[ship.group_type].name.code && compiled[ship.group_type].name.code.toLowerCase() !== stat.english_name.toLowerCase()) {
+            // override
+            if (stat.name === stat.english_name || stat.english_name.includes(stat.name)) compiled[ship.group_type].name.code = stat.english_name;
+            else {
+                console.log("CODE MISMATCH", id, ship.group_type, lang, stat.name, "|", compiled[ship.group_type].name.code, "≠", stat.english_name)
+            }
+        }
+        compiled[ship.group_type].name.code = stat.english_name;
     }
 }
 
