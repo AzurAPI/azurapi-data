@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/AzurAPI/azurapi-data/issues"
   },
-  "homepage": "https://github.com/AzurAPI/azurapi-data#readme"
+  "homepage": "https://github.com/AzurAPI/azurapi-data#readme",
+  "dependencies": {
+    "json-stringify-pretty-compact": "^2.0.0"
+  }
 }

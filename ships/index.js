@@ -1,4 +1,5 @@
 const fs = require("fs");
+const stringify = require("json-stringify-pretty-compact");
 
 const RARITY = {
     2: "Common",
@@ -19,6 +20,10 @@ let TYPES = {};
 
 let compiled = {};
 
+const HEXAGON_RANK = {
+    'A': 4, 'B': 3, 'C': 2, 'D': 1, 'E': 0,
+};
+
 function readFilesFromLanguage(lang = "EN") {
     let groups = require("../AzurLaneSourceJSON/" + lang + "/sharecfg/ship_data_group.json");
     let ships = require("../AzurLaneSourceJSON/" + lang + "/sharecfg/ship_data_template.json");
@@ -33,7 +38,7 @@ function readFilesFromLanguage(lang = "EN") {
             code: group.code,
 
             name: {},
-            property_hexagon: group.property_hexagon.join(''),
+            property_hexagon: group.property_hexagon.map(char => HEXAGON_RANK[char]),
 
             type: group.type,
             armor: null,
@@ -102,8 +107,8 @@ function parseShips() {
     readFilesFromLanguage("JP");
     readFilesFromLanguage("KR");
     readFilesFromLanguage("TW");
-    fs.writeFileSync("./dist/ships.json", JSON.stringify(compiled, null, '\t'));
-    fs.writeFileSync("./dist/types.json", JSON.stringify(TYPES, null, '\t'));
+    fs.writeFileSync("./dist/ships.json", stringify(compiled));
+    fs.writeFileSync("./dist/types.json", stringify(TYPES));
 }
 
 module.exports = {parseShips};
