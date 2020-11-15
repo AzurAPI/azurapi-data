@@ -30,7 +30,11 @@ function readFilesFromLanguage(lang = "EN") {
     let groups = require("../AzurLaneSourceJSON/" + lang + "/sharecfg/ship_data_group.json");
     let ships = require("../AzurLaneSourceJSON/" + lang + "/sharecfg/ship_data_template.json");
     let stats = require("../AzurLaneSourceJSON/" + lang + "/sharecfg/ship_data_statistics.json");
-    let types = require("../AzurLaneSourceJSON/" + lang + "/sharecfg/ship_data_by_type.json")
+    let types = require("../AzurLaneSourceJSON/" + lang + "/sharecfg/ship_data_by_type.json");
+    [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 17, 18, 19].forEach(type => {
+        if (!TYPES[type]) TYPES[type] = {};
+        if (!TYPES[type][lang.toLowerCase()]) TYPES[type][lang.toLowerCase()] = types[type].type_name.trim();
+    })
     for (let id of Object.keys(groups)) {
         if (id === "all") continue;
         let group = groups[id];
@@ -48,8 +52,6 @@ function readFilesFromLanguage(lang = "EN") {
             nationality: group.nationality,
             data: {}
         };
-        if (!TYPES[group.type]) TYPES[group.type] = {};
-        if (!TYPES[group.type][lang.toLowerCase()]) TYPES[group.type][lang.toLowerCase()] = types[group.type].type_name.trim();
     }
 
     for (let id of Object.keys(ships)) {
