@@ -24,6 +24,8 @@ const HEXAGON_RANK = {
     'S': 5, 'A': 4, 'B': 3, 'C': 2, 'D': 1, 'E': 0,
 };
 
+const FAKE_SHIPS = [900042, 900045, 900046, 900913, 900914].map(i => String(i));
+
 function readFilesFromLanguage(lang = "EN") {
     let groups = require("../AzurLaneSourceJSON/" + lang + "/sharecfg/ship_data_group.json");
     let ships = require("../AzurLaneSourceJSON/" + lang + "/sharecfg/ship_data_template.json");
@@ -63,7 +65,7 @@ function readFilesFromLanguage(lang = "EN") {
         stat.name = stat.name.trim();
         if (stat.english_name === "simulation") continue; // simulation ship
         if (stat.english_name.length === 0) continue; // unknown ship
-        if (id.startsWith('9') && id.length >= 6) continue; // idk if this is true
+        if (FAKE_SHIPS.includes(id)) continue;
 
         // compiled[ship.group_type].rarity.push(rarity[stat.rarity])
         if (ship.oil_at_start === 0 && ship.type !== 8) continue; // pseudo ship
