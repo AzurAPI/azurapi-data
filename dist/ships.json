@@ -4179,6 +4179,7 @@
     "data": {
       "102051": {
         "id": 102051,
+        "tags": ["Helena"],
         "type": 2,
         "rarity": 4,
         "stars": 2,
@@ -4200,6 +4201,7 @@
       },
       "102052": {
         "id": 102052,
+        "tags": ["Helena"],
         "type": 2,
         "rarity": 4,
         "stars": 3,
@@ -4221,6 +4223,7 @@
       },
       "102053": {
         "id": 102053,
+        "tags": ["Helena"],
         "type": 2,
         "rarity": 4,
         "stars": 4,
@@ -4242,6 +4245,7 @@
       },
       "102054": {
         "id": 102054,
+        "tags": ["Helena"],
         "type": 2,
         "rarity": 4,
         "stars": 5,
@@ -4263,6 +4267,7 @@
       },
       "102284": {
         "id": 102284,
+        "tags": ["Helena"],
         "type": 2,
         "rarity": 4,
         "stars": 5,
@@ -5709,7 +5714,7 @@
     "data": {
       "102191": {
         "id": 102191,
-        "tags": ["Helena-Chan"],
+        "tags": ["Helena-Chan", "Helena", "special"],
         "type": 2,
         "rarity": 4,
         "stars": 2,
@@ -5731,7 +5736,7 @@
       },
       "102192": {
         "id": 102192,
-        "tags": ["Helena-Chan"],
+        "tags": ["Helena-Chan", "Helena", "special"],
         "type": 2,
         "rarity": 4,
         "stars": 3,
@@ -5753,7 +5758,7 @@
       },
       "102193": {
         "id": 102193,
-        "tags": ["Helena-Chan"],
+        "tags": ["Helena-Chan", "Helena", "special"],
         "type": 2,
         "rarity": 4,
         "stars": 4,
@@ -5775,7 +5780,7 @@
       },
       "102194": {
         "id": 102194,
-        "tags": ["Helena-Chan"],
+        "tags": ["Helena-Chan", "Helena", "special"],
         "type": 2,
         "rarity": 4,
         "stars": 5,
@@ -5816,7 +5821,7 @@
     "data": {
       "102201": {
         "id": 102201,
-        "tags": ["Cleveland-Class", "Cleveland-Chan"],
+        "tags": ["Cleveland-Class", "Cleveland-Chan", "special"],
         "type": 2,
         "rarity": 4,
         "stars": 2,
@@ -5838,7 +5843,7 @@
       },
       "102202": {
         "id": 102202,
-        "tags": ["Cleveland-Class", "Cleveland-Chan"],
+        "tags": ["Cleveland-Class", "Cleveland-Chan", "special"],
         "type": 2,
         "rarity": 4,
         "stars": 3,
@@ -5860,7 +5865,7 @@
       },
       "102203": {
         "id": 102203,
-        "tags": ["Cleveland-Class", "Cleveland-Chan"],
+        "tags": ["Cleveland-Class", "Cleveland-Chan", "special"],
         "type": 2,
         "rarity": 4,
         "stars": 4,
@@ -5882,7 +5887,7 @@
       },
       "102204": {
         "id": 102204,
-        "tags": ["Cleveland-Class", "Cleveland-Chan"],
+        "tags": ["Cleveland-Class", "Cleveland-Chan", "special"],
         "type": 2,
         "rarity": 4,
         "stars": 5,
@@ -5923,7 +5928,7 @@
     "data": {
       "102211": {
         "id": 102211,
-        "tags": ["Helena-Chan", "Cleveland-Chan"],
+        "tags": ["Helena-Chan", "Cleveland-Chan", "special"],
         "type": 2,
         "rarity": 4,
         "stars": 2,
@@ -5945,7 +5950,7 @@
       },
       "102212": {
         "id": 102212,
-        "tags": ["Helena-Chan", "Cleveland-Chan"],
+        "tags": ["Helena-Chan", "Cleveland-Chan", "special"],
         "type": 2,
         "rarity": 4,
         "stars": 3,
@@ -5967,7 +5972,7 @@
       },
       "102213": {
         "id": 102213,
-        "tags": ["Helena-Chan", "Cleveland-Chan"],
+        "tags": ["Helena-Chan", "Cleveland-Chan", "special"],
         "type": 2,
         "rarity": 4,
         "stars": 4,
@@ -5989,7 +5994,7 @@
       },
       "102214": {
         "id": 102214,
-        "tags": ["Helena-Chan", "Cleveland-Chan"],
+        "tags": ["Helena-Chan", "Cleveland-Chan", "special"],
         "type": 2,
         "rarity": 4,
         "stars": 5,
@@ -6242,7 +6247,7 @@
     "data": {
       "102241": {
         "id": 102241,
-        "tags": ["Cleveland-Class", "μ"],
+        "tags": ["Cleveland-Class", "μ", "special"],
         "type": 2,
         "rarity": 4,
         "stars": 2,
@@ -6264,7 +6269,7 @@
       },
       "102242": {
         "id": 102242,
-        "tags": ["Cleveland-Class", "μ"],
+        "tags": ["Cleveland-Class", "μ", "special"],
         "type": 2,
         "rarity": 4,
         "stars": 3,
@@ -6286,7 +6291,7 @@
       },
       "102243": {
         "id": 102243,
-        "tags": ["Cleveland-Class", "μ"],
+        "tags": ["Cleveland-Class", "μ", "special"],
         "type": 2,
         "rarity": 4,
         "stars": 4,
@@ -6308,7 +6313,7 @@
       },
       "102244": {
         "id": 102244,
-        "tags": ["Cleveland-Class", "μ"],
+        "tags": ["Cleveland-Class", "μ", "special"],
         "type": 2,
         "rarity": 4,
         "stars": 5,
@@ -8137,7 +8142,7 @@
     "data": {
       "103251": {
         "id": 103251,
-        "tags": ["μ"],
+        "tags": ["μ", "special"],
         "type": 3,
         "rarity": 4,
         "stars": 2,
@@ -8159,7 +8164,7 @@
       },
       "103252": {
         "id": 103252,
-        "tags": ["μ"],
+        "tags": ["μ", "special"],
         "type": 3,
         "rarity": 4,
         "stars": 3,
@@ -8181,7 +8186,7 @@
       },
       "103253": {
         "id": 103253,
-        "tags": ["μ"],
+        "tags": ["μ", "special"],
         "type": 3,
         "rarity": 4,
         "stars": 4,
@@ -8203,7 +8208,7 @@
       },
       "103254": {
         "id": 103254,
-        "tags": ["μ"],
+        "tags": ["μ", "special"],
         "type": 3,
         "rarity": 4,
         "stars": 5,
@@ -12252,7 +12257,7 @@
     "data": {
       "108051": {
         "id": 108051,
-        "tags": ["μ", "Albacore"],
+        "tags": ["μ", "Albacore", "special"],
         "type": 8,
         "rarity": 4,
         "stars": 2,
@@ -12274,7 +12279,7 @@
       },
       "108052": {
         "id": 108052,
-        "tags": ["μ", "Albacore"],
+        "tags": ["μ", "Albacore", "special"],
         "type": 8,
         "rarity": 4,
         "stars": 3,
@@ -12296,7 +12301,7 @@
       },
       "108053": {
         "id": 108053,
-        "tags": ["μ", "Albacore"],
+        "tags": ["μ", "Albacore", "special"],
         "type": 8,
         "rarity": 4,
         "stars": 4,
@@ -12318,7 +12323,7 @@
       },
       "108054": {
         "id": 108054,
-        "tags": ["μ", "Albacore"],
+        "tags": ["μ", "Albacore", "special"],
         "type": 8,
         "rarity": 4,
         "stars": 5,
@@ -16685,6 +16690,7 @@
     "data": {
       "202181": {
         "id": 202181,
+        "tags": ["special"],
         "type": 2,
         "rarity": 4,
         "stars": 2,
@@ -16706,6 +16712,7 @@
       },
       "202182": {
         "id": 202182,
+        "tags": ["special"],
         "type": 2,
         "rarity": 4,
         "stars": 3,
@@ -16727,6 +16734,7 @@
       },
       "202183": {
         "id": 202183,
+        "tags": ["special"],
         "type": 2,
         "rarity": 4,
         "stars": 4,
@@ -16748,6 +16756,7 @@
       },
       "202184": {
         "id": 202184,
+        "tags": ["special"],
         "type": 2,
         "rarity": 4,
         "stars": 5,
@@ -17417,7 +17426,7 @@
     "data": {
       "202251": {
         "id": 202251,
-        "tags": ["μ"],
+        "tags": ["μ", "special"],
         "type": 2,
         "rarity": 4,
         "stars": 2,
@@ -17439,7 +17448,7 @@
       },
       "202252": {
         "id": 202252,
-        "tags": ["μ"],
+        "tags": ["μ", "special"],
         "type": 2,
         "rarity": 4,
         "stars": 3,
@@ -17461,7 +17470,7 @@
       },
       "202253": {
         "id": 202253,
-        "tags": ["μ"],
+        "tags": ["μ", "special"],
         "type": 2,
         "rarity": 4,
         "stars": 4,
@@ -17483,7 +17492,7 @@
       },
       "202254": {
         "id": 202254,
-        "tags": ["μ"],
+        "tags": ["μ", "special"],
         "type": 2,
         "rarity": 4,
         "stars": 5,
@@ -17734,7 +17743,7 @@
     "data": {
       "202281": {
         "id": 202281,
-        "tags": ["Dido_class", "μ"],
+        "tags": ["Dido_class", "μ", "special"],
         "type": 2,
         "rarity": 5,
         "stars": 3,
@@ -17756,7 +17765,7 @@
       },
       "202282": {
         "id": 202282,
-        "tags": ["Dido_class", "μ"],
+        "tags": ["Dido_class", "μ", "special"],
         "type": 2,
         "rarity": 5,
         "stars": 4,
@@ -17778,7 +17787,7 @@
       },
       "202283": {
         "id": 202283,
-        "tags": ["Dido_class", "μ"],
+        "tags": ["Dido_class", "μ", "special"],
         "type": 2,
         "rarity": 5,
         "stars": 5,
@@ -17800,7 +17809,7 @@
       },
       "202284": {
         "id": 202284,
-        "tags": ["Dido_class", "μ"],
+        "tags": ["Dido_class", "μ", "special"],
         "type": 2,
         "rarity": 5,
         "stars": 6,
@@ -19228,6 +19237,7 @@
     "data": {
       "204041": {
         "id": 204041,
+        "tags": ["special"],
         "type": 4,
         "rarity": 4,
         "stars": 2,
@@ -19249,6 +19259,7 @@
       },
       "204042": {
         "id": 204042,
+        "tags": ["special"],
         "type": 4,
         "rarity": 4,
         "stars": 3,
@@ -19270,6 +19281,7 @@
       },
       "204043": {
         "id": 204043,
+        "tags": ["special"],
         "type": 4,
         "rarity": 4,
         "stars": 4,
@@ -19291,6 +19303,7 @@
       },
       "204044": {
         "id": 204044,
+        "tags": ["special"],
         "type": 4,
         "rarity": 4,
         "stars": 5,
@@ -21814,6 +21827,7 @@
     "data": {
       "207091": {
         "id": 207091,
+        "tags": ["special"],
         "type": 7,
         "rarity": 4,
         "stars": 2,
@@ -21835,6 +21849,7 @@
       },
       "207092": {
         "id": 207092,
+        "tags": ["special"],
         "type": 7,
         "rarity": 4,
         "stars": 3,
@@ -21856,6 +21871,7 @@
       },
       "207093": {
         "id": 207093,
+        "tags": ["special"],
         "type": 7,
         "rarity": 4,
         "stars": 4,
@@ -21877,6 +21893,7 @@
       },
       "207094": {
         "id": 207094,
+        "tags": ["special"],
         "type": 7,
         "rarity": 4,
         "stars": 5,
@@ -21917,7 +21934,7 @@
     "data": {
       "207111": {
         "id": 207111,
-        "tags": ["μ"],
+        "tags": ["μ", "special"],
         "type": 7,
         "rarity": 5,
         "stars": 3,
@@ -21939,7 +21956,7 @@
       },
       "207112": {
         "id": 207112,
-        "tags": ["μ"],
+        "tags": ["μ", "special"],
         "type": 7,
         "rarity": 5,
         "stars": 4,
@@ -21961,7 +21978,7 @@
       },
       "207113": {
         "id": 207113,
-        "tags": ["μ"],
+        "tags": ["μ", "special"],
         "type": 7,
         "rarity": 5,
         "stars": 5,
@@ -21983,7 +22000,7 @@
       },
       "207114": {
         "id": 207114,
-        "tags": ["μ"],
+        "tags": ["μ", "special"],
         "type": 7,
         "rarity": 5,
         "stars": 6,
@@ -31169,7 +31186,7 @@
     "data": {
       "304061": {
         "id": 304061,
-        "tags": ["Kongo-Class"],
+        "tags": ["Kongo-Class", "special"],
         "type": 4,
         "rarity": 4,
         "stars": 2,
@@ -31191,7 +31208,7 @@
       },
       "304062": {
         "id": 304062,
-        "tags": ["Kongo-Class"],
+        "tags": ["Kongo-Class", "special"],
         "type": 4,
         "rarity": 4,
         "stars": 3,
@@ -31213,7 +31230,7 @@
       },
       "304063": {
         "id": 304063,
-        "tags": ["Kongo-Class"],
+        "tags": ["Kongo-Class", "special"],
         "type": 4,
         "rarity": 4,
         "stars": 4,
@@ -31235,7 +31252,7 @@
       },
       "304064": {
         "id": 304064,
-        "tags": ["Kongo-Class"],
+        "tags": ["Kongo-Class", "special"],
         "type": 4,
         "rarity": 4,
         "stars": 5,
@@ -34453,6 +34470,7 @@
     "data": {
       "307091": {
         "id": 307091,
+        "tags": ["special"],
         "type": 7,
         "rarity": 4,
         "stars": 2,
@@ -34474,6 +34492,7 @@
       },
       "307092": {
         "id": 307092,
+        "tags": ["special"],
         "type": 7,
         "rarity": 4,
         "stars": 3,
@@ -34495,6 +34514,7 @@
       },
       "307093": {
         "id": 307093,
+        "tags": ["special"],
         "type": 7,
         "rarity": 4,
         "stars": 4,
@@ -34516,6 +34536,7 @@
       },
       "307094": {
         "id": 307094,
+        "tags": ["special"],
         "type": 7,
         "rarity": 4,
         "stars": 5,
@@ -34556,7 +34577,7 @@
     "data": {
       "307101": {
         "id": 307101,
-        "tags": ["μ"],
+        "tags": ["μ", "special"],
         "type": 7,
         "rarity": 5,
         "stars": 3,
@@ -34578,7 +34599,7 @@
       },
       "307102": {
         "id": 307102,
-        "tags": ["μ"],
+        "tags": ["μ", "special"],
         "type": 7,
         "rarity": 5,
         "stars": 4,
@@ -34600,7 +34621,7 @@
       },
       "307103": {
         "id": 307103,
-        "tags": ["μ"],
+        "tags": ["μ", "special"],
         "type": 7,
         "rarity": 5,
         "stars": 5,
@@ -34622,7 +34643,7 @@
       },
       "307104": {
         "id": 307104,
-        "tags": ["μ"],
+        "tags": ["μ", "special"],
         "type": 7,
         "rarity": 5,
         "stars": 6,
@@ -34663,7 +34684,7 @@
     "data": {
       "307111": {
         "id": 307111,
-        "tags": ["μ"],
+        "tags": ["μ", "special"],
         "type": 7,
         "rarity": 5,
         "stars": 3,
@@ -34685,7 +34706,7 @@
       },
       "307112": {
         "id": 307112,
-        "tags": ["μ"],
+        "tags": ["μ", "special"],
         "type": 7,
         "rarity": 5,
         "stars": 4,
@@ -34707,7 +34728,7 @@
       },
       "307113": {
         "id": 307113,
-        "tags": ["μ"],
+        "tags": ["μ", "special"],
         "type": 7,
         "rarity": 5,
         "stars": 5,
@@ -34729,7 +34750,7 @@
       },
       "307114": {
         "id": 307114,
-        "tags": ["μ"],
+        "tags": ["μ", "special"],
         "type": 7,
         "rarity": 5,
         "stars": 6,
@@ -38301,7 +38322,7 @@
     "data": {
       "403071": {
         "id": 403071,
-        "tags": ["μ"],
+        "tags": ["μ", "special"],
         "type": 3,
         "rarity": 4,
         "stars": 2,
@@ -38323,7 +38344,7 @@
       },
       "403072": {
         "id": 403072,
-        "tags": ["μ"],
+        "tags": ["μ", "special"],
         "type": 3,
         "rarity": 4,
         "stars": 3,
@@ -38345,7 +38366,7 @@
       },
       "403073": {
         "id": 403073,
-        "tags": ["μ"],
+        "tags": ["μ", "special"],
         "type": 3,
         "rarity": 4,
         "stars": 4,
@@ -38367,7 +38388,7 @@
       },
       "403074": {
         "id": 403074,
-        "tags": ["μ"],
+        "tags": ["μ", "special"],
         "type": 3,
         "rarity": 4,
         "stars": 5,
@@ -38408,7 +38429,7 @@
     "data": {
       "403081": {
         "id": 403081,
-        "tags": ["μ", "roonμ"],
+        "tags": ["μ", "roonμ", "special"],
         "type": 3,
         "rarity": 5,
         "stars": 3,
@@ -38430,7 +38451,7 @@
       },
       "403082": {
         "id": 403082,
-        "tags": ["μ", "roonμ"],
+        "tags": ["μ", "roonμ", "special"],
         "type": 3,
         "rarity": 5,
         "stars": 4,
@@ -38452,7 +38473,7 @@
       },
       "403083": {
         "id": 403083,
-        "tags": ["μ", "roonμ"],
+        "tags": ["μ", "roonμ", "special"],
         "type": 3,
         "rarity": 5,
         "stars": 5,
@@ -38474,7 +38495,7 @@
       },
       "403084": {
         "id": 403084,
-        "tags": ["μ", "roonμ"],
+        "tags": ["μ", "roonμ", "special"],
         "type": 3,
         "rarity": 5,
         "stars": 6,
@@ -39110,6 +39131,7 @@
     "data": {
       "407021": {
         "id": 407021,
+        "tags": ["special"],
         "type": 7,
         "rarity": 4,
         "stars": 2,
@@ -39131,6 +39153,7 @@
       },
       "407022": {
         "id": 407022,
+        "tags": ["special"],
         "type": 7,
         "rarity": 4,
         "stars": 3,
@@ -39152,6 +39175,7 @@
       },
       "407023": {
         "id": 407023,
+        "tags": ["special"],
         "type": 7,
         "rarity": 4,
         "stars": 4,
@@ -39173,6 +39197,7 @@
       },
       "407024": {
         "id": 407024,
+        "tags": ["special"],
         "type": 7,
         "rarity": 4,
         "stars": 5,
@@ -42347,7 +42372,7 @@
     "data": {
       "701051": {
         "id": 701051,
-        "tags": ["Tashkent", "μ"],
+        "tags": ["Tashkent", "μ", "special"],
         "type": 1,
         "rarity": 5,
         "stars": 3,
@@ -42369,7 +42394,7 @@
       },
       "701052": {
         "id": 701052,
-        "tags": ["Tashkent", "μ"],
+        "tags": ["Tashkent", "μ", "special"],
         "type": 1,
         "rarity": 5,
         "stars": 4,
@@ -42391,7 +42416,7 @@
       },
       "701053": {
         "id": 701053,
-        "tags": ["Tashkent", "μ"],
+        "tags": ["Tashkent", "μ", "special"],
         "type": 1,
         "rarity": 5,
         "stars": 5,
@@ -42413,7 +42438,7 @@
       },
       "701054": {
         "id": 701054,
-        "tags": ["Tashkent", "μ"],
+        "tags": ["Tashkent", "μ", "special"],
         "type": 1,
         "rarity": 5,
         "stars": 6,
@@ -44728,7 +44753,7 @@
     "data": {
       "901121": {
         "id": 901121,
-        "tags": ["μ"],
+        "tags": ["μ", "special"],
         "type": 1,
         "rarity": 5,
         "stars": 3,
@@ -44750,7 +44775,7 @@
       },
       "901122": {
         "id": 901122,
-        "tags": ["μ"],
+        "tags": ["μ", "special"],
         "type": 1,
         "rarity": 5,
         "stars": 4,
@@ -44772,7 +44797,7 @@
       },
       "901123": {
         "id": 901123,
-        "tags": ["μ"],
+        "tags": ["μ", "special"],
         "type": 1,
         "rarity": 5,
         "stars": 5,
@@ -44794,7 +44819,7 @@
       },
       "901124": {
         "id": 901124,
-        "tags": ["μ"],
+        "tags": ["μ", "special"],
         "type": 1,
         "rarity": 5,
         "stars": 6,
@@ -45249,7 +45274,7 @@
     "data": {
       "905031": {
         "id": 905031,
-        "tags": ["μ"],
+        "tags": ["μ", "special"],
         "type": 5,
         "rarity": 5,
         "stars": 3,
@@ -45271,7 +45296,7 @@
       },
       "905032": {
         "id": 905032,
-        "tags": ["μ"],
+        "tags": ["μ", "special"],
         "type": 5,
         "rarity": 5,
         "stars": 4,
@@ -45293,7 +45318,7 @@
       },
       "905033": {
         "id": 905033,
-        "tags": ["μ"],
+        "tags": ["μ", "special"],
         "type": 5,
         "rarity": 5,
         "stars": 5,
@@ -45315,7 +45340,7 @@
       },
       "905034": {
         "id": 905034,
-        "tags": ["μ"],
+        "tags": ["μ", "special"],
         "type": 5,
         "rarity": 5,
         "stars": 6,
@@ -48401,6 +48426,718 @@
           "asw": 0
         },
         "name": {"kr": "오오카미 미오"}
+      }
+    },
+    "stars": 5
+  },
+  "1060001": {
+    "id": 1060001,
+    "code": 10061,
+    "name": {
+      "en": "Marie Rose",
+      "code": "Marie Rose",
+      "cn": "玛莉萝丝",
+      "jp": "マリー・ローズ"
+    },
+    "property_hexagon": [2, 4, 0, 4, 1, 1],
+    "type": 1,
+    "armor": 1,
+    "slots": [[1], [5], [6], [10, 14], [10, 14]],
+    "nationality": 106,
+    "data": {
+      "10600011": {
+        "id": 10600011,
+        "tags": ["DOAXVV"],
+        "type": 1,
+        "rarity": 5,
+        "stars": 3,
+        "oil": 4,
+        "max_level": 70,
+        "stats": {
+          "hp": 329,
+          "fp": 17,
+          "trp": 98,
+          "aa": 33,
+          "av": 0,
+          "rld": 82,
+          "acc": 71,
+          "eva": 71,
+          "spd": 42.6,
+          "luk": 78,
+          "asw": 52
+        }
+      },
+      "10600012": {
+        "id": 10600012,
+        "tags": ["DOAXVV"],
+        "type": 1,
+        "rarity": 5,
+        "stars": 4,
+        "oil": 6,
+        "max_level": 80,
+        "stats": {
+          "hp": 409,
+          "fp": 21,
+          "trp": 122,
+          "aa": 41,
+          "av": 0,
+          "rld": 82,
+          "acc": 71,
+          "eva": 71,
+          "spd": 42.6,
+          "luk": 78,
+          "asw": 65
+        }
+      },
+      "10600013": {
+        "id": 10600013,
+        "tags": ["DOAXVV"],
+        "type": 1,
+        "rarity": 5,
+        "stars": 5,
+        "oil": 8,
+        "max_level": 90,
+        "stats": {
+          "hp": 570,
+          "fp": 29,
+          "trp": 171,
+          "aa": 58,
+          "av": 0,
+          "rld": 82,
+          "acc": 71,
+          "eva": 71,
+          "spd": 42.6,
+          "luk": 78,
+          "asw": 90
+        }
+      },
+      "10600014": {
+        "id": 10600014,
+        "tags": ["DOAXVV"],
+        "type": 1,
+        "rarity": 5,
+        "stars": 6,
+        "oil": 10,
+        "max_level": 100,
+        "stats": {
+          "hp": 811,
+          "fp": 42,
+          "trp": 243,
+          "aa": 82,
+          "av": 0,
+          "rld": 82,
+          "acc": 71,
+          "eva": 71,
+          "spd": 42.6,
+          "luk": 78,
+          "asw": 129
+        }
+      }
+    },
+    "stars": 6
+  },
+  "1060002": {
+    "id": 1060002,
+    "code": 10062,
+    "name": {"en": "Honoka", "code": "Honoka", "cn": "穗香", "jp": "ほのか"},
+    "property_hexagon": [4, 0, 0, 1, 1, 4],
+    "type": 5,
+    "armor": 3,
+    "slots": [[4], [1, 2], [6], [10], [10]],
+    "nationality": 106,
+    "data": {
+      "10600021": {
+        "id": 10600021,
+        "tags": ["DOAXVV"],
+        "type": 5,
+        "rarity": 5,
+        "stars": 3,
+        "oil": 9,
+        "max_level": 70,
+        "stats": {
+          "hp": 1274,
+          "fp": 77,
+          "trp": 0,
+          "aa": 40,
+          "av": 0,
+          "rld": 53,
+          "acc": 19,
+          "eva": 6,
+          "spd": 26,
+          "luk": 91,
+          "asw": 0
+        }
+      },
+      "10600022": {
+        "id": 10600022,
+        "tags": ["DOAXVV"],
+        "type": 5,
+        "rarity": 5,
+        "stars": 4,
+        "oil": 11,
+        "max_level": 80,
+        "stats": {
+          "hp": 1585,
+          "fp": 96,
+          "trp": 0,
+          "aa": 50,
+          "av": 0,
+          "rld": 53,
+          "acc": 19,
+          "eva": 6,
+          "spd": 26,
+          "luk": 91,
+          "asw": 0
+        }
+      },
+      "10600023": {
+        "id": 10600023,
+        "tags": ["DOAXVV"],
+        "type": 5,
+        "rarity": 5,
+        "stars": 5,
+        "oil": 13,
+        "max_level": 90,
+        "stats": {
+          "hp": 2206,
+          "fp": 134,
+          "trp": 0,
+          "aa": 70,
+          "av": 0,
+          "rld": 53,
+          "acc": 19,
+          "eva": 6,
+          "spd": 26,
+          "luk": 91,
+          "asw": 0
+        }
+      },
+      "10600024": {
+        "id": 10600024,
+        "tags": ["DOAXVV"],
+        "type": 5,
+        "rarity": 5,
+        "stars": 6,
+        "oil": 15,
+        "max_level": 100,
+        "stats": {
+          "hp": 3138,
+          "fp": 191,
+          "trp": 0,
+          "aa": 99,
+          "av": 0,
+          "rld": 53,
+          "acc": 19,
+          "eva": 6,
+          "spd": 26,
+          "luk": 91,
+          "asw": 0
+        }
+      }
+    },
+    "stars": 6
+  },
+  "1060003": {
+    "id": 1060003,
+    "code": 10063,
+    "name": {"en": "Kasumi", "code": "Kasumi", "cn": "霞", "jp": "かすみ"},
+    "property_hexagon": [4, 2, 0, 2, 2, 4],
+    "type": 3,
+    "armor": 2,
+    "slots": [[3], [5], [6], [10], [10]],
+    "nationality": 106,
+    "data": {
+      "10600031": {
+        "id": 10600031,
+        "tags": ["DOAXVV"],
+        "type": 3,
+        "rarity": 5,
+        "stars": 3,
+        "oil": 6,
+        "max_level": 70,
+        "stats": {
+          "hp": 781,
+          "fp": 49,
+          "trp": 40,
+          "aa": 42,
+          "av": 0,
+          "rld": 64,
+          "acc": 46,
+          "eva": 18,
+          "spd": 28,
+          "luk": 85,
+          "asw": 0
+        }
+      },
+      "10600032": {
+        "id": 10600032,
+        "tags": ["DOAXVV"],
+        "type": 3,
+        "rarity": 5,
+        "stars": 4,
+        "oil": 8,
+        "max_level": 80,
+        "stats": {
+          "hp": 972,
+          "fp": 61,
+          "trp": 50,
+          "aa": 52,
+          "av": 0,
+          "rld": 64,
+          "acc": 46,
+          "eva": 18,
+          "spd": 28,
+          "luk": 85,
+          "asw": 0
+        }
+      },
+      "10600033": {
+        "id": 10600033,
+        "tags": ["DOAXVV"],
+        "type": 3,
+        "rarity": 5,
+        "stars": 5,
+        "oil": 10,
+        "max_level": 90,
+        "stats": {
+          "hp": 1353,
+          "fp": 85,
+          "trp": 70,
+          "aa": 73,
+          "av": 0,
+          "rld": 64,
+          "acc": 46,
+          "eva": 18,
+          "spd": 28,
+          "luk": 85,
+          "asw": 0
+        }
+      },
+      "10600034": {
+        "id": 10600034,
+        "tags": ["DOAXVV"],
+        "type": 3,
+        "rarity": 5,
+        "stars": 6,
+        "oil": 12,
+        "max_level": 100,
+        "stats": {
+          "hp": 1924,
+          "fp": 122,
+          "trp": 99,
+          "aa": 104,
+          "av": 0,
+          "rld": 64,
+          "acc": 46,
+          "eva": 18,
+          "spd": 28,
+          "luk": 85,
+          "asw": 0
+        }
+      }
+    },
+    "stars": 6
+  },
+  "1060004": {
+    "id": 1060004,
+    "code": 10064,
+    "name": {"en": "Misaki", "code": "Misaki", "cn": "海咲", "jp": "みさき"},
+    "property_hexagon": [3, 0, 0, 3, 3, 3],
+    "type": 2,
+    "armor": 1,
+    "slots": [[2], [1], [6], [10, 14], [10, 14]],
+    "nationality": 106,
+    "data": {
+      "10600041": {
+        "id": 10600041,
+        "tags": ["DOAXVV", "Misaki"],
+        "type": 2,
+        "rarity": 5,
+        "stars": 3,
+        "oil": 5,
+        "max_level": 70,
+        "stats": {
+          "hp": 677,
+          "fp": 31,
+          "trp": 0,
+          "aa": 62,
+          "av": 0,
+          "rld": 72,
+          "acc": 56,
+          "eva": 30,
+          "spd": 33,
+          "luk": 89,
+          "asw": 37
+        }
+      },
+      "10600042": {
+        "id": 10600042,
+        "tags": ["DOAXVV", "Misaki"],
+        "type": 2,
+        "rarity": 5,
+        "stars": 4,
+        "oil": 7,
+        "max_level": 80,
+        "stats": {
+          "hp": 842,
+          "fp": 39,
+          "trp": 0,
+          "aa": 77,
+          "av": 0,
+          "rld": 72,
+          "acc": 56,
+          "eva": 30,
+          "spd": 33,
+          "luk": 89,
+          "asw": 46
+        }
+      },
+      "10600043": {
+        "id": 10600043,
+        "tags": ["DOAXVV", "Misaki"],
+        "type": 2,
+        "rarity": 5,
+        "stars": 5,
+        "oil": 9,
+        "max_level": 90,
+        "stats": {
+          "hp": 1172,
+          "fp": 54,
+          "trp": 0,
+          "aa": 107,
+          "av": 0,
+          "rld": 72,
+          "acc": 56,
+          "eva": 30,
+          "spd": 33,
+          "luk": 89,
+          "asw": 65
+        }
+      },
+      "10600044": {
+        "id": 10600044,
+        "tags": ["DOAXVV", "Misaki"],
+        "type": 2,
+        "rarity": 5,
+        "stars": 6,
+        "oil": 11,
+        "max_level": 100,
+        "stats": {
+          "hp": 1667,
+          "fp": 77,
+          "trp": 0,
+          "aa": 153,
+          "av": 0,
+          "rld": 72,
+          "acc": 56,
+          "eva": 30,
+          "spd": 33,
+          "luk": 89,
+          "asw": 93
+        }
+      }
+    },
+    "stars": 6
+  },
+  "1060005": {
+    "id": 1060005,
+    "code": 10065,
+    "name": {"en": "Nagisa", "code": "Nagisa", "cn": "凪咲", "jp": "なぎさ"},
+    "property_hexagon": [4, 0, 0, 1, 1, 4],
+    "type": 5,
+    "armor": 3,
+    "slots": [[4], [1, 2], [6], [10], [10]],
+    "nationality": 106,
+    "data": {
+      "10600051": {
+        "id": 10600051,
+        "tags": ["DOAXVV", "Nagisa"],
+        "type": 5,
+        "rarity": 4,
+        "stars": 2,
+        "oil": 8,
+        "max_level": 70,
+        "stats": {
+          "hp": 1245,
+          "fp": 73,
+          "trp": 0,
+          "aa": 32,
+          "av": 0,
+          "rld": 55,
+          "acc": 20,
+          "eva": 8,
+          "spd": 30,
+          "luk": 87,
+          "asw": 0
+        }
+      },
+      "10600052": {
+        "id": 10600052,
+        "tags": ["DOAXVV", "Nagisa"],
+        "type": 5,
+        "rarity": 4,
+        "stars": 3,
+        "oil": 10,
+        "max_level": 80,
+        "stats": {
+          "hp": 1549,
+          "fp": 91,
+          "trp": 0,
+          "aa": 40,
+          "av": 0,
+          "rld": 55,
+          "acc": 20,
+          "eva": 8,
+          "spd": 30,
+          "luk": 87,
+          "asw": 0
+        }
+      },
+      "10600053": {
+        "id": 10600053,
+        "tags": ["DOAXVV", "Nagisa"],
+        "type": 5,
+        "rarity": 4,
+        "stars": 4,
+        "oil": 12,
+        "max_level": 90,
+        "stats": {
+          "hp": 2156,
+          "fp": 127,
+          "trp": 0,
+          "aa": 56,
+          "av": 0,
+          "rld": 55,
+          "acc": 20,
+          "eva": 8,
+          "spd": 30,
+          "luk": 87,
+          "asw": 0
+        }
+      },
+      "10600054": {
+        "id": 10600054,
+        "tags": ["DOAXVV", "Nagisa"],
+        "type": 5,
+        "rarity": 4,
+        "stars": 5,
+        "oil": 14,
+        "max_level": 100,
+        "stats": {
+          "hp": 3066,
+          "fp": 181,
+          "trp": 0,
+          "aa": 80,
+          "av": 0,
+          "rld": 55,
+          "acc": 20,
+          "eva": 8,
+          "spd": 30,
+          "luk": 87,
+          "asw": 0
+        }
+      }
+    },
+    "stars": 5
+  },
+  "1060006": {
+    "id": 1060006,
+    "code": 10066,
+    "name": {"en": "Nyotengu", "code": "Nyotengu", "cn": "女天狗", "jp": "女天狗"},
+    "property_hexagon": [0, 0, 5, 2, 3, 3],
+    "type": 7,
+    "armor": 2,
+    "slots": [[7], [9], [8], [10], [10]],
+    "nationality": 106,
+    "data": {
+      "10600061": {
+        "id": 10600061,
+        "tags": ["DOAXVV"],
+        "type": 7,
+        "rarity": 4,
+        "stars": 2,
+        "oil": 6,
+        "max_level": 70,
+        "stats": {
+          "hp": 1108,
+          "fp": 0,
+          "trp": 0,
+          "aa": 58,
+          "av": 71,
+          "rld": 43,
+          "acc": 30,
+          "eva": 13,
+          "spd": 32.5,
+          "luk": 88,
+          "asw": 0
+        }
+      },
+      "10600062": {
+        "id": 10600062,
+        "tags": ["DOAXVV"],
+        "type": 7,
+        "rarity": 4,
+        "stars": 3,
+        "oil": 8,
+        "max_level": 80,
+        "stats": {
+          "hp": 1378,
+          "fp": 0,
+          "trp": 0,
+          "aa": 72,
+          "av": 89,
+          "rld": 43,
+          "acc": 30,
+          "eva": 13,
+          "spd": 32.5,
+          "luk": 88,
+          "asw": 0
+        }
+      },
+      "10600063": {
+        "id": 10600063,
+        "tags": ["DOAXVV"],
+        "type": 7,
+        "rarity": 4,
+        "stars": 4,
+        "oil": 10,
+        "max_level": 90,
+        "stats": {
+          "hp": 1919,
+          "fp": 0,
+          "trp": 0,
+          "aa": 101,
+          "av": 124,
+          "rld": 43,
+          "acc": 30,
+          "eva": 13,
+          "spd": 32.5,
+          "luk": 88,
+          "asw": 0
+        }
+      },
+      "10600064": {
+        "id": 10600064,
+        "tags": ["DOAXVV"],
+        "type": 7,
+        "rarity": 4,
+        "stars": 5,
+        "oil": 12,
+        "max_level": 100,
+        "stats": {
+          "hp": 2730,
+          "fp": 0,
+          "trp": 0,
+          "aa": 144,
+          "av": 176,
+          "rld": 43,
+          "acc": 30,
+          "eva": 13,
+          "spd": 32.5,
+          "luk": 88,
+          "asw": 0
+        }
+      }
+    },
+    "stars": 5
+  },
+  "1060007": {
+    "id": 1060007,
+    "code": 10067,
+    "name": {"en": "Monica", "code": "Monica", "cn": "莫妮卡", "jp": "モニカ"},
+    "property_hexagon": [3, 3, 0, 3, 2, 2],
+    "type": 2,
+    "armor": 1,
+    "slots": [[2], [5], [6], [10, 14], [10, 14]],
+    "nationality": 106,
+    "data": {
+      "10600071": {
+        "id": 10600071,
+        "tags": ["DOAXVV"],
+        "type": 2,
+        "rarity": 4,
+        "stars": 2,
+        "oil": 4,
+        "max_level": 70,
+        "stats": {
+          "hp": 652,
+          "fp": 27,
+          "trp": 54,
+          "aa": 68,
+          "av": 0,
+          "rld": 67,
+          "acc": 55,
+          "eva": 29,
+          "spd": 32,
+          "luk": 88,
+          "asw": 21
+        }
+      },
+      "10600072": {
+        "id": 10600072,
+        "tags": ["DOAXVV"],
+        "type": 2,
+        "rarity": 4,
+        "stars": 3,
+        "oil": 6,
+        "max_level": 80,
+        "stats": {
+          "hp": 811,
+          "fp": 34,
+          "trp": 67,
+          "aa": 85,
+          "av": 0,
+          "rld": 67,
+          "acc": 55,
+          "eva": 29,
+          "spd": 32,
+          "luk": 88,
+          "asw": 26
+        }
+      },
+      "10600073": {
+        "id": 10600073,
+        "tags": ["DOAXVV"],
+        "type": 2,
+        "rarity": 4,
+        "stars": 4,
+        "oil": 8,
+        "max_level": 90,
+        "stats": {
+          "hp": 1129,
+          "fp": 47,
+          "trp": 94,
+          "aa": 118,
+          "av": 0,
+          "rld": 67,
+          "acc": 55,
+          "eva": 29,
+          "spd": 32,
+          "luk": 88,
+          "asw": 37
+        }
+      },
+      "10600074": {
+        "id": 10600074,
+        "tags": ["DOAXVV"],
+        "type": 2,
+        "rarity": 4,
+        "stars": 5,
+        "oil": 10,
+        "max_level": 100,
+        "stats": {
+          "hp": 1606,
+          "fp": 68,
+          "trp": 135,
+          "aa": 168,
+          "av": 0,
+          "rld": 67,
+          "acc": 55,
+          "eva": 29,
+          "spd": 32,
+          "luk": 88,
+          "asw": 52
+        }
       }
     },
     "stars": 5
