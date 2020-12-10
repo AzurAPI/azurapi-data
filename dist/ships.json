@@ -48437,7 +48437,8 @@
       "en": "Marie Rose",
       "code": "Marie Rose",
       "cn": "玛莉萝丝",
-      "jp": "マリー・ローズ"
+      "jp": "マリー・ローズ",
+      "kr": "마리 로즈"
     },
     "property_hexagon": [2, 4, 0, 4, 1, 1],
     "type": 1,
@@ -48539,7 +48540,13 @@
   "1060002": {
     "id": 1060002,
     "code": 10062,
-    "name": {"en": "Honoka", "code": "Honoka", "cn": "穗香", "jp": "ほのか"},
+    "name": {
+      "en": "Honoka",
+      "code": "Honoka",
+      "cn": "穗香",
+      "jp": "ほのか",
+      "kr": "호노카"
+    },
     "property_hexagon": [4, 0, 0, 1, 1, 4],
     "type": 5,
     "armor": 3,
@@ -48640,7 +48647,13 @@
   "1060003": {
     "id": 1060003,
     "code": 10063,
-    "name": {"en": "Kasumi", "code": "Kasumi", "cn": "霞", "jp": "かすみ"},
+    "name": {
+      "en": "Kasumi",
+      "code": "Kasumi",
+      "cn": "霞",
+      "jp": "かすみ",
+      "kr": "카스미"
+    },
     "property_hexagon": [4, 2, 0, 2, 2, 4],
     "type": 3,
     "armor": 2,
@@ -48741,7 +48754,13 @@
   "1060004": {
     "id": 1060004,
     "code": 10064,
-    "name": {"en": "Misaki", "code": "Misaki", "cn": "海咲", "jp": "みさき"},
+    "name": {
+      "en": "Misaki",
+      "code": "Misaki",
+      "cn": "海咲",
+      "jp": "みさき",
+      "kr": "미사키"
+    },
     "property_hexagon": [3, 0, 0, 3, 3, 3],
     "type": 2,
     "armor": 1,
@@ -48842,7 +48861,13 @@
   "1060005": {
     "id": 1060005,
     "code": 10065,
-    "name": {"en": "Nagisa", "code": "Nagisa", "cn": "凪咲", "jp": "なぎさ"},
+    "name": {
+      "en": "Nagisa",
+      "code": "Nagisa",
+      "cn": "凪咲",
+      "jp": "なぎさ",
+      "kr": "나기사"
+    },
     "property_hexagon": [4, 0, 0, 1, 1, 4],
     "type": 5,
     "armor": 3,
@@ -48943,7 +48968,13 @@
   "1060006": {
     "id": 1060006,
     "code": 10066,
-    "name": {"en": "Nyotengu", "code": "Nyotengu", "cn": "女天狗", "jp": "女天狗"},
+    "name": {
+      "en": "Nyotengu",
+      "code": "Nyotengu",
+      "cn": "女天狗",
+      "jp": "女天狗",
+      "kr": "뇨텐구"
+    },
     "property_hexagon": [0, 0, 5, 2, 3, 3],
     "type": 7,
     "armor": 2,
@@ -49044,7 +49075,13 @@
   "1060007": {
     "id": 1060007,
     "code": 10067,
-    "name": {"en": "Monica", "code": "Monica", "cn": "莫妮卡", "jp": "モニカ"},
+    "name": {
+      "en": "Monica",
+      "code": "Monica",
+      "cn": "莫妮卡",
+      "jp": "モニカ",
+      "kr": "모니카"
+    },
     "property_hexagon": [3, 3, 0, 3, 2, 2],
     "type": 2,
     "armor": 1,

@@ -13,7 +13,7 @@ const NATIONALITY = {
     3: "Sakura Empire", 4: "Iron Blood", 5: "Dragon Empery",
     6: "Sardegna Empire", 7: "Northern Parliament", 8: "Iris Libre",
     9: "Vichya Dominion", 98: "Universal", 101: "Neptunia",
-    104: "Kizuna AI", 105: "Hololive"
+    104: "Kizuna AI", 105: "Hololive", 106: "Venus Vacation"
 };
 
 let TYPES = {};
