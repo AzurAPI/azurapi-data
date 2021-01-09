@@ -28,10 +28,10 @@ const HEXAGON_RANK = {
 const FAKE_SHIPS = [900042, 900045, 900046, 900162, 900913, 900914].map(i => String(i));
 
 function readFilesFromLanguage(lang = "EN") {
-    let groups = JSON.parse(fs.readFileSync(path.join(__dirname, "../AzurLaneSourceJSON/" + lang + "/sharecfg/ship_data_group.json")).toString());
-    let ships = JSON.parse(fs.readFileSync(path.join(__dirname, "../AzurLaneSourceJSON/" + lang + "/sharecfg/ship_data_template.json")).toString());
-    let stats = JSON.parse(fs.readFileSync(path.join(__dirname, "../AzurLaneSourceJSON/" + lang + "/sharecfg/ship_data_statistics.json")).toString());
-    let types = JSON.parse(fs.readFileSync(path.join(__dirname, "../AzurLaneSourceJSON/" + lang + "/sharecfg/ship_data_by_type.json")).toString());
+    let groups = JSON.parse(fs.readFileSync(path.join(__dirname, "..", "AzurLaneSourceJSON", lang, "sharecfg", "ship_data_group.json")).toString());
+    let ships = JSON.parse(fs.readFileSync(path.join(__dirname, "..", "AzurLaneSourceJSON", lang, "sharecfg", "ship_data_template.json")).toString());
+    let stats = JSON.parse(fs.readFileSync(path.join(__dirname, "..", "AzurLaneSourceJSON", lang, "sharecfg", "ship_data_statistics.json")).toString());
+    let types = JSON.parse(fs.readFileSync(path.join(__dirname, "..", "AzurLaneSourceJSON", lang, "sharecfg", "ship_data_by_type.json")).toString());
     [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 17, 18, 19].forEach(type => {
         if (!TYPES[type]) TYPES[type] = {};
         if (!TYPES[type][lang.toLowerCase()]) TYPES[type][lang.toLowerCase()] = types[type].type_name.trim();
