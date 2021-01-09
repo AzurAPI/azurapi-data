@@ -119,10 +119,8 @@ function readFilesFromLanguage(lang = "EN") {
 }
 
 function parseShips() {
-    fs.readdir(path.join(__dirname, "../"), (err, files) => {
-        console.log("Loaded");
-        files.forEach(file => console.log(" -+ " + file));
-    });
+    let strings = fs.readdirSync(path.join(__dirname, "../"));
+    strings.forEach(file => console.log(" -+ " + file));
     readFilesFromLanguage("EN");
     readFilesFromLanguage("CN");
     readFilesFromLanguage("JP");
