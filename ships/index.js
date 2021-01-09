@@ -28,6 +28,7 @@ const HEXAGON_RANK = {
 const FAKE_SHIPS = [900042, 900045, 900046, 900162, 900913, 900914].map(i => String(i));
 
 function readFilesFromLanguage(lang = "EN") {
+    console.log("Exists", fs.existsSync(path.join(__dirname, "..", "AzurLaneSourceJSON", lang, "sharecfg", "ship_data_group.json")));
     let groups = JSON.parse(fs.readFileSync(path.join(__dirname, "..", "AzurLaneSourceJSON", lang, "sharecfg", "ship_data_group.json")).toString());
     let ships = JSON.parse(fs.readFileSync(path.join(__dirname, "..", "AzurLaneSourceJSON", lang, "sharecfg", "ship_data_template.json")).toString());
     let stats = JSON.parse(fs.readFileSync(path.join(__dirname, "..", "AzurLaneSourceJSON", lang, "sharecfg", "ship_data_statistics.json")).toString());
