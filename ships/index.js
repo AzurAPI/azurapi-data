@@ -119,8 +119,8 @@ function readFilesFromLanguage(lang = "EN") {
 }
 
 function parseShips() {
-    fs.readdir(path.join(__dirname, "../AzurLaneSourceJSON/"), (err, files) => {
-        console.log("Loaded AzurLaneSourceJSON...");
+    fs.readdir(path.join(__dirname, "../"), (err, files) => {
+        console.log("Loaded");
         files.forEach(file => console.log(" -+ " + file));
     });
     readFilesFromLanguage("EN");
