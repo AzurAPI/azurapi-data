@@ -1,4 +1,5 @@
 const fs = require("fs");
+const path = require("path");
 const stringify = require("json-stringify-pretty-compact");
 
 const RARITY = {
@@ -27,10 +28,10 @@ const HEXAGON_RANK = {
 const FAKE_SHIPS = [900042, 900045, 900046, 900162, 900913, 900914].map(i => String(i));
 
 function readFilesFromLanguage(lang = "EN") {
-    let groups = require("../AzurLaneSourceJSON/" + lang + "/sharecfg/ship_data_group.json");
-    let ships = require("../AzurLaneSourceJSON/" + lang + "/sharecfg/ship_data_template.json");
-    let stats = require("../AzurLaneSourceJSON/" + lang + "/sharecfg/ship_data_statistics.json");
-    let types = require("../AzurLaneSourceJSON/" + lang + "/sharecfg/ship_data_by_type.json");
+    let groups = require(path.join(__dirname, "../AzurLaneSourceJSON/" + lang + "/sharecfg/ship_data_group.json"));
+    let ships = require(path.join(__dirname, "../AzurLaneSourceJSON/" + lang + "/sharecfg/ship_data_template.json"));
+    let stats = require(path.join(__dirname, "../AzurLaneSourceJSON/" + lang + "/sharecfg/ship_data_statistics.json"));
+    let types = require(path.join(__dirname, "../AzurLaneSourceJSON/" + lang + "/sharecfg/ship_data_by_type.json"));
     [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 17, 18, 19].forEach(type => {
         if (!TYPES[type]) TYPES[type] = {};
         if (!TYPES[type][lang.toLowerCase()]) TYPES[type][lang.toLowerCase()] = types[type].type_name.trim();
@@ -123,8 +124,8 @@ function parseShips() {
     readFilesFromLanguage("JP");
     readFilesFromLanguage("KR");
     readFilesFromLanguage("TW");
-    fs.writeFileSync("./dist/ships.json", stringify(compiled));
-    fs.writeFileSync("./dist/types.json", stringify(TYPES));
+    fs.writeFileSync(path.join(__dirname, "../dist/ships.json"), stringify(compiled));
+    fs.writeFileSync(path.join(__dirname, "../dist/types.json"), stringify(TYPES));
 }
 
 module.exports = {parseShips};
