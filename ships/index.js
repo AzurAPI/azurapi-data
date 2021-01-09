@@ -119,7 +119,7 @@ function readFilesFromLanguage(lang = "EN") {
 }
 
 function parseShips() {
-    let strings = fs.readdirSync(path.join(__dirname, "../AzurLaneSourceJson"));
+    let strings = fs.readdirSync(path.join(__dirname, "../AzurLaneSourceJson/EN/sharecfg/"));
     strings.forEach(file => console.log(" -+ " + file));
     readFilesFromLanguage("EN");
     readFilesFromLanguage("CN");
