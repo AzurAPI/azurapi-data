@@ -37833,107 +37833,6 @@
     },
     "stars": 5
   },
-  "40124": {
-    "id": 40124,
-    "code": 487,
-    "name": {"en": "Z24", "code": "KMS Z24", "cn": "Z24", "jp": "Z24"},
-    "property_hexagon": [4, 2, 0, 3, 1, 1],
-    "type": 1,
-    "armor": 1,
-    "slots": [[1, 2], [5], [6], [10, 14], [10, 14]],
-    "nationality": 4,
-    "data": {
-      "401241": {
-        "id": 401241,
-        "tags": ["Z-Class", "Z24"],
-        "type": 1,
-        "rarity": 4,
-        "stars": 2,
-        "oil": 3,
-        "max_level": 70,
-        "stats": {
-          "hp": 345,
-          "fp": 22,
-          "trp": 61,
-          "aa": 28,
-          "av": 0,
-          "rld": 73,
-          "acc": 64,
-          "eva": 58,
-          "spd": 43.2,
-          "luk": 56,
-          "asw": 49
-        }
-      },
-      "401242": {
-        "id": 401242,
-        "tags": ["Z-Class", "Z24"],
-        "type": 1,
-        "rarity": 4,
-        "stars": 3,
-        "oil": 5,
-        "max_level": 80,
-        "stats": {
-          "hp": 429,
-          "fp": 28,
-          "trp": 76,
-          "aa": 35,
-          "av": 0,
-          "rld": 73,
-          "acc": 64,
-          "eva": 58,
-          "spd": 43.2,
-          "luk": 56,
-          "asw": 61
-        }
-      },
-      "401243": {
-        "id": 401243,
-        "tags": ["Z-Class", "Z24"],
-        "type": 1,
-        "rarity": 4,
-        "stars": 4,
-        "oil": 7,
-        "max_level": 90,
-        "stats": {
-          "hp": 598,
-          "fp": 39,
-          "trp": 107,
-          "aa": 49,
-          "av": 0,
-          "rld": 73,
-          "acc": 64,
-          "eva": 58,
-          "spd": 43.2,
-          "luk": 56,
-          "asw": 86
-        }
-      },
-      "401244": {
-        "id": 401244,
-        "tags": ["Z-Class", "Z24"],
-        "type": 1,
-        "rarity": 4,
-        "stars": 5,
-        "oil": 9,
-        "max_level": 100,
-        "stats": {
-          "hp": 851,
-          "fp": 55,
-          "trp": 152,
-          "aa": 69,
-          "av": 0,
-          "rld": 73,
-          "acc": 64,
-          "eva": 58,
-          "spd": 43.2,
-          "luk": 56,
-          "asw": 123
-        }
-      }
-    },
-    "stars": 5
-  },
   "40125": {
     "id": 40125,
     "code": 237,
@@ -38144,107 +38043,6 @@
           "spd": 43.2,
           "luk": 43,
           "asw": 123
-        }
-      }
-    },
-    "stars": 5
-  },
-  "40128": {
-    "id": 40128,
-    "code": 488,
-    "name": {"en": "Z28", "code": "KMS Z28", "cn": "Z28", "jp": "Z28"},
-    "property_hexagon": [4, 2, 0, 3, 1, 1],
-    "type": 1,
-    "armor": 1,
-    "slots": [[1, 2], [5], [6], [10, 14], [10, 14]],
-    "nationality": 4,
-    "data": {
-      "401281": {
-        "id": 401281,
-        "tags": ["Z-Class", "Z28"],
-        "type": 1,
-        "rarity": 4,
-        "stars": 2,
-        "oil": 3,
-        "max_level": 70,
-        "stats": {
-          "hp": 345,
-          "fp": 14,
-          "trp": 81,
-          "aa": 27,
-          "av": 0,
-          "rld": 76,
-          "acc": 61,
-          "eva": 58,
-          "spd": 43.2,
-          "luk": 45,
-          "asw": 48
-        }
-      },
-      "401282": {
-        "id": 401282,
-        "tags": ["Z-Class", "Z28"],
-        "type": 1,
-        "rarity": 4,
-        "stars": 3,
-        "oil": 5,
-        "max_level": 80,
-        "stats": {
-          "hp": 429,
-          "fp": 18,
-          "trp": 101,
-          "aa": 34,
-          "av": 0,
-          "rld": 76,
-          "acc": 61,
-          "eva": 58,
-          "spd": 43.2,
-          "luk": 45,
-          "asw": 60
-        }
-      },
-      "401283": {
-        "id": 401283,
-        "tags": ["Z-Class", "Z28"],
-        "type": 1,
-        "rarity": 4,
-        "stars": 4,
-        "oil": 7,
-        "max_level": 90,
-        "stats": {
-          "hp": 598,
-          "fp": 25,
-          "trp": 141,
-          "aa": 47,
-          "av": 0,
-          "rld": 76,
-          "acc": 61,
-          "eva": 58,
-          "spd": 43.2,
-          "luk": 45,
-          "asw": 84
-        }
-      },
-      "401284": {
-        "id": 401284,
-        "tags": ["Z-Class", "Z28"],
-        "type": 1,
-        "rarity": 4,
-        "stars": 5,
-        "oil": 9,
-        "max_level": 100,
-        "stats": {
-          "hp": 850,
-          "fp": 35,
-          "trp": 201,
-          "aa": 66,
-          "av": 0,
-          "rld": 76,
-          "acc": 61,
-          "eva": 58,
-          "spd": 43.2,
-          "luk": 45,
-          "asw": 120
         }
       }
     },
@@ -38947,7 +38745,6 @@
     "data": {
       "402041": {
         "id": 402041,
-        "tags": ["Leipzig-Class"],
         "type": 2,
         "rarity": 3,
         "stars": 2,
@@ -38969,7 +38766,6 @@
       },
       "402042": {
         "id": 402042,
-        "tags": ["Leipzig-Class"],
         "type": 2,
         "rarity": 3,
         "stars": 3,
@@ -38991,7 +38787,6 @@
       },
       "402043": {
         "id": 402043,
-        "tags": ["Leipzig-Class"],
         "type": 2,
         "rarity": 3,
         "stars": 4,
@@ -39013,7 +38808,6 @@
       },
       "402044": {
         "id": 402044,
-        "tags": ["Leipzig-Class"],
         "type": 2,
         "rarity": 3,
         "stars": 5,
@@ -39031,112 +38825,6 @@
           "spd": 32,
           "luk": 67,
           "asw": 59
-        }
-      }
-    },
-    "stars": 5
-  },
-  "40205": {
-    "id": 40205,
-    "code": 486,
-    "name": {
-      "en": "Nürnberg",
-      "code": "KMS Nürnberg",
-      "cn": "纽伦堡",
-      "jp": "ニュルンベルク"
-    },
-    "property_hexagon": [3, 4, 0, 3, 4, 2],
-    "type": 2,
-    "armor": 1,
-    "slots": [[2], [5], [6], [10, 14], [10, 14]],
-    "nationality": 4,
-    "data": {
-      "402051": {
-        "id": 402051,
-        "tags": ["Leipzig-Class"],
-        "type": 2,
-        "rarity": 4,
-        "stars": 2,
-        "oil": 4,
-        "max_level": 70,
-        "stats": {
-          "hp": 655,
-          "fp": 33,
-          "trp": 57,
-          "aa": 77,
-          "av": 0,
-          "rld": 70,
-          "acc": 53,
-          "eva": 28,
-          "spd": 32,
-          "luk": 80,
-          "asw": 24
-        }
-      },
-      "402052": {
-        "id": 402052,
-        "tags": ["Leipzig-Class"],
-        "type": 2,
-        "rarity": 4,
-        "stars": 3,
-        "oil": 6,
-        "max_level": 80,
-        "stats": {
-          "hp": 815,
-          "fp": 41,
-          "trp": 71,
-          "aa": 96,
-          "av": 0,
-          "rld": 70,
-          "acc": 53,
-          "eva": 28,
-          "spd": 32,
-          "luk": 80,
-          "asw": 30
-        }
-      },
-      "402053": {
-        "id": 402053,
-        "tags": ["Leipzig-Class"],
-        "type": 2,
-        "rarity": 4,
-        "stars": 4,
-        "oil": 8,
-        "max_level": 90,
-        "stats": {
-          "hp": 1135,
-          "fp": 57,
-          "trp": 99,
-          "aa": 134,
-          "av": 0,
-          "rld": 70,
-          "acc": 53,
-          "eva": 28,
-          "spd": 32,
-          "luk": 80,
-          "asw": 42
-        }
-      },
-      "402054": {
-        "id": 402054,
-        "tags": ["Leipzig-Class"],
-        "type": 2,
-        "rarity": 4,
-        "stars": 5,
-        "oil": 10,
-        "max_level": 100,
-        "stats": {
-          "hp": 1614,
-          "fp": 81,
-          "trp": 141,
-          "aa": 191,
-          "av": 0,
-          "rld": 70,
-          "acc": 53,
-          "eva": 28,
-          "spd": 32,
-          "luk": 80,
-          "asw": 60
         }
       }
     },
@@ -39788,112 +39476,6 @@
     },
     "stars": 6
   },
-  "40309": {
-    "id": 40309,
-    "code": 483,
-    "name": {
-      "en": "Prinz Heinrich",
-      "code": "KMS Prinz Heinrich",
-      "cn": "海因里希亲王",
-      "jp": "プリンツ・ハインリヒ"
-    },
-    "property_hexagon": [4, 2, 0, 2, 3, 5],
-    "type": 3,
-    "armor": 2,
-    "slots": [[3, 11], [5], [6], [10], [10]],
-    "nationality": 4,
-    "data": {
-      "403091": {
-        "id": 403091,
-        "tags": ["P1"],
-        "type": 3,
-        "rarity": 5,
-        "stars": 3,
-        "oil": 6,
-        "max_level": 70,
-        "stats": {
-          "hp": 1022,
-          "fp": 58,
-          "trp": 45,
-          "aa": 41,
-          "av": 0,
-          "rld": 67,
-          "acc": 45,
-          "eva": 11,
-          "spd": 26.4,
-          "luk": 50,
-          "asw": 0
-        }
-      },
-      "403092": {
-        "id": 403092,
-        "tags": ["P1"],
-        "type": 3,
-        "rarity": 5,
-        "stars": 4,
-        "oil": 8,
-        "max_level": 80,
-        "stats": {
-          "hp": 1271,
-          "fp": 72,
-          "trp": 56,
-          "aa": 51,
-          "av": 0,
-          "rld": 67,
-          "acc": 45,
-          "eva": 11,
-          "spd": 26.4,
-          "luk": 50,
-          "asw": 0
-        }
-      },
-      "403093": {
-        "id": 403093,
-        "tags": ["P1"],
-        "type": 3,
-        "rarity": 5,
-        "stars": 5,
-        "oil": 10,
-        "max_level": 90,
-        "stats": {
-          "hp": 1770,
-          "fp": 101,
-          "trp": 79,
-          "aa": 71,
-          "av": 0,
-          "rld": 67,
-          "acc": 45,
-          "eva": 11,
-          "spd": 26.4,
-          "luk": 50,
-          "asw": 0
-        }
-      },
-      "403094": {
-        "id": 403094,
-        "tags": ["P1"],
-        "type": 3,
-        "rarity": 5,
-        "stars": 6,
-        "oil": 12,
-        "max_level": 100,
-        "stats": {
-          "hp": 2518,
-          "fp": 144,
-          "trp": 112,
-          "aa": 101,
-          "av": 0,
-          "rld": 67,
-          "acc": 45,
-          "eva": 11,
-          "spd": 26.4,
-          "luk": 50,
-          "asw": 0
-        }
-      }
-    },
-    "stars": 6
-  },
   "40401": {
     "id": 40401,
     "code": 248,
@@ -40369,107 +39951,6 @@
     },
     "stars": 6
   },
-  "40601": {
-    "id": 40601,
-    "code": 485,
-    "name": {"en": "Weser", "code": "KMS Weser", "cn": "威悉", "jp": "ヴェーザー"},
-    "property_hexagon": [0, 0, 4, 2, 3, 3],
-    "type": 6,
-    "armor": 2,
-    "slots": [[7], [9], [6], [10, 15], [10, 15]],
-    "nationality": 4,
-    "data": {
-      "406011": {
-        "id": 406011,
-        "tags": ["Weser"],
-        "type": 6,
-        "rarity": 4,
-        "stars": 2,
-        "oil": 5,
-        "max_level": 70,
-        "stats": {
-          "hp": 787,
-          "fp": 0,
-          "trp": 0,
-          "aa": 49,
-          "av": 60,
-          "rld": 66,
-          "acc": 29,
-          "eva": 21,
-          "spd": 32,
-          "luk": 30,
-          "asw": 17
-        }
-      },
-      "406012": {
-        "id": 406012,
-        "tags": ["Weser"],
-        "type": 6,
-        "rarity": 4,
-        "stars": 3,
-        "oil": 7,
-        "max_level": 80,
-        "stats": {
-          "hp": 979,
-          "fp": 0,
-          "trp": 0,
-          "aa": 61,
-          "av": 75,
-          "rld": 66,
-          "acc": 29,
-          "eva": 21,
-          "spd": 32,
-          "luk": 30,
-          "asw": 21
-        }
-      },
-      "406013": {
-        "id": 406013,
-        "tags": ["Weser"],
-        "type": 6,
-        "rarity": 4,
-        "stars": 4,
-        "oil": 9,
-        "max_level": 90,
-        "stats": {
-          "hp": 1363,
-          "fp": 0,
-          "trp": 0,
-          "aa": 85,
-          "av": 105,
-          "rld": 66,
-          "acc": 29,
-          "eva": 21,
-          "spd": 32,
-          "luk": 30,
-          "asw": 30
-        }
-      },
-      "406014": {
-        "id": 406014,
-        "tags": ["Weser"],
-        "type": 6,
-        "rarity": 4,
-        "stars": 5,
-        "oil": 11,
-        "max_level": 100,
-        "stats": {
-          "hp": 1938,
-          "fp": 0,
-          "trp": 0,
-          "aa": 122,
-          "av": 150,
-          "rld": 66,
-          "acc": 29,
-          "eva": 21,
-          "spd": 32,
-          "luk": 30,
-          "asw": 43
-        }
-      }
-    },
-    "stars": 5
-  },
   "40701": {
     "id": 40701,
     "code": 252,
@@ -40489,7 +39970,6 @@
     "data": {
       "407011": {
         "id": 407011,
-        "tags": ["Graf Zeppelin-Class"],
         "type": 7,
         "rarity": 5,
         "stars": 3,
@@ -40511,7 +39991,6 @@
       },
       "407012": {
         "id": 407012,
-        "tags": ["Graf Zeppelin-Class"],
         "type": 7,
         "rarity": 5,
         "stars": 4,
@@ -40533,7 +40012,6 @@
       },
       "407013": {
         "id": 407013,
-        "tags": ["Graf Zeppelin-Class"],
         "type": 7,
         "rarity": 5,
         "stars": 5,
@@ -40555,7 +40033,6 @@
       },
       "407014": {
         "id": 407014,
-        "tags": ["Graf Zeppelin-Class"],
         "type": 7,
         "rarity": 5,
         "stars": 6,
@@ -40620,7 +40097,7 @@
     "data": {
       "407021": {
         "id": 407021,
-        "tags": ["Graf Zeppelin-Class", "special"],
+        "tags": ["special"],
         "type": 7,
         "rarity": 4,
         "stars": 2,
@@ -40642,7 +40119,7 @@
       },
       "407022": {
         "id": 407022,
-        "tags": ["Graf Zeppelin-Class", "special"],
+        "tags": ["special"],
         "type": 7,
         "rarity": 4,
         "stars": 3,
@@ -40664,7 +40141,7 @@
       },
       "407023": {
         "id": 407023,
-        "tags": ["Graf Zeppelin-Class", "special"],
+        "tags": ["special"],
         "type": 7,
         "rarity": 4,
         "stars": 4,
@@ -40686,7 +40163,7 @@
       },
       "407024": {
         "id": 407024,
-        "tags": ["Graf Zeppelin-Class", "special"],
+        "tags": ["special"],
         "type": 7,
         "rarity": 4,
         "stars": 5,
@@ -40708,112 +40185,6 @@
       }
     },
     "stars": 5
-  },
-  "40703": {
-    "id": 40703,
-    "code": 482,
-    "name": {
-      "en": "Peter Strasser",
-      "code": "KMS Peter Strasser",
-      "cn": "彼得·史特拉塞",
-      "jp": "ペーター・シュトラッサー"
-    },
-    "property_hexagon": [0, 0, 5, 2, 3, 4],
-    "type": 7,
-    "armor": 2,
-    "slots": [[7], [9], [8], [10], [10]],
-    "nationality": 4,
-    "data": {
-      "407031": {
-        "id": 407031,
-        "tags": ["Graf Zeppelin-Class"],
-        "type": 7,
-        "rarity": 5,
-        "stars": 3,
-        "oil": 7,
-        "max_level": 70,
-        "stats": {
-          "hp": 1317,
-          "fp": 0,
-          "trp": 0,
-          "aa": 58,
-          "av": 81,
-          "rld": 51,
-          "acc": 35,
-          "eva": 14,
-          "spd": 33.8,
-          "luk": 45,
-          "asw": 0
-        }
-      },
-      "407032": {
-        "id": 407032,
-        "tags": ["Graf Zeppelin-Class"],
-        "type": 7,
-        "rarity": 5,
-        "stars": 4,
-        "oil": 9,
-        "max_level": 80,
-        "stats": {
-          "hp": 1638,
-          "fp": 0,
-          "trp": 0,
-          "aa": 72,
-          "av": 101,
-          "rld": 51,
-          "acc": 35,
-          "eva": 14,
-          "spd": 33.8,
-          "luk": 45,
-          "asw": 0
-        }
-      },
-      "407033": {
-        "id": 407033,
-        "tags": ["Graf Zeppelin-Class"],
-        "type": 7,
-        "rarity": 5,
-        "stars": 5,
-        "oil": 11,
-        "max_level": 90,
-        "stats": {
-          "hp": 2280,
-          "fp": 0,
-          "trp": 0,
-          "aa": 101,
-          "av": 141,
-          "rld": 51,
-          "acc": 35,
-          "eva": 14,
-          "spd": 33.8,
-          "luk": 45,
-          "asw": 0
-        }
-      },
-      "407034": {
-        "id": 407034,
-        "tags": ["Graf Zeppelin-Class"],
-        "type": 7,
-        "rarity": 5,
-        "stars": 6,
-        "oil": 13,
-        "max_level": 100,
-        "stats": {
-          "hp": 3244,
-          "fp": 0,
-          "trp": 0,
-          "aa": 144,
-          "av": 201,
-          "rld": 51,
-          "acc": 35,
-          "eva": 14,
-          "spd": 33.8,
-          "luk": 45,
-          "asw": 0
-        }
-      }
-    },
-    "stars": 6
   },
   "40801": {
     "id": 40801,
@@ -41863,107 +41234,6 @@
           "eva": 7,
           "spd": 14.4,
           "luk": 62,
-          "asw": 0
-        }
-      }
-    },
-    "stars": 6
-  },
-  "40810": {
-    "id": 40810,
-    "code": 484,
-    "name": {"en": "U-37", "code": "KMS U-37", "cn": "U-37", "jp": "U-37"},
-    "property_hexagon": [1, 5, 0, 1, 0, 1],
-    "type": 8,
-    "armor": 1,
-    "slots": [[13], [13], [1], [10], [10]],
-    "nationality": 4,
-    "data": {
-      "408101": {
-        "id": 408101,
-        "tags": ["U-boat"],
-        "type": 8,
-        "rarity": 5,
-        "stars": 3,
-        "oil": 5,
-        "max_level": 70,
-        "stats": {
-          "hp": 250,
-          "fp": 8,
-          "trp": 104,
-          "aa": 0,
-          "av": 0,
-          "rld": 41,
-          "acc": 61,
-          "eva": 7,
-          "spd": 14.4,
-          "luk": 72,
-          "asw": 0
-        }
-      },
-      "408102": {
-        "id": 408102,
-        "tags": ["U-boat"],
-        "type": 8,
-        "rarity": 5,
-        "stars": 4,
-        "oil": 6,
-        "max_level": 80,
-        "stats": {
-          "hp": 311,
-          "fp": 10,
-          "trp": 130,
-          "aa": 0,
-          "av": 0,
-          "rld": 41,
-          "acc": 61,
-          "eva": 7,
-          "spd": 14.4,
-          "luk": 72,
-          "asw": 0
-        }
-      },
-      "408103": {
-        "id": 408103,
-        "tags": ["U-boat"],
-        "type": 8,
-        "rarity": 5,
-        "stars": 5,
-        "oil": 7,
-        "max_level": 90,
-        "stats": {
-          "hp": 433,
-          "fp": 14,
-          "trp": 181,
-          "aa": 0,
-          "av": 0,
-          "rld": 41,
-          "acc": 61,
-          "eva": 7,
-          "spd": 14.4,
-          "luk": 72,
-          "asw": 0
-        }
-      },
-      "408104": {
-        "id": 408104,
-        "tags": ["U-boat"],
-        "type": 8,
-        "rarity": 5,
-        "stars": 6,
-        "oil": 8,
-        "max_level": 100,
-        "stats": {
-          "hp": 616,
-          "fp": 21,
-          "trp": 259,
-          "aa": 0,
-          "av": 0,
-          "rld": 41,
-          "acc": 61,
-          "eva": 7,
-          "spd": 14.4,
-          "luk": 72,
           "asw": 0
         }
       }

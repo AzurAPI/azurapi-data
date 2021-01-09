@@ -27,6 +27,11 @@ const HEXAGON_RANK = {
 
 const FAKE_SHIPS = [900042, 900045, 900046, 900162, 900913, 900914].map(i => String(i));
 
+fs.readdir(path.join(__dirname, "../AzurLaneSourceJSON/"), (err, files) => {
+    console.log("Loaded AzurLaneSourceJSON...");
+    files.forEach(file => console.log(" -+ " + file));
+});
+
 function readFilesFromLanguage(lang = "EN") {
     let groups = require(path.join(__dirname, "../AzurLaneSourceJSON/" + lang + "/sharecfg/ship_data_group.json"));
     let ships = require(path.join(__dirname, "../AzurLaneSourceJSON/" + lang + "/sharecfg/ship_data_template.json"));
