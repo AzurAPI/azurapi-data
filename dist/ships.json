@@ -20736,6 +20736,7 @@
       "code": "HMS Howe",
       "cn": "豪",
       "jp": "ハウ",
+      "kr": "하우",
       "tw": "豪"
     },
     "property_hexagon": [5, 0, 0, 1, 1, 4],
@@ -37836,7 +37837,13 @@
   "40124": {
     "id": 40124,
     "code": 487,
-    "name": {"en": "Z24", "code": "KMS Z24", "cn": "Z24", "jp": "Z24"},
+    "name": {
+      "en": "Z24",
+      "code": "KMS Z24",
+      "cn": "Z24",
+      "jp": "Z24",
+      "kr": "Z24"
+    },
     "property_hexagon": [4, 2, 0, 3, 1, 1],
     "type": 1,
     "armor": 1,
@@ -38152,7 +38159,13 @@
   "40128": {
     "id": 40128,
     "code": 488,
-    "name": {"en": "Z28", "code": "KMS Z28", "cn": "Z28", "jp": "Z28"},
+    "name": {
+      "en": "Z28",
+      "code": "KMS Z28",
+      "cn": "Z28",
+      "jp": "Z28",
+      "kr": "Z28"
+    },
     "property_hexagon": [4, 2, 0, 3, 1, 1],
     "type": 1,
     "armor": 1,
@@ -39043,7 +39056,8 @@
       "en": "Nürnberg",
       "code": "KMS Nürnberg",
       "cn": "纽伦堡",
-      "jp": "ニュルンベルク"
+      "jp": "ニュルンベルク",
+      "kr": "뉘른베르크"
     },
     "property_hexagon": [3, 4, 0, 3, 4, 2],
     "type": 2,
@@ -39795,7 +39809,8 @@
       "en": "Prinz Heinrich",
       "code": "KMS Prinz Heinrich",
       "cn": "海因里希亲王",
-      "jp": "プリンツ・ハインリヒ"
+      "jp": "プリンツ・ハインリヒ",
+      "kr": "프린츠 하인리히"
     },
     "property_hexagon": [4, 2, 0, 2, 3, 5],
     "type": 3,
@@ -40372,7 +40387,13 @@
   "40601": {
     "id": 40601,
     "code": 485,
-    "name": {"en": "Weser", "code": "KMS Weser", "cn": "威悉", "jp": "ヴェーザー"},
+    "name": {
+      "en": "Weser",
+      "code": "KMS Weser",
+      "cn": "威悉",
+      "jp": "ヴェーザー",
+      "kr": "베저"
+    },
     "property_hexagon": [0, 0, 4, 2, 3, 3],
     "type": 6,
     "armor": 2,
@@ -40716,7 +40737,8 @@
       "en": "Peter Strasser",
       "code": "KMS Peter Strasser",
       "cn": "彼得·史特拉塞",
-      "jp": "ペーター・シュトラッサー"
+      "jp": "ペーター・シュトラッサー",
+      "kr": "페터 슈트라서"
     },
     "property_hexagon": [0, 0, 5, 2, 3, 4],
     "type": 7,
@@ -41872,7 +41894,13 @@
   "40810": {
     "id": 40810,
     "code": 484,
-    "name": {"en": "U-37", "code": "KMS U-37", "cn": "U-37", "jp": "U-37"},
+    "name": {
+      "en": "U-37",
+      "code": "KMS U-37",
+      "cn": "U-37",
+      "jp": "U-37",
+      "kr": "U-37"
+    },
     "property_hexagon": [1, 5, 0, 1, 0, 1],
     "type": 8,
     "armor": 1,
