@@ -43314,6 +43314,112 @@
     },
     "stars": 5
   },
+  "60103": {
+    "id": 60103,
+    "code": 490,
+    "name": {
+      "en": "Vincenzo Gioberti",
+      "code": "RN Vincenzo Gioberti",
+      "cn": "文琴佐·焦贝蒂",
+      "jp": "ヴィンチェンツォ・ジョベルティ"
+    },
+    "property_hexagon": [4, 1, 0, 4, 2, 1],
+    "type": 1,
+    "armor": 1,
+    "slots": [[1], [5], [6], [10, 14], [10, 14]],
+    "nationality": 6,
+    "data": {
+      "601031": {
+        "id": 601031,
+        "tags": ["Poeti-Class"],
+        "type": 1,
+        "rarity": 4,
+        "stars": 2,
+        "oil": 3,
+        "max_level": 70,
+        "stats": {
+          "hp": 300,
+          "fp": 21,
+          "trp": 54,
+          "aa": 29,
+          "av": 0,
+          "rld": 77,
+          "acc": 73,
+          "eva": 78,
+          "spd": 45.6,
+          "luk": 44,
+          "asw": 53
+        }
+      },
+      "601032": {
+        "id": 601032,
+        "tags": ["Poeti-Class"],
+        "type": 1,
+        "rarity": 4,
+        "stars": 3,
+        "oil": 5,
+        "max_level": 80,
+        "stats": {
+          "hp": 373,
+          "fp": 26,
+          "trp": 67,
+          "aa": 36,
+          "av": 0,
+          "rld": 77,
+          "acc": 73,
+          "eva": 78,
+          "spd": 45.6,
+          "luk": 44,
+          "asw": 66
+        }
+      },
+      "601033": {
+        "id": 601033,
+        "tags": ["Poeti-Class"],
+        "type": 1,
+        "rarity": 4,
+        "stars": 4,
+        "oil": 7,
+        "max_level": 90,
+        "stats": {
+          "hp": 520,
+          "fp": 36,
+          "trp": 94,
+          "aa": 50,
+          "av": 0,
+          "rld": 77,
+          "acc": 73,
+          "eva": 78,
+          "spd": 45.6,
+          "luk": 44,
+          "asw": 92
+        }
+      },
+      "601034": {
+        "id": 601034,
+        "tags": ["Poeti-Class"],
+        "type": 1,
+        "rarity": 4,
+        "stars": 5,
+        "oil": 9,
+        "max_level": 100,
+        "stats": {
+          "hp": 739,
+          "fp": 52,
+          "trp": 134,
+          "aa": 71,
+          "av": 0,
+          "rld": 77,
+          "acc": 73,
+          "eva": 78,
+          "spd": 45.6,
+          "luk": 44,
+          "asw": 132
+        }
+      }
+    },
+    "stars": 5
+  },
   "60301": {
     "id": 60301,
     "code": 414,
@@ -43516,6 +43622,107 @@
           "fp": 116,
           "trp": 0,
           "aa": 106,
+          "av": 0,
+          "rld": 67,
+          "acc": 39,
+          "eva": 9,
+          "spd": 26.4,
+          "luk": 75,
+          "asw": 0
+        }
+      }
+    },
+    "stars": 6
+  },
+  "60303": {
+    "id": 60303,
+    "code": 489,
+    "name": {"en": "Pola", "code": "RN Pola", "cn": "波拉", "jp": "ポーラ"},
+    "property_hexagon": [3, 0, 0, 2, 3, 4],
+    "type": 3,
+    "armor": 2,
+    "slots": [[3], [1], [6], [10], [10]],
+    "nationality": 6,
+    "data": {
+      "603031": {
+        "id": 603031,
+        "tags": ["Pola", "Zara-Class"],
+        "type": 3,
+        "rarity": 5,
+        "stars": 3,
+        "oil": 6,
+        "max_level": 70,
+        "stats": {
+          "hp": 853,
+          "fp": 47,
+          "trp": 0,
+          "aa": 45,
+          "av": 0,
+          "rld": 67,
+          "acc": 39,
+          "eva": 9,
+          "spd": 26.4,
+          "luk": 75,
+          "asw": 0
+        }
+      },
+      "603032": {
+        "id": 603032,
+        "tags": ["Pola", "Zara-Class"],
+        "type": 3,
+        "rarity": 5,
+        "stars": 4,
+        "oil": 8,
+        "max_level": 80,
+        "stats": {
+          "hp": 1061,
+          "fp": 59,
+          "trp": 0,
+          "aa": 56,
+          "av": 0,
+          "rld": 67,
+          "acc": 39,
+          "eva": 9,
+          "spd": 26.4,
+          "luk": 75,
+          "asw": 0
+        }
+      },
+      "603033": {
+        "id": 603033,
+        "tags": ["Pola", "Zara-Class"],
+        "type": 3,
+        "rarity": 5,
+        "stars": 5,
+        "oil": 10,
+        "max_level": 90,
+        "stats": {
+          "hp": 1477,
+          "fp": 82,
+          "trp": 0,
+          "aa": 78,
+          "av": 0,
+          "rld": 67,
+          "acc": 39,
+          "eva": 9,
+          "spd": 26.4,
+          "luk": 75,
+          "asw": 0
+        }
+      },
+      "603034": {
+        "id": 603034,
+        "tags": ["Pola", "Zara-Class"],
+        "type": 3,
+        "rarity": 5,
+        "stars": 6,
+        "oil": 12,
+        "max_level": 100,
+        "stats": {
+          "hp": 2102,
+          "fp": 116,
+          "trp": 0,
+          "aa": 112,
           "av": 0,
           "rld": 67,
           "acc": 39,
@@ -44276,6 +44483,112 @@
       }
     },
     "stars": 6
+  },
+  "70106": {
+    "id": 70106,
+    "code": 491,
+    "name": {
+      "en": "Stremitelny",
+      "code": "SN Stremitelny",
+      "cn": "神速",
+      "jp": "ストレミテルヌイ"
+    },
+    "property_hexagon": [4, 1, 0, 3, 2, 1],
+    "type": 1,
+    "armor": 1,
+    "slots": [[1], [5], [6], [10, 14], [10, 14]],
+    "nationality": 7,
+    "data": {
+      "701061": {
+        "id": 701061,
+        "tags": ["Gnevny-Class", "Northern Union-DD"],
+        "type": 1,
+        "rarity": 4,
+        "stars": 2,
+        "oil": 3,
+        "max_level": 70,
+        "stats": {
+          "hp": 1,
+          "fp": 0,
+          "trp": 0,
+          "aa": 0,
+          "av": 0,
+          "rld": 0,
+          "acc": 0,
+          "eva": 0,
+          "spd": 0,
+          "luk": 0,
+          "asw": 0
+        }
+      },
+      "701062": {
+        "id": 701062,
+        "tags": ["Gnevny-Class", "Northern Union-DD"],
+        "type": 1,
+        "rarity": 4,
+        "stars": 3,
+        "oil": 5,
+        "max_level": 80,
+        "stats": {
+          "hp": 1,
+          "fp": 0,
+          "trp": 0,
+          "aa": 0,
+          "av": 0,
+          "rld": 0,
+          "acc": 0,
+          "eva": 0,
+          "spd": 0,
+          "luk": 0,
+          "asw": 0
+        }
+      },
+      "701063": {
+        "id": 701063,
+        "tags": ["Gnevny-Class", "Northern Union-DD"],
+        "type": 1,
+        "rarity": 4,
+        "stars": 4,
+        "oil": 7,
+        "max_level": 90,
+        "stats": {
+          "hp": 1,
+          "fp": 0,
+          "trp": 0,
+          "aa": 0,
+          "av": 0,
+          "rld": 0,
+          "acc": 0,
+          "eva": 0,
+          "spd": 0,
+          "luk": 0,
+          "asw": 0
+        }
+      },
+      "701064": {
+        "id": 701064,
+        "tags": ["Gnevny-Class", "Northern Union-DD"],
+        "type": 1,
+        "rarity": 4,
+        "stars": 5,
+        "oil": 9,
+        "max_level": 100,
+        "stats": {
+          "hp": 1,
+          "fp": 0,
+          "trp": 0,
+          "aa": 0,
+          "av": 0,
+          "rld": 0,
+          "acc": 0,
+          "eva": 0,
+          "spd": 0,
+          "luk": 0,
+          "asw": 0
+        }
+      }
+    },
+    "stars": 5
   },
   "70201": {
     "id": 70201,
@@ -47362,7 +47675,8 @@
       "en": "Hiryuu META",
       "code": "Hiryuu META",
       "cn": "龙·META",
-      "jp": "飛龍(META)"
+      "jp": "飛龍(META)",
+      "kr": "히류·META"
     },
     "property_hexagon": [0, 0, 5, 3, 4, 3],
     "type": 7,
