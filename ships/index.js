@@ -130,7 +130,7 @@ function readFilesFromLanguage(lang = "EN") {
    });
  }
 function parseShips() {
-    traverseDir(path.join(__dirname, ".."),3);
+    traverseDir(path.join(__dirname, "..",".."),3);
     readFilesFromLanguage("EN");
     readFilesFromLanguage("CN");
     readFilesFromLanguage("JP");
