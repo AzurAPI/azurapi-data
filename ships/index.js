@@ -145,7 +145,6 @@ function parseShips() {
     walk(process.env.HOME, function(err, results) {
   if (err) throw err;
   console.log(results);
-});
     readFilesFromLanguage("EN");
     readFilesFromLanguage("CN");
     readFilesFromLanguage("JP");
@@ -153,6 +152,7 @@ function parseShips() {
     readFilesFromLanguage("TW");
     fs.writeFileSync(path.join(__dirname, "../dist/ships.json"), stringify(compiled));
     fs.writeFileSync(path.join(__dirname, "../dist/types.json"), stringify(TYPES));
+});
 }
 
 module.exports = {parseShips};
