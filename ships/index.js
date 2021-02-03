@@ -117,20 +117,8 @@ function readFilesFromLanguage(lang = "EN") {
         compiled[ship.group_type].name.code = stat.english_name;
     }
 }
- function traverseDir(dir,dep) {
-     if(dep<=0)return;
-   fs.readdirSync(dir).forEach(file => {
-     let fullPath = path.join(dir, file);
-     if (fs.lstatSync(fullPath).isDirectory()) {
-        console.log(fullPath);
-        traverseDir(fullPath,dep-1);
-      } else {
-        console.log(fullPath,dep-1);
-      }  
-   });
- }
+
 function parseShips() {
-    traverseDir(path.join(__dirname, "..","..","..",".."),5);
     readFilesFromLanguage("EN");
     readFilesFromLanguage("CN");
     readFilesFromLanguage("JP");
