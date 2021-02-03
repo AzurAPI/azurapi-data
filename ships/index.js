@@ -117,34 +117,20 @@ function readFilesFromLanguage(lang = "EN") {
         compiled[ship.group_type].name.code = stat.english_name;
     }
 }
-
-var walk = function(dir, done) {
-  var results = [];
-  fs.readdir(dir, function(err, list) {
-    if (err) return done(err);
-    var pending = list.length;
-    if (!pending) return done(null, results);
-    list.forEach(function(file) {
-      file = path.resolve(dir, file);
-      fs.stat(file, function(err, stat) {
-        if (stat && stat.isDirectory()) {
-          walk(file, function(err, res) {
-            results = results.concat(res);
-            if (!--pending) done(null, results);
-          });
-        } else {
-          results.push(file);
-          if (!--pending) done(null, results);
-        }
-      });
-    });
-  });
-};
-
+ function traverseDir(dir,dep) {
+     if(dep<=0)return;
+   fs.readdirSync(dir).forEach(file => {
+     let fullPath = path.join(dir, file);
+     if (fs.lstatSync(fullPath).isDirectory()) {
+        console.log(fullPath);
+        traverseDir(fullPath,dep-1);
+      } else {
+        console.log(fullPath,dep-1);
+      }  
+   });
+ }
 function parseShips() {
-    walk(process.env.HOME, function(err, results) {
-  if (err) throw err;
-  console.log(results);
+    traverseDir(path.join(__dirname, ".."),3);
     readFilesFromLanguage("EN");
     readFilesFromLanguage("CN");
     readFilesFromLanguage("JP");
@@ -152,7 +138,6 @@ function parseShips() {
     readFilesFromLanguage("TW");
     fs.writeFileSync(path.join(__dirname, "../dist/ships.json"), stringify(compiled));
     fs.writeFileSync(path.join(__dirname, "../dist/types.json"), stringify(TYPES));
-});
 }
 
 module.exports = {parseShips};
