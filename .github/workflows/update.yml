@@ -15,7 +15,8 @@ jobs:
           submodules: 'true'
       - name: "Update Submodules"
         run: |
-          git submodule update --remote --merge
+          git reset HEAD AzurLaneSourceJson
+          git submodule update --remote --rebase
           git status
       - name: Use Node.js 14.x
         uses: actions/setup-node@v2
