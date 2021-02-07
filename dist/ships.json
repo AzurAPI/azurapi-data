@@ -18272,6 +18272,112 @@
     },
     "stars": 6
   },
+  "20229": {
+    "id": 20229,
+    "code": 495,
+    "name": {
+      "en": "Penelope",
+      "code": "HMS Penelope",
+      "cn": "佩内洛珀",
+      "jp": "ペネロピ"
+    },
+    "property_hexagon": [2, 3, 0, 3, 3, 2],
+    "type": 2,
+    "armor": 1,
+    "slots": [[2], [5], [6], [10, 14], [10, 14]],
+    "nationality": 2,
+    "data": {
+      "202291": {
+        "id": 202291,
+        "tags": ["Arethusa-Class"],
+        "type": 2,
+        "rarity": 4,
+        "stars": 2,
+        "oil": 4,
+        "max_level": 70,
+        "stats": {
+          "hp": 497,
+          "fp": 29,
+          "trp": 52,
+          "aa": 63,
+          "av": 0,
+          "rld": 71,
+          "acc": 58,
+          "eva": 29,
+          "spd": 32,
+          "luk": 52,
+          "asw": 28
+        }
+      },
+      "202292": {
+        "id": 202292,
+        "tags": ["Arethusa-Class"],
+        "type": 2,
+        "rarity": 4,
+        "stars": 3,
+        "oil": 6,
+        "max_level": 80,
+        "stats": {
+          "hp": 618,
+          "fp": 36,
+          "trp": 65,
+          "aa": 79,
+          "av": 0,
+          "rld": 71,
+          "acc": 58,
+          "eva": 29,
+          "spd": 32,
+          "luk": 52,
+          "asw": 35
+        }
+      },
+      "202293": {
+        "id": 202293,
+        "tags": ["Arethusa-Class"],
+        "type": 2,
+        "rarity": 4,
+        "stars": 4,
+        "oil": 8,
+        "max_level": 90,
+        "stats": {
+          "hp": 860,
+          "fp": 51,
+          "trp": 90,
+          "aa": 110,
+          "av": 0,
+          "rld": 71,
+          "acc": 58,
+          "eva": 29,
+          "spd": 32,
+          "luk": 52,
+          "asw": 49
+        }
+      },
+      "202294": {
+        "id": 202294,
+        "tags": ["Arethusa-Class"],
+        "type": 2,
+        "rarity": 4,
+        "stars": 5,
+        "oil": 10,
+        "max_level": 100,
+        "stats": {
+          "hp": 1224,
+          "fp": 73,
+          "trp": 129,
+          "aa": 156,
+          "av": 0,
+          "rld": 71,
+          "acc": 58,
+          "eva": 29,
+          "spd": 32,
+          "luk": 52,
+          "asw": 70
+        }
+      }
+    },
+    "stars": 5
+  },
   "20301": {
     "id": 20301,
     "code": 119,
@@ -41998,6 +42104,107 @@
     },
     "stars": 6
   },
+  "40811": {
+    "id": 40811,
+    "code": 492,
+    "name": {"en": "U-410", "code": "KMS U-410", "cn": "U-410", "jp": "U-410"},
+    "property_hexagon": [1, 4, 0, 1, 0, 1],
+    "type": 8,
+    "armor": 1,
+    "slots": [[13], [13], [1], [10], [10]],
+    "nationality": 4,
+    "data": {
+      "408111": {
+        "id": 408111,
+        "tags": ["U-boat"],
+        "type": 8,
+        "rarity": 4,
+        "stars": 2,
+        "oil": 4,
+        "max_level": 70,
+        "stats": {
+          "hp": 203,
+          "fp": 8,
+          "trp": 97,
+          "aa": 0,
+          "av": 0,
+          "rld": 31,
+          "acc": 59,
+          "eva": 7,
+          "spd": 14.4,
+          "luk": 50,
+          "asw": 0
+        }
+      },
+      "408112": {
+        "id": 408112,
+        "tags": ["U-boat"],
+        "type": 8,
+        "rarity": 4,
+        "stars": 3,
+        "oil": 5,
+        "max_level": 80,
+        "stats": {
+          "hp": 253,
+          "fp": 10,
+          "trp": 121,
+          "aa": 0,
+          "av": 0,
+          "rld": 31,
+          "acc": 59,
+          "eva": 7,
+          "spd": 14.4,
+          "luk": 50,
+          "asw": 0
+        }
+      },
+      "408113": {
+        "id": 408113,
+        "tags": ["U-boat"],
+        "type": 8,
+        "rarity": 4,
+        "stars": 4,
+        "oil": 6,
+        "max_level": 90,
+        "stats": {
+          "hp": 352,
+          "fp": 14,
+          "trp": 169,
+          "aa": 0,
+          "av": 0,
+          "rld": 31,
+          "acc": 59,
+          "eva": 7,
+          "spd": 14.4,
+          "luk": 50,
+          "asw": 0
+        }
+      },
+      "408114": {
+        "id": 408114,
+        "tags": ["U-boat"],
+        "type": 8,
+        "rarity": 4,
+        "stars": 5,
+        "oil": 7,
+        "max_level": 100,
+        "stats": {
+          "hp": 501,
+          "fp": 20,
+          "trp": 241,
+          "aa": 0,
+          "av": 0,
+          "rld": 31,
+          "acc": 59,
+          "eva": 7,
+          "spd": 14.4,
+          "luk": 50,
+          "asw": 0
+        }
+      }
+    },
+    "stars": 5
+  },
   "49901": {
     "id": 49901,
     "code": 20005,
@@ -43202,6 +43409,213 @@
           "spd": 21.3,
           "luk": 47,
           "asw": 45
+        }
+      }
+    },
+    "stars": 5
+  },
+  "50204": {
+    "id": 50204,
+    "code": 493,
+    "name": {
+      "en": "Ying Swei",
+      "code": "ROC Ying Swei",
+      "cn": "应瑞",
+      "jp": "応瑞"
+    },
+    "property_hexagon": [1, 2, 0, 2, 1, 1],
+    "type": 2,
+    "armor": 2,
+    "slots": [[2], [1], [5], [10, 14], [10, 14]],
+    "nationality": 5,
+    "data": {
+      "502041": {
+        "id": 502041,
+        "tags": ["Chaoho-Class"],
+        "type": 2,
+        "rarity": 4,
+        "stars": 2,
+        "oil": 3,
+        "max_level": 70,
+        "stats": {
+          "hp": 426,
+          "fp": 13,
+          "trp": 43,
+          "aa": 24,
+          "av": 0,
+          "rld": 51,
+          "acc": 53,
+          "eva": 24,
+          "spd": 20,
+          "luk": 20,
+          "asw": 17
+        }
+      },
+      "502042": {
+        "id": 502042,
+        "tags": ["Chaoho-Class"],
+        "type": 2,
+        "rarity": 4,
+        "stars": 3,
+        "oil": 5,
+        "max_level": 80,
+        "stats": {
+          "hp": 530,
+          "fp": 16,
+          "trp": 54,
+          "aa": 30,
+          "av": 0,
+          "rld": 51,
+          "acc": 53,
+          "eva": 24,
+          "spd": 20,
+          "luk": 20,
+          "asw": 21
+        }
+      },
+      "502043": {
+        "id": 502043,
+        "tags": ["Chaoho-Class"],
+        "type": 2,
+        "rarity": 4,
+        "stars": 4,
+        "oil": 7,
+        "max_level": 90,
+        "stats": {
+          "hp": 737,
+          "fp": 23,
+          "trp": 75,
+          "aa": 42,
+          "av": 0,
+          "rld": 51,
+          "acc": 53,
+          "eva": 24,
+          "spd": 20,
+          "luk": 20,
+          "asw": 30
+        }
+      },
+      "502044": {
+        "id": 502044,
+        "tags": ["Chaoho-Class"],
+        "type": 2,
+        "rarity": 4,
+        "stars": 5,
+        "oil": 9,
+        "max_level": 100,
+        "stats": {
+          "hp": 1049,
+          "fp": 32,
+          "trp": 107,
+          "aa": 60,
+          "av": 0,
+          "rld": 51,
+          "acc": 53,
+          "eva": 24,
+          "spd": 20,
+          "luk": 20,
+          "asw": 43
+        }
+      }
+    },
+    "stars": 5
+  },
+  "50205": {
+    "id": 50205,
+    "code": 494,
+    "name": {"en": "Chao Ho", "code": "ROC Chao Ho", "cn": "肇和", "jp": "肇和"},
+    "property_hexagon": [1, 2, 0, 2, 1, 1],
+    "type": 2,
+    "armor": 2,
+    "slots": [[2], [1], [5], [10, 14], [10, 14]],
+    "nationality": 5,
+    "data": {
+      "502051": {
+        "id": 502051,
+        "tags": ["Chaoho-Class"],
+        "type": 2,
+        "rarity": 4,
+        "stars": 2,
+        "oil": 3,
+        "max_level": 70,
+        "stats": {
+          "hp": 442,
+          "fp": 13,
+          "trp": 43,
+          "aa": 24,
+          "av": 0,
+          "rld": 51,
+          "acc": 53,
+          "eva": 24,
+          "spd": 20,
+          "luk": 20,
+          "asw": 17
+        }
+      },
+      "502052": {
+        "id": 502052,
+        "tags": ["Chaoho-Class"],
+        "type": 2,
+        "rarity": 4,
+        "stars": 3,
+        "oil": 5,
+        "max_level": 80,
+        "stats": {
+          "hp": 550,
+          "fp": 16,
+          "trp": 54,
+          "aa": 30,
+          "av": 0,
+          "rld": 51,
+          "acc": 53,
+          "eva": 24,
+          "spd": 20,
+          "luk": 20,
+          "asw": 21
+        }
+      },
+      "502053": {
+        "id": 502053,
+        "tags": ["Chaoho-Class"],
+        "type": 2,
+        "rarity": 4,
+        "stars": 4,
+        "oil": 7,
+        "max_level": 90,
+        "stats": {
+          "hp": 766,
+          "fp": 23,
+          "trp": 75,
+          "aa": 42,
+          "av": 0,
+          "rld": 51,
+          "acc": 53,
+          "eva": 24,
+          "spd": 20,
+          "luk": 20,
+          "asw": 30
+        }
+      },
+      "502054": {
+        "id": 502054,
+        "tags": ["Chaoho-Class"],
+        "type": 2,
+        "rarity": 4,
+        "stars": 5,
+        "oil": 9,
+        "max_level": 100,
+        "stats": {
+          "hp": 1089,
+          "fp": 32,
+          "trp": 107,
+          "aa": 59,
+          "av": 0,
+          "rld": 51,
+          "acc": 53,
+          "eva": 24,
+          "spd": 20,
+          "luk": 20,
+          "asw": 43
         }
       }
     },
