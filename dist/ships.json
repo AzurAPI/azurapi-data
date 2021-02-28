@@ -45004,6 +45004,213 @@
     },
     "stars": 5
   },
+  "70107": {
+    "id": 70107,
+    "code": 497,
+    "name": {
+      "en": "Gremyashchy",
+      "code": "SN Gremyashchy",
+      "cn": "雷鸣",
+      "jp": "グレミャーシュチ"
+    },
+    "property_hexagon": [4, 1, 0, 3, 2, 1],
+    "type": 1,
+    "armor": 1,
+    "slots": [[1], [5], [6], [10, 14], [10, 14]],
+    "nationality": 7,
+    "data": {
+      "701071": {
+        "id": 701071,
+        "tags": ["Gnevny-Class", "Northern Union-DD"],
+        "type": 1,
+        "rarity": 4,
+        "stars": 2,
+        "oil": 3,
+        "max_level": 70,
+        "stats": {
+          "hp": 349,
+          "fp": 26,
+          "trp": 52,
+          "aa": 28,
+          "av": 0,
+          "rld": 73,
+          "acc": 67,
+          "eva": 61,
+          "spd": 45.6,
+          "luk": 70,
+          "asw": 49
+        }
+      },
+      "701072": {
+        "id": 701072,
+        "tags": ["Gnevny-Class", "Northern Union-DD"],
+        "type": 1,
+        "rarity": 4,
+        "stars": 3,
+        "oil": 5,
+        "max_level": 80,
+        "stats": {
+          "hp": 434,
+          "fp": 33,
+          "trp": 65,
+          "aa": 35,
+          "av": 0,
+          "rld": 73,
+          "acc": 67,
+          "eva": 61,
+          "spd": 45.6,
+          "luk": 70,
+          "asw": 61
+        }
+      },
+      "701073": {
+        "id": 701073,
+        "tags": ["Gnevny-Class", "Northern Union-DD"],
+        "type": 1,
+        "rarity": 4,
+        "stars": 4,
+        "oil": 7,
+        "max_level": 90,
+        "stats": {
+          "hp": 604,
+          "fp": 46,
+          "trp": 90,
+          "aa": 49,
+          "av": 0,
+          "rld": 73,
+          "acc": 67,
+          "eva": 61,
+          "spd": 45.6,
+          "luk": 70,
+          "asw": 85
+        }
+      },
+      "701074": {
+        "id": 701074,
+        "tags": ["Gnevny-Class", "Northern Union-DD"],
+        "type": 1,
+        "rarity": 4,
+        "stars": 5,
+        "oil": 9,
+        "max_level": 100,
+        "stats": {
+          "hp": 860,
+          "fp": 65,
+          "trp": 129,
+          "aa": 69,
+          "av": 0,
+          "rld": 73,
+          "acc": 67,
+          "eva": 61,
+          "spd": 45.6,
+          "luk": 70,
+          "asw": 122
+        }
+      }
+    },
+    "stars": 5
+  },
+  "70108": {
+    "id": 70108,
+    "code": 499,
+    "name": {"en": "Gromky", "code": "SN Gromky", "cn": "洪亮", "jp": "グロームキィ"},
+    "property_hexagon": [4, 1, 0, 3, 2, 1],
+    "type": 1,
+    "armor": 1,
+    "slots": [[1], [5], [6], [10, 14], [10, 14]],
+    "nationality": 7,
+    "data": {
+      "701081": {
+        "id": 701081,
+        "tags": ["Gnevny-Class", "Northern Union-DD"],
+        "type": 1,
+        "rarity": 4,
+        "stars": 2,
+        "oil": 3,
+        "max_level": 70,
+        "stats": {
+          "hp": 367,
+          "fp": 24,
+          "trp": 43,
+          "aa": 31,
+          "av": 0,
+          "rld": 73,
+          "acc": 67,
+          "eva": 65,
+          "spd": 45.6,
+          "luk": 45,
+          "asw": 50
+        }
+      },
+      "701082": {
+        "id": 701082,
+        "tags": ["Gnevny-Class", "Northern Union-DD"],
+        "type": 1,
+        "rarity": 4,
+        "stars": 3,
+        "oil": 5,
+        "max_level": 80,
+        "stats": {
+          "hp": 457,
+          "fp": 30,
+          "trp": 54,
+          "aa": 39,
+          "av": 0,
+          "rld": 73,
+          "acc": 67,
+          "eva": 65,
+          "spd": 45.6,
+          "luk": 45,
+          "asw": 62
+        }
+      },
+      "701083": {
+        "id": 701083,
+        "tags": ["Gnevny-Class", "Northern Union-DD"],
+        "type": 1,
+        "rarity": 4,
+        "stars": 4,
+        "oil": 7,
+        "max_level": 90,
+        "stats": {
+          "hp": 636,
+          "fp": 42,
+          "trp": 75,
+          "aa": 54,
+          "av": 0,
+          "rld": 73,
+          "acc": 67,
+          "eva": 65,
+          "spd": 45.6,
+          "luk": 45,
+          "asw": 87
+        }
+      },
+      "701084": {
+        "id": 701084,
+        "tags": ["Gnevny-Class", "Northern Union-DD"],
+        "type": 1,
+        "rarity": 4,
+        "stars": 5,
+        "oil": 9,
+        "max_level": 100,
+        "stats": {
+          "hp": 904,
+          "fp": 60,
+          "trp": 108,
+          "aa": 77,
+          "av": 0,
+          "rld": 73,
+          "acc": 67,
+          "eva": 65,
+          "spd": 45.6,
+          "luk": 45,
+          "asw": 125
+        }
+      }
+    },
+    "stars": 5
+  },
   "70201": {
     "id": 70201,
     "code": 262,
@@ -45215,6 +45422,34 @@
           "luk": 88,
           "asw": 33
         }
+      },
+      "702124": {
+        "id": 702124,
+        "tags": ["Northern Union-CL"],
+        "type": 2,
+        "rarity": 4,
+        "stars": 5,
+        "oil": 10,
+        "max_level": 100,
+        "stats": {
+          "hp": 1308,
+          "fp": 38,
+          "trp": 65,
+          "aa": 67,
+          "av": 0,
+          "rld": 51,
+          "acc": 47,
+          "eva": 27,
+          "spd": 23,
+          "luk": 88,
+          "asw": 33
+        },
+        "slots": [[1], [5], [6], [10, 14], [10, 14]],
+        "name": {
+          "en": "Pamiat Merkuria (Retrofit)",
+          "cn": "水星纪念.改",
+          "jp": "パーミャチ・メルクーリヤ改"
+        }
       }
     },
     "stars": 5
@@ -45321,6 +45556,314 @@
           "spd": 33.5,
           "luk": 68,
           "asw": 89
+        }
+      }
+    },
+    "stars": 6
+  },
+  "70204": {
+    "id": 70204,
+    "code": 435,
+    "name": {"en": "Kirov", "code": "SN Kirov", "cn": "基洛夫", "jp": "キーロフ"},
+    "property_hexagon": [3, 2, 0, 3, 3, 3],
+    "type": 2,
+    "armor": 1,
+    "slots": [[2], [5], [6], [10, 14], [10, 14]],
+    "nationality": 7,
+    "data": {
+      "702041": {
+        "id": 702041,
+        "tags": ["Northern Union-CL"],
+        "type": 2,
+        "rarity": 5,
+        "stars": 3,
+        "oil": 5,
+        "max_level": 70,
+        "stats": {
+          "hp": 710,
+          "fp": 34,
+          "trp": 55,
+          "aa": 65,
+          "av": 0,
+          "rld": 69,
+          "acc": 54,
+          "eva": 36,
+          "spd": 36.5,
+          "luk": 52,
+          "asw": 37
+        }
+      },
+      "702042": {
+        "id": 702042,
+        "tags": ["Northern Union-CL"],
+        "type": 2,
+        "rarity": 5,
+        "stars": 4,
+        "oil": 7,
+        "max_level": 80,
+        "stats": {
+          "hp": 883,
+          "fp": 42,
+          "trp": 69,
+          "aa": 81,
+          "av": 0,
+          "rld": 69,
+          "acc": 54,
+          "eva": 36,
+          "spd": 36.5,
+          "luk": 52,
+          "asw": 46
+        }
+      },
+      "702043": {
+        "id": 702043,
+        "tags": ["Northern Union-CL"],
+        "type": 2,
+        "rarity": 5,
+        "stars": 5,
+        "oil": 9,
+        "max_level": 90,
+        "stats": {
+          "hp": 1230,
+          "fp": 59,
+          "trp": 96,
+          "aa": 113,
+          "av": 0,
+          "rld": 69,
+          "acc": 54,
+          "eva": 36,
+          "spd": 36.5,
+          "luk": 52,
+          "asw": 65
+        }
+      },
+      "702044": {
+        "id": 702044,
+        "tags": ["Northern Union-CL"],
+        "type": 2,
+        "rarity": 5,
+        "stars": 6,
+        "oil": 11,
+        "max_level": 100,
+        "stats": {
+          "hp": 1749,
+          "fp": 84,
+          "trp": 137,
+          "aa": 161,
+          "av": 0,
+          "rld": 69,
+          "acc": 54,
+          "eva": 36,
+          "spd": 36.5,
+          "luk": 52,
+          "asw": 93
+        }
+      }
+    },
+    "stars": 6
+  },
+  "70206": {
+    "id": 70206,
+    "code": 498,
+    "name": {
+      "en": "Murmansk",
+      "code": "SN Murmansk",
+      "cn": "摩尔曼斯克",
+      "jp": "ムルマンスク"
+    },
+    "property_hexagon": [2, 2, 0, 3, 3, 2],
+    "type": 2,
+    "armor": 1,
+    "slots": [[2], [5], [6], [10, 14], [10, 14]],
+    "nationality": 7,
+    "data": {
+      "702061": {
+        "id": 702061,
+        "tags": ["Northern Union-CL", "Omaha-Class"],
+        "type": 2,
+        "rarity": 4,
+        "stars": 2,
+        "oil": 4,
+        "max_level": 70,
+        "stats": {
+          "hp": 581,
+          "fp": 29,
+          "trp": 48,
+          "aa": 55,
+          "av": 0,
+          "rld": 70,
+          "acc": 52,
+          "eva": 30,
+          "spd": 35,
+          "luk": 65,
+          "asw": 31
+        }
+      },
+      "702062": {
+        "id": 702062,
+        "tags": ["Northern Union-CL", "Omaha-Class"],
+        "type": 2,
+        "rarity": 4,
+        "stars": 3,
+        "oil": 6,
+        "max_level": 80,
+        "stats": {
+          "hp": 723,
+          "fp": 36,
+          "trp": 60,
+          "aa": 69,
+          "av": 0,
+          "rld": 70,
+          "acc": 52,
+          "eva": 30,
+          "spd": 35,
+          "luk": 65,
+          "asw": 39
+        }
+      },
+      "702063": {
+        "id": 702063,
+        "tags": ["Northern Union-CL", "Omaha-Class"],
+        "type": 2,
+        "rarity": 4,
+        "stars": 4,
+        "oil": 8,
+        "max_level": 90,
+        "stats": {
+          "hp": 1006,
+          "fp": 50,
+          "trp": 84,
+          "aa": 96,
+          "av": 0,
+          "rld": 70,
+          "acc": 52,
+          "eva": 30,
+          "spd": 35,
+          "luk": 65,
+          "asw": 54
+        }
+      },
+      "702064": {
+        "id": 702064,
+        "tags": ["Northern Union-CL", "Omaha-Class"],
+        "type": 2,
+        "rarity": 4,
+        "stars": 5,
+        "oil": 10,
+        "max_level": 100,
+        "stats": {
+          "hp": 1432,
+          "fp": 72,
+          "trp": 120,
+          "aa": 136,
+          "av": 0,
+          "rld": 70,
+          "acc": 52,
+          "eva": 30,
+          "spd": 35,
+          "luk": 65,
+          "asw": 77
+        }
+      }
+    },
+    "stars": 5
+  },
+  "70301": {
+    "id": 70301,
+    "code": 496,
+    "name": {"en": "Tallinn", "code": "SN Tallinn", "cn": "塔林", "jp": "タリン"},
+    "property_hexagon": [3, 2, 0, 2, 3, 4],
+    "type": 3,
+    "armor": 2,
+    "slots": [[2, 3], [5], [6], [10, 14], [10, 14]],
+    "nationality": 7,
+    "data": {
+      "703011": {
+        "id": 703011,
+        "tags": ["Northern Union-CA"],
+        "type": 3,
+        "rarity": 5,
+        "stars": 3,
+        "oil": 6,
+        "max_level": 70,
+        "stats": {
+          "hp": 987,
+          "fp": 48,
+          "trp": 36,
+          "aa": 41,
+          "av": 0,
+          "rld": 67,
+          "acc": 51,
+          "eva": 9,
+          "spd": 25.6,
+          "luk": 80,
+          "asw": 0
+        }
+      },
+      "703012": {
+        "id": 703012,
+        "tags": ["Northern Union-CA"],
+        "type": 3,
+        "rarity": 5,
+        "stars": 4,
+        "oil": 8,
+        "max_level": 80,
+        "stats": {
+          "hp": 1228,
+          "fp": 60,
+          "trp": 45,
+          "aa": 51,
+          "av": 0,
+          "rld": 67,
+          "acc": 51,
+          "eva": 9,
+          "spd": 25.6,
+          "luk": 80,
+          "asw": 0
+        }
+      },
+      "703013": {
+        "id": 703013,
+        "tags": ["Northern Union-CA"],
+        "type": 3,
+        "rarity": 5,
+        "stars": 5,
+        "oil": 10,
+        "max_level": 90,
+        "stats": {
+          "hp": 1709,
+          "fp": 84,
+          "trp": 63,
+          "aa": 71,
+          "av": 0,
+          "rld": 67,
+          "acc": 51,
+          "eva": 9,
+          "spd": 25.6,
+          "luk": 80,
+          "asw": 0
+        }
+      },
+      "703014": {
+        "id": 703014,
+        "tags": ["Northern Union-CA"],
+        "type": 3,
+        "rarity": 5,
+        "stars": 6,
+        "oil": 12,
+        "max_level": 100,
+        "stats": {
+          "hp": 2432,
+          "fp": 120,
+          "trp": 90,
+          "aa": 102,
+          "av": 0,
+          "rld": 67,
+          "acc": 51,
+          "eva": 9,
+          "spd": 25.6,
+          "luk": 80,
+          "asw": 0
         }
       }
     },
@@ -45454,6 +45997,112 @@
       }
     },
     "stars": 5
+  },
+  "70504": {
+    "id": 70504,
+    "code": 440,
+    "name": {
+      "en": "Sovetskaya Belorussiya",
+      "code": "SN Sovetskaya Belorussiya",
+      "cn": "苏维埃贝拉罗斯",
+      "jp": "ソビエツカヤ・ベラルーシア"
+    },
+    "property_hexagon": [5, 0, 0, 1, 2, 5],
+    "type": 5,
+    "armor": 3,
+    "slots": [[4], [1, 2], [6], [10], [10]],
+    "nationality": 7,
+    "data": {
+      "705041": {
+        "id": 705041,
+        "tags": ["Sovetsky Soyuz-Class", "Northern Union-BB"],
+        "type": 5,
+        "rarity": 5,
+        "stars": 3,
+        "oil": 9,
+        "max_level": 70,
+        "stats": {
+          "hp": 1372,
+          "fp": 82,
+          "trp": 0,
+          "aa": 40,
+          "av": 0,
+          "rld": 57,
+          "acc": 25,
+          "eva": 8,
+          "spd": 28,
+          "luk": 46,
+          "asw": 0
+        }
+      },
+      "705042": {
+        "id": 705042,
+        "tags": ["Sovetsky Soyuz-Class", "Northern Union-BB"],
+        "type": 5,
+        "rarity": 5,
+        "stars": 4,
+        "oil": 11,
+        "max_level": 80,
+        "stats": {
+          "hp": 1707,
+          "fp": 102,
+          "trp": 0,
+          "aa": 50,
+          "av": 0,
+          "rld": 57,
+          "acc": 25,
+          "eva": 8,
+          "spd": 28,
+          "luk": 46,
+          "asw": 0
+        }
+      },
+      "705043": {
+        "id": 705043,
+        "tags": ["Sovetsky Soyuz-Class", "Northern Union-BB"],
+        "type": 5,
+        "rarity": 5,
+        "stars": 5,
+        "oil": 13,
+        "max_level": 90,
+        "stats": {
+          "hp": 2376,
+          "fp": 143,
+          "trp": 0,
+          "aa": 70,
+          "av": 0,
+          "rld": 57,
+          "acc": 25,
+          "eva": 8,
+          "spd": 28,
+          "luk": 46,
+          "asw": 0
+        }
+      },
+      "705044": {
+        "id": 705044,
+        "tags": ["Sovetsky Soyuz-Class", "Northern Union-BB"],
+        "type": 5,
+        "rarity": 5,
+        "stars": 6,
+        "oil": 15,
+        "max_level": 100,
+        "stats": {
+          "hp": 3379,
+          "fp": 204,
+          "trp": 0,
+          "aa": 99,
+          "av": 0,
+          "rld": 57,
+          "acc": 25,
+          "eva": 8,
+          "spd": 28,
+          "luk": 46,
+          "asw": 0
+        }
+      }
+    },
+    "stars": 6
   },
   "70505": {
     "id": 70505,
