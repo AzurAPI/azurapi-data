@@ -48838,6 +48838,112 @@
     },
     "stars": 6
   },
+  "970702": {
+    "id": 970702,
+    "code": 30002,
+    "name": {
+      "en": "Ark Royal META",
+      "code": "Ark Royal.META",
+      "cn": "皇家方舟·META",
+      "jp": "アーク・ロイヤル(META)"
+    },
+    "property_hexagon": [0, 0, 5, 2, 4, 3],
+    "type": 7,
+    "armor": 2,
+    "slots": [[8], [8], [9], [10], [10]],
+    "nationality": 97,
+    "data": {
+      "9707021": {
+        "id": 9707021,
+        "tags": ["Ark Royal.META", "Ark Royal"],
+        "type": 7,
+        "rarity": 5,
+        "stars": 3,
+        "oil": 14,
+        "max_level": 100,
+        "stats": {
+          "hp": 1066,
+          "fp": 0,
+          "trp": 0,
+          "aa": 61,
+          "av": 80,
+          "rld": 42,
+          "acc": 27,
+          "eva": 9,
+          "spd": 31,
+          "luk": 87,
+          "asw": 0
+        }
+      },
+      "9707022": {
+        "id": 9707022,
+        "tags": ["Ark Royal.META", "Ark Royal"],
+        "type": 7,
+        "rarity": 5,
+        "stars": 4,
+        "oil": 14,
+        "max_level": 100,
+        "stats": {
+          "hp": 1326,
+          "fp": 0,
+          "trp": 0,
+          "aa": 76,
+          "av": 100,
+          "rld": 42,
+          "acc": 27,
+          "eva": 9,
+          "spd": 31,
+          "luk": 87,
+          "asw": 0
+        }
+      },
+      "9707023": {
+        "id": 9707023,
+        "tags": ["Ark Royal.META", "Ark Royal"],
+        "type": 7,
+        "rarity": 5,
+        "stars": 5,
+        "oil": 14,
+        "max_level": 100,
+        "stats": {
+          "hp": 1846,
+          "fp": 0,
+          "trp": 0,
+          "aa": 106,
+          "av": 139,
+          "rld": 42,
+          "acc": 27,
+          "eva": 9,
+          "spd": 31,
+          "luk": 87,
+          "asw": 0
+        }
+      },
+      "9707024": {
+        "id": 9707024,
+        "tags": ["Ark Royal.META", "Ark Royal"],
+        "type": 7,
+        "rarity": 5,
+        "stars": 6,
+        "oil": 14,
+        "max_level": 100,
+        "stats": {
+          "hp": 2626,
+          "fp": 0,
+          "trp": 0,
+          "aa": 150,
+          "av": 199,
+          "rld": 42,
+          "acc": 27,
+          "eva": 9,
+          "spd": 31,
+          "luk": 87,
+          "asw": 0
+        }
+      }
+    },
+    "stars": 6
+  },
   "1010001": {
     "id": 1010001,
     "code": 10001,
