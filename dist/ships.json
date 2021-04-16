@@ -29013,17 +29013,17 @@
         "oil": 1,
         "max_level": 70,
         "stats": {
-          "hp": 1,
-          "fp": 0,
-          "trp": 0,
-          "aa": 0,
+          "hp": 252,
+          "fp": 11,
+          "trp": 77,
+          "aa": 24,
           "av": 0,
-          "rld": 0,
-          "acc": 0,
-          "eva": 0,
-          "spd": 0,
-          "luk": 0,
-          "asw": 0
+          "rld": 74,
+          "acc": 67,
+          "eva": 72,
+          "spd": 44.76,
+          "luk": 42,
+          "asw": 48
         }
       },
       "301852": {
@@ -29035,17 +29035,17 @@
         "oil": 3,
         "max_level": 80,
         "stats": {
-          "hp": 1,
-          "fp": 0,
-          "trp": 0,
-          "aa": 0,
+          "hp": 313,
+          "fp": 14,
+          "trp": 96,
+          "aa": 30,
           "av": 0,
-          "rld": 0,
-          "acc": 0,
-          "eva": 0,
-          "spd": 0,
-          "luk": 0,
-          "asw": 0
+          "rld": 74,
+          "acc": 67,
+          "eva": 72,
+          "spd": 44.76,
+          "luk": 42,
+          "asw": 60
         }
       },
       "301853": {
@@ -29057,17 +29057,17 @@
         "oil": 5,
         "max_level": 90,
         "stats": {
-          "hp": 1,
-          "fp": 0,
-          "trp": 0,
-          "aa": 0,
+          "hp": 436,
+          "fp": 19,
+          "trp": 134,
+          "aa": 42,
           "av": 0,
-          "rld": 0,
-          "acc": 0,
-          "eva": 0,
-          "spd": 0,
-          "luk": 0,
-          "asw": 0
+          "rld": 74,
+          "acc": 67,
+          "eva": 72,
+          "spd": 44.76,
+          "luk": 42,
+          "asw": 84
         }
       },
       "301854": {
@@ -29079,17 +29079,17 @@
         "oil": 7,
         "max_level": 100,
         "stats": {
-          "hp": 1,
-          "fp": 0,
-          "trp": 0,
-          "aa": 0,
+          "hp": 620,
+          "fp": 27,
+          "trp": 191,
+          "aa": 60,
           "av": 0,
-          "rld": 0,
-          "acc": 0,
-          "eva": 0,
-          "spd": 0,
-          "luk": 0,
-          "asw": 0
+          "rld": 74,
+          "acc": 67,
+          "eva": 72,
+          "spd": 44.76,
+          "luk": 42,
+          "asw": 119
         }
       }
     },
@@ -30221,7 +30221,7 @@
     "data": {
       "302201": {
         "id": 302201,
-        "tags": ["Agano-Class"],
+        "tags": ["Agano-Class", "Agano"],
         "type": 2,
         "rarity": 4,
         "stars": 2,
@@ -30243,7 +30243,7 @@
       },
       "302202": {
         "id": 302202,
-        "tags": ["Agano-Class"],
+        "tags": ["Agano-Class", "Agano"],
         "type": 2,
         "rarity": 4,
         "stars": 3,
@@ -30265,7 +30265,7 @@
       },
       "302203": {
         "id": 302203,
-        "tags": ["Agano-Class"],
+        "tags": ["Agano-Class", "Agano"],
         "type": 2,
         "rarity": 4,
         "stars": 4,
@@ -30287,7 +30287,7 @@
       },
       "302204": {
         "id": 302204,
-        "tags": ["Agano-Class"],
+        "tags": ["Agano-Class", "Agano"],
         "type": 2,
         "rarity": 4,
         "stars": 5,
