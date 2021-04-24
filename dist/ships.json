@@ -32489,6 +32489,112 @@
     },
     "stars": 5
   },
+  "30407": {
+    "id": 30407,
+    "code": 510,
+    "name": {
+      "en": "Amagi-chan",
+      "code": "IJN Amagi",
+      "cn": "小天城",
+      "jp": "天城ちゃん"
+    },
+    "property_hexagon": [4, 1, 0, 2, 1, 3],
+    "type": 4,
+    "armor": 2,
+    "slots": [[4], [1, 2], [6], [10], [10]],
+    "nationality": 3,
+    "data": {
+      "304071": {
+        "id": 304071,
+        "tags": ["Amagi-Class", "special"],
+        "type": 4,
+        "rarity": 4,
+        "stars": 2,
+        "oil": 8,
+        "max_level": 70,
+        "stats": {
+          "hp": 1189,
+          "fp": 69,
+          "trp": 32,
+          "aa": 34,
+          "av": 0,
+          "rld": 52,
+          "acc": 21,
+          "eva": 10,
+          "spd": 30,
+          "luk": 23,
+          "asw": 0
+        }
+      },
+      "304072": {
+        "id": 304072,
+        "tags": ["Amagi-Class", "special"],
+        "type": 4,
+        "rarity": 4,
+        "stars": 3,
+        "oil": 10,
+        "max_level": 80,
+        "stats": {
+          "hp": 1479,
+          "fp": 86,
+          "trp": 40,
+          "aa": 42,
+          "av": 0,
+          "rld": 52,
+          "acc": 21,
+          "eva": 10,
+          "spd": 30,
+          "luk": 23,
+          "asw": 0
+        }
+      },
+      "304073": {
+        "id": 304073,
+        "tags": ["Amagi-Class", "special"],
+        "type": 4,
+        "rarity": 4,
+        "stars": 4,
+        "oil": 12,
+        "max_level": 90,
+        "stats": {
+          "hp": 2059,
+          "fp": 120,
+          "trp": 56,
+          "aa": 59,
+          "av": 0,
+          "rld": 52,
+          "acc": 21,
+          "eva": 10,
+          "spd": 30,
+          "luk": 23,
+          "asw": 0
+        }
+      },
+      "304074": {
+        "id": 304074,
+        "tags": ["Amagi-Class", "special"],
+        "type": 4,
+        "rarity": 4,
+        "stars": 5,
+        "oil": 14,
+        "max_level": 100,
+        "stats": {
+          "hp": 2929,
+          "fp": 172,
+          "trp": 79,
+          "aa": 84,
+          "av": 0,
+          "rld": 52,
+          "acc": 21,
+          "eva": 10,
+          "spd": 30,
+          "luk": 23,
+          "asw": 0
+        }
+      }
+    },
+    "stars": 5
+  },
   "30501": {
     "id": 30501,
     "code": 208,
@@ -44147,6 +44253,430 @@
     },
     "stars": 5
   },
+  "60104": {
+    "id": 60104,
+    "code": 504,
+    "name": {
+      "en": "Maestrale",
+      "code": "RN Maestrale",
+      "cn": "西北风",
+      "jp": "マエストラーレ"
+    },
+    "property_hexagon": [4, 1, 0, 4, 2, 1],
+    "type": 1,
+    "armor": 1,
+    "slots": [[1], [5], [6], [10, 14], [10, 14]],
+    "nationality": 6,
+    "data": {
+      "601041": {
+        "id": 601041,
+        "tags": ["Maestrale-Class"],
+        "type": 1,
+        "rarity": 4,
+        "stars": 2,
+        "oil": 3,
+        "max_level": 70,
+        "stats": {
+          "hp": 296,
+          "fp": 20,
+          "trp": 55,
+          "aa": 30,
+          "av": 0,
+          "rld": 77,
+          "acc": 73,
+          "eva": 80,
+          "spd": 45.6,
+          "luk": 56,
+          "asw": 47
+        }
+      },
+      "601042": {
+        "id": 601042,
+        "tags": ["Maestrale-Class"],
+        "type": 1,
+        "rarity": 4,
+        "stars": 3,
+        "oil": 5,
+        "max_level": 80,
+        "stats": {
+          "hp": 368,
+          "fp": 25,
+          "trp": 69,
+          "aa": 37,
+          "av": 0,
+          "rld": 77,
+          "acc": 73,
+          "eva": 80,
+          "spd": 45.6,
+          "luk": 56,
+          "asw": 59
+        }
+      },
+      "601043": {
+        "id": 601043,
+        "tags": ["Maestrale-Class"],
+        "type": 1,
+        "rarity": 4,
+        "stars": 4,
+        "oil": 7,
+        "max_level": 90,
+        "stats": {
+          "hp": 513,
+          "fp": 35,
+          "trp": 96,
+          "aa": 52,
+          "av": 0,
+          "rld": 77,
+          "acc": 73,
+          "eva": 80,
+          "spd": 45.6,
+          "luk": 56,
+          "asw": 82
+        }
+      },
+      "601044": {
+        "id": 601044,
+        "tags": ["Maestrale-Class"],
+        "type": 1,
+        "rarity": 4,
+        "stars": 5,
+        "oil": 9,
+        "max_level": 100,
+        "stats": {
+          "hp": 729,
+          "fp": 50,
+          "trp": 136,
+          "aa": 74,
+          "av": 0,
+          "rld": 77,
+          "acc": 73,
+          "eva": 80,
+          "spd": 45.6,
+          "luk": 56,
+          "asw": 117
+        }
+      }
+    },
+    "stars": 5
+  },
+  "60105": {
+    "id": 60105,
+    "code": 505,
+    "name": {
+      "en": "Libeccio",
+      "code": "RN Libeccio",
+      "cn": "西南风",
+      "jp": "リベッチオ"
+    },
+    "property_hexagon": [4, 1, 0, 4, 2, 1],
+    "type": 1,
+    "armor": 1,
+    "slots": [[1], [5], [6], [10, 14], [10, 14]],
+    "nationality": 6,
+    "data": {
+      "601051": {
+        "id": 601051,
+        "tags": ["Maestrale-Class"],
+        "type": 1,
+        "rarity": 4,
+        "stars": 2,
+        "oil": 3,
+        "max_level": 70,
+        "stats": {
+          "hp": 290,
+          "fp": 21,
+          "trp": 56,
+          "aa": 29,
+          "av": 0,
+          "rld": 77,
+          "acc": 73,
+          "eva": 78,
+          "spd": 45.6,
+          "luk": 42,
+          "asw": 45
+        }
+      },
+      "601052": {
+        "id": 601052,
+        "tags": ["Maestrale-Class"],
+        "type": 1,
+        "rarity": 4,
+        "stars": 3,
+        "oil": 5,
+        "max_level": 80,
+        "stats": {
+          "hp": 361,
+          "fp": 26,
+          "trp": 70,
+          "aa": 36,
+          "av": 0,
+          "rld": 77,
+          "acc": 73,
+          "eva": 78,
+          "spd": 45.6,
+          "luk": 42,
+          "asw": 56
+        }
+      },
+      "601053": {
+        "id": 601053,
+        "tags": ["Maestrale-Class"],
+        "type": 1,
+        "rarity": 4,
+        "stars": 4,
+        "oil": 7,
+        "max_level": 90,
+        "stats": {
+          "hp": 502,
+          "fp": 37,
+          "trp": 97,
+          "aa": 50,
+          "av": 0,
+          "rld": 77,
+          "acc": 73,
+          "eva": 78,
+          "spd": 45.6,
+          "luk": 42,
+          "asw": 78
+        }
+      },
+      "601054": {
+        "id": 601054,
+        "tags": ["Maestrale-Class"],
+        "type": 1,
+        "rarity": 4,
+        "stars": 5,
+        "oil": 9,
+        "max_level": 100,
+        "stats": {
+          "hp": 714,
+          "fp": 53,
+          "trp": 139,
+          "aa": 71,
+          "av": 0,
+          "rld": 77,
+          "acc": 73,
+          "eva": 78,
+          "spd": 45.6,
+          "luk": 42,
+          "asw": 112
+        }
+      }
+    },
+    "stars": 5
+  },
+  "60106": {
+    "id": 60106,
+    "code": 506,
+    "name": {
+      "en": "Nicoloso da Recco",
+      "code": "RN Nicoloso da Recco",
+      "cn": "尼科洛索·达雷科",
+      "jp": "二コロソ・ダ・レッコ"
+    },
+    "property_hexagon": [4, 1, 0, 4, 2, 1],
+    "type": 1,
+    "armor": 1,
+    "slots": [[1], [5], [6], [10, 14], [10, 14]],
+    "nationality": 6,
+    "data": {
+      "601061": {
+        "id": 601061,
+        "tags": ["Navigatori-Class"],
+        "type": 1,
+        "rarity": 4,
+        "stars": 2,
+        "oil": 3,
+        "max_level": 70,
+        "stats": {
+          "hp": 301,
+          "fp": 21,
+          "trp": 52,
+          "aa": 32,
+          "av": 0,
+          "rld": 73,
+          "acc": 68,
+          "eva": 77,
+          "spd": 39.6,
+          "luk": 82,
+          "asw": 51
+        }
+      },
+      "601062": {
+        "id": 601062,
+        "tags": ["Navigatori-Class"],
+        "type": 1,
+        "rarity": 4,
+        "stars": 3,
+        "oil": 5,
+        "max_level": 80,
+        "stats": {
+          "hp": 374,
+          "fp": 26,
+          "trp": 65,
+          "aa": 40,
+          "av": 0,
+          "rld": 73,
+          "acc": 68,
+          "eva": 77,
+          "spd": 39.6,
+          "luk": 82,
+          "asw": 64
+        }
+      },
+      "601063": {
+        "id": 601063,
+        "tags": ["Navigatori-Class"],
+        "type": 1,
+        "rarity": 4,
+        "stars": 4,
+        "oil": 7,
+        "max_level": 90,
+        "stats": {
+          "hp": 521,
+          "fp": 37,
+          "trp": 90,
+          "aa": 55,
+          "av": 0,
+          "rld": 73,
+          "acc": 68,
+          "eva": 77,
+          "spd": 39.6,
+          "luk": 82,
+          "asw": 89
+        }
+      },
+      "601064": {
+        "id": 601064,
+        "tags": ["Navigatori-Class"],
+        "type": 1,
+        "rarity": 4,
+        "stars": 5,
+        "oil": 9,
+        "max_level": 100,
+        "stats": {
+          "hp": 741,
+          "fp": 53,
+          "trp": 129,
+          "aa": 79,
+          "av": 0,
+          "rld": 73,
+          "acc": 68,
+          "eva": 77,
+          "spd": 39.6,
+          "luk": 82,
+          "asw": 126
+        }
+      }
+    },
+    "stars": 5
+  },
+  "60201": {
+    "id": 60201,
+    "code": 501,
+    "name": {
+      "en": "Duca degli Abruzzi",
+      "code": "RN Duca degli Abruzzi",
+      "cn": "阿布鲁齐公爵",
+      "jp": "ドゥーカ・デッリ・アブルッツィ"
+    },
+    "property_hexagon": [3, 3, 0, 3, 3, 3],
+    "type": 2,
+    "armor": 1,
+    "slots": [[2], [5], [6], [10, 14], [10, 14]],
+    "nationality": 6,
+    "data": {
+      "602011": {
+        "id": 602011,
+        "tags": ["Condottieri-Class", "V"],
+        "type": 2,
+        "rarity": 5,
+        "stars": 3,
+        "oil": 5,
+        "max_level": 70,
+        "stats": {
+          "hp": 760,
+          "fp": 29,
+          "trp": 60,
+          "aa": 71,
+          "av": 0,
+          "rld": 66,
+          "acc": 59,
+          "eva": 31,
+          "spd": 35.56,
+          "luk": 85,
+          "asw": 23
+        }
+      },
+      "602012": {
+        "id": 602012,
+        "tags": ["Condottieri-Class", "V"],
+        "type": 2,
+        "rarity": 5,
+        "stars": 4,
+        "oil": 7,
+        "max_level": 80,
+        "stats": {
+          "hp": 945,
+          "fp": 36,
+          "trp": 75,
+          "aa": 88,
+          "av": 0,
+          "rld": 66,
+          "acc": 59,
+          "eva": 31,
+          "spd": 35.56,
+          "luk": 85,
+          "asw": 29
+        }
+      },
+      "602013": {
+        "id": 602013,
+        "tags": ["Condottieri-Class", "V"],
+        "type": 2,
+        "rarity": 5,
+        "stars": 5,
+        "oil": 9,
+        "max_level": 90,
+        "stats": {
+          "hp": 1316,
+          "fp": 51,
+          "trp": 104,
+          "aa": 123,
+          "av": 0,
+          "rld": 66,
+          "acc": 59,
+          "eva": 31,
+          "spd": 35.56,
+          "luk": 85,
+          "asw": 40
+        }
+      },
+      "602014": {
+        "id": 602014,
+        "tags": ["Condottieri-Class", "V"],
+        "type": 2,
+        "rarity": 5,
+        "stars": 6,
+        "oil": 11,
+        "max_level": 100,
+        "stats": {
+          "hp": 1872,
+          "fp": 73,
+          "trp": 149,
+          "aa": 175,
+          "av": 0,
+          "rld": 66,
+          "acc": 59,
+          "eva": 31,
+          "spd": 35.56,
+          "luk": 85,
+          "asw": 58
+        }
+      }
+    },
+    "stars": 6
+  },
   "60301": {
     "id": 60301,
     "code": 414,
@@ -44456,6 +44986,112 @@
           "eva": 9,
           "spd": 26.4,
           "luk": 75,
+          "asw": 0
+        }
+      }
+    },
+    "stars": 6
+  },
+  "60501": {
+    "id": 60501,
+    "code": 500,
+    "name": {
+      "en": "Vittorio Veneto",
+      "code": "RN Vittorio Veneto",
+      "cn": "维托里奥·维内托",
+      "jp": "ヴィットリオ・ヴェネト"
+    },
+    "property_hexagon": [5, 0, 0, 1, 2, 5],
+    "type": 5,
+    "armor": 3,
+    "slots": [[4], [1, 2], [6], [10], [10]],
+    "nationality": 6,
+    "data": {
+      "605011": {
+        "id": 605011,
+        "tags": ["Vittorio Veneto-Class"],
+        "type": 5,
+        "rarity": 5,
+        "stars": 3,
+        "oil": 9,
+        "max_level": 70,
+        "stats": {
+          "hp": 1410,
+          "fp": 82,
+          "trp": 0,
+          "aa": 45,
+          "av": 0,
+          "rld": 58,
+          "acc": 19,
+          "eva": 8,
+          "spd": 30,
+          "luk": 80,
+          "asw": 0
+        }
+      },
+      "605012": {
+        "id": 605012,
+        "tags": ["Vittorio Veneto-Class"],
+        "type": 5,
+        "rarity": 5,
+        "stars": 4,
+        "oil": 11,
+        "max_level": 80,
+        "stats": {
+          "hp": 1754,
+          "fp": 102,
+          "trp": 0,
+          "aa": 56,
+          "av": 0,
+          "rld": 58,
+          "acc": 19,
+          "eva": 8,
+          "spd": 30,
+          "luk": 80,
+          "asw": 0
+        }
+      },
+      "605013": {
+        "id": 605013,
+        "tags": ["Vittorio Veneto-Class"],
+        "type": 5,
+        "rarity": 5,
+        "stars": 5,
+        "oil": 13,
+        "max_level": 90,
+        "stats": {
+          "hp": 2441,
+          "fp": 143,
+          "trp": 0,
+          "aa": 78,
+          "av": 0,
+          "rld": 58,
+          "acc": 19,
+          "eva": 8,
+          "spd": 30,
+          "luk": 80,
+          "asw": 0
+        }
+      },
+      "605014": {
+        "id": 605014,
+        "tags": ["Vittorio Veneto-Class"],
+        "type": 5,
+        "rarity": 5,
+        "stars": 6,
+        "oil": 15,
+        "max_level": 100,
+        "stats": {
+          "hp": 3473,
+          "fp": 204,
+          "trp": 0,
+          "aa": 112,
+          "av": 0,
+          "rld": 58,
+          "acc": 19,
+          "eva": 8,
+          "spd": 30,
+          "luk": 80,
           "asw": 0
         }
       }
@@ -44777,6 +45413,214 @@
           "eva": 7,
           "spd": 27,
           "luk": 65,
+          "asw": 0
+        }
+      }
+    },
+    "stars": 5
+  },
+  "60701": {
+    "id": 60701,
+    "code": 502,
+    "name": {"en": "Aquila", "code": "RN Aquila", "cn": "天鹰", "jp": "アクィラ"},
+    "property_hexagon": [0, 0, 4, 1, 3, 5],
+    "type": 7,
+    "armor": 2,
+    "slots": [[7], [7], [8], [10], [10]],
+    "nationality": 6,
+    "data": {
+      "607011": {
+        "id": 607011,
+        "tags": ["Aquila"],
+        "type": 7,
+        "rarity": 5,
+        "stars": 3,
+        "oil": 7,
+        "max_level": 70,
+        "stats": {
+          "hp": 1093,
+          "fp": 0,
+          "trp": 0,
+          "aa": 69,
+          "av": 76,
+          "rld": 47,
+          "acc": 35,
+          "eva": 12,
+          "spd": 30,
+          "luk": 40,
+          "asw": 0
+        }
+      },
+      "607012": {
+        "id": 607012,
+        "tags": ["Aquila"],
+        "type": 7,
+        "rarity": 5,
+        "stars": 4,
+        "oil": 9,
+        "max_level": 80,
+        "stats": {
+          "hp": 1360,
+          "fp": 0,
+          "trp": 0,
+          "aa": 86,
+          "av": 95,
+          "rld": 47,
+          "acc": 35,
+          "eva": 12,
+          "spd": 30,
+          "luk": 40,
+          "asw": 0
+        }
+      },
+      "607013": {
+        "id": 607013,
+        "tags": ["Aquila"],
+        "type": 7,
+        "rarity": 5,
+        "stars": 5,
+        "oil": 11,
+        "max_level": 90,
+        "stats": {
+          "hp": 1893,
+          "fp": 0,
+          "trp": 0,
+          "aa": 120,
+          "av": 132,
+          "rld": 47,
+          "acc": 35,
+          "eva": 12,
+          "spd": 30,
+          "luk": 40,
+          "asw": 0
+        }
+      },
+      "607014": {
+        "id": 607014,
+        "tags": ["Aquila"],
+        "type": 7,
+        "rarity": 5,
+        "stars": 6,
+        "oil": 13,
+        "max_level": 100,
+        "stats": {
+          "hp": 2693,
+          "fp": 0,
+          "trp": 0,
+          "aa": 171,
+          "av": 188,
+          "rld": 47,
+          "acc": 35,
+          "eva": 12,
+          "spd": 30,
+          "luk": 40,
+          "asw": 0
+        },
+        "slots": [[7], [7, 9], [8], [10], [10]]
+      }
+    },
+    "stars": 6
+  },
+  "60801": {
+    "id": 60801,
+    "code": 503,
+    "name": {
+      "en": "Torricelli",
+      "code": "RN Torricelli",
+      "cn": "托里拆利",
+      "jp": "トリチェリ"
+    },
+    "property_hexagon": [1, 4, 0, 1, 0, 1],
+    "type": 8,
+    "armor": 1,
+    "slots": [[13], [13], [1], [10], [10]],
+    "nationality": 6,
+    "data": {
+      "608011": {
+        "id": 608011,
+        "tags": ["Brin-Class"],
+        "type": 8,
+        "rarity": 4,
+        "stars": 2,
+        "oil": 4,
+        "max_level": 70,
+        "stats": {
+          "hp": 245,
+          "fp": 7,
+          "trp": 96,
+          "aa": 0,
+          "av": 0,
+          "rld": 31,
+          "acc": 61,
+          "eva": 7,
+          "spd": 14.4,
+          "luk": 16,
+          "asw": 0
+        }
+      },
+      "608012": {
+        "id": 608012,
+        "tags": ["Brin-Class"],
+        "type": 8,
+        "rarity": 4,
+        "stars": 3,
+        "oil": 5,
+        "max_level": 80,
+        "stats": {
+          "hp": 305,
+          "fp": 9,
+          "trp": 120,
+          "aa": 0,
+          "av": 0,
+          "rld": 31,
+          "acc": 61,
+          "eva": 7,
+          "spd": 14.4,
+          "luk": 16,
+          "asw": 0
+        }
+      },
+      "608013": {
+        "id": 608013,
+        "tags": ["Brin-Class"],
+        "type": 8,
+        "rarity": 4,
+        "stars": 4,
+        "oil": 6,
+        "max_level": 90,
+        "stats": {
+          "hp": 424,
+          "fp": 13,
+          "trp": 168,
+          "aa": 0,
+          "av": 0,
+          "rld": 31,
+          "acc": 61,
+          "eva": 7,
+          "spd": 14.4,
+          "luk": 16,
+          "asw": 0
+        }
+      },
+      "608014": {
+        "id": 608014,
+        "tags": ["Brin-Class"],
+        "type": 8,
+        "rarity": 4,
+        "stars": 5,
+        "oil": 7,
+        "max_level": 100,
+        "stats": {
+          "hp": 603,
+          "fp": 18,
+          "trp": 239,
+          "aa": 0,
+          "av": 0,
+          "rld": 31,
+          "acc": 61,
+          "eva": 7,
+          "spd": 14.4,
+          "luk": 16,
           "asw": 0
         }
       }
