@@ -10313,7 +10313,7 @@
         "rarity": 6,
         "stars": 3,
         "oil": 17,
-        "max_level": 70,
+        "max_level": 100,
         "stats": {
           "hp": 1594,
           "fp": 87,
@@ -10335,7 +10335,7 @@
         "rarity": 6,
         "stars": 4,
         "oil": 17,
-        "max_level": 80,
+        "max_level": 100,
         "stats": {
           "hp": 1983,
           "fp": 109,
@@ -10357,7 +10357,7 @@
         "rarity": 6,
         "stars": 5,
         "oil": 17,
-        "max_level": 90,
+        "max_level": 100,
         "stats": {
           "hp": 2760,
           "fp": 152,
