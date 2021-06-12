@@ -50652,6 +50652,112 @@
     },
     "stars": 6
   },
+  "970201": {
+    "id": 970201,
+    "code": 30003,
+    "name": {
+      "en": "Helena META",
+      "code": "Helena.META",
+      "cn": "海伦娜·META",
+      "jp": "ヘレナ(META)"
+    },
+    "property_hexagon": [3, 0, 0, 3, 4, 3],
+    "type": 2,
+    "armor": 1,
+    "slots": [[2], [1], [6], [10, 14], [10, 14]],
+    "nationality": 97,
+    "data": {
+      "9702011": {
+        "id": 9702011,
+        "tags": ["HelenaMETA", "Brooklyn-Class", "Helena"],
+        "type": 2,
+        "rarity": 5,
+        "stars": 3,
+        "oil": 12,
+        "max_level": 100,
+        "stats": {
+          "hp": 719,
+          "fp": 32,
+          "trp": 0,
+          "aa": 80,
+          "av": 0,
+          "rld": 72,
+          "acc": 47,
+          "eva": 22,
+          "spd": 33,
+          "luk": 33,
+          "asw": 36
+        }
+      },
+      "9702012": {
+        "id": 9702012,
+        "tags": ["HelenaMETA", "Brooklyn-Class", "Helena"],
+        "type": 2,
+        "rarity": 5,
+        "stars": 4,
+        "oil": 12,
+        "max_level": 100,
+        "stats": {
+          "hp": 894,
+          "fp": 40,
+          "trp": 0,
+          "aa": 100,
+          "av": 0,
+          "rld": 72,
+          "acc": 47,
+          "eva": 22,
+          "spd": 33,
+          "luk": 33,
+          "asw": 45
+        }
+      },
+      "9702013": {
+        "id": 9702013,
+        "tags": ["HelenaMETA", "Brooklyn-Class", "Helena"],
+        "type": 2,
+        "rarity": 5,
+        "stars": 5,
+        "oil": 12,
+        "max_level": 100,
+        "stats": {
+          "hp": 1245,
+          "fp": 56,
+          "trp": 0,
+          "aa": 139,
+          "av": 0,
+          "rld": 72,
+          "acc": 47,
+          "eva": 22,
+          "spd": 33,
+          "luk": 33,
+          "asw": 62
+        }
+      },
+      "9702014": {
+        "id": 9702014,
+        "tags": ["HelenaMETA", "Brooklyn-Class", "Helena"],
+        "type": 2,
+        "rarity": 5,
+        "stars": 6,
+        "oil": 12,
+        "max_level": 100,
+        "stats": {
+          "hp": 1771,
+          "fp": 80,
+          "trp": 0,
+          "aa": 197,
+          "av": 0,
+          "rld": 72,
+          "acc": 47,
+          "eva": 22,
+          "spd": 33,
+          "luk": 33,
+          "asw": 89
+        }
+      }
+    },
+    "stars": 6
+  },
   "970701": {
     "id": 970701,
     "code": 30001,
