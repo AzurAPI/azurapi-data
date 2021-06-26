@@ -24498,6 +24498,112 @@
     },
     "stars": 5
   },
+  "30102": {
+    "id": 30102,
+    "code": 152,
+    "name": {
+      "en": "Shirayuki",
+      "code": "IJN Shirayuki",
+      "cn": "白雪",
+      "jp": "白雪"
+    },
+    "property_hexagon": [1, 4, 0, 4, 1, 1],
+    "type": 1,
+    "armor": 1,
+    "slots": [[1], [5], [6], [10, 14], [10, 14]],
+    "nationality": 3,
+    "data": {
+      "301021": {
+        "id": 301021,
+        "tags": ["Special Type"],
+        "type": 1,
+        "rarity": 4,
+        "stars": 2,
+        "oil": 3,
+        "max_level": 70,
+        "stats": {
+          "hp": 290,
+          "fp": 13,
+          "trp": 98,
+          "aa": 27,
+          "av": 0,
+          "rld": 78,
+          "acc": 67,
+          "eva": 72,
+          "spd": 45.6,
+          "luk": 41,
+          "asw": 49
+        }
+      },
+      "301022": {
+        "id": 301022,
+        "tags": ["Special Type"],
+        "type": 1,
+        "rarity": 4,
+        "stars": 3,
+        "oil": 5,
+        "max_level": 80,
+        "stats": {
+          "hp": 361,
+          "fp": 16,
+          "trp": 122,
+          "aa": 34,
+          "av": 0,
+          "rld": 78,
+          "acc": 67,
+          "eva": 72,
+          "spd": 45.6,
+          "luk": 41,
+          "asw": 61
+        }
+      },
+      "301023": {
+        "id": 301023,
+        "tags": ["Special Type"],
+        "type": 1,
+        "rarity": 4,
+        "stars": 4,
+        "oil": 7,
+        "max_level": 90,
+        "stats": {
+          "hp": 502,
+          "fp": 22,
+          "trp": 171,
+          "aa": 47,
+          "av": 0,
+          "rld": 78,
+          "acc": 67,
+          "eva": 72,
+          "spd": 45.6,
+          "luk": 41,
+          "asw": 85
+        }
+      },
+      "301024": {
+        "id": 301024,
+        "tags": ["Special Type"],
+        "type": 1,
+        "rarity": 4,
+        "stars": 5,
+        "oil": 9,
+        "max_level": 100,
+        "stats": {
+          "hp": 714,
+          "fp": 32,
+          "trp": 243,
+          "aa": 67,
+          "av": 0,
+          "rld": 78,
+          "acc": 67,
+          "eva": 72,
+          "spd": 45.6,
+          "luk": 41,
+          "asw": 122
+        }
+      }
+    },
+    "stars": 5
+  },
   "30105": {
     "id": 30105,
     "code": 155,
@@ -29334,10 +29440,10 @@
     "id": 30181,
     "code": 424,
     "name": {
-      "en": "Kasumi",
+      "en": "Kasumi Retrofit",
       "code": "IJN Kasumi",
-      "cn": "霞",
-      "jp": "霞",
+      "cn": "霞.改",
+      "jp": "霞改",
       "kr": "카스미"
     },
     "property_hexagon": [1, 4, 0, 4, 1, 2],
@@ -29346,6 +29452,28 @@
     "slots": [[1], [5], [6], [10, 14], [10, 14]],
     "nationality": 3,
     "data": {
+      "301534": {
+        "id": 301534,
+        "tags": ["Asashio-Class", "pupu"],
+        "type": 1,
+        "rarity": 4,
+        "stars": 5,
+        "oil": 9,
+        "max_level": 100,
+        "stats": {
+          "hp": 794,
+          "fp": 30,
+          "trp": 252,
+          "aa": 72,
+          "av": 0,
+          "rld": 74,
+          "acc": 67,
+          "eva": 71,
+          "spd": 42,
+          "luk": 70,
+          "asw": 117
+        }
+      },
       "301811": {
         "id": 301811,
         "tags": ["Asashio-Class", "pupu"],
@@ -29366,7 +29494,8 @@
           "spd": 42,
           "luk": 70,
           "asw": 47
-        }
+        },
+        "name": {"en": "Kasumi", "cn": "霞", "jp": "霞"}
       },
       "301812": {
         "id": 301812,
@@ -29388,7 +29517,8 @@
           "spd": 42,
           "luk": 70,
           "asw": 59
-        }
+        },
+        "name": {"en": "Kasumi", "cn": "霞", "jp": "霞"}
       },
       "301813": {
         "id": 301813,
@@ -29410,7 +29540,8 @@
           "spd": 42,
           "luk": 70,
           "asw": 82
-        }
+        },
+        "name": {"en": "Kasumi", "cn": "霞", "jp": "霞"}
       },
       "301814": {
         "id": 301814,
@@ -29432,7 +29563,8 @@
           "spd": 42,
           "luk": 70,
           "asw": 117
-        }
+        },
+        "name": {"en": "Kasumi", "cn": "霞", "jp": "霞"}
       }
     },
     "stars": 5
@@ -29858,6 +29990,107 @@
       }
     },
     "stars": 5
+  },
+  "30186": {
+    "id": 30186,
+    "code": 517,
+    "name": {"en": "Kazagumo", "code": "IJN Kazagumo", "cn": "风云", "jp": "風雲"},
+    "property_hexagon": [1, 4, 0, 4, 1, 2],
+    "type": 1,
+    "armor": 1,
+    "slots": [[1], [5], [6], [10, 14], [10, 14]],
+    "nationality": 3,
+    "data": {
+      "301861": {
+        "id": 301861,
+        "tags": ["Kazagumo-Class"],
+        "type": 1,
+        "rarity": 5,
+        "stars": 3,
+        "oil": 4,
+        "max_level": 70,
+        "stats": {
+          "hp": 361,
+          "fp": 14,
+          "trp": 107,
+          "aa": 30,
+          "av": 0,
+          "rld": 82,
+          "acc": 73,
+          "eva": 71,
+          "spd": 42,
+          "luk": 51,
+          "asw": 44
+        }
+      },
+      "301862": {
+        "id": 301862,
+        "tags": ["Kazagumo-Class"],
+        "type": 1,
+        "rarity": 5,
+        "stars": 4,
+        "oil": 6,
+        "max_level": 80,
+        "stats": {
+          "hp": 449,
+          "fp": 17,
+          "trp": 134,
+          "aa": 37,
+          "av": 0,
+          "rld": 82,
+          "acc": 73,
+          "eva": 71,
+          "spd": 42,
+          "luk": 51,
+          "asw": 55
+        }
+      },
+      "301863": {
+        "id": 301863,
+        "tags": ["Kazagumo-Class"],
+        "type": 1,
+        "rarity": 5,
+        "stars": 5,
+        "oil": 8,
+        "max_level": 90,
+        "stats": {
+          "hp": 625,
+          "fp": 24,
+          "trp": 187,
+          "aa": 52,
+          "av": 0,
+          "rld": 82,
+          "acc": 73,
+          "eva": 71,
+          "spd": 42,
+          "luk": 51,
+          "asw": 77
+        }
+      },
+      "301864": {
+        "id": 301864,
+        "tags": ["Kazagumo-Class"],
+        "type": 1,
+        "rarity": 5,
+        "stars": 6,
+        "oil": 10,
+        "max_level": 100,
+        "stats": {
+          "hp": 889,
+          "fp": 34,
+          "trp": 266,
+          "aa": 74,
+          "av": 0,
+          "rld": 82,
+          "acc": 73,
+          "eva": 71,
+          "spd": 42,
+          "luk": 51,
+          "asw": 110
+        }
+      }
+    },
+    "stars": 6
   },
   "30201": {
     "id": 30201,
