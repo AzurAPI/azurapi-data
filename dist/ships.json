@@ -13925,6 +13925,112 @@
     },
     "stars": 6
   },
+  "19903": {
+    "id": 19903,
+    "code": 20018,
+    "name": {
+      "en": "Anchorage",
+      "code": "USS Anchorage",
+      "cn": "安克雷奇",
+      "jp": "アンカレッジ"
+    },
+    "property_hexagon": [4, 2, 0, 2, 2, 4],
+    "type": 3,
+    "armor": 2,
+    "slots": [[3], [5], [6], [10], [10]],
+    "nationality": 1,
+    "data": {
+      "199031": {
+        "id": 199031,
+        "tags": ["Plan-Class"],
+        "type": 3,
+        "rarity": 5,
+        "stars": 3,
+        "oil": 13,
+        "max_level": 100,
+        "stats": {
+          "hp": 1100,
+          "fp": 47,
+          "trp": 40,
+          "aa": 42,
+          "av": 0,
+          "rld": 60,
+          "acc": 51,
+          "eva": 10,
+          "spd": 26.4,
+          "luk": 0,
+          "asw": 0
+        }
+      },
+      "199032": {
+        "id": 199032,
+        "tags": ["Plan-Class"],
+        "type": 3,
+        "rarity": 5,
+        "stars": 4,
+        "oil": 13,
+        "max_level": 100,
+        "stats": {
+          "hp": 1100,
+          "fp": 47,
+          "trp": 40,
+          "aa": 42,
+          "av": 0,
+          "rld": 60,
+          "acc": 51,
+          "eva": 10,
+          "spd": 26.4,
+          "luk": 0,
+          "asw": 0
+        }
+      },
+      "199033": {
+        "id": 199033,
+        "tags": ["Plan-Class"],
+        "type": 3,
+        "rarity": 5,
+        "stars": 5,
+        "oil": 13,
+        "max_level": 100,
+        "stats": {
+          "hp": 1100,
+          "fp": 47,
+          "trp": 40,
+          "aa": 42,
+          "av": 0,
+          "rld": 60,
+          "acc": 51,
+          "eva": 10,
+          "spd": 26.4,
+          "luk": 0,
+          "asw": 0
+        }
+      },
+      "199034": {
+        "id": 199034,
+        "tags": ["Plan-Class"],
+        "type": 3,
+        "rarity": 5,
+        "stars": 6,
+        "oil": 13,
+        "max_level": 100,
+        "stats": {
+          "hp": 1100,
+          "fp": 47,
+          "trp": 40,
+          "aa": 42,
+          "av": 0,
+          "rld": 60,
+          "acc": 51,
+          "eva": 10,
+          "spd": 26.4,
+          "luk": 0,
+          "asw": 0
+        }
+      }
+    },
+    "stars": 6
+  },
   "20101": {
     "id": 20101,
     "code": 81,
@@ -38580,6 +38686,110 @@
     },
     "stars": 6
   },
+  "39905": {
+    "id": 39905,
+    "code": 20019,
+    "name": {"en": "Hakuryuu", "code": "IJN Hakuryū", "cn": "白龙", "jp": "白龍"},
+    "property_hexagon": [0, 0, 5, 3, 3, 5],
+    "type": 7,
+    "armor": 3,
+    "slots": [[7], [9], [8], [10], [10]],
+    "nationality": 3,
+    "data": {
+      "399051": {
+        "id": 399051,
+        "tags": ["Plan-Class"],
+        "type": 7,
+        "rarity": 6,
+        "stars": 3,
+        "oil": 17,
+        "max_level": 100,
+        "stats": {
+          "hp": 1417,
+          "fp": 0,
+          "trp": 0,
+          "aa": 61,
+          "av": 88,
+          "rld": 46,
+          "acc": 32,
+          "eva": 14,
+          "spd": 34.5,
+          "luk": 0,
+          "asw": 0
+        }
+      },
+      "399052": {
+        "id": 399052,
+        "tags": ["Plan-Class"],
+        "type": 7,
+        "rarity": 6,
+        "stars": 4,
+        "oil": 17,
+        "max_level": 100,
+        "stats": {
+          "hp": 1417,
+          "fp": 0,
+          "trp": 0,
+          "aa": 61,
+          "av": 88,
+          "rld": 46,
+          "acc": 32,
+          "eva": 14,
+          "spd": 34.5,
+          "luk": 0,
+          "asw": 0
+        },
+        "slots": [[7, 8], [9], [8], [10], [10]]
+      },
+      "399053": {
+        "id": 399053,
+        "tags": ["Plan-Class"],
+        "type": 7,
+        "rarity": 6,
+        "stars": 5,
+        "oil": 17,
+        "max_level": 100,
+        "stats": {
+          "hp": 1417,
+          "fp": 0,
+          "trp": 0,
+          "aa": 61,
+          "av": 88,
+          "rld": 46,
+          "acc": 32,
+          "eva": 14,
+          "spd": 34.5,
+          "luk": 0,
+          "asw": 0
+        },
+        "slots": [[7, 8], [9], [8], [10], [10]]
+      },
+      "399054": {
+        "id": 399054,
+        "tags": ["Plan-Class"],
+        "type": 7,
+        "rarity": 6,
+        "stars": 6,
+        "oil": 17,
+        "max_level": 100,
+        "stats": {
+          "hp": 1417,
+          "fp": 0,
+          "trp": 0,
+          "aa": 61,
+          "av": 88,
+          "rld": 46,
+          "acc": 32,
+          "eva": 14,
+          "spd": 34.5,
+          "luk": 0,
+          "asw": 0
+        },
+        "slots": [[7, 8], [9], [8, 9], [10], [10]]
+      }
+    },
+    "stars": 6
+  },
   "40101": {
     "id": 40101,
     "code": 233,
@@ -44051,6 +44261,213 @@
     },
     "stars": 6
   },
+  "49905": {
+    "id": 49905,
+    "code": 20020,
+    "name": {"en": "Ägir", "code": "KMS Ägir", "cn": "埃吉尔", "jp": "エーギル"},
+    "property_hexagon": [4, 2, 0, 2, 2, 5],
+    "type": 18,
+    "armor": 3,
+    "slots": [[3, 11], [5], [6], [10], [10]],
+    "nationality": 4,
+    "data": {
+      "499051": {
+        "id": 499051,
+        "tags": ["Plan-Class"],
+        "type": 18,
+        "rarity": 6,
+        "stars": 3,
+        "oil": 16,
+        "max_level": 100,
+        "stats": {
+          "hp": 1385,
+          "fp": 53,
+          "trp": 38,
+          "aa": 47,
+          "av": 0,
+          "rld": 62,
+          "acc": 45,
+          "eva": 12,
+          "spd": 26.8,
+          "luk": 0,
+          "asw": 0
+        }
+      },
+      "499052": {
+        "id": 499052,
+        "tags": ["Plan-Class"],
+        "type": 18,
+        "rarity": 6,
+        "stars": 4,
+        "oil": 16,
+        "max_level": 100,
+        "stats": {
+          "hp": 1385,
+          "fp": 53,
+          "trp": 38,
+          "aa": 47,
+          "av": 0,
+          "rld": 62,
+          "acc": 45,
+          "eva": 12,
+          "spd": 26.8,
+          "luk": 0,
+          "asw": 0
+        }
+      },
+      "499053": {
+        "id": 499053,
+        "tags": ["Plan-Class"],
+        "type": 18,
+        "rarity": 6,
+        "stars": 5,
+        "oil": 16,
+        "max_level": 100,
+        "stats": {
+          "hp": 1385,
+          "fp": 53,
+          "trp": 38,
+          "aa": 47,
+          "av": 0,
+          "rld": 62,
+          "acc": 45,
+          "eva": 12,
+          "spd": 26.8,
+          "luk": 0,
+          "asw": 0
+        }
+      },
+      "499054": {
+        "id": 499054,
+        "tags": ["Plan-Class"],
+        "type": 18,
+        "rarity": 6,
+        "stars": 6,
+        "oil": 16,
+        "max_level": 100,
+        "stats": {
+          "hp": 1385,
+          "fp": 53,
+          "trp": 38,
+          "aa": 47,
+          "av": 0,
+          "rld": 62,
+          "acc": 45,
+          "eva": 12,
+          "spd": 26.8,
+          "luk": 0,
+          "asw": 0
+        }
+      }
+    },
+    "stars": 6
+  },
+  "49906": {
+    "id": 49906,
+    "code": 20021,
+    "name": {
+      "en": "August von Parseval",
+      "code": "KMS August von Parseval",
+      "cn": "奥古斯特·冯·帕塞瓦尔",
+      "jp": "アウグスト・フォン・パーセヴァル"
+    },
+    "property_hexagon": [0, 0, 5, 2, 3, 4],
+    "type": 7,
+    "armor": 2,
+    "slots": [[7], [9], [8], [10], [10]],
+    "nationality": 4,
+    "data": {
+      "499061": {
+        "id": 499061,
+        "tags": ["Plan-Class"],
+        "type": 7,
+        "rarity": 5,
+        "stars": 3,
+        "oil": 14,
+        "max_level": 100,
+        "stats": {
+          "hp": 1273,
+          "fp": 0,
+          "trp": 0,
+          "aa": 62,
+          "av": 83,
+          "rld": 44,
+          "acc": 37,
+          "eva": 13,
+          "spd": 31.8,
+          "luk": 0,
+          "asw": 0
+        }
+      },
+      "499062": {
+        "id": 499062,
+        "tags": ["Plan-Class"],
+        "type": 7,
+        "rarity": 5,
+        "stars": 4,
+        "oil": 14,
+        "max_level": 100,
+        "stats": {
+          "hp": 1273,
+          "fp": 0,
+          "trp": 0,
+          "aa": 62,
+          "av": 83,
+          "rld": 44,
+          "acc": 37,
+          "eva": 13,
+          "spd": 31.8,
+          "luk": 0,
+          "asw": 0
+        }
+      },
+      "499063": {
+        "id": 499063,
+        "tags": ["Plan-Class"],
+        "type": 7,
+        "rarity": 5,
+        "stars": 5,
+        "oil": 14,
+        "max_level": 100,
+        "stats": {
+          "hp": 1273,
+          "fp": 0,
+          "trp": 0,
+          "aa": 62,
+          "av": 83,
+          "rld": 44,
+          "acc": 37,
+          "eva": 13,
+          "spd": 31.8,
+          "luk": 0,
+          "asw": 0
+        }
+      },
+      "499064": {
+        "id": 499064,
+        "tags": ["Plan-Class"],
+        "type": 7,
+        "rarity": 5,
+        "stars": 6,
+        "oil": 14,
+        "max_level": 100,
+        "stats": {
+          "hp": 1273,
+          "fp": 0,
+          "trp": 0,
+          "aa": 62,
+          "av": 83,
+          "rld": 44,
+          "acc": 37,
+          "eva": 13,
+          "spd": 31.8,
+          "luk": 0,
+          "asw": 0
+        }
+      }
+    },
+    "stars": 6
+  },
   "50101": {
     "id": 50101,
     "code": 253,
@@ -46623,6 +47040,112 @@
       }
     },
     "stars": 5
+  },
+  "69901": {
+    "id": 69901,
+    "code": 20022,
+    "name": {
+      "en": "Marco Polo",
+      "code": "RN Marco Polo",
+      "cn": "马可波罗",
+      "jp": "マルコ・ポーロ"
+    },
+    "property_hexagon": [5, 0, 0, 1, 2, 5],
+    "type": 5,
+    "armor": 3,
+    "slots": [[4], [1, 2], [6], [10], [10]],
+    "nationality": 6,
+    "data": {
+      "699011": {
+        "id": 699011,
+        "tags": ["Plan-Class", "MarcoPolo"],
+        "type": 5,
+        "rarity": 5,
+        "stars": 3,
+        "oil": 16,
+        "max_level": 100,
+        "stats": {
+          "hp": 1410,
+          "fp": 83,
+          "trp": 0,
+          "aa": 48,
+          "av": 0,
+          "rld": 57,
+          "acc": 20,
+          "eva": 9,
+          "spd": 32,
+          "luk": 0,
+          "asw": 0
+        }
+      },
+      "699012": {
+        "id": 699012,
+        "tags": ["Plan-Class", "MarcoPolo"],
+        "type": 5,
+        "rarity": 5,
+        "stars": 4,
+        "oil": 16,
+        "max_level": 100,
+        "stats": {
+          "hp": 1410,
+          "fp": 83,
+          "trp": 0,
+          "aa": 48,
+          "av": 0,
+          "rld": 57,
+          "acc": 20,
+          "eva": 9,
+          "spd": 32,
+          "luk": 0,
+          "asw": 0
+        }
+      },
+      "699013": {
+        "id": 699013,
+        "tags": ["Plan-Class", "MarcoPolo"],
+        "type": 5,
+        "rarity": 5,
+        "stars": 5,
+        "oil": 16,
+        "max_level": 100,
+        "stats": {
+          "hp": 1410,
+          "fp": 83,
+          "trp": 0,
+          "aa": 48,
+          "av": 0,
+          "rld": 57,
+          "acc": 20,
+          "eva": 9,
+          "spd": 32,
+          "luk": 0,
+          "asw": 0
+        }
+      },
+      "699014": {
+        "id": 699014,
+        "tags": ["Plan-Class", "MarcoPolo"],
+        "type": 5,
+        "rarity": 5,
+        "stars": 6,
+        "oil": 16,
+        "max_level": 100,
+        "stats": {
+          "hp": 1410,
+          "fp": 83,
+          "trp": 0,
+          "aa": 48,
+          "av": 0,
+          "rld": 57,
+          "acc": 20,
+          "eva": 9,
+          "spd": 32,
+          "luk": 0,
+          "asw": 0
+        }
+      }
+    },
+    "stars": 6
   },
   "70102": {
     "id": 70102,
