@@ -55462,5 +55462,747 @@
       }
     },
     "stars": 5
+  },
+  "1070001": {
+    "id": 1070001,
+    "code": 10071,
+    "name": {
+      "en": "Haruka Amami",
+      "code": "Amami Haruka",
+      "cn": "天海春香",
+      "jp": "天海春香"
+    },
+    "property_hexagon": [3, 4, 0, 3, 3, 2],
+    "type": 2,
+    "armor": 1,
+    "slots": [[2], [5], [6], [10, 14], [10, 14]],
+    "nationality": 107,
+    "data": {
+      "10700011": {
+        "id": 10700011,
+        "tags": ["IMAS"],
+        "type": 2,
+        "rarity": 5,
+        "stars": 3,
+        "oil": 5,
+        "max_level": 70,
+        "stats": {
+          "hp": 670,
+          "fp": 30,
+          "trp": 68,
+          "aa": 68,
+          "av": 0,
+          "rld": 71,
+          "acc": 55,
+          "eva": 28,
+          "spd": 32,
+          "luk": 83,
+          "asw": 36
+        }
+      },
+      "10700012": {
+        "id": 10700012,
+        "tags": ["IMAS"],
+        "type": 2,
+        "rarity": 5,
+        "stars": 4,
+        "oil": 7,
+        "max_level": 80,
+        "stats": {
+          "hp": 833,
+          "fp": 37,
+          "trp": 85,
+          "aa": 85,
+          "av": 0,
+          "rld": 71,
+          "acc": 55,
+          "eva": 28,
+          "spd": 32,
+          "luk": 83,
+          "asw": 45
+        }
+      },
+      "10700013": {
+        "id": 10700013,
+        "tags": ["IMAS"],
+        "type": 2,
+        "rarity": 5,
+        "stars": 5,
+        "oil": 9,
+        "max_level": 90,
+        "stats": {
+          "hp": 1160,
+          "fp": 52,
+          "trp": 118,
+          "aa": 118,
+          "av": 0,
+          "rld": 71,
+          "acc": 55,
+          "eva": 28,
+          "spd": 32,
+          "luk": 83,
+          "asw": 63
+        }
+      },
+      "10700014": {
+        "id": 10700014,
+        "tags": ["IMAS"],
+        "type": 2,
+        "rarity": 5,
+        "stars": 6,
+        "oil": 11,
+        "max_level": 100,
+        "stats": {
+          "hp": 1651,
+          "fp": 75,
+          "trp": 169,
+          "aa": 169,
+          "av": 0,
+          "rld": 71,
+          "acc": 55,
+          "eva": 28,
+          "spd": 32,
+          "luk": 83,
+          "asw": 89
+        }
+      }
+    },
+    "stars": 6
+  },
+  "1070002": {
+    "id": 1070002,
+    "code": 10072,
+    "name": {
+      "en": "Chihaya Kisaragi",
+      "code": "Kisaragi Chihaya",
+      "cn": "如月千早",
+      "jp": "如月千早"
+    },
+    "property_hexagon": [0, 0, 5, 3, 3, 4],
+    "type": 7,
+    "armor": 2,
+    "slots": [[7], [9], [8], [10], [10]],
+    "nationality": 107,
+    "data": {
+      "10700021": {
+        "id": 10700021,
+        "tags": ["IMAS"],
+        "type": 7,
+        "rarity": 5,
+        "stars": 3,
+        "oil": 7,
+        "max_level": 70,
+        "stats": {
+          "hp": 1128,
+          "fp": 0,
+          "trp": 0,
+          "aa": 60,
+          "av": 82,
+          "rld": 53,
+          "acc": 30,
+          "eva": 13,
+          "spd": 31.5,
+          "luk": 72,
+          "asw": 0
+        }
+      },
+      "10700022": {
+        "id": 10700022,
+        "tags": ["IMAS"],
+        "type": 7,
+        "rarity": 5,
+        "stars": 4,
+        "oil": 9,
+        "max_level": 80,
+        "stats": {
+          "hp": 1403,
+          "fp": 0,
+          "trp": 0,
+          "aa": 75,
+          "av": 102,
+          "rld": 53,
+          "acc": 30,
+          "eva": 13,
+          "spd": 31.5,
+          "luk": 72,
+          "asw": 0
+        }
+      },
+      "10700023": {
+        "id": 10700023,
+        "tags": ["IMAS"],
+        "type": 7,
+        "rarity": 5,
+        "stars": 5,
+        "oil": 11,
+        "max_level": 90,
+        "stats": {
+          "hp": 1953,
+          "fp": 0,
+          "trp": 0,
+          "aa": 104,
+          "av": 143,
+          "rld": 53,
+          "acc": 30,
+          "eva": 13,
+          "spd": 31.5,
+          "luk": 72,
+          "asw": 0
+        }
+      },
+      "10700024": {
+        "id": 10700024,
+        "tags": ["IMAS"],
+        "type": 7,
+        "rarity": 5,
+        "stars": 6,
+        "oil": 13,
+        "max_level": 100,
+        "stats": {
+          "hp": 2778,
+          "fp": 0,
+          "trp": 0,
+          "aa": 148,
+          "av": 204,
+          "rld": 53,
+          "acc": 30,
+          "eva": 13,
+          "spd": 31.5,
+          "luk": 72,
+          "asw": 0
+        }
+      }
+    },
+    "stars": 6
+  },
+  "1070003": {
+    "id": 1070003,
+    "code": 10073,
+    "name": {
+      "en": "Iori Minase",
+      "code": "Minase Iori",
+      "cn": "水濑伊织",
+      "jp": "水瀬伊織"
+    },
+    "property_hexagon": [4, 0, 0, 1, 3, 4],
+    "type": 5,
+    "armor": 3,
+    "slots": [[4], [1], [6], [10], [10]],
+    "nationality": 107,
+    "data": {
+      "10700031": {
+        "id": 10700031,
+        "tags": ["IMAS"],
+        "type": 5,
+        "rarity": 5,
+        "stars": 3,
+        "oil": 9,
+        "max_level": 70,
+        "stats": {
+          "hp": 1303,
+          "fp": 80,
+          "trp": 0,
+          "aa": 72,
+          "av": 0,
+          "rld": 55,
+          "acc": 19,
+          "eva": 6,
+          "spd": 26,
+          "luk": 77,
+          "asw": 0
+        }
+      },
+      "10700032": {
+        "id": 10700032,
+        "tags": ["IMAS"],
+        "type": 5,
+        "rarity": 5,
+        "stars": 4,
+        "oil": 11,
+        "max_level": 80,
+        "stats": {
+          "hp": 1621,
+          "fp": 100,
+          "trp": 0,
+          "aa": 90,
+          "av": 0,
+          "rld": 55,
+          "acc": 19,
+          "eva": 6,
+          "spd": 26,
+          "luk": 77,
+          "asw": 0
+        }
+      },
+      "10700033": {
+        "id": 10700033,
+        "tags": ["IMAS"],
+        "type": 5,
+        "rarity": 5,
+        "stars": 5,
+        "oil": 13,
+        "max_level": 90,
+        "stats": {
+          "hp": 2257,
+          "fp": 140,
+          "trp": 0,
+          "aa": 125,
+          "av": 0,
+          "rld": 55,
+          "acc": 19,
+          "eva": 6,
+          "spd": 26,
+          "luk": 77,
+          "asw": 0
+        }
+      },
+      "10700034": {
+        "id": 10700034,
+        "tags": ["IMAS"],
+        "type": 5,
+        "rarity": 5,
+        "stars": 6,
+        "oil": 15,
+        "max_level": 100,
+        "stats": {
+          "hp": 3210,
+          "fp": 199,
+          "trp": 0,
+          "aa": 178,
+          "av": 0,
+          "rld": 55,
+          "acc": 19,
+          "eva": 6,
+          "spd": 26,
+          "luk": 77,
+          "asw": 0
+        }
+      }
+    },
+    "stars": 6
+  },
+  "1070004": {
+    "id": 1070004,
+    "code": 10074,
+    "name": {
+      "en": "Azusa Miura",
+      "code": "Miura Azusa",
+      "cn": "三浦 梓",
+      "jp": "三浦あずさ"
+    },
+    "property_hexagon": [3, 0, 0, 2, 2, 4],
+    "type": 3,
+    "armor": 2,
+    "slots": [[3], [1], [6], [10], [10]],
+    "nationality": 107,
+    "data": {
+      "10700041": {
+        "id": 10700041,
+        "tags": ["IMAS"],
+        "type": 3,
+        "rarity": 5,
+        "stars": 3,
+        "oil": 6,
+        "max_level": 70,
+        "stats": {
+          "hp": 873,
+          "fp": 44,
+          "trp": 0,
+          "aa": 39,
+          "av": 0,
+          "rld": 64,
+          "acc": 45,
+          "eva": 17,
+          "spd": 26.4,
+          "luk": 91,
+          "asw": 0
+        }
+      },
+      "10700042": {
+        "id": 10700042,
+        "tags": ["IMAS"],
+        "type": 3,
+        "rarity": 5,
+        "stars": 4,
+        "oil": 8,
+        "max_level": 80,
+        "stats": {
+          "hp": 1086,
+          "fp": 55,
+          "trp": 0,
+          "aa": 49,
+          "av": 0,
+          "rld": 64,
+          "acc": 45,
+          "eva": 17,
+          "spd": 26.4,
+          "luk": 91,
+          "asw": 0
+        }
+      },
+      "10700043": {
+        "id": 10700043,
+        "tags": ["IMAS"],
+        "type": 3,
+        "rarity": 5,
+        "stars": 5,
+        "oil": 10,
+        "max_level": 90,
+        "stats": {
+          "hp": 1512,
+          "fp": 77,
+          "trp": 0,
+          "aa": 68,
+          "av": 0,
+          "rld": 64,
+          "acc": 45,
+          "eva": 17,
+          "spd": 26.4,
+          "luk": 91,
+          "asw": 0
+        }
+      },
+      "10700044": {
+        "id": 10700044,
+        "tags": ["IMAS"],
+        "type": 3,
+        "rarity": 5,
+        "stars": 6,
+        "oil": 12,
+        "max_level": 100,
+        "stats": {
+          "hp": 2151,
+          "fp": 110,
+          "trp": 0,
+          "aa": 97,
+          "av": 0,
+          "rld": 64,
+          "acc": 45,
+          "eva": 17,
+          "spd": 26.4,
+          "luk": 91,
+          "asw": 0
+        }
+      }
+    },
+    "stars": 6
+  },
+  "1070005": {
+    "id": 1070005,
+    "code": 10075,
+    "name": {
+      "en": "Ritsuko Akizuki",
+      "code": "Akizuki Ritsuko",
+      "cn": "秋月律子",
+      "jp": "秋月律子"
+    },
+    "property_hexagon": [1, 0, 0, 1, 1, 3],
+    "type": 19,
+    "armor": 2,
+    "slots": [[1], [6], [10, 18], [10, 18], [10, 18]],
+    "nationality": 107,
+    "data": {
+      "10700051": {
+        "id": 10700051,
+        "tags": ["IMAS"],
+        "type": 19,
+        "rarity": 4,
+        "stars": 2,
+        "oil": 4,
+        "max_level": 70,
+        "stats": {
+          "hp": 721,
+          "fp": 13,
+          "trp": 0,
+          "aa": 32,
+          "av": 0,
+          "rld": 79,
+          "acc": 78,
+          "eva": 16,
+          "spd": 25,
+          "luk": 85,
+          "asw": 0
+        }
+      },
+      "10700052": {
+        "id": 10700052,
+        "tags": ["IMAS"],
+        "type": 19,
+        "rarity": 4,
+        "stars": 3,
+        "oil": 6,
+        "max_level": 80,
+        "stats": {
+          "hp": 897,
+          "fp": 16,
+          "trp": 0,
+          "aa": 40,
+          "av": 0,
+          "rld": 79,
+          "acc": 78,
+          "eva": 16,
+          "spd": 25,
+          "luk": 85,
+          "asw": 0
+        }
+      },
+      "10700053": {
+        "id": 10700053,
+        "tags": ["IMAS"],
+        "type": 19,
+        "rarity": 4,
+        "stars": 4,
+        "oil": 8,
+        "max_level": 90,
+        "stats": {
+          "hp": 1248,
+          "fp": 23,
+          "trp": 0,
+          "aa": 56,
+          "av": 0,
+          "rld": 79,
+          "acc": 78,
+          "eva": 16,
+          "spd": 25,
+          "luk": 85,
+          "asw": 0
+        }
+      },
+      "10700054": {
+        "id": 10700054,
+        "tags": ["IMAS"],
+        "type": 19,
+        "rarity": 4,
+        "stars": 5,
+        "oil": 10,
+        "max_level": 100,
+        "stats": {
+          "hp": 1776,
+          "fp": 32,
+          "trp": 0,
+          "aa": 80,
+          "av": 0,
+          "rld": 79,
+          "acc": 78,
+          "eva": 16,
+          "spd": 25,
+          "luk": 85,
+          "asw": 0
+        }
+      }
+    },
+    "stars": 5
+  },
+  "1070006": {
+    "id": 1070006,
+    "code": 10076,
+    "name": {
+      "en": "Ami Futami",
+      "code": "Futami Ami",
+      "cn": "双海亚美",
+      "jp": "双海亜美"
+    },
+    "property_hexagon": [1, 4, 0, 1, 0, 1],
+    "type": 8,
+    "armor": 1,
+    "slots": [[13], [13], [1], [10], [10]],
+    "nationality": 107,
+    "data": {
+      "10700061": {
+        "id": 10700061,
+        "tags": ["IMAS"],
+        "type": 8,
+        "rarity": 4,
+        "stars": 2,
+        "oil": 4,
+        "max_level": 70,
+        "stats": {
+          "hp": 251,
+          "fp": 9,
+          "trp": 99,
+          "aa": 0,
+          "av": 0,
+          "rld": 43,
+          "acc": 69,
+          "eva": 9,
+          "spd": 23,
+          "luk": 74,
+          "asw": 0
+        }
+      },
+      "10700062": {
+        "id": 10700062,
+        "tags": ["IMAS"],
+        "type": 8,
+        "rarity": 4,
+        "stars": 3,
+        "oil": 5,
+        "max_level": 80,
+        "stats": {
+          "hp": 312,
+          "fp": 11,
+          "trp": 123,
+          "aa": 0,
+          "av": 0,
+          "rld": 43,
+          "acc": 69,
+          "eva": 9,
+          "spd": 23,
+          "luk": 74,
+          "asw": 0
+        }
+      },
+      "10700063": {
+        "id": 10700063,
+        "tags": ["IMAS"],
+        "type": 8,
+        "rarity": 4,
+        "stars": 4,
+        "oil": 6,
+        "max_level": 90,
+        "stats": {
+          "hp": 435,
+          "fp": 16,
+          "trp": 172,
+          "aa": 0,
+          "av": 0,
+          "rld": 43,
+          "acc": 69,
+          "eva": 9,
+          "spd": 23,
+          "luk": 74,
+          "asw": 0
+        }
+      },
+      "10700064": {
+        "id": 10700064,
+        "tags": ["IMAS"],
+        "type": 8,
+        "rarity": 4,
+        "stars": 5,
+        "oil": 7,
+        "max_level": 100,
+        "stats": {
+          "hp": 619,
+          "fp": 23,
+          "trp": 245,
+          "aa": 0,
+          "av": 0,
+          "rld": 43,
+          "acc": 69,
+          "eva": 9,
+          "spd": 23,
+          "luk": 74,
+          "asw": 0
+        }
+      }
+    },
+    "stars": 5
+  },
+  "1070007": {
+    "id": 1070007,
+    "code": 10077,
+    "name": {
+      "en": "Mami Futami",
+      "code": "Futami Mami",
+      "cn": "双海真美",
+      "jp": "双海真美"
+    },
+    "property_hexagon": [1, 4, 0, 1, 0, 1],
+    "type": 8,
+    "armor": 1,
+    "slots": [[13], [13], [1], [10], [10]],
+    "nationality": 107,
+    "data": {
+      "10700071": {
+        "id": 10700071,
+        "tags": ["IMAS"],
+        "type": 8,
+        "rarity": 4,
+        "stars": 2,
+        "oil": 4,
+        "max_level": 70,
+        "stats": {
+          "hp": 251,
+          "fp": 9,
+          "trp": 99,
+          "aa": 0,
+          "av": 0,
+          "rld": 43,
+          "acc": 69,
+          "eva": 9,
+          "spd": 23,
+          "luk": 74,
+          "asw": 0
+        }
+      },
+      "10700072": {
+        "id": 10700072,
+        "tags": ["IMAS"],
+        "type": 8,
+        "rarity": 4,
+        "stars": 3,
+        "oil": 5,
+        "max_level": 80,
+        "stats": {
+          "hp": 312,
+          "fp": 11,
+          "trp": 123,
+          "aa": 0,
+          "av": 0,
+          "rld": 43,
+          "acc": 69,
+          "eva": 9,
+          "spd": 23,
+          "luk": 74,
+          "asw": 0
+        }
+      },
+      "10700073": {
+        "id": 10700073,
+        "tags": ["IMAS"],
+        "type": 8,
+        "rarity": 4,
+        "stars": 4,
+        "oil": 6,
+        "max_level": 90,
+        "stats": {
+          "hp": 435,
+          "fp": 16,
+          "trp": 172,
+          "aa": 0,
+          "av": 0,
+          "rld": 43,
+          "acc": 69,
+          "eva": 9,
+          "spd": 23,
+          "luk": 74,
+          "asw": 0
+        }
+      },
+      "10700074": {
+        "id": 10700074,
+        "tags": ["IMAS"],
+        "type": 8,
+        "rarity": 4,
+        "stars": 5,
+        "oil": 7,
+        "max_level": 100,
+        "stats": {
+          "hp": 619,
+          "fp": 23,
+          "trp": 245,
+          "aa": 0,
+          "av": 0,
+          "rld": 43,
+          "acc": 69,
+          "eva": 9,
+          "spd": 23,
+          "luk": 74,
+          "asw": 0
+        }
+      }
+    },
+    "stars": 5
   }
 }
