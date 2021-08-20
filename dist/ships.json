@@ -4122,6 +4122,112 @@
     },
     "stars": 5
   },
+  "10148": {
+    "id": 10148,
+    "code": 518,
+    "name": {
+      "en": "Ingraham",
+      "code": "USS Ingraham",
+      "cn": "英格拉罕",
+      "jp": "イングラハム"
+    },
+    "property_hexagon": [3, 3, 0, 3, 4, 2],
+    "type": 1,
+    "armor": 1,
+    "slots": [[1], [5], [6], [10, 14], [10, 14]],
+    "nationality": 1,
+    "data": {
+      "101481": {
+        "id": 101481,
+        "tags": ["Allen M. Sumner-class"],
+        "type": 1,
+        "rarity": 5,
+        "stars": 3,
+        "oil": 4,
+        "max_level": 70,
+        "stats": {
+          "hp": 387,
+          "fp": 25,
+          "trp": 72,
+          "aa": 43,
+          "av": 0,
+          "rld": 84,
+          "acc": 76,
+          "eva": 59,
+          "spd": 40.8,
+          "luk": 75,
+          "asw": 55
+        }
+      },
+      "101482": {
+        "id": 101482,
+        "tags": ["Allen M. Sumner-class"],
+        "type": 1,
+        "rarity": 5,
+        "stars": 4,
+        "oil": 6,
+        "max_level": 80,
+        "stats": {
+          "hp": 481,
+          "fp": 31,
+          "trp": 90,
+          "aa": 54,
+          "av": 0,
+          "rld": 84,
+          "acc": 76,
+          "eva": 59,
+          "spd": 40.8,
+          "luk": 75,
+          "asw": 69
+        }
+      },
+      "101483": {
+        "id": 101483,
+        "tags": ["Allen M. Sumner-class"],
+        "type": 1,
+        "rarity": 5,
+        "stars": 5,
+        "oil": 8,
+        "max_level": 90,
+        "stats": {
+          "hp": 670,
+          "fp": 44,
+          "trp": 125,
+          "aa": 75,
+          "av": 0,
+          "rld": 84,
+          "acc": 76,
+          "eva": 59,
+          "spd": 40.8,
+          "luk": 75,
+          "asw": 96
+        }
+      },
+      "101484": {
+        "id": 101484,
+        "tags": ["Allen M. Sumner-class"],
+        "type": 1,
+        "rarity": 5,
+        "stars": 6,
+        "oil": 10,
+        "max_level": 100,
+        "stats": {
+          "hp": 953,
+          "fp": 63,
+          "trp": 178,
+          "aa": 106,
+          "av": 0,
+          "rld": 84,
+          "acc": 76,
+          "eva": 59,
+          "spd": 40.8,
+          "luk": 75,
+          "asw": 136
+        }
+      }
+    },
+    "stars": 6
+  },
   "10201": {
     "id": 10201,
     "code": 29,
@@ -13602,6 +13708,112 @@
       }
     },
     "stars": 6
+  },
+  "10807": {
+    "id": 10807,
+    "code": 519,
+    "name": {
+      "en": "Nautilus",
+      "code": "USS Nautilus",
+      "cn": "鹦鹉螺",
+      "jp": "ノーチラス"
+    },
+    "property_hexagon": [1, 5, 0, 1, 0, 1],
+    "type": 8,
+    "armor": 1,
+    "slots": [[13], [13], [1, 2], [10], [10]],
+    "nationality": 1,
+    "data": {
+      "108071": {
+        "id": 108071,
+        "tags": ["Narwhal-Class"],
+        "type": 8,
+        "rarity": 4,
+        "stars": 2,
+        "oil": 4,
+        "max_level": 70,
+        "stats": {
+          "hp": 396,
+          "fp": 21,
+          "trp": 96,
+          "aa": 0,
+          "av": 0,
+          "rld": 34,
+          "acc": 66,
+          "eva": 7,
+          "spd": 13.9,
+          "luk": 69,
+          "asw": 0
+        }
+      },
+      "108072": {
+        "id": 108072,
+        "tags": ["Narwhal-Class"],
+        "type": 8,
+        "rarity": 4,
+        "stars": 3,
+        "oil": 5,
+        "max_level": 80,
+        "stats": {
+          "hp": 493,
+          "fp": 26,
+          "trp": 120,
+          "aa": 0,
+          "av": 0,
+          "rld": 34,
+          "acc": 66,
+          "eva": 7,
+          "spd": 13.9,
+          "luk": 69,
+          "asw": 0
+        }
+      },
+      "108073": {
+        "id": 108073,
+        "tags": ["Narwhal-Class"],
+        "type": 8,
+        "rarity": 4,
+        "stars": 4,
+        "oil": 6,
+        "max_level": 90,
+        "stats": {
+          "hp": 686,
+          "fp": 36,
+          "trp": 167,
+          "aa": 0,
+          "av": 0,
+          "rld": 34,
+          "acc": 66,
+          "eva": 7,
+          "spd": 13.9,
+          "luk": 69,
+          "asw": 0
+        }
+      },
+      "108074": {
+        "id": 108074,
+        "tags": ["Narwhal-Class"],
+        "type": 8,
+        "rarity": 4,
+        "stars": 5,
+        "oil": 7,
+        "max_level": 100,
+        "stats": {
+          "hp": 976,
+          "fp": 52,
+          "trp": 239,
+          "aa": 0,
+          "av": 0,
+          "rld": 34,
+          "acc": 66,
+          "eva": 7,
+          "spd": 13.9,
+          "luk": 69,
+          "asw": 0
+        }
+      }
+    },
+    "stars": 5
   },
   "11201": {
     "id": 11201,
