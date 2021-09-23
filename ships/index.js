@@ -28,10 +28,14 @@ const HEXAGON_RANK = {
 const FAKE_SHIPS = [900042, 900045, 900046, 900162, 900913, 900914].map(i => String(i));
 
 function readFilesFromLanguage(lang = "EN") {
-    let groups = JSON.parse(fs.readFileSync(path.join(__dirname, "..", "AzurLaneSourceJson", lang, "sharecfg", "ship_data_group.json")).toString());
-    let ships = JSON.parse(fs.readFileSync(path.join(__dirname, "..", "AzurLaneSourceJson", lang, "sharecfg", "ship_data_template.json")).toString());
-    let stats = JSON.parse(fs.readFileSync(path.join(__dirname, "..", "AzurLaneSourceJson", lang, "sharecfg", "ship_data_statistics.json")).toString());
-    let types = JSON.parse(fs.readFileSync(path.join(__dirname, "..", "AzurLaneSourceJson", lang, "sharecfg", "ship_data_by_type.json")).toString());
+    console.log(path.join(__dirname, "..", "AzurLaneData", lang, "ShareCfg", "ship_data_group.json"))
+    console.log(path.join(__dirname, "..", "AzurLaneData", lang, "sharecfgdata", "ship_data_template.json"))
+    console.log(path.join(__dirname, "..", "AzurLaneData", lang, "ShareCfg", "ship_data_statistics.json"))
+    console.log(path.join(__dirname, "..", "AzurLaneData", lang, "ShareCfg", "ship_data_by_type.json"))
+    let groups = JSON.parse(fs.readFileSync(path.join(__dirname, "..", "AzurLaneData", lang, "ShareCfg", "ship_data_group.json")).toString());
+    let ships = JSON.parse(fs.readFileSync(path.join(__dirname, "..", "AzurLaneData", lang, "sharecfgdata", "ship_data_template.json")).toString());
+    let stats = JSON.parse(fs.readFileSync(path.join(__dirname, "..", "AzurLaneData", lang, "ShareCfg", "ship_data_statistics.json")).toString());
+    let types = JSON.parse(fs.readFileSync(path.join(__dirname, "..", "AzurLaneData", lang, "ShareCfg", "ship_data_by_type.json")).toString());
     [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 17, 18, 19].forEach(type => {
         if (!TYPES[type]) TYPES[type] = {};
         if (!TYPES[type][lang.toLowerCase()]) TYPES[type][lang.toLowerCase()] = types[type].type_name.trim();
@@ -65,8 +69,16 @@ function readFilesFromLanguage(lang = "EN") {
         stat.english_name = stat.english_name.trim()
             .replace('Ultra Bulin MKIII', 'Specialized Bulin Custom MKIII')
             .replace('Hiryu.META', 'Hiryuu META')
+            .replace('Helena.META', 'Helena META')
             .replace('Ark Royal.META', 'Ark Royal META')
-            .replace('Große', 'Grosse');// special cases
+            .replace('Sōryū.META', 'Souryuu META')
+            .replace('Kisaragi Chihaya', 'Chihaya Kisaragi')
+            .replace('Minase Iori', 'Iori Minase')
+            .replace('Miura Azusa', 'Azusa Miura')
+            .replace('Akizuki Ritsuko', 'Ritsuko Akizuki')
+            .replace('Futami Ami', 'Ami Futami')
+            .replace('Futami Mami', 'Mami Futami')
+        ;// special cases
         stat.name = stat.name.trim();
         if (stat.english_name === "simulation") continue; // simulation ship
         if (stat.english_name.length === 0) continue; // unknown ship
