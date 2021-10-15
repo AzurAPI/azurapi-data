@@ -21109,6 +21109,7 @@
       },
       "900006": {
         "id": 900006,
+        "tags": ["xuzhang_hude"],
         "type": 4,
         "rarity": 5,
         "stars": 6,
@@ -53044,7 +53045,8 @@
       "en": "Souryuu META",
       "code": "Souryuu META",
       "cn": "苍龙·META",
-      "jp": "蒼龍(META)"
+      "jp": "蒼龍(META)",
+      "kr": "소류·META"
     },
     "property_hexagon": [0, 0, 5, 3, 4, 3],
     "type": 7,
