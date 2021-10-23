@@ -8502,6 +8502,112 @@
     },
     "stars": 5
   },
+  "10312": {
+    "id": 10312,
+    "code": 521,
+    "name": {
+      "en": "New Orleans",
+      "code": "USS New Orlean",
+      "cn": "新奥尔良",
+      "jp": "ニューオリンズ"
+    },
+    "property_hexagon": [3, 0, 0, 2, 3, 4],
+    "type": 3,
+    "armor": 2,
+    "slots": [[3], [1], [6], [10], [10]],
+    "nationality": 1,
+    "data": {
+      "103121": {
+        "id": 103121,
+        "tags": ["Astoria-Class"],
+        "type": 3,
+        "rarity": 5,
+        "stars": 3,
+        "oil": 6,
+        "max_level": 70,
+        "stats": {
+          "hp": 848,
+          "fp": 45,
+          "trp": 0,
+          "aa": 50,
+          "av": 0,
+          "rld": 67,
+          "acc": 45,
+          "eva": 10,
+          "spd": 26.16,
+          "luk": 76,
+          "asw": 0
+        }
+      },
+      "103122": {
+        "id": 103122,
+        "tags": ["Astoria-Class"],
+        "type": 3,
+        "rarity": 5,
+        "stars": 4,
+        "oil": 8,
+        "max_level": 80,
+        "stats": {
+          "hp": 1055,
+          "fp": 56,
+          "trp": 0,
+          "aa": 62,
+          "av": 0,
+          "rld": 67,
+          "acc": 45,
+          "eva": 10,
+          "spd": 26.16,
+          "luk": 76,
+          "asw": 0
+        }
+      },
+      "103123": {
+        "id": 103123,
+        "tags": ["Astoria-Class"],
+        "type": 3,
+        "rarity": 5,
+        "stars": 5,
+        "oil": 10,
+        "max_level": 90,
+        "stats": {
+          "hp": 1469,
+          "fp": 78,
+          "trp": 0,
+          "aa": 86,
+          "av": 0,
+          "rld": 67,
+          "acc": 45,
+          "eva": 10,
+          "spd": 26.16,
+          "luk": 76,
+          "asw": 0
+        }
+      },
+      "103124": {
+        "id": 103124,
+        "tags": ["Astoria-Class"],
+        "type": 3,
+        "rarity": 5,
+        "stars": 6,
+        "oil": 12,
+        "max_level": 100,
+        "stats": {
+          "hp": 2089,
+          "fp": 112,
+          "trp": 0,
+          "aa": 123,
+          "av": 0,
+          "rld": 67,
+          "acc": 45,
+          "eva": 10,
+          "spd": 26.16,
+          "luk": 76,
+          "asw": 0
+        }
+      }
+    },
+    "stars": 6
+  },
   "10313": {
     "id": 10313,
     "code": 364,
