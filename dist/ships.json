@@ -8509,7 +8509,8 @@
       "en": "New Orleans",
       "code": "USS New Orlean",
       "cn": "新奥尔良",
-      "jp": "ニューオリンズ"
+      "jp": "ニューオリンズ",
+      "kr": "뉴올리언스"
     },
     "property_hexagon": [3, 0, 0, 2, 3, 4],
     "type": 3,
@@ -31734,7 +31735,7 @@
           "en": "Mogami Retrofit",
           "cn": "最上.改",
           "jp": "最上改",
-          "kr": "모가미 .改",
+          "kr": "모가미.改",
           "tw": "最上.改"
         }
       }
@@ -50681,6 +50682,220 @@
     },
     "stars": 5
   },
+  "80107": {
+    "id": 80107,
+    "code": 522,
+    "name": {
+      "en": "Le Terrible",
+      "code": "FFNF Le Terrible",
+      "cn": "可怖",
+      "jp": "ル・テリブル",
+      "kr": "르 테리블"
+    },
+    "property_hexagon": [4, 2, 0, 4, 1, 1],
+    "type": 1,
+    "armor": 1,
+    "slots": [[1], [5], [6], [10, 14], [10, 14]],
+    "nationality": 8,
+    "data": {
+      "801071": {
+        "id": 801071,
+        "tags": ["Le Fantasque-Class", "Le Terrible"],
+        "type": 1,
+        "rarity": 5,
+        "stars": 3,
+        "oil": 4,
+        "max_level": 70,
+        "stats": {
+          "hp": 341,
+          "fp": 26,
+          "trp": 50,
+          "aa": 25,
+          "av": 0,
+          "rld": 73,
+          "acc": 67,
+          "eva": 93,
+          "spd": 54,
+          "luk": 75,
+          "asw": 48
+        }
+      },
+      "801072": {
+        "id": 801072,
+        "tags": ["Le Fantasque-Class", "Le Terrible"],
+        "type": 1,
+        "rarity": 5,
+        "stars": 4,
+        "oil": 6,
+        "max_level": 80,
+        "stats": {
+          "hp": 424,
+          "fp": 32,
+          "trp": 62,
+          "aa": 31,
+          "av": 0,
+          "rld": 73,
+          "acc": 67,
+          "eva": 93,
+          "spd": 54,
+          "luk": 75,
+          "asw": 60
+        }
+      },
+      "801073": {
+        "id": 801073,
+        "tags": ["Le Fantasque-Class", "Le Terrible"],
+        "type": 1,
+        "rarity": 5,
+        "stars": 5,
+        "oil": 8,
+        "max_level": 90,
+        "stats": {
+          "hp": 591,
+          "fp": 45,
+          "trp": 87,
+          "aa": 43,
+          "av": 0,
+          "rld": 73,
+          "acc": 67,
+          "eva": 93,
+          "spd": 54,
+          "luk": 75,
+          "asw": 84
+        }
+      },
+      "801074": {
+        "id": 801074,
+        "tags": ["Le Fantasque-Class", "Le Terrible"],
+        "type": 1,
+        "rarity": 5,
+        "stars": 6,
+        "oil": 10,
+        "max_level": 100,
+        "stats": {
+          "hp": 840,
+          "fp": 65,
+          "trp": 124,
+          "aa": 61,
+          "av": 0,
+          "rld": 73,
+          "acc": 67,
+          "eva": 93,
+          "spd": 54,
+          "luk": 75,
+          "asw": 119
+        }
+      }
+    },
+    "stars": 6
+  },
+  "80108": {
+    "id": 80108,
+    "code": 523,
+    "name": {
+      "en": "Maillé Brézé",
+      "code": "FFNF Maillé Brézé",
+      "cn": "马耶·布雷泽",
+      "jp": "マイレ・ブレゼ",
+      "kr": "마이예 브레제"
+    },
+    "property_hexagon": [4, 2, 0, 4, 1, 1],
+    "type": 1,
+    "armor": 1,
+    "slots": [[1], [5], [6], [10, 14], [10, 14]],
+    "nationality": 8,
+    "data": {
+      "801081": {
+        "id": 801081,
+        "tags": ["Vauquelin-Class"],
+        "type": 1,
+        "rarity": 4,
+        "stars": 2,
+        "oil": 3,
+        "max_level": 70,
+        "stats": {
+          "hp": 301,
+          "fp": 20,
+          "trp": 50,
+          "aa": 29,
+          "av": 0,
+          "rld": 76,
+          "acc": 69,
+          "eva": 78,
+          "spd": 43.2,
+          "luk": 35,
+          "asw": 52
+        }
+      },
+      "801082": {
+        "id": 801082,
+        "tags": ["Vauquelin-Class"],
+        "type": 1,
+        "rarity": 4,
+        "stars": 3,
+        "oil": 5,
+        "max_level": 80,
+        "stats": {
+          "hp": 374,
+          "fp": 25,
+          "trp": 62,
+          "aa": 36,
+          "av": 0,
+          "rld": 76,
+          "acc": 69,
+          "eva": 78,
+          "spd": 43.2,
+          "luk": 35,
+          "asw": 65
+        }
+      },
+      "801083": {
+        "id": 801083,
+        "tags": ["Vauquelin-Class"],
+        "type": 1,
+        "rarity": 4,
+        "stars": 4,
+        "oil": 7,
+        "max_level": 90,
+        "stats": {
+          "hp": 521,
+          "fp": 35,
+          "trp": 87,
+          "aa": 50,
+          "av": 0,
+          "rld": 76,
+          "acc": 69,
+          "eva": 78,
+          "spd": 43.2,
+          "luk": 35,
+          "asw": 91
+        }
+      },
+      "801084": {
+        "id": 801084,
+        "tags": ["Vauquelin-Class"],
+        "type": 1,
+        "rarity": 4,
+        "stars": 5,
+        "oil": 9,
+        "max_level": 100,
+        "stats": {
+          "hp": 742,
+          "fp": 50,
+          "trp": 124,
+          "aa": 71,
+          "av": 0,
+          "rld": 76,
+          "acc": 69,
+          "eva": 78,
+          "spd": 43.2,
+          "luk": 35,
+          "asw": 129
+        }
+      }
+    },
+    "stars": 5
+  },
   "80201": {
     "id": 80201,
     "code": 349,
@@ -50933,7 +51148,7 @@
     "data": {
       "805011": {
         "id": 805011,
-        "tags": ["Richelieu-Class"],
+        "tags": ["Richelieu-Class", "Richelieu"],
         "type": 5,
         "rarity": 5,
         "stars": 3,
@@ -50955,7 +51170,7 @@
       },
       "805012": {
         "id": 805012,
-        "tags": ["Richelieu-Class"],
+        "tags": ["Richelieu-Class", "Richelieu"],
         "type": 5,
         "rarity": 5,
         "stars": 4,
@@ -50977,7 +51192,7 @@
       },
       "805013": {
         "id": 805013,
-        "tags": ["Richelieu-Class"],
+        "tags": ["Richelieu-Class", "Richelieu"],
         "type": 5,
         "rarity": 5,
         "stars": 5,
@@ -50999,7 +51214,7 @@
       },
       "805014": {
         "id": 805014,
-        "tags": ["Richelieu-Class"],
+        "tags": ["Richelieu-Class", "Richelieu"],
         "type": 5,
         "rarity": 5,
         "stars": 6,
@@ -51866,7 +52081,8 @@
       "code": "MNF Le Malin",
       "cn": "恶毒",
       "jp": "ル・マラン",
-      "kr": "르 말랭"
+      "kr": "르 말랭",
+      "tw": "惡毒"
     },
     "property_hexagon": [4, 2, 0, 4, 1, 1],
     "type": 1,
