@@ -36247,7 +36247,7 @@
     "data": {
       "306021": {
         "id": 306021,
-        "tags": ["Hiyo-class"],
+        "tags": ["Hiyo-class", "Jun'yō"],
         "type": 6,
         "rarity": 3,
         "stars": 2,
@@ -36269,7 +36269,7 @@
       },
       "306022": {
         "id": 306022,
-        "tags": ["Hiyo-class"],
+        "tags": ["Hiyo-class", "Jun'yō"],
         "type": 6,
         "rarity": 3,
         "stars": 3,
@@ -36291,7 +36291,7 @@
       },
       "306023": {
         "id": 306023,
-        "tags": ["Hiyo-class"],
+        "tags": ["Hiyo-class", "Jun'yō"],
         "type": 6,
         "rarity": 3,
         "stars": 4,
@@ -36313,7 +36313,7 @@
       },
       "306024": {
         "id": 306024,
-        "tags": ["Hiyo-class"],
+        "tags": ["Hiyo-class", "Jun'yō"],
         "type": 6,
         "rarity": 3,
         "stars": 5,
@@ -53250,6 +53250,112 @@
     },
     "stars": 5
   },
+  "970601": {
+    "id": 970601,
+    "code": 30006,
+    "name": {
+      "en": "Hiyou META",
+      "code": "Hiyō.META",
+      "cn": "飞鹰·META",
+      "jp": "飛鷹(META)"
+    },
+    "property_hexagon": [0, 0, 4, 1, 3, 3],
+    "type": 6,
+    "armor": 2,
+    "slots": [[7], [9], [8], [10, 15], [10, 15]],
+    "nationality": 97,
+    "data": {
+      "9706011": {
+        "id": 9706011,
+        "tags": ["HiyoMETA", "Hiyo-class"],
+        "type": 6,
+        "rarity": 4,
+        "stars": 2,
+        "oil": 13,
+        "max_level": 100,
+        "stats": {
+          "hp": 1128,
+          "fp": 0,
+          "trp": 0,
+          "aa": 48,
+          "av": 61,
+          "rld": 71,
+          "acc": 26,
+          "eva": 17,
+          "spd": 26,
+          "luk": 43,
+          "asw": 17
+        }
+      },
+      "9706012": {
+        "id": 9706012,
+        "tags": ["HiyoMETA", "Hiyo-class"],
+        "type": 6,
+        "rarity": 4,
+        "stars": 3,
+        "oil": 13,
+        "max_level": 100,
+        "stats": {
+          "hp": 1403,
+          "fp": 0,
+          "trp": 0,
+          "aa": 60,
+          "av": 76,
+          "rld": 71,
+          "acc": 26,
+          "eva": 17,
+          "spd": 26,
+          "luk": 43,
+          "asw": 21
+        }
+      },
+      "9706013": {
+        "id": 9706013,
+        "tags": ["HiyoMETA", "Hiyo-class"],
+        "type": 6,
+        "rarity": 4,
+        "stars": 4,
+        "oil": 13,
+        "max_level": 100,
+        "stats": {
+          "hp": 1953,
+          "fp": 0,
+          "trp": 0,
+          "aa": 83,
+          "av": 106,
+          "rld": 71,
+          "acc": 26,
+          "eva": 17,
+          "spd": 26,
+          "luk": 43,
+          "asw": 30
+        }
+      },
+      "9706014": {
+        "id": 9706014,
+        "tags": ["HiyoMETA", "Hiyo-class"],
+        "type": 6,
+        "rarity": 4,
+        "stars": 5,
+        "oil": 13,
+        "max_level": 100,
+        "stats": {
+          "hp": 2779,
+          "fp": 0,
+          "trp": 0,
+          "aa": 118,
+          "av": 152,
+          "rld": 71,
+          "acc": 26,
+          "eva": 17,
+          "spd": 26,
+          "luk": 43,
+          "asw": 43
+        }
+      }
+    },
+    "stars": 5
+  },
   "970701": {
     "id": 970701,
     "code": 30001,
@@ -58037,6 +58143,733 @@
           "eva": 9,
           "spd": 23,
           "luk": 74,
+          "asw": 0
+        }
+      }
+    },
+    "stars": 5
+  },
+  "1080001": {
+    "id": 1080001,
+    "code": 10081,
+    "name": {
+      "en": "Rikka Takarada",
+      "code": "Takarada Rikka",
+      "cn": "宝多六花",
+      "jp": "宝多六花"
+    },
+    "property_hexagon": [3, 4, 0, 3, 3, 2],
+    "type": 2,
+    "armor": 1,
+    "slots": [[2, 10], [5, 10], [6, 10], [10, 14], [10, 14]],
+    "nationality": 108,
+    "data": {
+      "10800011": {
+        "id": 10800011,
+        "tags": ["SSSS", "RIKKA"],
+        "type": 2,
+        "rarity": 5,
+        "stars": 3,
+        "oil": 5,
+        "max_level": 70,
+        "stats": {
+          "hp": 758,
+          "fp": 33,
+          "trp": 70,
+          "aa": 74,
+          "av": 0,
+          "rld": 71,
+          "acc": 55,
+          "eva": 30,
+          "spd": 35,
+          "luk": 55,
+          "asw": 40
+        }
+      },
+      "10800012": {
+        "id": 10800012,
+        "tags": ["SSSS", "RIKKA"],
+        "type": 2,
+        "rarity": 5,
+        "stars": 4,
+        "oil": 7,
+        "max_level": 80,
+        "stats": {
+          "hp": 943,
+          "fp": 41,
+          "trp": 87,
+          "aa": 92,
+          "av": 0,
+          "rld": 71,
+          "acc": 55,
+          "eva": 30,
+          "spd": 35,
+          "luk": 55,
+          "asw": 50
+        }
+      },
+      "10800013": {
+        "id": 10800013,
+        "tags": ["SSSS", "RIKKA"],
+        "type": 2,
+        "rarity": 5,
+        "stars": 5,
+        "oil": 9,
+        "max_level": 90,
+        "stats": {
+          "hp": 1313,
+          "fp": 58,
+          "trp": 122,
+          "aa": 128,
+          "av": 0,
+          "rld": 71,
+          "acc": 55,
+          "eva": 30,
+          "spd": 35,
+          "luk": 55,
+          "asw": 70
+        }
+      },
+      "10800014": {
+        "id": 10800014,
+        "tags": ["SSSS", "RIKKA"],
+        "type": 2,
+        "rarity": 5,
+        "stars": 6,
+        "oil": 11,
+        "max_level": 100,
+        "stats": {
+          "hp": 1868,
+          "fp": 82,
+          "trp": 174,
+          "aa": 183,
+          "av": 0,
+          "rld": 71,
+          "acc": 55,
+          "eva": 30,
+          "spd": 35,
+          "luk": 55,
+          "asw": 99
+        }
+      }
+    },
+    "stars": 6
+  },
+  "1080002": {
+    "id": 1080002,
+    "code": 10082,
+    "name": {
+      "en": "Akane Shinjo",
+      "code": "Shinjō Akane",
+      "cn": "新条茜",
+      "jp": "新条アカネ"
+    },
+    "property_hexagon": [4, 0, 0, 1, 1, 4],
+    "type": 5,
+    "armor": 3,
+    "slots": [[4], [1, 2], [6], [10], [10]],
+    "nationality": 108,
+    "data": {
+      "10800021": {
+        "id": 10800021,
+        "tags": ["SSSS"],
+        "type": 5,
+        "rarity": 5,
+        "stars": 3,
+        "oil": 9,
+        "max_level": 70,
+        "stats": {
+          "hp": 1274,
+          "fp": 82,
+          "trp": 0,
+          "aa": 67,
+          "av": 0,
+          "rld": 57,
+          "acc": 22,
+          "eva": 6,
+          "spd": 26,
+          "luk": 55,
+          "asw": 0
+        }
+      },
+      "10800022": {
+        "id": 10800022,
+        "tags": ["SSSS"],
+        "type": 5,
+        "rarity": 5,
+        "stars": 4,
+        "oil": 11,
+        "max_level": 80,
+        "stats": {
+          "hp": 1585,
+          "fp": 102,
+          "trp": 0,
+          "aa": 84,
+          "av": 0,
+          "rld": 57,
+          "acc": 22,
+          "eva": 6,
+          "spd": 26,
+          "luk": 55,
+          "asw": 0
+        }
+      },
+      "10800023": {
+        "id": 10800023,
+        "tags": ["SSSS"],
+        "type": 5,
+        "rarity": 5,
+        "stars": 5,
+        "oil": 13,
+        "max_level": 90,
+        "stats": {
+          "hp": 2206,
+          "fp": 143,
+          "trp": 0,
+          "aa": 117,
+          "av": 0,
+          "rld": 57,
+          "acc": 22,
+          "eva": 6,
+          "spd": 26,
+          "luk": 55,
+          "asw": 0
+        }
+      },
+      "10800024": {
+        "id": 10800024,
+        "tags": ["SSSS"],
+        "type": 5,
+        "rarity": 5,
+        "stars": 6,
+        "oil": 15,
+        "max_level": 100,
+        "stats": {
+          "hp": 3138,
+          "fp": 204,
+          "trp": 0,
+          "aa": 166,
+          "av": 0,
+          "rld": 57,
+          "acc": 22,
+          "eva": 6,
+          "spd": 26,
+          "luk": 55,
+          "asw": 0
+        }
+      }
+    },
+    "stars": 6
+  },
+  "1080003": {
+    "id": 1080003,
+    "code": 10083,
+    "name": {"en": "Hass", "code": "Hass", "cn": "莲", "jp": "はっす"},
+    "property_hexagon": [3, 3, 0, 3, 2, 2],
+    "type": 2,
+    "armor": 1,
+    "slots": [[2], [5], [6], [10, 14], [10, 14]],
+    "nationality": 108,
+    "data": {
+      "10800031": {
+        "id": 10800031,
+        "tags": ["SSSS"],
+        "type": 2,
+        "rarity": 4,
+        "stars": 2,
+        "oil": 4,
+        "max_level": 70,
+        "stats": {
+          "hp": 595,
+          "fp": 26,
+          "trp": 53,
+          "aa": 65,
+          "av": 0,
+          "rld": 66,
+          "acc": 56,
+          "eva": 30,
+          "spd": 33,
+          "luk": 55,
+          "asw": 35
+        }
+      },
+      "10800032": {
+        "id": 10800032,
+        "tags": ["SSSS"],
+        "type": 2,
+        "rarity": 4,
+        "stars": 3,
+        "oil": 6,
+        "max_level": 80,
+        "stats": {
+          "hp": 740,
+          "fp": 32,
+          "trp": 66,
+          "aa": 81,
+          "av": 0,
+          "rld": 66,
+          "acc": 56,
+          "eva": 30,
+          "spd": 33,
+          "luk": 55,
+          "asw": 44
+        }
+      },
+      "10800033": {
+        "id": 10800033,
+        "tags": ["SSSS"],
+        "type": 2,
+        "rarity": 4,
+        "stars": 4,
+        "oil": 8,
+        "max_level": 90,
+        "stats": {
+          "hp": 1030,
+          "fp": 45,
+          "trp": 92,
+          "aa": 113,
+          "av": 0,
+          "rld": 66,
+          "acc": 56,
+          "eva": 30,
+          "spd": 33,
+          "luk": 55,
+          "asw": 61
+        }
+      },
+      "10800034": {
+        "id": 10800034,
+        "tags": ["SSSS"],
+        "type": 2,
+        "rarity": 4,
+        "stars": 5,
+        "oil": 10,
+        "max_level": 100,
+        "stats": {
+          "hp": 1466,
+          "fp": 65,
+          "trp": 132,
+          "aa": 160,
+          "av": 0,
+          "rld": 66,
+          "acc": 56,
+          "eva": 30,
+          "spd": 33,
+          "luk": 55,
+          "asw": 86
+        }
+      }
+    },
+    "stars": 5
+  },
+  "1080004": {
+    "id": 1080004,
+    "code": 10084,
+    "name": {"en": "Namiko", "code": "Namiko", "cn": "奈美子", "jp": "なみこ"},
+    "property_hexagon": [3, 3, 0, 2, 3, 3],
+    "type": 3,
+    "armor": 2,
+    "slots": [[3], [5], [6], [10], [10]],
+    "nationality": 108,
+    "data": {
+      "10800041": {
+        "id": 10800041,
+        "tags": ["SSSS"],
+        "type": 3,
+        "rarity": 4,
+        "stars": 2,
+        "oil": 5,
+        "max_level": 70,
+        "stats": {
+          "hp": 670,
+          "fp": 44,
+          "trp": 40,
+          "aa": 39,
+          "av": 0,
+          "rld": 66,
+          "acc": 44,
+          "eva": 8,
+          "spd": 24,
+          "luk": 55,
+          "asw": 0
+        }
+      },
+      "10800042": {
+        "id": 10800042,
+        "tags": ["SSSS"],
+        "type": 3,
+        "rarity": 4,
+        "stars": 3,
+        "oil": 7,
+        "max_level": 80,
+        "stats": {
+          "hp": 833,
+          "fp": 55,
+          "trp": 50,
+          "aa": 49,
+          "av": 0,
+          "rld": 66,
+          "acc": 44,
+          "eva": 8,
+          "spd": 24,
+          "luk": 55,
+          "asw": 0
+        }
+      },
+      "10800043": {
+        "id": 10800043,
+        "tags": ["SSSS"],
+        "type": 3,
+        "rarity": 4,
+        "stars": 4,
+        "oil": 9,
+        "max_level": 90,
+        "stats": {
+          "hp": 1160,
+          "fp": 77,
+          "trp": 69,
+          "aa": 68,
+          "av": 0,
+          "rld": 66,
+          "acc": 44,
+          "eva": 8,
+          "spd": 24,
+          "luk": 55,
+          "asw": 0
+        }
+      },
+      "10800044": {
+        "id": 10800044,
+        "tags": ["SSSS"],
+        "type": 3,
+        "rarity": 4,
+        "stars": 5,
+        "oil": 11,
+        "max_level": 100,
+        "stats": {
+          "hp": 1650,
+          "fp": 109,
+          "trp": 99,
+          "aa": 96,
+          "av": 0,
+          "rld": 66,
+          "acc": 44,
+          "eva": 8,
+          "spd": 24,
+          "luk": 55,
+          "asw": 0
+        }
+      }
+    },
+    "stars": 5
+  },
+  "1080005": {
+    "id": 1080005,
+    "code": 10085,
+    "name": {
+      "en": "Yume Minami",
+      "code": "Minami Yume",
+      "cn": "南梦芽",
+      "jp": "南夢芽"
+    },
+    "property_hexagon": [3, 0, 0, 2, 2, 4],
+    "type": 3,
+    "armor": 2,
+    "slots": [[3], [1], [6], [10], [10]],
+    "nationality": 108,
+    "data": {
+      "10800051": {
+        "id": 10800051,
+        "tags": ["SSSS"],
+        "type": 3,
+        "rarity": 5,
+        "stars": 3,
+        "oil": 6,
+        "max_level": 70,
+        "stats": {
+          "hp": 873,
+          "fp": 46,
+          "trp": 0,
+          "aa": 46,
+          "av": 0,
+          "rld": 69,
+          "acc": 52,
+          "eva": 20,
+          "spd": 25.6,
+          "luk": 55,
+          "asw": 0
+        }
+      },
+      "10800052": {
+        "id": 10800052,
+        "tags": ["SSSS"],
+        "type": 3,
+        "rarity": 5,
+        "stars": 4,
+        "oil": 8,
+        "max_level": 80,
+        "stats": {
+          "hp": 1086,
+          "fp": 57,
+          "trp": 0,
+          "aa": 57,
+          "av": 0,
+          "rld": 69,
+          "acc": 52,
+          "eva": 20,
+          "spd": 25.6,
+          "luk": 55,
+          "asw": 0
+        }
+      },
+      "10800053": {
+        "id": 10800053,
+        "tags": ["SSSS"],
+        "type": 3,
+        "rarity": 5,
+        "stars": 5,
+        "oil": 10,
+        "max_level": 90,
+        "stats": {
+          "hp": 1512,
+          "fp": 80,
+          "trp": 0,
+          "aa": 80,
+          "av": 0,
+          "rld": 69,
+          "acc": 52,
+          "eva": 20,
+          "spd": 25.6,
+          "luk": 55,
+          "asw": 0
+        }
+      },
+      "10800054": {
+        "id": 10800054,
+        "tags": ["SSSS"],
+        "type": 3,
+        "rarity": 5,
+        "stars": 6,
+        "oil": 12,
+        "max_level": 100,
+        "stats": {
+          "hp": 2151,
+          "fp": 114,
+          "trp": 0,
+          "aa": 114,
+          "av": 0,
+          "rld": 69,
+          "acc": 52,
+          "eva": 20,
+          "spd": 25.6,
+          "luk": 55,
+          "asw": 0
+        }
+      }
+    },
+    "stars": 6
+  },
+  "1080006": {
+    "id": 1080006,
+    "code": 10086,
+    "name": {
+      "en": "Chise Asukagawa",
+      "code": "Asukagawa Chise",
+      "cn": "飞鸟川千濑",
+      "jp": "飛鳥川ちせ"
+    },
+    "property_hexagon": [0, 0, 5, 3, 3, 4],
+    "type": 7,
+    "armor": 2,
+    "slots": [[7], [9], [8], [10], [10]],
+    "nationality": 108,
+    "data": {
+      "10800061": {
+        "id": 10800061,
+        "tags": ["SSSS"],
+        "type": 7,
+        "rarity": 5,
+        "stars": 3,
+        "oil": 7,
+        "max_level": 70,
+        "stats": {
+          "hp": 1169,
+          "fp": 0,
+          "trp": 0,
+          "aa": 58,
+          "av": 77,
+          "rld": 53,
+          "acc": 30,
+          "eva": 11,
+          "spd": 28,
+          "luk": 55,
+          "asw": 0
+        }
+      },
+      "10800062": {
+        "id": 10800062,
+        "tags": ["SSSS"],
+        "type": 7,
+        "rarity": 5,
+        "stars": 4,
+        "oil": 9,
+        "max_level": 80,
+        "stats": {
+          "hp": 1454,
+          "fp": 0,
+          "trp": 0,
+          "aa": 72,
+          "av": 96,
+          "rld": 53,
+          "acc": 30,
+          "eva": 11,
+          "spd": 28,
+          "luk": 55,
+          "asw": 0
+        }
+      },
+      "10800063": {
+        "id": 10800063,
+        "tags": ["SSSS"],
+        "type": 7,
+        "rarity": 5,
+        "stars": 5,
+        "oil": 11,
+        "max_level": 90,
+        "stats": {
+          "hp": 2024,
+          "fp": 0,
+          "trp": 0,
+          "aa": 101,
+          "av": 134,
+          "rld": 53,
+          "acc": 30,
+          "eva": 11,
+          "spd": 28,
+          "luk": 55,
+          "asw": 0
+        }
+      },
+      "10800064": {
+        "id": 10800064,
+        "tags": ["SSSS"],
+        "type": 7,
+        "rarity": 5,
+        "stars": 6,
+        "oil": 13,
+        "max_level": 100,
+        "stats": {
+          "hp": 2879,
+          "fp": 0,
+          "trp": 0,
+          "aa": 144,
+          "av": 191,
+          "rld": 53,
+          "acc": 30,
+          "eva": 11,
+          "spd": 28,
+          "luk": 55,
+          "asw": 0
+        }
+      }
+    },
+    "stars": 6
+  },
+  "1080007": {
+    "id": 1080007,
+    "code": 10087,
+    "name": {"en": "Mujina", "code": "Mujina", "cn": "貉", "jp": "ムジナ"},
+    "property_hexagon": [4, 0, 0, 1, 1, 4],
+    "type": 5,
+    "armor": 3,
+    "slots": [[4], [1, 2], [6], [10], [10]],
+    "nationality": 108,
+    "data": {
+      "10800071": {
+        "id": 10800071,
+        "tags": ["SSSS"],
+        "type": 5,
+        "rarity": 4,
+        "stars": 2,
+        "oil": 8,
+        "max_level": 70,
+        "stats": {
+          "hp": 1265,
+          "fp": 75,
+          "trp": 0,
+          "aa": 36,
+          "av": 0,
+          "rld": 50,
+          "acc": 21,
+          "eva": 8,
+          "spd": 30,
+          "luk": 55,
+          "asw": 0
+        }
+      },
+      "10800072": {
+        "id": 10800072,
+        "tags": ["SSSS"],
+        "type": 5,
+        "rarity": 4,
+        "stars": 3,
+        "oil": 10,
+        "max_level": 80,
+        "stats": {
+          "hp": 1574,
+          "fp": 94,
+          "trp": 0,
+          "aa": 45,
+          "av": 0,
+          "rld": 50,
+          "acc": 21,
+          "eva": 8,
+          "spd": 30,
+          "luk": 55,
+          "asw": 0
+        }
+      },
+      "10800073": {
+        "id": 10800073,
+        "tags": ["SSSS"],
+        "type": 5,
+        "rarity": 4,
+        "stars": 4,
+        "oil": 12,
+        "max_level": 90,
+        "stats": {
+          "hp": 2191,
+          "fp": 131,
+          "trp": 0,
+          "aa": 62,
+          "av": 0,
+          "rld": 50,
+          "acc": 21,
+          "eva": 8,
+          "spd": 30,
+          "luk": 55,
+          "asw": 0
+        }
+      },
+      "10800074": {
+        "id": 10800074,
+        "tags": ["SSSS"],
+        "type": 5,
+        "rarity": 4,
+        "stars": 5,
+        "oil": 14,
+        "max_level": 100,
+        "stats": {
+          "hp": 3116,
+          "fp": 186,
+          "trp": 0,
+          "aa": 89,
+          "av": 0,
+          "rld": 50,
+          "acc": 21,
+          "eva": 8,
+          "spd": 30,
+          "luk": 55,
           "asw": 0
         }
       }
