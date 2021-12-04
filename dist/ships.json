@@ -8508,7 +8508,7 @@
     "code": 521,
     "name": {
       "en": "New Orleans",
-      "code": "USS New Orlean",
+      "code": "USS New Orleans",
       "cn": "新奥尔良",
       "jp": "ニューオリンズ",
       "kr": "뉴올리언스"
@@ -53257,7 +53257,8 @@
       "en": "Hiyou META",
       "code": "Hiyō.META",
       "cn": "飞鹰·META",
-      "jp": "飛鷹(META)"
+      "jp": "飛鷹(META)",
+      "kr": "히요·META"
     },
     "property_hexagon": [0, 0, 4, 1, 3, 3],
     "type": 6,
@@ -58156,7 +58157,9 @@
       "en": "Rikka Takarada",
       "code": "Takarada Rikka",
       "cn": "宝多六花",
-      "jp": "宝多六花"
+      "jp": "宝多六花",
+      "kr": "타카라다 릿카",
+      "tw": "寶多六花"
     },
     "property_hexagon": [3, 4, 0, 3, 3, 2],
     "type": 2,
@@ -58262,7 +58265,9 @@
       "en": "Akane Shinjo",
       "code": "Shinjō Akane",
       "cn": "新条茜",
-      "jp": "新条アカネ"
+      "jp": "新条アカネ",
+      "kr": "신죠 아카네",
+      "tw": "新條茜"
     },
     "property_hexagon": [4, 0, 0, 1, 1, 4],
     "type": 5,
@@ -58364,7 +58369,14 @@
   "1080003": {
     "id": 1080003,
     "code": 10083,
-    "name": {"en": "Hass", "code": "Hass", "cn": "莲", "jp": "はっす"},
+    "name": {
+      "en": "Hass",
+      "code": "Hass",
+      "cn": "莲",
+      "jp": "はっす",
+      "kr": "핫스",
+      "tw": "哈絲"
+    },
     "property_hexagon": [3, 3, 0, 3, 2, 2],
     "type": 2,
     "armor": 1,
@@ -58465,7 +58477,14 @@
   "1080004": {
     "id": 1080004,
     "code": 10084,
-    "name": {"en": "Namiko", "code": "Namiko", "cn": "奈美子", "jp": "なみこ"},
+    "name": {
+      "en": "Namiko",
+      "code": "Namiko",
+      "cn": "奈美子",
+      "jp": "なみこ",
+      "kr": "나미코",
+      "tw": "奈美子"
+    },
     "property_hexagon": [3, 3, 0, 2, 3, 3],
     "type": 3,
     "armor": 2,
@@ -58570,7 +58589,9 @@
       "en": "Yume Minami",
       "code": "Minami Yume",
       "cn": "南梦芽",
-      "jp": "南夢芽"
+      "jp": "南夢芽",
+      "kr": "미나미 유메",
+      "tw": "南夢芽"
     },
     "property_hexagon": [3, 0, 0, 2, 2, 4],
     "type": 3,
@@ -58676,7 +58697,9 @@
       "en": "Chise Asukagawa",
       "code": "Asukagawa Chise",
       "cn": "飞鸟川千濑",
-      "jp": "飛鳥川ちせ"
+      "jp": "飛鳥川ちせ",
+      "kr": "아스카가와 치세",
+      "tw": "飛鳥川千瀨"
     },
     "property_hexagon": [0, 0, 5, 3, 3, 4],
     "type": 7,
@@ -58778,7 +58801,14 @@
   "1080007": {
     "id": 1080007,
     "code": 10087,
-    "name": {"en": "Mujina", "code": "Mujina", "cn": "貉", "jp": "ムジナ"},
+    "name": {
+      "en": "Mujina",
+      "code": "Mujina",
+      "cn": "貉",
+      "jp": "ムジナ",
+      "kr": "무지나",
+      "tw": "貉"
+    },
     "property_hexagon": [4, 0, 0, 1, 1, 4],
     "type": 5,
     "armor": 3,
