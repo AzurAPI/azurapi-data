@@ -20161,7 +20161,7 @@
           "cn": "伦敦.改",
           "jp": "ロンドン改",
           "kr": "런던·改",
-          "tw": "伦敦.改"
+          "tw": "倫敦‧改"
         }
       }
     },
@@ -40966,7 +40966,8 @@
       "code": "KMS Z24",
       "cn": "Z24",
       "jp": "Z24",
-      "kr": "Z24"
+      "kr": "Z24",
+      "tw": "Z24"
     },
     "property_hexagon": [4, 2, 0, 3, 1, 1],
     "type": 1,
@@ -41288,7 +41289,8 @@
       "code": "KMS Z28",
       "cn": "Z28",
       "jp": "Z28",
-      "kr": "Z28"
+      "kr": "Z28",
+      "tw": "Z28"
     },
     "property_hexagon": [4, 2, 0, 3, 1, 1],
     "type": 1,
@@ -42181,7 +42183,8 @@
       "code": "KMS Nürnberg",
       "cn": "纽伦堡",
       "jp": "ニュルンベルク",
-      "kr": "뉘른베르크"
+      "kr": "뉘른베르크",
+      "tw": "紐倫堡"
     },
     "property_hexagon": [3, 4, 0, 3, 4, 2],
     "type": 2,
@@ -42279,6 +42282,113 @@
       }
     },
     "stars": 5
+  },
+  "40206": {
+    "id": 40206,
+    "code": 525,
+    "name": {
+      "en": "Magdeburg",
+      "code": "KMS Magdeburg",
+      "cn": "马格德堡",
+      "jp": "マクデブルク",
+      "kr": "마그데부르크"
+    },
+    "property_hexagon": [3, 4, 0, 3, 3, 2],
+    "type": 2,
+    "armor": 1,
+    "slots": [[2], [5], [6], [10, 14], [10, 14]],
+    "nationality": 4,
+    "data": {
+      "402061": {
+        "id": 402061,
+        "tags": ["M1"],
+        "type": 2,
+        "rarity": 5,
+        "stars": 3,
+        "oil": 5,
+        "max_level": 70,
+        "stats": {
+          "hp": 630,
+          "fp": 35,
+          "trp": 58,
+          "aa": 72,
+          "av": 0,
+          "rld": 75,
+          "acc": 55,
+          "eva": 31,
+          "spd": 36,
+          "luk": 50,
+          "asw": 36
+        }
+      },
+      "402062": {
+        "id": 402062,
+        "tags": ["M1"],
+        "type": 2,
+        "rarity": 5,
+        "stars": 4,
+        "oil": 7,
+        "max_level": 80,
+        "stats": {
+          "hp": 784,
+          "fp": 44,
+          "trp": 72,
+          "aa": 90,
+          "av": 0,
+          "rld": 75,
+          "acc": 55,
+          "eva": 31,
+          "spd": 36,
+          "luk": 50,
+          "asw": 45
+        }
+      },
+      "402063": {
+        "id": 402063,
+        "tags": ["M1"],
+        "type": 2,
+        "rarity": 5,
+        "stars": 5,
+        "oil": 9,
+        "max_level": 90,
+        "stats": {
+          "hp": 1091,
+          "fp": 61,
+          "trp": 101,
+          "aa": 125,
+          "av": 0,
+          "rld": 75,
+          "acc": 55,
+          "eva": 31,
+          "spd": 36,
+          "luk": 50,
+          "asw": 62
+        }
+      },
+      "402064": {
+        "id": 402064,
+        "tags": ["M1"],
+        "type": 2,
+        "rarity": 5,
+        "stars": 6,
+        "oil": 11,
+        "max_level": 100,
+        "stats": {
+          "hp": 1552,
+          "fp": 86,
+          "trp": 145,
+          "aa": 178,
+          "av": 0,
+          "rld": 75,
+          "acc": 55,
+          "eva": 31,
+          "spd": 36,
+          "luk": 50,
+          "asw": 89
+        }
+      }
+    },
+    "stars": 6
   },
   "40301": {
     "id": 40301,
@@ -42957,7 +43067,8 @@
       "code": "KMS Prinz Heinrich",
       "cn": "海因里希亲王",
       "jp": "プリンツ・ハインリヒ",
-      "kr": "프린츠 하인리히"
+      "kr": "프린츠 하인리히",
+      "tw": "海因里希親王"
     },
     "property_hexagon": [4, 2, 0, 2, 3, 5],
     "type": 3,
@@ -43047,6 +43158,113 @@
           "av": 0,
           "rld": 67,
           "acc": 45,
+          "eva": 11,
+          "spd": 26.4,
+          "luk": 50,
+          "asw": 0
+        }
+      }
+    },
+    "stars": 6
+  },
+  "40310": {
+    "id": 40310,
+    "code": 527,
+    "name": {
+      "en": "Prinz Adalbert",
+      "code": "KMS Prinz Adalbert",
+      "cn": "阿达尔伯特亲王",
+      "jp": "プリンツ・アーダルベルト",
+      "kr": "프린츠 아달베르트"
+    },
+    "property_hexagon": [4, 2, 0, 2, 3, 5],
+    "type": 3,
+    "armor": 2,
+    "slots": [[3, 11], [5], [6], [10], [10]],
+    "nationality": 4,
+    "data": {
+      "403101": {
+        "id": 403101,
+        "tags": ["P2"],
+        "type": 3,
+        "rarity": 5,
+        "stars": 3,
+        "oil": 6,
+        "max_level": 70,
+        "stats": {
+          "hp": 1033,
+          "fp": 56,
+          "trp": 47,
+          "aa": 40,
+          "av": 0,
+          "rld": 67,
+          "acc": 46,
+          "eva": 11,
+          "spd": 26.4,
+          "luk": 50,
+          "asw": 0
+        }
+      },
+      "403102": {
+        "id": 403102,
+        "tags": ["P2"],
+        "type": 3,
+        "rarity": 5,
+        "stars": 4,
+        "oil": 8,
+        "max_level": 80,
+        "stats": {
+          "hp": 1285,
+          "fp": 70,
+          "trp": 59,
+          "aa": 50,
+          "av": 0,
+          "rld": 67,
+          "acc": 46,
+          "eva": 11,
+          "spd": 26.4,
+          "luk": 50,
+          "asw": 0
+        }
+      },
+      "403103": {
+        "id": 403103,
+        "tags": ["P2"],
+        "type": 3,
+        "rarity": 5,
+        "stars": 5,
+        "oil": 10,
+        "max_level": 90,
+        "stats": {
+          "hp": 1789,
+          "fp": 97,
+          "trp": 82,
+          "aa": 70,
+          "av": 0,
+          "rld": 67,
+          "acc": 46,
+          "eva": 11,
+          "spd": 26.4,
+          "luk": 50,
+          "asw": 0
+        }
+      },
+      "403104": {
+        "id": 403104,
+        "tags": ["P2"],
+        "type": 3,
+        "rarity": 5,
+        "stars": 6,
+        "oil": 12,
+        "max_level": 100,
+        "stats": {
+          "hp": 2544,
+          "fp": 139,
+          "trp": 117,
+          "aa": 99,
+          "av": 0,
+          "rld": 67,
+          "acc": 46,
           "eva": 11,
           "spd": 26.4,
           "luk": 50,
@@ -43531,6 +43749,113 @@
     },
     "stars": 6
   },
+  "40503": {
+    "id": 40503,
+    "code": 529,
+    "name": {
+      "en": "Ulrich von Hutten",
+      "code": "KMS Ulrich von Hutten",
+      "cn": "乌尔里希·冯·胡滕",
+      "jp": "ウルリッヒ・フォン・フッテン",
+      "kr": "울리히 폰 후텐"
+    },
+    "property_hexagon": [5, 0, 0, 2, 2, 5],
+    "type": 5,
+    "armor": 3,
+    "slots": [[4], [1, 2], [6], [10], [10]],
+    "nationality": 4,
+    "data": {
+      "405031": {
+        "id": 405031,
+        "tags": ["H39"],
+        "type": 5,
+        "rarity": 6,
+        "stars": 3,
+        "oil": 17,
+        "max_level": 100,
+        "stats": {
+          "hp": 1573,
+          "fp": 86,
+          "trp": 0,
+          "aa": 47,
+          "av": 0,
+          "rld": 65,
+          "acc": 23,
+          "eva": 8,
+          "spd": 30,
+          "luk": 50,
+          "asw": 0
+        }
+      },
+      "405032": {
+        "id": 405032,
+        "tags": ["H39"],
+        "type": 5,
+        "rarity": 6,
+        "stars": 4,
+        "oil": 17,
+        "max_level": 100,
+        "stats": {
+          "hp": 1957,
+          "fp": 107,
+          "trp": 0,
+          "aa": 59,
+          "av": 0,
+          "rld": 65,
+          "acc": 23,
+          "eva": 8,
+          "spd": 30,
+          "luk": 50,
+          "asw": 0
+        }
+      },
+      "405033": {
+        "id": 405033,
+        "tags": ["H39"],
+        "type": 5,
+        "rarity": 6,
+        "stars": 5,
+        "oil": 17,
+        "max_level": 100,
+        "stats": {
+          "hp": 2724,
+          "fp": 150,
+          "trp": 0,
+          "aa": 82,
+          "av": 0,
+          "rld": 65,
+          "acc": 23,
+          "eva": 8,
+          "spd": 30,
+          "luk": 50,
+          "asw": 0
+        }
+      },
+      "405034": {
+        "id": 405034,
+        "tags": ["H39"],
+        "type": 5,
+        "rarity": 6,
+        "stars": 6,
+        "oil": 17,
+        "max_level": 100,
+        "stats": {
+          "hp": 3874,
+          "fp": 214,
+          "trp": 0,
+          "aa": 116,
+          "av": 0,
+          "rld": 65,
+          "acc": 23,
+          "eva": 8,
+          "spd": 30,
+          "luk": 50,
+          "asw": 0
+        }
+      }
+    },
+    "stars": 6
+  },
   "40601": {
     "id": 40601,
     "code": 485,
@@ -43539,7 +43864,8 @@
       "code": "KMS Weser",
       "cn": "威悉",
       "jp": "ヴェーザー",
-      "kr": "베저"
+      "kr": "베저",
+      "tw": "威悉"
     },
     "property_hexagon": [0, 0, 4, 2, 3, 3],
     "type": 6,
@@ -43631,6 +43957,113 @@
           "acc": 29,
           "eva": 21,
           "spd": 32,
+          "luk": 30,
+          "asw": 43
+        }
+      }
+    },
+    "stars": 5
+  },
+  "40602": {
+    "id": 40602,
+    "code": 526,
+    "name": {
+      "en": "Elbe",
+      "code": "KMS Elbe",
+      "cn": "易北",
+      "jp": "エルベ",
+      "kr": "엘베"
+    },
+    "property_hexagon": [0, 0, 4, 2, 3, 3],
+    "type": 6,
+    "armor": 2,
+    "slots": [[7], [9], [6], [10, 15], [10, 15]],
+    "nationality": 4,
+    "data": {
+      "406021": {
+        "id": 406021,
+        "tags": ["Elbe"],
+        "type": 6,
+        "rarity": 4,
+        "stars": 2,
+        "oil": 5,
+        "max_level": 70,
+        "stats": {
+          "hp": 820,
+          "fp": 0,
+          "trp": 0,
+          "aa": 50,
+          "av": 62,
+          "rld": 68,
+          "acc": 28,
+          "eva": 17,
+          "spd": 21,
+          "luk": 30,
+          "asw": 17
+        }
+      },
+      "406022": {
+        "id": 406022,
+        "tags": ["Elbe"],
+        "type": 6,
+        "rarity": 4,
+        "stars": 3,
+        "oil": 7,
+        "max_level": 80,
+        "stats": {
+          "hp": 1020,
+          "fp": 0,
+          "trp": 0,
+          "aa": 62,
+          "av": 77,
+          "rld": 68,
+          "acc": 28,
+          "eva": 17,
+          "spd": 21,
+          "luk": 30,
+          "asw": 21
+        }
+      },
+      "406023": {
+        "id": 406023,
+        "tags": ["Elbe"],
+        "type": 6,
+        "rarity": 4,
+        "stars": 4,
+        "oil": 9,
+        "max_level": 90,
+        "stats": {
+          "hp": 1420,
+          "fp": 0,
+          "trp": 0,
+          "aa": 87,
+          "av": 108,
+          "rld": 68,
+          "acc": 28,
+          "eva": 17,
+          "spd": 21,
+          "luk": 30,
+          "asw": 30
+        }
+      },
+      "406024": {
+        "id": 406024,
+        "tags": ["Elbe"],
+        "type": 6,
+        "rarity": 4,
+        "stars": 5,
+        "oil": 11,
+        "max_level": 100,
+        "stats": {
+          "hp": 2019,
+          "fp": 0,
+          "trp": 0,
+          "aa": 124,
+          "av": 154,
+          "rld": 68,
+          "acc": 28,
+          "eva": 17,
+          "spd": 21,
           "luk": 30,
           "asw": 43
         }
@@ -43885,7 +44318,8 @@
       "code": "KMS Peter Strasser",
       "cn": "彼得·史特拉塞",
       "jp": "ペーター・シュトラッサー",
-      "kr": "페터 슈트라서"
+      "kr": "페터 슈트라서",
+      "tw": "彼得·史特拉塞"
     },
     "property_hexagon": [0, 0, 5, 2, 3, 4],
     "type": 7,
@@ -45069,7 +45503,8 @@
       "code": "KMS U-37",
       "cn": "U-37",
       "jp": "U-37",
-      "kr": "U-37"
+      "kr": "U-37",
+      "tw": "U-37"
     },
     "property_hexagon": [1, 5, 0, 1, 0, 1],
     "type": 8,
@@ -45269,6 +45704,113 @@
           "eva": 7,
           "spd": 14.4,
           "luk": 50,
+          "asw": 0
+        }
+      }
+    },
+    "stars": 5
+  },
+  "40812": {
+    "id": 40812,
+    "code": 528,
+    "name": {
+      "en": "U-1206",
+      "code": "KMS U-1206",
+      "cn": "U-1206",
+      "jp": "U-1206",
+      "kr": "U-1206"
+    },
+    "property_hexagon": [1, 4, 0, 1, 0, 1],
+    "type": 8,
+    "armor": 1,
+    "slots": [[13], [13], [1], [10], [10]],
+    "nationality": 4,
+    "data": {
+      "408121": {
+        "id": 408121,
+        "tags": ["U-boat"],
+        "type": 8,
+        "rarity": 4,
+        "stars": 2,
+        "oil": 4,
+        "max_level": 70,
+        "stats": {
+          "hp": 203,
+          "fp": 8,
+          "trp": 96,
+          "aa": 0,
+          "av": 0,
+          "rld": 31,
+          "acc": 60,
+          "eva": 7,
+          "spd": 18,
+          "luk": 20,
+          "asw": 0
+        }
+      },
+      "408122": {
+        "id": 408122,
+        "tags": ["U-boat"],
+        "type": 8,
+        "rarity": 4,
+        "stars": 3,
+        "oil": 5,
+        "max_level": 80,
+        "stats": {
+          "hp": 252,
+          "fp": 10,
+          "trp": 120,
+          "aa": 0,
+          "av": 0,
+          "rld": 31,
+          "acc": 60,
+          "eva": 7,
+          "spd": 18,
+          "luk": 20,
+          "asw": 0
+        }
+      },
+      "408123": {
+        "id": 408123,
+        "tags": ["U-boat"],
+        "type": 8,
+        "rarity": 4,
+        "stars": 4,
+        "oil": 6,
+        "max_level": 90,
+        "stats": {
+          "hp": 351,
+          "fp": 14,
+          "trp": 168,
+          "aa": 0,
+          "av": 0,
+          "rld": 31,
+          "acc": 60,
+          "eva": 7,
+          "spd": 18,
+          "luk": 20,
+          "asw": 0
+        }
+      },
+      "408124": {
+        "id": 408124,
+        "tags": ["U-boat"],
+        "type": 8,
+        "rarity": 4,
+        "stars": 5,
+        "oil": 7,
+        "max_level": 100,
+        "stats": {
+          "hp": 500,
+          "fp": 21,
+          "trp": 239,
+          "aa": 0,
+          "av": 0,
+          "rld": 31,
+          "acc": 60,
+          "eva": 7,
+          "spd": 18,
+          "luk": 20,
           "asw": 0
         }
       }
