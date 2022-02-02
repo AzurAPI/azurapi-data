@@ -4239,6 +4239,113 @@
     },
     "stars": 6
   },
+  "10149": {
+    "id": 10149,
+    "code": 533,
+    "name": {
+      "en": "Bristol",
+      "code": "USS Bristol",
+      "cn": "布里斯托尔",
+      "jp": "ブリストル",
+      "kr": "브리스톨"
+    },
+    "property_hexagon": [3, 3, 0, 3, 4, 2],
+    "type": 1,
+    "armor": 1,
+    "slots": [[1], [5], [6], [10, 14], [10, 14]],
+    "nationality": 1,
+    "data": {
+      "101491": {
+        "id": 101491,
+        "tags": ["Allen M. Sumner-class"],
+        "type": 1,
+        "rarity": 5,
+        "stars": 3,
+        "oil": 4,
+        "max_level": 70,
+        "stats": {
+          "hp": 407,
+          "fp": 26,
+          "trp": 71,
+          "aa": 43,
+          "av": 0,
+          "rld": 84,
+          "acc": 76,
+          "eva": 59,
+          "spd": 40.8,
+          "luk": 78,
+          "asw": 55
+        }
+      },
+      "101492": {
+        "id": 101492,
+        "tags": ["Allen M. Sumner-class"],
+        "type": 1,
+        "rarity": 5,
+        "stars": 4,
+        "oil": 6,
+        "max_level": 80,
+        "stats": {
+          "hp": 506,
+          "fp": 32,
+          "trp": 89,
+          "aa": 54,
+          "av": 0,
+          "rld": 84,
+          "acc": 76,
+          "eva": 59,
+          "spd": 40.8,
+          "luk": 78,
+          "asw": 69
+        }
+      },
+      "101493": {
+        "id": 101493,
+        "tags": ["Allen M. Sumner-class"],
+        "type": 1,
+        "rarity": 5,
+        "stars": 5,
+        "oil": 8,
+        "max_level": 90,
+        "stats": {
+          "hp": 705,
+          "fp": 45,
+          "trp": 124,
+          "aa": 75,
+          "av": 0,
+          "rld": 84,
+          "acc": 76,
+          "eva": 59,
+          "spd": 40.8,
+          "luk": 78,
+          "asw": 96
+        }
+      },
+      "101494": {
+        "id": 101494,
+        "tags": ["Allen M. Sumner-class"],
+        "type": 1,
+        "rarity": 5,
+        "stars": 6,
+        "oil": 10,
+        "max_level": 100,
+        "stats": {
+          "hp": 1003,
+          "fp": 64,
+          "trp": 176,
+          "aa": 107,
+          "av": 0,
+          "rld": 84,
+          "acc": 76,
+          "eva": 59,
+          "spd": 40.8,
+          "luk": 78,
+          "asw": 136
+        }
+      }
+    },
+    "stars": 6
+  },
   "10201": {
     "id": 10201,
     "code": 29,
@@ -19930,7 +20037,8 @@
       "code": "HMS Penelope",
       "cn": "佩内洛珀",
       "jp": "ペネロピ",
-      "kr": "페넬로피"
+      "kr": "페넬로피",
+      "tw": "佩內洛珀"
     },
     "property_hexagon": [2, 3, 0, 3, 3, 2],
     "type": 2,
@@ -20028,6 +20136,113 @@
       }
     },
     "stars": 5
+  },
+  "20230": {
+    "id": 20230,
+    "code": 530,
+    "name": {
+      "en": "Charybdis",
+      "code": "HMS Charybdis",
+      "cn": "卡律布狄斯",
+      "jp": "カリブディス",
+      "kr": "카리브디스"
+    },
+    "property_hexagon": [3, 1, 0, 3, 4, 2],
+    "type": 2,
+    "armor": 1,
+    "slots": [[1, 2], [5], [6], [10, 14], [10, 14]],
+    "nationality": 2,
+    "data": {
+      "202301": {
+        "id": 202301,
+        "tags": ["Dido-Class"],
+        "type": 2,
+        "rarity": 5,
+        "stars": 3,
+        "oil": 5,
+        "max_level": 70,
+        "stats": {
+          "hp": 673,
+          "fp": 25,
+          "trp": 34,
+          "aa": 83,
+          "av": 0,
+          "rld": 71,
+          "acc": 57,
+          "eva": 28,
+          "spd": 32.25,
+          "luk": 51,
+          "asw": 43
+        }
+      },
+      "202302": {
+        "id": 202302,
+        "tags": ["Dido-Class"],
+        "type": 2,
+        "rarity": 5,
+        "stars": 4,
+        "oil": 7,
+        "max_level": 80,
+        "stats": {
+          "hp": 837,
+          "fp": 31,
+          "trp": 42,
+          "aa": 103,
+          "av": 0,
+          "rld": 71,
+          "acc": 57,
+          "eva": 28,
+          "spd": 32.25,
+          "luk": 51,
+          "asw": 54
+        }
+      },
+      "202303": {
+        "id": 202303,
+        "tags": ["Dido-Class"],
+        "type": 2,
+        "rarity": 5,
+        "stars": 5,
+        "oil": 9,
+        "max_level": 90,
+        "stats": {
+          "hp": 1166,
+          "fp": 44,
+          "trp": 59,
+          "aa": 144,
+          "av": 0,
+          "rld": 71,
+          "acc": 57,
+          "eva": 28,
+          "spd": 32.25,
+          "luk": 51,
+          "asw": 75
+        }
+      },
+      "202304": {
+        "id": 202304,
+        "tags": ["Dido-Class"],
+        "type": 2,
+        "rarity": 5,
+        "stars": 6,
+        "oil": 11,
+        "max_level": 100,
+        "stats": {
+          "hp": 1658,
+          "fp": 63,
+          "trp": 85,
+          "aa": 205,
+          "av": 0,
+          "rld": 71,
+          "acc": 57,
+          "eva": 28,
+          "spd": 32.25,
+          "luk": 51,
+          "asw": 107
+        }
+      }
+    },
+    "stars": 6
   },
   "20301": {
     "id": 20301,
@@ -36358,7 +36573,7 @@
     "data": {
       "306011": {
         "id": 306011,
-        "tags": ["Hiyo-class"],
+        "tags": ["Hiyo-class", "Hiyō"],
         "type": 6,
         "rarity": 3,
         "stars": 2,
@@ -36380,7 +36595,7 @@
       },
       "306012": {
         "id": 306012,
-        "tags": ["Hiyo-class"],
+        "tags": ["Hiyo-class", "Hiyō"],
         "type": 6,
         "rarity": 3,
         "stars": 3,
@@ -36402,7 +36617,7 @@
       },
       "306013": {
         "id": 306013,
-        "tags": ["Hiyo-class"],
+        "tags": ["Hiyo-class", "Hiyō"],
         "type": 6,
         "rarity": 3,
         "stars": 4,
@@ -36424,7 +36639,7 @@
       },
       "306014": {
         "id": 306014,
-        "tags": ["Hiyo-class"],
+        "tags": ["Hiyo-class", "Hiyō"],
         "type": 6,
         "rarity": 3,
         "stars": 5,
@@ -45611,7 +45826,8 @@
       "code": "KMS U-410",
       "cn": "U-410",
       "jp": "U-410",
-      "kr": "U-410"
+      "kr": "U-410",
+      "tw": "U-410"
     },
     "property_hexagon": [1, 4, 0, 1, 0, 1],
     "type": 8,
@@ -46589,6 +46805,64 @@
           "luk": 81,
           "asw": 122
         }
+      },
+      "520014": {
+        "id": 520014,
+        "tags": ["Qinglong", "Anshan-Class"],
+        "type": 20,
+        "rarity": 4,
+        "stars": 5,
+        "oil": 9,
+        "max_level": 100,
+        "stats": {
+          "hp": 904,
+          "fp": 60,
+          "trp": 104,
+          "aa": 79,
+          "av": 0,
+          "rld": 74,
+          "acc": 69,
+          "eva": 61,
+          "spd": 45.6,
+          "luk": 81,
+          "asw": 122
+        },
+        "slots": [[1], [20], [6], [10, 14], [10, 14]],
+        "name": {
+          "en": "An Shan (Retrofit)",
+          "cn": "鞍山.改",
+          "jp": "鞍山改",
+          "kr": "안샨·改"
+        }
+      },
+      "521014": {
+        "id": 521014,
+        "tags": ["Qinglong", "Anshan-Class"],
+        "type": 21,
+        "rarity": 4,
+        "stars": 5,
+        "oil": 9,
+        "max_level": 100,
+        "stats": {
+          "hp": 1409,
+          "fp": 60,
+          "trp": 104,
+          "aa": 79,
+          "av": 0,
+          "rld": 74,
+          "acc": 69,
+          "eva": 21,
+          "spd": 45.6,
+          "luk": 81,
+          "asw": 122
+        },
+        "slots": [[1], [20], [6], [10, 14], [10, 14]],
+        "name": {
+          "en": "An Shan (Retrofit)",
+          "cn": "鞍山.改",
+          "jp": "鞍山改",
+          "kr": "안샨·改"
+        }
       }
     },
     "stars": 5
@@ -46804,6 +47078,64 @@
           "spd": 45.6,
           "luk": 61,
           "asw": 122
+        }
+      },
+      "520034": {
+        "id": 520034,
+        "tags": ["Baihu", "Anshan-Class"],
+        "type": 20,
+        "rarity": 4,
+        "stars": 5,
+        "oil": 9,
+        "max_level": 100,
+        "stats": {
+          "hp": 904,
+          "fp": 60,
+          "trp": 104,
+          "aa": 79,
+          "av": 0,
+          "rld": 73,
+          "acc": 67,
+          "eva": 61,
+          "spd": 45.6,
+          "luk": 61,
+          "asw": 122
+        },
+        "slots": [[1], [20], [6], [10, 14], [10, 14]],
+        "name": {
+          "en": "Chang Chun (Retrofit)",
+          "cn": "长春.改",
+          "jp": "長春改",
+          "kr": "창춘·改"
+        }
+      },
+      "521034": {
+        "id": 521034,
+        "tags": ["Baihu", "Anshan-Class"],
+        "type": 21,
+        "rarity": 4,
+        "stars": 5,
+        "oil": 9,
+        "max_level": 100,
+        "stats": {
+          "hp": 1409,
+          "fp": 60,
+          "trp": 104,
+          "aa": 79,
+          "av": 0,
+          "rld": 73,
+          "acc": 67,
+          "eva": 21,
+          "spd": 45.6,
+          "luk": 61,
+          "asw": 122
+        },
+        "slots": [[1], [20], [6], [10, 14], [10, 14]],
+        "name": {
+          "en": "Chang Chun (Retrofit)",
+          "cn": "长春.改",
+          "jp": "長春改",
+          "kr": "창춘·改"
         }
       }
     },
@@ -47272,7 +47604,8 @@
       "code": "ROC Ying Swei",
       "cn": "应瑞",
       "jp": "応瑞",
-      "kr": "잉 루이"
+      "kr": "잉 루이",
+      "tw": "應瑞"
     },
     "property_hexagon": [1, 2, 0, 2, 1, 1],
     "type": 2,
@@ -47379,7 +47712,8 @@
       "code": "ROC Chao Ho",
       "cn": "肇和",
       "jp": "肇和",
-      "kr": "차오 호"
+      "kr": "차오 호",
+      "tw": "肇和"
     },
     "property_hexagon": [1, 2, 0, 2, 1, 1],
     "type": 2,
@@ -47474,6 +47808,330 @@
           "luk": 20,
           "asw": 43
         }
+      }
+    },
+    "stars": 5
+  },
+  "50207": {
+    "id": 50207,
+    "code": 531,
+    "name": {
+      "en": "Hai Tien",
+      "code": "Hai Tien",
+      "cn": "海天",
+      "jp": "海天",
+      "kr": "하이티엔"
+    },
+    "property_hexagon": [2, 2, 0, 2, 1, 2],
+    "type": 2,
+    "armor": 2,
+    "slots": [[3], [1], [5], [10, 14], [10, 14]],
+    "nationality": 5,
+    "data": {
+      "502071": {
+        "id": 502071,
+        "tags": ["Hai Tien-Class"],
+        "type": 2,
+        "rarity": 4,
+        "stars": 2,
+        "oil": 4,
+        "max_level": 70,
+        "stats": {
+          "hp": 522,
+          "fp": 19,
+          "trp": 47,
+          "aa": 30,
+          "av": 0,
+          "rld": 55,
+          "acc": 54,
+          "eva": 26,
+          "spd": 24,
+          "luk": 31,
+          "asw": 19
+        }
+      },
+      "502072": {
+        "id": 502072,
+        "tags": ["Hai Tien-Class"],
+        "type": 2,
+        "rarity": 4,
+        "stars": 3,
+        "oil": 6,
+        "max_level": 80,
+        "stats": {
+          "hp": 649,
+          "fp": 24,
+          "trp": 59,
+          "aa": 37,
+          "av": 0,
+          "rld": 55,
+          "acc": 54,
+          "eva": 26,
+          "spd": 24,
+          "luk": 31,
+          "asw": 24
+        }
+      },
+      "502073": {
+        "id": 502073,
+        "tags": ["Hai Tien-Class"],
+        "type": 2,
+        "rarity": 4,
+        "stars": 4,
+        "oil": 8,
+        "max_level": 90,
+        "stats": {
+          "hp": 904,
+          "fp": 33,
+          "trp": 82,
+          "aa": 52,
+          "av": 0,
+          "rld": 55,
+          "acc": 54,
+          "eva": 26,
+          "spd": 24,
+          "luk": 31,
+          "asw": 33
+        }
+      },
+      "502074": {
+        "id": 502074,
+        "tags": ["Hai Tien-Class"],
+        "type": 2,
+        "rarity": 4,
+        "stars": 5,
+        "oil": 10,
+        "max_level": 100,
+        "stats": {
+          "hp": 1286,
+          "fp": 47,
+          "trp": 117,
+          "aa": 74,
+          "av": 0,
+          "rld": 55,
+          "acc": 54,
+          "eva": 26,
+          "spd": 24,
+          "luk": 31,
+          "asw": 47
+        }
+      }
+    },
+    "stars": 5
+  },
+  "50208": {
+    "id": 50208,
+    "code": 532,
+    "name": {
+      "en": "Hai Chi",
+      "code": "Hai Chi",
+      "cn": "海圻",
+      "jp": "海圻",
+      "kr": "하이치"
+    },
+    "property_hexagon": [2, 2, 0, 2, 1, 2],
+    "type": 2,
+    "armor": 2,
+    "slots": [[3], [1], [5], [10, 14], [10, 14]],
+    "nationality": 5,
+    "data": {
+      "502081": {
+        "id": 502081,
+        "tags": ["Hai Tien-Class"],
+        "type": 2,
+        "rarity": 4,
+        "stars": 2,
+        "oil": 4,
+        "max_level": 70,
+        "stats": {
+          "hp": 521,
+          "fp": 17,
+          "trp": 48,
+          "aa": 31,
+          "av": 0,
+          "rld": 55,
+          "acc": 54,
+          "eva": 26,
+          "spd": 24,
+          "luk": 62,
+          "asw": 19
+        }
+      },
+      "502082": {
+        "id": 502082,
+        "tags": ["Hai Tien-Class"],
+        "type": 2,
+        "rarity": 4,
+        "stars": 3,
+        "oil": 6,
+        "max_level": 80,
+        "stats": {
+          "hp": 648,
+          "fp": 21,
+          "trp": 60,
+          "aa": 39,
+          "av": 0,
+          "rld": 55,
+          "acc": 54,
+          "eva": 26,
+          "spd": 24,
+          "luk": 62,
+          "asw": 24
+        }
+      },
+      "502083": {
+        "id": 502083,
+        "tags": ["Hai Tien-Class"],
+        "type": 2,
+        "rarity": 4,
+        "stars": 4,
+        "oil": 8,
+        "max_level": 90,
+        "stats": {
+          "hp": 902,
+          "fp": 30,
+          "trp": 84,
+          "aa": 54,
+          "av": 0,
+          "rld": 55,
+          "acc": 54,
+          "eva": 26,
+          "spd": 24,
+          "luk": 62,
+          "asw": 33
+        }
+      },
+      "502084": {
+        "id": 502084,
+        "tags": ["Hai Tien-Class"],
+        "type": 2,
+        "rarity": 4,
+        "stars": 5,
+        "oil": 10,
+        "max_level": 100,
+        "stats": {
+          "hp": 1284,
+          "fp": 43,
+          "trp": 120,
+          "aa": 77,
+          "av": 0,
+          "rld": 55,
+          "acc": 54,
+          "eva": 26,
+          "spd": 24,
+          "luk": 62,
+          "asw": 47
+        }
+      }
+    },
+    "stars": 5
+  },
+  "50601": {
+    "id": 50601,
+    "code": 534,
+    "name": {
+      "en": "Chen Hai",
+      "code": "Chen Hai",
+      "cn": "镇海",
+      "jp": "鎮海",
+      "kr": "젠하이"
+    },
+    "property_hexagon": [1, 0, 3, 2, 2, 2],
+    "type": 6,
+    "armor": 2,
+    "slots": [[12], [12], [6], [10, 14], [10, 14]],
+    "nationality": 5,
+    "data": {
+      "506011": {
+        "id": 506011,
+        "tags": ["Chen Hai"],
+        "type": 6,
+        "rarity": 4,
+        "stars": 2,
+        "oil": 5,
+        "max_level": 70,
+        "stats": {
+          "hp": 604,
+          "fp": 28,
+          "trp": 0,
+          "aa": 30,
+          "av": 56,
+          "rld": 68,
+          "acc": 32,
+          "eva": 13,
+          "spd": 10.8,
+          "luk": 45,
+          "asw": 0
+        }
+      },
+      "506012": {
+        "id": 506012,
+        "tags": ["Chen Hai"],
+        "type": 6,
+        "rarity": 4,
+        "stars": 3,
+        "oil": 7,
+        "max_level": 80,
+        "stats": {
+          "hp": 751,
+          "fp": 35,
+          "trp": 0,
+          "aa": 37,
+          "av": 70,
+          "rld": 68,
+          "acc": 32,
+          "eva": 13,
+          "spd": 10.8,
+          "luk": 45,
+          "asw": 0
+        },
+        "slots": [[12], [1, 12], [6], [10, 14], [10, 14]]
+      },
+      "506013": {
+        "id": 506013,
+        "tags": ["Chen Hai"],
+        "type": 6,
+        "rarity": 4,
+        "stars": 4,
+        "oil": 9,
+        "max_level": 90,
+        "stats": {
+          "hp": 1046,
+          "fp": 49,
+          "trp": 0,
+          "aa": 52,
+          "av": 97,
+          "rld": 68,
+          "acc": 32,
+          "eva": 13,
+          "spd": 10.8,
+          "luk": 45,
+          "asw": 0
+        },
+        "slots": [[12], [1, 12], [6], [10, 14], [10, 14]]
+      },
+      "506014": {
+        "id": 506014,
+        "tags": ["Chen Hai"],
+        "type": 6,
+        "rarity": 4,
+        "stars": 5,
+        "oil": 11,
+        "max_level": 100,
+        "stats": {
+          "hp": 1487,
+          "fp": 69,
+          "trp": 0,
+          "aa": 74,
+          "av": 139,
+          "rld": 68,
+          "acc": 32,
+          "eva": 13,
+          "spd": 10.8,
+          "luk": 45,
+          "asw": 0
+        },
+        "slots": [[12], [1, 12], [6], [10, 14], [10, 14]]
       }
     },
     "stars": 5
@@ -49636,7 +50294,8 @@
       "code": "SN Stremitelny",
       "cn": "神速",
       "jp": "ストレミテルヌイ",
-      "kr": "스트례미텔니"
+      "kr": "스트례미텔니",
+      "tw": "神速"
     },
     "property_hexagon": [4, 1, 0, 3, 2, 1],
     "type": 1,
@@ -54038,7 +54697,8 @@
       "code": "Fuso.META",
       "cn": "扶桑·META",
       "jp": "扶桑(META)",
-      "kr": "후소·META"
+      "kr": "후소·META",
+      "tw": "扶桑·META"
     },
     "property_hexagon": [4, 0, 0, 1, 1, 4],
     "type": 5,
@@ -54155,7 +54815,7 @@
     "data": {
       "9706011": {
         "id": 9706011,
-        "tags": ["HiyoMETA", "Hiyo-class"],
+        "tags": ["HiyoMETA", "Hiyo-class", "Hiyō"],
         "type": 6,
         "rarity": 4,
         "stars": 2,
@@ -54177,7 +54837,7 @@
       },
       "9706012": {
         "id": 9706012,
-        "tags": ["HiyoMETA", "Hiyo-class"],
+        "tags": ["HiyoMETA", "Hiyo-class", "Hiyō"],
         "type": 6,
         "rarity": 4,
         "stars": 3,
@@ -54199,7 +54859,7 @@
       },
       "9706013": {
         "id": 9706013,
-        "tags": ["HiyoMETA", "Hiyo-class"],
+        "tags": ["HiyoMETA", "Hiyo-class", "Hiyō"],
         "type": 6,
         "rarity": 4,
         "stars": 4,
@@ -54221,7 +54881,7 @@
       },
       "9706014": {
         "id": 9706014,
-        "tags": ["HiyoMETA", "Hiyo-class"],
+        "tags": ["HiyoMETA", "Hiyo-class", "Hiyō"],
         "type": 6,
         "rarity": 4,
         "stars": 5,
@@ -54238,6 +54898,113 @@
           "eva": 17,
           "spd": 26,
           "luk": 43,
+          "asw": 43
+        }
+      }
+    },
+    "stars": 5
+  },
+  "970602": {
+    "id": 970602,
+    "code": 30008,
+    "name": {
+      "en": "Junyou META",
+      "code": "Jun'yō.META",
+      "cn": "隼鹰·META",
+      "jp": "隼鷹(META)",
+      "kr": "준요·META"
+    },
+    "property_hexagon": [0, 0, 4, 1, 3, 3],
+    "type": 6,
+    "armor": 2,
+    "slots": [[7], [9], [8], [10, 15], [10, 15]],
+    "nationality": 97,
+    "data": {
+      "9706021": {
+        "id": 9706021,
+        "tags": ["JunyoMETA", "Hiyo-class", "Jun'yō"],
+        "type": 6,
+        "rarity": 4,
+        "stars": 2,
+        "oil": 13,
+        "max_level": 100,
+        "stats": {
+          "hp": 1128,
+          "fp": 0,
+          "trp": 0,
+          "aa": 48,
+          "av": 61,
+          "rld": 71,
+          "acc": 26,
+          "eva": 17,
+          "spd": 26,
+          "luk": 80,
+          "asw": 17
+        }
+      },
+      "9706022": {
+        "id": 9706022,
+        "tags": ["JunyoMETA", "Hiyo-class", "Jun'yō"],
+        "type": 6,
+        "rarity": 4,
+        "stars": 3,
+        "oil": 13,
+        "max_level": 100,
+        "stats": {
+          "hp": 1403,
+          "fp": 0,
+          "trp": 0,
+          "aa": 60,
+          "av": 76,
+          "rld": 71,
+          "acc": 26,
+          "eva": 17,
+          "spd": 26,
+          "luk": 80,
+          "asw": 21
+        }
+      },
+      "9706023": {
+        "id": 9706023,
+        "tags": ["JunyoMETA", "Hiyo-class", "Jun'yō"],
+        "type": 6,
+        "rarity": 4,
+        "stars": 4,
+        "oil": 13,
+        "max_level": 100,
+        "stats": {
+          "hp": 1953,
+          "fp": 0,
+          "trp": 0,
+          "aa": 83,
+          "av": 106,
+          "rld": 71,
+          "acc": 26,
+          "eva": 17,
+          "spd": 26,
+          "luk": 80,
+          "asw": 30
+        }
+      },
+      "9706024": {
+        "id": 9706024,
+        "tags": ["JunyoMETA", "Hiyo-class", "Jun'yō"],
+        "type": 6,
+        "rarity": 4,
+        "stars": 5,
+        "oil": 13,
+        "max_level": 100,
+        "stats": {
+          "hp": 2779,
+          "fp": 0,
+          "trp": 0,
+          "aa": 118,
+          "av": 152,
+          "rld": 71,
+          "acc": 26,
+          "eva": 17,
+          "spd": 26,
+          "luk": 80,
           "asw": 43
         }
       }
