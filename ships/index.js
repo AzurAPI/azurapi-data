@@ -71,6 +71,7 @@ function readFilesFromLanguage(lang = "EN") {
             .replace('Hiryu.META', 'Hiryuu META')
             .replace('Helena.META', 'Helena META')
             .replace('Ark Royal.META', 'Ark Royal META')
+            .replace('Fuso.META', 'Fusou META')
             .replace('Sōryū.META', 'Souryuu META')
             .replace('Kisaragi Chihaya', 'Chihaya Kisaragi')
             .replace('Minase Iori', 'Iori Minase')
