@@ -50617,7 +50617,8 @@
       "en": "Soobrazitelny",
       "code": "SN Soobrazitelny",
       "cn": "灵敏",
-      "jp": "ソオブラジーテリヌイ"
+      "jp": "ソオブラジーテリヌイ",
+      "kr": "소브라지텔니"
     },
     "property_hexagon": [4, 1, 0, 3, 2, 1],
     "type": 1,
@@ -50719,7 +50720,13 @@
   "70110": {
     "id": 70110,
     "code": 535,
-    "name": {"en": "Kiev", "code": "SN Kiev", "cn": "基辅", "jp": "キエフ"},
+    "name": {
+      "en": "Kiev",
+      "code": "SN Kiev",
+      "cn": "基辅",
+      "jp": "キエフ",
+      "kr": "키예프"
+    },
     "property_hexagon": [4, 1, 0, 4, 2, 1],
     "type": 1,
     "armor": 1,
@@ -51869,7 +51876,8 @@
       "en": "Arkhangelsk",
       "code": "SN Arkhangelsk",
       "cn": "阿尔汉格尔斯克",
-      "jp": "アルハンゲリスク"
+      "jp": "アルハンゲリスク",
+      "kr": "아르한겔스크"
     },
     "property_hexagon": [4, 0, 0, 1, 1, 4],
     "type": 5,
@@ -51971,7 +51979,13 @@
   "70701": {
     "id": 70701,
     "code": 538,
-    "name": {"en": "Volga", "code": "SN Volga", "cn": "伏尔加", "jp": "ヴォルガ"},
+    "name": {
+      "en": "Volga",
+      "code": "SN Volga",
+      "cn": "伏尔加",
+      "jp": "ヴォルガ",
+      "kr": "볼가"
+    },
     "property_hexagon": [0, 0, 4, 2, 2, 4],
     "type": 7,
     "armor": 2,
@@ -52076,7 +52090,8 @@
       "en": "Kronshtadt",
       "code": "SN Kronshtadt",
       "cn": "喀琅施塔得",
-      "jp": "クロンシュタット"
+      "jp": "クロンシュタット",
+      "kr": "크론시타트"
     },
     "property_hexagon": [4, 0, 0, 2, 2, 5],
     "type": 18,
@@ -55007,7 +55022,7 @@
     "code": 30003,
     "name": {
       "en": "Helena META",
-      "code": "Helena META",
+      "code": "Helena.META",
       "cn": "海伦娜·META",
       "jp": "ヘレナ(META)",
       "kr": "헬레나·META"
@@ -55221,7 +55236,7 @@
     "code": 30005,
     "name": {
       "en": "Fusou META",
-      "code": "Fusou META",
+      "code": "Fuso.META",
       "cn": "扶桑·META",
       "jp": "扶桑(META)",
       "kr": "후소·META",
@@ -55543,7 +55558,7 @@
     "code": 30001,
     "name": {
       "en": "Hiryu.META",
-      "code": "Hiryuu META",
+      "code": "Hiryu.META",
       "cn": "飞龙·META",
       "jp": "飛龍(META)",
       "kr": "히류·META",
@@ -55677,7 +55692,7 @@
     "code": 30002,
     "name": {
       "en": "Royal.META",
-      "code": "Ark Royal META",
+      "code": "Ark Royal.META",
       "cn": "皇家方舟·META",
       "jp": "アーク・ロイヤル(META)",
       "kr": "아크 로열·META",
@@ -55811,7 +55826,7 @@
     "code": 30004,
     "name": {
       "en": "Souryuu META",
-      "code": "Souryuu META",
+      "code": "Sōryū.META",
       "cn": "苍龙·META",
       "jp": "蒼龍(META)",
       "kr": "소류·META"
