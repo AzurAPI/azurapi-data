@@ -68,11 +68,6 @@ function readFilesFromLanguage(lang = "EN") {
 
         stat.english_name = stat.english_name.trim()
             .replace('Ultra Bulin MKIII', 'Specialized Bulin Custom MKIII')
-            .replace('Hiryu.META', 'Hiryuu META')
-            .replace('Helena.META', 'Helena META')
-            .replace('Ark Royal.META', 'Ark Royal META')
-            .replace('Fuso.META', 'Fusou META')
-            .replace('Sōryū.META', 'Souryuu META')
             .replace('Kisaragi Chihaya', 'Chihaya Kisaragi')
             .replace('Minase Iori', 'Iori Minase')
             .replace('Miura Azusa', 'Azusa Miura')
