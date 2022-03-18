@@ -111,7 +111,7 @@ function readFilesFromLanguage(lang = "EN") {
         if (compiled[ship.group_type].armor !== armor) specificShip.armor = armor;
 
         stat.name = stat.name.trim();
-        if (!compiled[ship.group_type].name[lang.toLowerCase()]) compiled[ship.group_type].name[lang.toLowerCase()] = stat.name.trim();
+        if (!compiled[ship.group_type].name[lang.toLowerCase()]&&!stat.name.includes("Retrofit")) compiled[ship.group_type].name[lang.toLowerCase()] = stat.name.trim();
         if (compiled[ship.group_type].name[lang.toLowerCase()] !== stat.name.trim()) { // name not matching, probably retrofit
             if (!specificShip.name) specificShip.name = {};
             specificShip.name[lang.toLowerCase()] = stat.name.trim();
