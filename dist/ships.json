@@ -30730,11 +30730,11 @@
     "id": 30181,
     "code": 424,
     "name": {
-      "en": "Kasumi Retrofit",
       "code": "IJN Kasumi",
-      "cn": "霞.改",
-      "jp": "霞改",
-      "kr": "카스미·改",
+      "en": "Kasumi",
+      "cn": "霞",
+      "jp": "霞",
+      "kr": "카스미",
       "tw": "霞"
     },
     "property_hexagon": [1, 4, 0, 4, 1, 2],
@@ -30763,6 +30763,12 @@
           "spd": 42,
           "luk": 70,
           "asw": 117
+        },
+        "name": {
+          "en": "Kasumi Retrofit",
+          "cn": "霞.改",
+          "jp": "霞改",
+          "kr": "카스미·改"
         }
       },
       "301811": {
@@ -30785,8 +30791,7 @@
           "spd": 42,
           "luk": 70,
           "asw": 47
-        },
-        "name": {"en": "Kasumi", "cn": "霞", "jp": "霞", "kr": "카스미"}
+        }
       },
       "301812": {
         "id": 301812,
@@ -30808,8 +30813,7 @@
           "spd": 42,
           "luk": 70,
           "asw": 59
-        },
-        "name": {"en": "Kasumi", "cn": "霞", "jp": "霞", "kr": "카스미"}
+        }
       },
       "301813": {
         "id": 301813,
@@ -30831,8 +30835,7 @@
           "spd": 42,
           "luk": 70,
           "asw": 82
-        },
-        "name": {"en": "Kasumi", "cn": "霞", "jp": "霞", "kr": "카스미"}
+        }
       },
       "301814": {
         "id": 301814,
@@ -30854,8 +30857,7 @@
           "spd": 42,
           "luk": 70,
           "asw": 117
-        },
-        "name": {"en": "Kasumi", "cn": "霞", "jp": "霞", "kr": "카스미"}
+        }
       }
     },
     "stars": 5
@@ -55225,6 +55227,112 @@
           "eva": 6,
           "spd": 31,
           "luk": 64,
+          "asw": 0
+        }
+      }
+    },
+    "stars": 6
+  },
+  "970402": {
+    "id": 970402,
+    "code": 30009,
+    "name": {
+      "en": "Scharnhorst META",
+      "code": "Scharnhorst.META",
+      "cn": "沙恩霍斯特·META",
+      "jp": "シャルンホルスト(META)"
+    },
+    "property_hexagon": [4, 2, 0, 1, 2, 4],
+    "type": 4,
+    "armor": 2,
+    "slots": [[4], [5], [6], [10], [10]],
+    "nationality": 97,
+    "data": {
+      "9704021": {
+        "id": 9704021,
+        "tags": ["ScharnhorstMETA", "Scharnhorst"],
+        "type": 4,
+        "rarity": 5,
+        "stars": 3,
+        "oil": 15,
+        "max_level": 100,
+        "stats": {
+          "hp": 1288,
+          "fp": 69,
+          "trp": 32,
+          "aa": 54,
+          "av": 0,
+          "rld": 60,
+          "acc": 16,
+          "eva": 6,
+          "spd": 31,
+          "luk": 43,
+          "asw": 0
+        }
+      },
+      "9704022": {
+        "id": 9704022,
+        "tags": ["ScharnhorstMETA", "Scharnhorst"],
+        "type": 4,
+        "rarity": 5,
+        "stars": 4,
+        "oil": 15,
+        "max_level": 100,
+        "stats": {
+          "hp": 1602,
+          "fp": 86,
+          "trp": 40,
+          "aa": 67,
+          "av": 0,
+          "rld": 60,
+          "acc": 16,
+          "eva": 6,
+          "spd": 31,
+          "luk": 43,
+          "asw": 0
+        }
+      },
+      "9704023": {
+        "id": 9704023,
+        "tags": ["ScharnhorstMETA", "Scharnhorst"],
+        "type": 4,
+        "rarity": 5,
+        "stars": 5,
+        "oil": 15,
+        "max_level": 100,
+        "stats": {
+          "hp": 2230,
+          "fp": 120,
+          "trp": 56,
+          "aa": 94,
+          "av": 0,
+          "rld": 60,
+          "acc": 16,
+          "eva": 6,
+          "spd": 31,
+          "luk": 43,
+          "asw": 0
+        }
+      },
+      "9704024": {
+        "id": 9704024,
+        "tags": ["ScharnhorstMETA", "Scharnhorst"],
+        "type": 4,
+        "rarity": 5,
+        "stars": 6,
+        "oil": 15,
+        "max_level": 100,
+        "stats": {
+          "hp": 3172,
+          "fp": 172,
+          "trp": 80,
+          "aa": 133,
+          "av": 0,
+          "rld": 60,
+          "acc": 16,
+          "eva": 6,
+          "spd": 31,
+          "luk": 43,
           "asw": 0
         }
       }
