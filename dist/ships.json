@@ -48686,7 +48686,8 @@
       "en": "Pompeo Magno",
       "code": "RN Pompeo Magno",
       "cn": "庞培·马格诺",
-      "jp": "ポンペオ・マーニョ"
+      "jp": "ポンペオ・マーニョ",
+      "kr": "폼페오 마뇨"
     },
     "property_hexagon": [4, 1, 0, 4, 2, 2],
     "type": 1,
@@ -49223,7 +49224,8 @@
       "en": "Trieste",
       "code": "RN Trieste",
       "cn": "的里雅斯特",
-      "jp": "トリエステ"
+      "jp": "トリエステ",
+      "kr": "트리에스테"
     },
     "property_hexagon": [3, 2, 0, 2, 3, 2],
     "type": 3,
@@ -49866,7 +49868,13 @@
   "60702": {
     "id": 60702,
     "code": 540,
-    "name": {"en": "Impero", "code": "RN Impero", "cn": "帝国", "jp": "インペロ"},
+    "name": {
+      "en": "Impero",
+      "code": "RN Impero",
+      "cn": "帝国",
+      "jp": "インペロ",
+      "kr": "임페로"
+    },
     "property_hexagon": [0, 0, 4, 1, 3, 5],
     "type": 7,
     "armor": 2,
@@ -55777,7 +55785,8 @@
       "en": "Yamashiro META",
       "code": "Yamashiro.META",
       "cn": "山城·META",
-      "jp": "山城(META)"
+      "jp": "山城(META)",
+      "kr": "야마시로·META"
     },
     "property_hexagon": [4, 0, 0, 1, 1, 4],
     "type": 5,
