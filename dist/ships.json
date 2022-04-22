@@ -19715,7 +19715,8 @@
       "code": "HMS Glasgow",
       "cn": "格拉斯哥",
       "jp": "グラスゴー",
-      "kr": "글래스고"
+      "kr": "글래스고",
+      "tw": "格拉斯哥"
     },
     "property_hexagon": [3, 3, 0, 3, 4, 2],
     "type": 2,
@@ -21685,7 +21686,8 @@
       "code": "HMS Renown",
       "cn": "小声望",
       "jp": "リトル・レナウン",
-      "kr": "꼬마 리나운"
+      "kr": "꼬마 리나운",
+      "tw": "小聲望"
     },
     "property_hexagon": [4, 0, 0, 2, 2, 3],
     "type": 4,
@@ -30870,7 +30872,8 @@
       "code": "IJN Hanazuki",
       "cn": "花月",
       "jp": "花月",
-      "kr": "하나즈키"
+      "kr": "하나즈키",
+      "tw": "花月"
     },
     "property_hexagon": [2, 3, 0, 4, 3, 2],
     "type": 1,
@@ -30977,7 +30980,8 @@
       "code": "IJN Naganami",
       "cn": "长波",
       "jp": "長波",
-      "kr": "나가나미"
+      "kr": "나가나미",
+      "tw": "長波"
     },
     "property_hexagon": [1, 4, 0, 4, 1, 2],
     "type": 1,
@@ -36092,7 +36096,8 @@
       "code": "IJN Tosa",
       "cn": "土佐",
       "jp": "土佐",
-      "kr": "토사"
+      "kr": "토사",
+      "tw": "土佐"
     },
     "property_hexagon": [4, 2, 0, 1, 1, 3],
     "type": 5,
@@ -55571,7 +55576,8 @@
       "en": "Scharnhorst META",
       "code": "Scharnhorst.META",
       "cn": "沙恩霍斯特·META",
-      "jp": "シャルンホルスト(META)"
+      "jp": "シャルンホルスト(META)",
+      "kr": "샤른호르스트·META"
     },
     "property_hexagon": [4, 2, 0, 1, 2, 4],
     "type": 4,
