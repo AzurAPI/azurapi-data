@@ -9081,6 +9081,28 @@
           "asw": 0
         }
       },
+      "900301": {
+        "id": 900301,
+        "tags": ["Baltimore-Class"],
+        "type": 3,
+        "rarity": 5,
+        "stars": 6,
+        "oil": 12,
+        "max_level": 100,
+        "stats": {
+          "hp": 1953,
+          "fp": 124,
+          "trp": 0,
+          "aa": 120,
+          "av": 0,
+          "rld": 68,
+          "acc": 45,
+          "eva": 9,
+          "spd": 26.4,
+          "luk": 56,
+          "asw": 0
+        }
+      },
       "900330": {
         "id": 900330,
         "tags": ["Baltimore-Class"],
@@ -10806,6 +10828,28 @@
           "luk": 72,
           "asw": 0
         }
+      },
+      "900351": {
+        "id": 900351,
+        "tags": ["Iowa-Class", "New Jersey"],
+        "type": 5,
+        "rarity": 6,
+        "stars": 6,
+        "oil": 17,
+        "max_level": 100,
+        "stats": {
+          "hp": 3927,
+          "fp": 217,
+          "trp": 0,
+          "aa": 208,
+          "av": 0,
+          "rld": 62,
+          "acc": 24,
+          "eva": 9,
+          "spd": 33,
+          "luk": 72,
+          "asw": 0
+        }
       }
     },
     "stars": 6
@@ -12079,6 +12123,7 @@
       },
       "900252": {
         "id": 900252,
+        "tags": ["Enterprise"],
         "type": 7,
         "rarity": 5,
         "stars": 6,
@@ -12443,6 +12488,7 @@
       },
       "900269": {
         "id": 900269,
+        "tags": ["Essex"],
         "type": 7,
         "rarity": 5,
         "stars": 6,
@@ -32506,6 +32552,28 @@
           "luk": 38,
           "asw": 59
         }
+      },
+      "900350": {
+        "id": 900350,
+        "tags": ["Sendai-Class"],
+        "type": 2,
+        "rarity": 4,
+        "stars": 5,
+        "oil": 10,
+        "max_level": 100,
+        "stats": {
+          "hp": 1101,
+          "fp": 72,
+          "trp": 162,
+          "aa": 132,
+          "av": 0,
+          "rld": 70,
+          "acc": 52,
+          "eva": 29,
+          "spd": 35.3,
+          "luk": 38,
+          "asw": 59
+        }
       }
     },
     "stars": 5
@@ -37548,6 +37616,7 @@
       },
       "900259": {
         "id": 900259,
+        "tags": ["Akagi"],
         "type": 7,
         "rarity": 5,
         "stars": 6,
@@ -37677,6 +37746,7 @@
       },
       "900260": {
         "id": 900260,
+        "tags": ["Kaga"],
         "type": 7,
         "rarity": 5,
         "stars": 6,
@@ -38197,6 +38267,7 @@
       },
       "900248": {
         "id": 900248,
+        "tags": ["Zuikaku"],
         "type": 7,
         "rarity": 5,
         "stars": 6,
@@ -42614,6 +42685,208 @@
     },
     "stars": 6
   },
+  "40207": {
+    "id": 40207,
+    "code": 547,
+    "name": {"en": "Emden", "code": "SMS Emden", "cn": "埃姆登", "jp": "エムデン"},
+    "property_hexagon": [3, 3, 0, 3, 2, 2],
+    "type": 2,
+    "armor": 1,
+    "slots": [[1], [1, 2], [5], [10, 14], [10, 14]],
+    "nationality": 4,
+    "data": {
+      "402071": {
+        "id": 402071,
+        "tags": ["Emden", "SOTP"],
+        "type": 2,
+        "rarity": 5,
+        "stars": 3,
+        "oil": 5,
+        "max_level": 70,
+        "stats": {
+          "hp": 639,
+          "fp": 29,
+          "trp": 54,
+          "aa": 56,
+          "av": 0,
+          "rld": 74,
+          "acc": 56,
+          "eva": 26,
+          "spd": 23.5,
+          "luk": 85,
+          "asw": 22
+        }
+      },
+      "402072": {
+        "id": 402072,
+        "tags": ["Emden", "SOTP"],
+        "type": 2,
+        "rarity": 5,
+        "stars": 4,
+        "oil": 7,
+        "max_level": 80,
+        "stats": {
+          "hp": 795,
+          "fp": 36,
+          "trp": 67,
+          "aa": 70,
+          "av": 0,
+          "rld": 74,
+          "acc": 56,
+          "eva": 26,
+          "spd": 23.5,
+          "luk": 85,
+          "asw": 27
+        }
+      },
+      "402073": {
+        "id": 402073,
+        "tags": ["Emden", "SOTP"],
+        "type": 2,
+        "rarity": 5,
+        "stars": 5,
+        "oil": 9,
+        "max_level": 90,
+        "stats": {
+          "hp": 1107,
+          "fp": 50,
+          "trp": 94,
+          "aa": 97,
+          "av": 0,
+          "rld": 74,
+          "acc": 56,
+          "eva": 26,
+          "spd": 23.5,
+          "luk": 85,
+          "asw": 38
+        }
+      },
+      "402074": {
+        "id": 402074,
+        "tags": ["Emden", "SOTP"],
+        "type": 2,
+        "rarity": 5,
+        "stars": 6,
+        "oil": 11,
+        "max_level": 100,
+        "stats": {
+          "hp": 1575,
+          "fp": 72,
+          "trp": 134,
+          "aa": 139,
+          "av": 0,
+          "rld": 74,
+          "acc": 56,
+          "eva": 26,
+          "spd": 23.5,
+          "luk": 85,
+          "asw": 54
+        }
+      }
+    },
+    "stars": 6
+  },
+  "40208": {
+    "id": 40208,
+    "code": 548,
+    "name": {"en": "Elbing", "code": "SMS Elbing", "cn": "埃尔宾", "jp": "エルビング"},
+    "property_hexagon": [2, 3, 0, 3, 2, 2],
+    "type": 2,
+    "armor": 1,
+    "slots": [[2], [5], [1, 6], [10, 14], [10, 14]],
+    "nationality": 4,
+    "data": {
+      "402081": {
+        "id": 402081,
+        "tags": ["Elbing", "SOTP"],
+        "type": 2,
+        "rarity": 4,
+        "stars": 2,
+        "oil": 4,
+        "max_level": 70,
+        "stats": {
+          "hp": 580,
+          "fp": 23,
+          "trp": 39,
+          "aa": 54,
+          "av": 0,
+          "rld": 73,
+          "acc": 51,
+          "eva": 29,
+          "spd": 27.5,
+          "luk": 30,
+          "asw": 19
+        }
+      },
+      "402082": {
+        "id": 402082,
+        "tags": ["Elbing", "SOTP"],
+        "type": 2,
+        "rarity": 4,
+        "stars": 3,
+        "oil": 6,
+        "max_level": 80,
+        "stats": {
+          "hp": 721,
+          "fp": 29,
+          "trp": 49,
+          "aa": 67,
+          "av": 0,
+          "rld": 73,
+          "acc": 51,
+          "eva": 29,
+          "spd": 27.5,
+          "luk": 30,
+          "asw": 24
+        }
+      },
+      "402083": {
+        "id": 402083,
+        "tags": ["Elbing", "SOTP"],
+        "type": 2,
+        "rarity": 4,
+        "stars": 4,
+        "oil": 8,
+        "max_level": 90,
+        "stats": {
+          "hp": 1004,
+          "fp": 40,
+          "trp": 68,
+          "aa": 94,
+          "av": 0,
+          "rld": 73,
+          "acc": 51,
+          "eva": 29,
+          "spd": 27.5,
+          "luk": 30,
+          "asw": 33
+        }
+      },
+      "402084": {
+        "id": 402084,
+        "tags": ["Elbing", "SOTP"],
+        "type": 2,
+        "rarity": 4,
+        "stars": 5,
+        "oil": 10,
+        "max_level": 100,
+        "stats": {
+          "hp": 1428,
+          "fp": 58,
+          "trp": 97,
+          "aa": 134,
+          "av": 0,
+          "rld": 73,
+          "acc": 51,
+          "eva": 29,
+          "spd": 27.5,
+          "luk": 30,
+          "asw": 48
+        }
+      }
+    },
+    "stars": 5
+  },
   "40301": {
     "id": 40301,
     "code": 242,
@@ -43498,6 +43771,213 @@
     },
     "stars": 6
   },
+  "40311": {
+    "id": 40311,
+    "code": 546,
+    "name": {"en": "Yorck", "code": "SMS Yorck", "cn": "约克", "jp": "ヨルク"},
+    "property_hexagon": [4, 2, 0, 2, 2, 4],
+    "type": 3,
+    "armor": 2,
+    "slots": [[3], [1, 2], [5], [10], [10]],
+    "nationality": 4,
+    "data": {
+      "403111": {
+        "id": 403111,
+        "tags": ["Roon-class", "SOTP"],
+        "type": 3,
+        "rarity": 4,
+        "stars": 2,
+        "oil": 5,
+        "max_level": 70,
+        "stats": {
+          "hp": 814,
+          "fp": 42,
+          "trp": 30,
+          "aa": 32,
+          "av": 0,
+          "rld": 64,
+          "acc": 45,
+          "eva": 11,
+          "spd": 16.32,
+          "luk": 28,
+          "asw": 0
+        }
+      },
+      "403112": {
+        "id": 403112,
+        "tags": ["Roon-class", "SOTP"],
+        "type": 3,
+        "rarity": 4,
+        "stars": 3,
+        "oil": 7,
+        "max_level": 80,
+        "stats": {
+          "hp": 1013,
+          "fp": 52,
+          "trp": 37,
+          "aa": 40,
+          "av": 0,
+          "rld": 64,
+          "acc": 45,
+          "eva": 11,
+          "spd": 16.32,
+          "luk": 28,
+          "asw": 0
+        }
+      },
+      "403113": {
+        "id": 403113,
+        "tags": ["Roon-class", "SOTP"],
+        "type": 3,
+        "rarity": 4,
+        "stars": 4,
+        "oil": 9,
+        "max_level": 90,
+        "stats": {
+          "hp": 1410,
+          "fp": 73,
+          "trp": 52,
+          "aa": 55,
+          "av": 0,
+          "rld": 64,
+          "acc": 45,
+          "eva": 11,
+          "spd": 16.32,
+          "luk": 28,
+          "asw": 0
+        }
+      },
+      "403114": {
+        "id": 403114,
+        "tags": ["Roon-class", "SOTP"],
+        "type": 3,
+        "rarity": 4,
+        "stars": 5,
+        "oil": 11,
+        "max_level": 100,
+        "stats": {
+          "hp": 2006,
+          "fp": 105,
+          "trp": 74,
+          "aa": 79,
+          "av": 0,
+          "rld": 64,
+          "acc": 45,
+          "eva": 11,
+          "spd": 16.32,
+          "luk": 28,
+          "asw": 0
+        }
+      }
+    },
+    "stars": 5
+  },
+  "40312": {
+    "id": 40312,
+    "code": 549,
+    "name": {
+      "en": "Little Prinz Eugen",
+      "code": "KMS Prinz Eugen",
+      "cn": "小欧根",
+      "jp": "プリンツ・オイゲンちゃん"
+    },
+    "property_hexagon": [3, 1, 0, 2, 3, 5],
+    "type": 3,
+    "armor": 2,
+    "slots": [[3], [5], [6], [10], [10]],
+    "nationality": 4,
+    "data": {
+      "403121": {
+        "id": 403121,
+        "tags": ["Admiral Hipper-Class", "special"],
+        "type": 3,
+        "rarity": 4,
+        "stars": 2,
+        "oil": 5,
+        "max_level": 70,
+        "stats": {
+          "hp": 1039,
+          "fp": 42,
+          "trp": 27,
+          "aa": 37,
+          "av": 0,
+          "rld": 65,
+          "acc": 44,
+          "eva": 9,
+          "spd": 25.6,
+          "luk": 78,
+          "asw": 0
+        }
+      },
+      "403122": {
+        "id": 403122,
+        "tags": ["Admiral Hipper-Class", "special"],
+        "type": 3,
+        "rarity": 4,
+        "stars": 3,
+        "oil": 7,
+        "max_level": 80,
+        "stats": {
+          "hp": 1292,
+          "fp": 52,
+          "trp": 34,
+          "aa": 46,
+          "av": 0,
+          "rld": 65,
+          "acc": 44,
+          "eva": 9,
+          "spd": 25.6,
+          "luk": 78,
+          "asw": 0
+        }
+      },
+      "403123": {
+        "id": 403123,
+        "tags": ["Admiral Hipper-Class", "special"],
+        "type": 3,
+        "rarity": 4,
+        "stars": 4,
+        "oil": 9,
+        "max_level": 90,
+        "stats": {
+          "hp": 1799,
+          "fp": 73,
+          "trp": 47,
+          "aa": 64,
+          "av": 0,
+          "rld": 65,
+          "acc": 44,
+          "eva": 9,
+          "spd": 25.6,
+          "luk": 78,
+          "asw": 0
+        }
+      },
+      "403124": {
+        "id": 403124,
+        "tags": ["Admiral Hipper-Class", "special"],
+        "type": 3,
+        "rarity": 4,
+        "stars": 5,
+        "oil": 11,
+        "max_level": 100,
+        "stats": {
+          "hp": 2559,
+          "fp": 104,
+          "trp": 68,
+          "aa": 91,
+          "av": 0,
+          "rld": 65,
+          "acc": 44,
+          "eva": 9,
+          "spd": 25.6,
+          "luk": 78,
+          "asw": 0
+        }
+      }
+    },
+    "stars": 5
+  },
   "40401": {
     "id": 40401,
     "code": 248,
@@ -43734,6 +44214,257 @@
       }
     },
     "stars": 5
+  },
+  "40403": {
+    "id": 40403,
+    "code": 543,
+    "name": {
+      "en": "Seydlitz",
+      "code": "SMS Seydlitz",
+      "cn": "塞德利茨",
+      "jp": "ザイドリッツ"
+    },
+    "property_hexagon": [4, 1, 0, 1, 2, 4],
+    "type": 4,
+    "armor": 3,
+    "slots": [[4], [1, 2], [1, 6], [10], [10]],
+    "nationality": 4,
+    "data": {
+      "404031": {
+        "id": 404031,
+        "tags": ["Moltke-Class", "SOTP", "Seydlitz"],
+        "type": 4,
+        "rarity": 5,
+        "stars": 3,
+        "oil": 8,
+        "max_level": 70,
+        "stats": {
+          "hp": 1225,
+          "fp": 73,
+          "trp": 33,
+          "aa": 49,
+          "av": 0,
+          "rld": 55,
+          "acc": 22,
+          "eva": 7,
+          "spd": 26.5,
+          "luk": 83,
+          "asw": 0
+        }
+      },
+      "404032": {
+        "id": 404032,
+        "tags": ["Moltke-Class", "SOTP", "Seydlitz"],
+        "type": 4,
+        "rarity": 5,
+        "stars": 4,
+        "oil": 10,
+        "max_level": 80,
+        "stats": {
+          "hp": 1524,
+          "fp": 91,
+          "trp": 41,
+          "aa": 61,
+          "av": 0,
+          "rld": 55,
+          "acc": 22,
+          "eva": 7,
+          "spd": 26.5,
+          "luk": 83,
+          "asw": 0
+        }
+      },
+      "404033": {
+        "id": 404033,
+        "tags": ["Moltke-Class", "SOTP", "Seydlitz"],
+        "type": 4,
+        "rarity": 5,
+        "stars": 5,
+        "oil": 12,
+        "max_level": 90,
+        "stats": {
+          "hp": 2122,
+          "fp": 127,
+          "trp": 57,
+          "aa": 85,
+          "av": 0,
+          "rld": 55,
+          "acc": 22,
+          "eva": 7,
+          "spd": 26.5,
+          "luk": 83,
+          "asw": 0
+        }
+      },
+      "404034": {
+        "id": 404034,
+        "tags": ["Moltke-Class", "SOTP", "Seydlitz"],
+        "type": 4,
+        "rarity": 5,
+        "stars": 6,
+        "oil": 14,
+        "max_level": 100,
+        "stats": {
+          "hp": 3018,
+          "fp": 181,
+          "trp": 82,
+          "aa": 122,
+          "av": 0,
+          "rld": 55,
+          "acc": 22,
+          "eva": 7,
+          "spd": 26.5,
+          "luk": 83,
+          "asw": 0
+        }
+      },
+      "900303": {
+        "id": 900303,
+        "tags": ["Moltke-Class", "SOTP", "Seydlitz"],
+        "type": 4,
+        "rarity": 5,
+        "stars": 3,
+        "oil": 8,
+        "max_level": 100,
+        "stats": {
+          "hp": 1225,
+          "fp": 73,
+          "trp": 33,
+          "aa": 49,
+          "av": 0,
+          "rld": 55,
+          "acc": 22,
+          "eva": 7,
+          "spd": 26.5,
+          "luk": 83,
+          "asw": 0
+        }
+      }
+    },
+    "stars": 6
+  },
+  "40404": {
+    "id": 40404,
+    "code": 544,
+    "name": {"en": "Lützow", "code": "SMS Lützow", "cn": "吕佐夫", "jp": "リュッツォウ"},
+    "property_hexagon": [4, 1, 0, 1, 2, 4],
+    "type": 4,
+    "armor": 3,
+    "slots": [[4], [1, 2], [1, 6], [10], [10]],
+    "nationality": 4,
+    "data": {
+      "404041": {
+        "id": 404041,
+        "tags": ["Derfflinger-class", "SOTP", "Lützow"],
+        "type": 4,
+        "rarity": 5,
+        "stars": 3,
+        "oil": 8,
+        "max_level": 70,
+        "stats": {
+          "hp": 1269,
+          "fp": 74,
+          "trp": 33,
+          "aa": 50,
+          "av": 0,
+          "rld": 60,
+          "acc": 22,
+          "eva": 6,
+          "spd": 26.4,
+          "luk": 30,
+          "asw": 0
+        }
+      },
+      "404042": {
+        "id": 404042,
+        "tags": ["Derfflinger-class", "SOTP", "Lützow"],
+        "type": 4,
+        "rarity": 5,
+        "stars": 4,
+        "oil": 10,
+        "max_level": 80,
+        "stats": {
+          "hp": 1578,
+          "fp": 92,
+          "trp": 41,
+          "aa": 62,
+          "av": 0,
+          "rld": 60,
+          "acc": 22,
+          "eva": 6,
+          "spd": 26.4,
+          "luk": 30,
+          "asw": 0
+        }
+      },
+      "404043": {
+        "id": 404043,
+        "tags": ["Derfflinger-class", "SOTP", "Lützow"],
+        "type": 4,
+        "rarity": 5,
+        "stars": 5,
+        "oil": 12,
+        "max_level": 90,
+        "stats": {
+          "hp": 2197,
+          "fp": 129,
+          "trp": 58,
+          "aa": 87,
+          "av": 0,
+          "rld": 60,
+          "acc": 22,
+          "eva": 6,
+          "spd": 26.4,
+          "luk": 30,
+          "asw": 0
+        }
+      },
+      "404044": {
+        "id": 404044,
+        "tags": ["Derfflinger-class", "SOTP", "Lützow"],
+        "type": 4,
+        "rarity": 5,
+        "stars": 6,
+        "oil": 14,
+        "max_level": 100,
+        "stats": {
+          "hp": 3125,
+          "fp": 184,
+          "trp": 83,
+          "aa": 124,
+          "av": 0,
+          "rld": 60,
+          "acc": 22,
+          "eva": 6,
+          "spd": 26.4,
+          "luk": 30,
+          "asw": 0
+        }
+      },
+      "900305": {
+        "id": 900305,
+        "tags": ["Derfflinger-class", "SOTP", "Lützow"],
+        "type": 4,
+        "rarity": 5,
+        "stars": 3,
+        "oil": 8,
+        "max_level": 100,
+        "stats": {
+          "hp": 1166,
+          "fp": 72,
+          "trp": 31,
+          "aa": 48,
+          "av": 0,
+          "rld": 60,
+          "acc": 22,
+          "eva": 9,
+          "spd": 31,
+          "luk": 64,
+          "asw": 0
+        }
+      }
+    },
+    "stars": 6
   },
   "40501": {
     "id": 40501,
@@ -44079,6 +44810,112 @@
       }
     },
     "stars": 6
+  },
+  "40504": {
+    "id": 40504,
+    "code": 545,
+    "name": {
+      "en": "Thüringen",
+      "code": "SMS Thüringen",
+      "cn": "图林根",
+      "jp": "テューリンゲン"
+    },
+    "property_hexagon": [4, 1, 0, 1, 1, 3],
+    "type": 5,
+    "armor": 3,
+    "slots": [[4], [1, 2], [1, 6], [10], [10]],
+    "nationality": 4,
+    "data": {
+      "405041": {
+        "id": 405041,
+        "tags": ["Helgoland-Class", "Thüringen", "SOTP"],
+        "type": 5,
+        "rarity": 4,
+        "stars": 2,
+        "oil": 8,
+        "max_level": 70,
+        "stats": {
+          "hp": 1100,
+          "fp": 76,
+          "trp": 21,
+          "aa": 33,
+          "av": 0,
+          "rld": 51,
+          "acc": 19,
+          "eva": 4,
+          "spd": 20.8,
+          "luk": 60,
+          "asw": 0
+        }
+      },
+      "405042": {
+        "id": 405042,
+        "tags": ["Helgoland-Class", "Thüringen", "SOTP"],
+        "type": 5,
+        "rarity": 4,
+        "stars": 3,
+        "oil": 10,
+        "max_level": 80,
+        "stats": {
+          "hp": 1368,
+          "fp": 95,
+          "trp": 26,
+          "aa": 41,
+          "av": 0,
+          "rld": 51,
+          "acc": 19,
+          "eva": 4,
+          "spd": 20.8,
+          "luk": 60,
+          "asw": 0
+        }
+      },
+      "405043": {
+        "id": 405043,
+        "tags": ["Helgoland-Class", "Thüringen", "SOTP"],
+        "type": 5,
+        "rarity": 4,
+        "stars": 4,
+        "oil": 12,
+        "max_level": 90,
+        "stats": {
+          "hp": 1905,
+          "fp": 132,
+          "trp": 37,
+          "aa": 57,
+          "av": 0,
+          "rld": 51,
+          "acc": 19,
+          "eva": 4,
+          "spd": 20.8,
+          "luk": 60,
+          "asw": 0
+        }
+      },
+      "405044": {
+        "id": 405044,
+        "tags": ["Helgoland-Class", "Thüringen", "SOTP"],
+        "type": 5,
+        "rarity": 4,
+        "stars": 5,
+        "oil": 14,
+        "max_level": 100,
+        "stats": {
+          "hp": 2710,
+          "fp": 189,
+          "trp": 53,
+          "aa": 81,
+          "av": 0,
+          "rld": 51,
+          "acc": 19,
+          "eva": 4,
+          "spd": 20.8,
+          "luk": 60,
+          "asw": 0
+        }
+      }
+    },
+    "stars": 5
   },
   "40601": {
     "id": 40601,
@@ -46591,6 +47428,28 @@
           "fp": 53,
           "trp": 38,
           "aa": 47,
+          "av": 0,
+          "rld": 62,
+          "acc": 45,
+          "eva": 12,
+          "spd": 26.8,
+          "luk": 0,
+          "asw": 0
+        }
+      },
+      "900302": {
+        "id": 900302,
+        "tags": ["Plan-Class", "Agir"],
+        "type": 18,
+        "rarity": 6,
+        "stars": 6,
+        "oil": 16,
+        "max_level": 100,
+        "stats": {
+          "hp": 3084,
+          "fp": 53,
+          "trp": 38,
+          "aa": 116,
           "av": 0,
           "rld": 62,
           "acc": 45,
