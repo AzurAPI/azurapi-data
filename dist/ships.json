@@ -4033,7 +4033,8 @@
       "code": "USS Morrison",
       "cn": "莫里森",
       "jp": "モリソン",
-      "kr": "모리슨"
+      "kr": "모리슨",
+      "tw": "莫里森"
     },
     "property_hexagon": [2, 2, 0, 3, 2, 2],
     "type": 1,
@@ -6401,7 +6402,8 @@
       "code": "USS Helena",
       "cn": "小海伦娜",
       "jp": "リトル・ヘレナ",
-      "kr": "꼬마 헬레나"
+      "kr": "꼬마 헬레나",
+      "tw": "小海倫娜"
     },
     "property_hexagon": [3, 0, 0, 3, 3, 2],
     "type": 2,
@@ -6508,7 +6510,8 @@
       "code": "USS Cleveland",
       "cn": "小克利夫兰",
       "jp": "リトル・クリーブランド",
-      "kr": "꼬마 클리블랜드"
+      "kr": "꼬마 클리블랜드",
+      "tw": "小克里夫蘭"
     },
     "property_hexagon": [3, 0, 0, 3, 3, 3],
     "type": 2,
@@ -7371,7 +7374,8 @@
       "code": "USS Boise",
       "cn": "博伊西",
       "jp": "ボイシ",
-      "kr": "보이시"
+      "kr": "보이시",
+      "tw": "波夕"
     },
     "property_hexagon": [3, 0, 0, 3, 3, 2],
     "type": 2,
@@ -8877,7 +8881,8 @@
       "code": "USS San Francisco",
       "cn": "旧金山",
       "jp": "サンフランシスコ",
-      "kr": "샌프란시스코"
+      "kr": "샌프란시스코",
+      "tw": "舊金山"
     },
     "property_hexagon": [3, 0, 0, 2, 3, 4],
     "type": 3,
@@ -10733,7 +10738,8 @@
       "code": "USS New Jersey",
       "cn": "新泽西",
       "jp": "ニュージャージー",
-      "kr": "뉴저지"
+      "kr": "뉴저지",
+      "tw": "紐澤西"
     },
     "property_hexagon": [5, 0, 0, 1, 4, 5],
     "type": 5,
@@ -12672,7 +12678,8 @@
       "code": "USS Ticonderoga",
       "cn": "提康德罗加",
       "jp": "タイコンデロガ",
-      "kr": "타이콘데로가"
+      "kr": "타이콘데로가",
+      "tw": "提康德羅加"
     },
     "property_hexagon": [0, 0, 5, 3, 3, 3],
     "type": 7,
@@ -13031,7 +13038,8 @@
           "en": "Independence Retrofit",
           "cn": "独立.改",
           "jp": "インディペンデンス改",
-          "kr": "인디펜던스·改"
+          "kr": "인디펜던스·改",
+          "tw": "獨立‧改"
         }
       }
     },
@@ -14038,7 +14046,8 @@
       "code": "USS Archerfish",
       "cn": "射水鱼",
       "jp": "アーチャーフィッシュ",
-      "kr": "아처피시"
+      "kr": "아처피시",
+      "tw": "射水魚"
     },
     "property_hexagon": [1, 5, 0, 1, 0, 1],
     "type": 8,
@@ -17311,6 +17320,107 @@
     },
     "stars": 5
   },
+  "20134": {
+    "id": 20134,
+    "code": 550,
+    "name": {"en": "Jervis", "code": "HMS Jervis", "cn": "贾维斯", "jp": "ジャーヴィス"},
+    "property_hexagon": [2, 4, 0, 4, 1, 1],
+    "type": 1,
+    "armor": 1,
+    "slots": [[1], [5], [6], [10, 14], [10, 14]],
+    "nationality": 2,
+    "data": {
+      "201341": {
+        "id": 201341,
+        "tags": ["J-Class", "Jervis"],
+        "type": 1,
+        "rarity": 5,
+        "stars": 3,
+        "oil": 4,
+        "max_level": 70,
+        "stats": {
+          "hp": 328,
+          "fp": 22,
+          "trp": 91,
+          "aa": 37,
+          "av": 0,
+          "rld": 84,
+          "acc": 75,
+          "eva": 78,
+          "spd": 43.2,
+          "luk": 92,
+          "asw": 60
+        }
+      },
+      "201342": {
+        "id": 201342,
+        "tags": ["J-Class", "Jervis"],
+        "type": 1,
+        "rarity": 5,
+        "stars": 4,
+        "oil": 6,
+        "max_level": 80,
+        "stats": {
+          "hp": 408,
+          "fp": 27,
+          "trp": 113,
+          "aa": 46,
+          "av": 0,
+          "rld": 84,
+          "acc": 75,
+          "eva": 78,
+          "spd": 43.2,
+          "luk": 92,
+          "asw": 75
+        }
+      },
+      "201343": {
+        "id": 201343,
+        "tags": ["J-Class", "Jervis"],
+        "type": 1,
+        "rarity": 5,
+        "stars": 5,
+        "oil": 8,
+        "max_level": 90,
+        "stats": {
+          "hp": 568,
+          "fp": 38,
+          "trp": 158,
+          "aa": 64,
+          "av": 0,
+          "rld": 84,
+          "acc": 75,
+          "eva": 78,
+          "spd": 43.2,
+          "luk": 92,
+          "asw": 105
+        }
+      },
+      "201344": {
+        "id": 201344,
+        "tags": ["J-Class", "Jervis"],
+        "type": 1,
+        "rarity": 5,
+        "stars": 6,
+        "oil": 10,
+        "max_level": 100,
+        "stats": {
+          "hp": 809,
+          "fp": 54,
+          "trp": 226,
+          "aa": 92,
+          "av": 0,
+          "rld": 84,
+          "acc": 75,
+          "eva": 78,
+          "spd": 43.2,
+          "luk": 92,
+          "asw": 150
+        }
+      }
+    },
+    "stars": 6
+  },
   "20201": {
     "id": 20201,
     "code": 104,
@@ -20291,6 +20401,112 @@
     },
     "stars": 6
   },
+  "20231": {
+    "id": 20231,
+    "code": 551,
+    "name": {
+      "en": "Bellona",
+      "code": "HMS Bellona",
+      "cn": "司战女神",
+      "jp": "ベローナ"
+    },
+    "property_hexagon": [3, 1, 0, 3, 4, 2],
+    "type": 2,
+    "armor": 1,
+    "slots": [[1, 2], [5], [6], [10, 14], [10, 14]],
+    "nationality": 2,
+    "data": {
+      "202311": {
+        "id": 202311,
+        "tags": ["Dido-Class"],
+        "type": 2,
+        "rarity": 4,
+        "stars": 2,
+        "oil": 4,
+        "max_level": 70,
+        "stats": {
+          "hp": 654,
+          "fp": 27,
+          "trp": 30,
+          "aa": 79,
+          "av": 0,
+          "rld": 66,
+          "acc": 59,
+          "eva": 28,
+          "spd": 32.25,
+          "luk": 56,
+          "asw": 34
+        }
+      },
+      "202312": {
+        "id": 202312,
+        "tags": ["Dido-Class"],
+        "type": 2,
+        "rarity": 4,
+        "stars": 3,
+        "oil": 6,
+        "max_level": 80,
+        "stats": {
+          "hp": 814,
+          "fp": 34,
+          "trp": 37,
+          "aa": 98,
+          "av": 0,
+          "rld": 66,
+          "acc": 59,
+          "eva": 28,
+          "spd": 32.25,
+          "luk": 56,
+          "asw": 42
+        }
+      },
+      "202313": {
+        "id": 202313,
+        "tags": ["Dido-Class"],
+        "type": 2,
+        "rarity": 4,
+        "stars": 4,
+        "oil": 8,
+        "max_level": 90,
+        "stats": {
+          "hp": 1133,
+          "fp": 47,
+          "trp": 52,
+          "aa": 137,
+          "av": 0,
+          "rld": 66,
+          "acc": 59,
+          "eva": 28,
+          "spd": 32.25,
+          "luk": 56,
+          "asw": 59
+        }
+      },
+      "202314": {
+        "id": 202314,
+        "tags": ["Dido-Class"],
+        "type": 2,
+        "rarity": 4,
+        "stars": 5,
+        "oil": 10,
+        "max_level": 100,
+        "stats": {
+          "hp": 1612,
+          "fp": 67,
+          "trp": 75,
+          "aa": 195,
+          "av": 0,
+          "rld": 66,
+          "acc": 59,
+          "eva": 28,
+          "spd": 32.25,
+          "luk": 56,
+          "asw": 84
+        }
+      }
+    },
+    "stars": 5
+  },
   "20301": {
     "id": 20301,
     "code": 119,
@@ -21338,6 +21554,113 @@
     },
     "stars": 5
   },
+  "20310": {
+    "id": 20310,
+    "code": 552,
+    "name": {
+      "en": "Little Cheshire",
+      "code": "HMS Cheshire",
+      "cn": "小柴郡",
+      "jp": "リトル・チェシャー",
+      "tw": "小柴郡"
+    },
+    "property_hexagon": [4, 2, 0, 2, 5, 3],
+    "type": 3,
+    "armor": 2,
+    "slots": [[3], [5], [6], [10], [10]],
+    "nationality": 2,
+    "data": {
+      "203101": {
+        "id": 203101,
+        "tags": ["special"],
+        "type": 3,
+        "rarity": 4,
+        "stars": 2,
+        "oil": 5,
+        "max_level": 70,
+        "stats": {
+          "hp": 753,
+          "fp": 46,
+          "trp": 36,
+          "aa": 76,
+          "av": 0,
+          "rld": 52,
+          "acc": 41,
+          "eva": 6,
+          "spd": 27.2,
+          "luk": 0,
+          "asw": 0
+        }
+      },
+      "203102": {
+        "id": 203102,
+        "tags": ["special"],
+        "type": 3,
+        "rarity": 4,
+        "stars": 3,
+        "oil": 7,
+        "max_level": 80,
+        "stats": {
+          "hp": 937,
+          "fp": 57,
+          "trp": 45,
+          "aa": 95,
+          "av": 0,
+          "rld": 52,
+          "acc": 41,
+          "eva": 6,
+          "spd": 27.2,
+          "luk": 0,
+          "asw": 0
+        }
+      },
+      "203103": {
+        "id": 203103,
+        "tags": ["special"],
+        "type": 3,
+        "rarity": 4,
+        "stars": 4,
+        "oil": 9,
+        "max_level": 90,
+        "stats": {
+          "hp": 1304,
+          "fp": 80,
+          "trp": 63,
+          "aa": 132,
+          "av": 0,
+          "rld": 52,
+          "acc": 41,
+          "eva": 6,
+          "spd": 27.2,
+          "luk": 0,
+          "asw": 0
+        }
+      },
+      "203104": {
+        "id": 203104,
+        "tags": ["special"],
+        "type": 3,
+        "rarity": 4,
+        "stars": 5,
+        "oil": 11,
+        "max_level": 100,
+        "stats": {
+          "hp": 1855,
+          "fp": 114,
+          "trp": 89,
+          "aa": 187,
+          "av": 0,
+          "rld": 52,
+          "acc": 41,
+          "eva": 6,
+          "spd": 27.2,
+          "luk": 0,
+          "asw": 0
+        }
+      }
+    },
+    "stars": 5
+  },
   "20401": {
     "id": 20401,
     "code": 127,
@@ -21487,7 +21810,7 @@
     "data": {
       "204021": {
         "id": 204021,
-        "tags": ["Renown-Class"],
+        "tags": ["Renown-Class", "bunao"],
         "type": 4,
         "rarity": 3,
         "stars": 2,
@@ -21509,7 +21832,7 @@
       },
       "204022": {
         "id": 204022,
-        "tags": ["Renown-Class"],
+        "tags": ["Renown-Class", "bunao"],
         "type": 4,
         "rarity": 3,
         "stars": 3,
@@ -21531,7 +21854,7 @@
       },
       "204023": {
         "id": 204023,
-        "tags": ["Renown-Class"],
+        "tags": ["Renown-Class", "bunao"],
         "type": 4,
         "rarity": 3,
         "stars": 4,
@@ -21553,7 +21876,7 @@
       },
       "204024": {
         "id": 204024,
-        "tags": ["Renown-Class"],
+        "tags": ["Renown-Class", "bunao"],
         "type": 4,
         "rarity": 3,
         "stars": 5,
@@ -22531,7 +22854,7 @@
     "data": {
       "205061": {
         "id": 205061,
-        "tags": ["KGV-Class"],
+        "tags": ["KGV-Class", "bunao"],
         "type": 5,
         "rarity": 5,
         "stars": 3,
@@ -22553,7 +22876,7 @@
       },
       "205062": {
         "id": 205062,
-        "tags": ["KGV-Class"],
+        "tags": ["KGV-Class", "bunao"],
         "type": 5,
         "rarity": 5,
         "stars": 4,
@@ -22575,7 +22898,7 @@
       },
       "205063": {
         "id": 205063,
-        "tags": ["KGV-Class"],
+        "tags": ["KGV-Class", "bunao"],
         "type": 5,
         "rarity": 5,
         "stars": 5,
@@ -22597,7 +22920,7 @@
       },
       "205064": {
         "id": 205064,
-        "tags": ["KGV-Class"],
+        "tags": ["KGV-Class", "bunao"],
         "type": 5,
         "rarity": 5,
         "stars": 6,
@@ -23030,6 +23353,213 @@
     },
     "stars": 5
   },
+  "20511": {
+    "id": 20511,
+    "code": 554,
+    "name": {"en": "Revenge", "code": "HMS Revenge", "cn": "复仇", "jp": "リヴェンジ"},
+    "property_hexagon": [4, 0, 0, 1, 1, 4],
+    "type": 5,
+    "armor": 3,
+    "slots": [[4], [1, 2], [6], [10], [10]],
+    "nationality": 2,
+    "data": {
+      "205111": {
+        "id": 205111,
+        "tags": ["Revenge-Class", "Revenge"],
+        "type": 5,
+        "rarity": 4,
+        "stars": 2,
+        "oil": 8,
+        "max_level": 70,
+        "stats": {
+          "hp": 1250,
+          "fp": 77,
+          "trp": 0,
+          "aa": 40,
+          "av": 0,
+          "rld": 55,
+          "acc": 22,
+          "eva": 5,
+          "spd": 21.9,
+          "luk": 76,
+          "asw": 0
+        }
+      },
+      "205112": {
+        "id": 205112,
+        "tags": ["Revenge-Class", "Revenge"],
+        "type": 5,
+        "rarity": 4,
+        "stars": 3,
+        "oil": 10,
+        "max_level": 80,
+        "stats": {
+          "hp": 1555,
+          "fp": 96,
+          "trp": 0,
+          "aa": 50,
+          "av": 0,
+          "rld": 55,
+          "acc": 22,
+          "eva": 5,
+          "spd": 21.9,
+          "luk": 76,
+          "asw": 0
+        }
+      },
+      "205113": {
+        "id": 205113,
+        "tags": ["Revenge-Class", "Revenge"],
+        "type": 5,
+        "rarity": 4,
+        "stars": 4,
+        "oil": 12,
+        "max_level": 90,
+        "stats": {
+          "hp": 2165,
+          "fp": 134,
+          "trp": 0,
+          "aa": 69,
+          "av": 0,
+          "rld": 55,
+          "acc": 22,
+          "eva": 5,
+          "spd": 21.9,
+          "luk": 76,
+          "asw": 0
+        }
+      },
+      "205114": {
+        "id": 205114,
+        "tags": ["Revenge-Class", "Revenge"],
+        "type": 5,
+        "rarity": 4,
+        "stars": 5,
+        "oil": 14,
+        "max_level": 100,
+        "stats": {
+          "hp": 3080,
+          "fp": 192,
+          "trp": 0,
+          "aa": 98,
+          "av": 0,
+          "rld": 55,
+          "acc": 22,
+          "eva": 5,
+          "spd": 21.9,
+          "luk": 76,
+          "asw": 0
+        }
+      }
+    },
+    "stars": 5
+  },
+  "20513": {
+    "id": 20513,
+    "code": 137,
+    "name": {
+      "en": "Vanguard",
+      "code": "HMS Vanguard",
+      "cn": "前卫",
+      "jp": "ヴァンガード"
+    },
+    "property_hexagon": [5, 0, 0, 1, 4, 5],
+    "type": 5,
+    "armor": 3,
+    "slots": [[4], [1, 2], [6], [10], [10]],
+    "nationality": 2,
+    "data": {
+      "205131": {
+        "id": 205131,
+        "tags": ["Vanguard"],
+        "type": 5,
+        "rarity": 6,
+        "stars": 3,
+        "oil": 17,
+        "max_level": 100,
+        "stats": {
+          "hp": 1585,
+          "fp": 81,
+          "trp": 0,
+          "aa": 82,
+          "av": 0,
+          "rld": 65,
+          "acc": 25,
+          "eva": 8,
+          "spd": 30,
+          "luk": 52,
+          "asw": 0
+        }
+      },
+      "205132": {
+        "id": 205132,
+        "tags": ["Vanguard"],
+        "type": 5,
+        "rarity": 6,
+        "stars": 4,
+        "oil": 17,
+        "max_level": 100,
+        "stats": {
+          "hp": 1972,
+          "fp": 101,
+          "trp": 0,
+          "aa": 102,
+          "av": 0,
+          "rld": 65,
+          "acc": 25,
+          "eva": 8,
+          "spd": 30,
+          "luk": 52,
+          "asw": 0
+        }
+      },
+      "205133": {
+        "id": 205133,
+        "tags": ["Vanguard"],
+        "type": 5,
+        "rarity": 6,
+        "stars": 5,
+        "oil": 17,
+        "max_level": 100,
+        "stats": {
+          "hp": 2745,
+          "fp": 141,
+          "trp": 0,
+          "aa": 142,
+          "av": 0,
+          "rld": 65,
+          "acc": 25,
+          "eva": 8,
+          "spd": 30,
+          "luk": 52,
+          "asw": 0
+        }
+      },
+      "205134": {
+        "id": 205134,
+        "tags": ["Vanguard"],
+        "type": 5,
+        "rarity": 6,
+        "stars": 6,
+        "oil": 17,
+        "max_level": 100,
+        "stats": {
+          "hp": 3905,
+          "fp": 201,
+          "trp": 0,
+          "aa": 203,
+          "av": 0,
+          "rld": 65,
+          "acc": 25,
+          "eva": 8,
+          "spd": 30,
+          "luk": 52,
+          "asw": 0
+        }
+      }
+    },
+    "stars": 6
+  },
   "20601": {
     "id": 20601,
     "code": 140,
@@ -23242,6 +23772,29 @@
           "luk": 78,
           "asw": 65
         }
+      },
+      "206134": {
+        "id": 206134,
+        "tags": ["Royal Fleet-CVL"],
+        "type": 6,
+        "rarity": 4,
+        "stars": 5,
+        "oil": 11,
+        "max_level": 100,
+        "stats": {
+          "hp": 2192,
+          "fp": 0,
+          "trp": 0,
+          "aa": 124,
+          "av": 142,
+          "rld": 66,
+          "acc": 27,
+          "eva": 18,
+          "spd": 24,
+          "luk": 78,
+          "asw": 65
+        },
+        "name": {"en": "Unicorn (Retrofit)", "cn": "独角兽.改", "jp": "ユニコーン改"}
       }
     },
     "stars": 5
@@ -24594,6 +25147,112 @@
           "eva": 13,
           "spd": 30.5,
           "luk": 44,
+          "asw": 0
+        }
+      }
+    },
+    "stars": 6
+  },
+  "20712": {
+    "id": 20712,
+    "code": 553,
+    "name": {
+      "en": "Indomitable",
+      "code": "HMS Indomitable",
+      "cn": "不挠",
+      "jp": "インドミタブル"
+    },
+    "property_hexagon": [0, 0, 4, 1, 3, 5],
+    "type": 7,
+    "armor": 3,
+    "slots": [[7], [7], [8], [10], [10]],
+    "nationality": 2,
+    "data": {
+      "207121": {
+        "id": 207121,
+        "tags": ["Illustrious-Class", "Armor-CV"],
+        "type": 7,
+        "rarity": 5,
+        "stars": 3,
+        "oil": 7,
+        "max_level": 70,
+        "stats": {
+          "hp": 1090,
+          "fp": 0,
+          "trp": 0,
+          "aa": 58,
+          "av": 82,
+          "rld": 44,
+          "acc": 32,
+          "eva": 13,
+          "spd": 30.5,
+          "luk": 42,
+          "asw": 0
+        }
+      },
+      "207122": {
+        "id": 207122,
+        "tags": ["Illustrious-Class", "Armor-CV"],
+        "type": 7,
+        "rarity": 5,
+        "stars": 4,
+        "oil": 9,
+        "max_level": 80,
+        "stats": {
+          "hp": 1356,
+          "fp": 0,
+          "trp": 0,
+          "aa": 72,
+          "av": 102,
+          "rld": 44,
+          "acc": 32,
+          "eva": 13,
+          "spd": 30.5,
+          "luk": 42,
+          "asw": 0
+        }
+      },
+      "207123": {
+        "id": 207123,
+        "tags": ["Illustrious-Class", "Armor-CV"],
+        "type": 7,
+        "rarity": 5,
+        "stars": 5,
+        "oil": 11,
+        "max_level": 90,
+        "stats": {
+          "hp": 1888,
+          "fp": 0,
+          "trp": 0,
+          "aa": 101,
+          "av": 143,
+          "rld": 44,
+          "acc": 32,
+          "eva": 13,
+          "spd": 30.5,
+          "luk": 42,
+          "asw": 0
+        }
+      },
+      "207124": {
+        "id": 207124,
+        "tags": ["Illustrious-Class", "Armor-CV"],
+        "type": 7,
+        "rarity": 5,
+        "stars": 6,
+        "oil": 13,
+        "max_level": 100,
+        "stats": {
+          "hp": 2685,
+          "fp": 0,
+          "trp": 0,
+          "aa": 144,
+          "av": 204,
+          "rld": 44,
+          "acc": 32,
+          "eva": 13,
+          "spd": 30.5,
+          "luk": 42,
           "asw": 0
         }
       }
@@ -56349,6 +57008,112 @@
     },
     "stars": 6
   },
+  "970202": {
+    "id": 970202,
+    "code": 30011,
+    "name": {
+      "en": "Memphis META",
+      "code": "Memphis META",
+      "cn": "孟菲斯·META",
+      "jp": "メンフィス(META)"
+    },
+    "property_hexagon": [3, 2, 0, 3, 3, 3],
+    "type": 2,
+    "armor": 1,
+    "slots": [[2], [5], [6], [10, 14], [10, 14]],
+    "nationality": 97,
+    "data": {
+      "9702021": {
+        "id": 9702021,
+        "tags": ["MemphisMETA", "Omaha-Class", "TOC"],
+        "type": 2,
+        "rarity": 4,
+        "stars": 2,
+        "oil": 11,
+        "max_level": 70,
+        "stats": {
+          "hp": 581,
+          "fp": 28,
+          "trp": 40,
+          "aa": 57,
+          "av": 0,
+          "rld": 70,
+          "acc": 39,
+          "eva": 23,
+          "spd": 35,
+          "luk": 67,
+          "asw": 20
+        }
+      },
+      "9702022": {
+        "id": 9702022,
+        "tags": ["MemphisMETA", "Omaha-Class", "TOC"],
+        "type": 2,
+        "rarity": 4,
+        "stars": 3,
+        "oil": 11,
+        "max_level": 80,
+        "stats": {
+          "hp": 723,
+          "fp": 35,
+          "trp": 50,
+          "aa": 71,
+          "av": 0,
+          "rld": 70,
+          "acc": 39,
+          "eva": 23,
+          "spd": 35,
+          "luk": 67,
+          "asw": 25
+        }
+      },
+      "9702023": {
+        "id": 9702023,
+        "tags": ["MemphisMETA", "Omaha-Class", "TOC"],
+        "type": 2,
+        "rarity": 4,
+        "stars": 4,
+        "oil": 11,
+        "max_level": 90,
+        "stats": {
+          "hp": 1006,
+          "fp": 49,
+          "trp": 70,
+          "aa": 99,
+          "av": 0,
+          "rld": 70,
+          "acc": 39,
+          "eva": 23,
+          "spd": 35,
+          "luk": 67,
+          "asw": 35
+        }
+      },
+      "9702024": {
+        "id": 9702024,
+        "tags": ["MemphisMETA", "Omaha-Class", "TOC"],
+        "type": 2,
+        "rarity": 4,
+        "stars": 5,
+        "oil": 11,
+        "max_level": 100,
+        "stats": {
+          "hp": 1432,
+          "fp": 69,
+          "trp": 99,
+          "aa": 141,
+          "av": 0,
+          "rld": 70,
+          "acc": 39,
+          "eva": 23,
+          "spd": 35,
+          "luk": 67,
+          "asw": 50
+        }
+      }
+    },
+    "stars": 5
+  },
   "970401": {
     "id": 970401,
     "code": 30007,
@@ -56894,7 +57659,8 @@
       "code": "Junyou META",
       "cn": "隼鹰·META",
       "jp": "隼鷹(META)",
-      "kr": "준요·META"
+      "kr": "준요·META",
+      "tw": "隼鷹·META"
     },
     "property_hexagon": [0, 0, 4, 1, 3, 3],
     "type": 6,
