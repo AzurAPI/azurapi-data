@@ -74,6 +74,18 @@ function readFilesFromLanguage(lang = "EN") {
             .replace('Akizuki Ritsuko', 'Ritsuko Akizuki')
             .replace('Futami Ami', 'Ami Futami')
             .replace('Futami Mami', 'Mami Futami')
+            .replace('Haruka Amami', 'Amami Haruka')
+            .replace('Rikka Takarada', 'Takarada Rikka')
+            .replace('KMS Friedrich der Große', 'KMS Friedrich der Grosse')
+            .replace('Akane Shinjo', 'Shinjou Akane')
+            .replace('Yume Minami', 'Minami Yume')
+            .replace('Chise Asukagawa', 'Asukagawa Chise')
+            .replace(/ū/g, 'uu')
+            .replace(/ō/g, 'ou')
+            .replace(/'/g, '')
+            .replace('.META', ' META')
+            .replace('Hiryu ', 'Hiryuu ')
+            .replace(/Fuso($| )/, 'Fusou$1')
         ;// special cases
         stat.name = stat.name.trim();
         if (stat.english_name === "simulation") continue; // simulation ship
@@ -111,7 +123,7 @@ function readFilesFromLanguage(lang = "EN") {
         if (compiled[ship.group_type].armor !== armor) specificShip.armor = armor;
 
         stat.name = stat.name.trim();
-        if (!compiled[ship.group_type].name[lang.toLowerCase()]&&!stat.name.includes("Retrofit")&&!stat.name.includes("改")) compiled[ship.group_type].name[lang.toLowerCase()] = stat.name.trim();
+        if (!compiled[ship.group_type].name[lang.toLowerCase()] && !stat.name.includes("Retrofit") && !stat.name.includes("改")) compiled[ship.group_type].name[lang.toLowerCase()] = stat.name.trim();
         if (compiled[ship.group_type].name[lang.toLowerCase()] !== stat.name.trim()) { // name not matching, probably retrofit
             if (!specificShip.name) specificShip.name = {};
             specificShip.name[lang.toLowerCase()] = stat.name.trim();
