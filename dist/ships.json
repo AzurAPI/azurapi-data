@@ -17323,7 +17323,13 @@
   "20134": {
     "id": 20134,
     "code": 550,
-    "name": {"en": "Jervis", "code": "HMS Jervis", "cn": "贾维斯", "jp": "ジャーヴィス"},
+    "name": {
+      "en": "Jervis",
+      "code": "HMS Jervis",
+      "cn": "贾维斯",
+      "jp": "ジャーヴィス",
+      "kr": "저비스"
+    },
     "property_hexagon": [2, 4, 0, 4, 1, 1],
     "type": 1,
     "armor": 1,
@@ -20408,7 +20414,8 @@
       "en": "Bellona",
       "code": "HMS Bellona",
       "cn": "司战女神",
-      "jp": "ベローナ"
+      "jp": "ベローナ",
+      "kr": "벨로나"
     },
     "property_hexagon": [3, 1, 0, 3, 4, 2],
     "type": 2,
@@ -21562,6 +21569,7 @@
       "code": "HMS Cheshire",
       "cn": "小柴郡",
       "jp": "リトル・チェシャー",
+      "kr": "꼬마 체셔",
       "tw": "小柴郡"
     },
     "property_hexagon": [4, 2, 0, 2, 5, 3],
@@ -23356,7 +23364,13 @@
   "20511": {
     "id": 20511,
     "code": 554,
-    "name": {"en": "Revenge", "code": "HMS Revenge", "cn": "复仇", "jp": "リヴェンジ"},
+    "name": {
+      "en": "Revenge",
+      "code": "HMS Revenge",
+      "cn": "复仇",
+      "jp": "リヴェンジ",
+      "kr": "리벤지"
+    },
     "property_hexagon": [4, 0, 0, 1, 1, 4],
     "type": 5,
     "armor": 3,
@@ -23461,7 +23475,8 @@
       "en": "Vanguard",
       "code": "HMS Vanguard",
       "cn": "前卫",
-      "jp": "ヴァンガード"
+      "jp": "ヴァンガード",
+      "kr": "뱅가드"
     },
     "property_hexagon": [5, 0, 0, 1, 4, 5],
     "type": 5,
@@ -23794,7 +23809,12 @@
           "luk": 78,
           "asw": 65
         },
-        "name": {"en": "Unicorn (Retrofit)", "cn": "独角兽.改", "jp": "ユニコーン改"}
+        "name": {
+          "en": "Unicorn (Retrofit)",
+          "cn": "独角兽.改",
+          "jp": "ユニコーン改",
+          "kr": "유니콘·改"
+        }
       }
     },
     "stars": 5
@@ -25160,7 +25180,8 @@
       "en": "Indomitable",
       "code": "HMS Indomitable",
       "cn": "不挠",
-      "jp": "インドミタブル"
+      "jp": "インドミタブル",
+      "kr": "인도미터블"
     },
     "property_hexagon": [0, 0, 4, 1, 3, 5],
     "type": 7,
@@ -57015,7 +57036,8 @@
       "en": "Memphis META",
       "code": "Memphis META",
       "cn": "孟菲斯·META",
-      "jp": "メンフィス(META)"
+      "jp": "メンフィス(META)",
+      "kr": "멤피스·META"
     },
     "property_hexagon": [3, 2, 0, 3, 3, 3],
     "type": 2,
