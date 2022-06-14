@@ -9691,7 +9691,7 @@
     "data": {
       "105041": {
         "id": 105041,
-        "tags": ["Pennsylvania-Class"],
+        "tags": ["Pennsylvania-Class", "ArizonaHA"],
         "type": 5,
         "rarity": 4,
         "stars": 2,
@@ -9713,7 +9713,7 @@
       },
       "105042": {
         "id": 105042,
-        "tags": ["Pennsylvania-Class"],
+        "tags": ["Pennsylvania-Class", "ArizonaHA"],
         "type": 5,
         "rarity": 4,
         "stars": 3,
@@ -9735,7 +9735,7 @@
       },
       "105043": {
         "id": 105043,
-        "tags": ["Pennsylvania-Class"],
+        "tags": ["Pennsylvania-Class", "ArizonaHA"],
         "type": 5,
         "rarity": 4,
         "stars": 4,
@@ -9757,7 +9757,7 @@
       },
       "105044": {
         "id": 105044,
-        "tags": ["Pennsylvania-Class"],
+        "tags": ["Pennsylvania-Class", "ArizonaHA"],
         "type": 5,
         "rarity": 4,
         "stars": 5,
@@ -57052,7 +57052,7 @@
         "rarity": 4,
         "stars": 2,
         "oil": 11,
-        "max_level": 70,
+        "max_level": 100,
         "stats": {
           "hp": 581,
           "fp": 28,
@@ -57074,7 +57074,7 @@
         "rarity": 4,
         "stars": 3,
         "oil": 11,
-        "max_level": 80,
+        "max_level": 100,
         "stats": {
           "hp": 723,
           "fp": 35,
@@ -57096,7 +57096,7 @@
         "rarity": 4,
         "stars": 4,
         "oil": 11,
-        "max_level": 90,
+        "max_level": 100,
         "stats": {
           "hp": 1006,
           "fp": 49,
@@ -57344,6 +57344,112 @@
           "eva": 6,
           "spd": 31,
           "luk": 43,
+          "asw": 0
+        }
+      }
+    },
+    "stars": 6
+  },
+  "970403": {
+    "id": 970403,
+    "code": 30012,
+    "name": {
+      "en": "Repulse META",
+      "code": "Repulse META",
+      "cn": "反击·META",
+      "jp": "レパルス(META)"
+    },
+    "property_hexagon": [4, 0, 0, 1, 2, 4],
+    "type": 4,
+    "armor": 2,
+    "slots": [[4], [1], [6], [10], [10]],
+    "nationality": 97,
+    "data": {
+      "9704031": {
+        "id": 9704031,
+        "tags": ["RepulseMETA", "bunao"],
+        "type": 4,
+        "rarity": 5,
+        "stars": 3,
+        "oil": 15,
+        "max_level": 100,
+        "stats": {
+          "hp": 1186,
+          "fp": 71,
+          "trp": 0,
+          "aa": 58,
+          "av": 0,
+          "rld": 53,
+          "acc": 15,
+          "eva": 7,
+          "spd": 32,
+          "luk": 28,
+          "asw": 0
+        }
+      },
+      "9704032": {
+        "id": 9704032,
+        "tags": ["RepulseMETA", "bunao"],
+        "type": 4,
+        "rarity": 5,
+        "stars": 4,
+        "oil": 15,
+        "max_level": 100,
+        "stats": {
+          "hp": 1475,
+          "fp": 89,
+          "trp": 0,
+          "aa": 72,
+          "av": 0,
+          "rld": 53,
+          "acc": 15,
+          "eva": 7,
+          "spd": 32,
+          "luk": 28,
+          "asw": 0
+        }
+      },
+      "9704033": {
+        "id": 9704033,
+        "tags": ["RepulseMETA", "bunao"],
+        "type": 4,
+        "rarity": 5,
+        "stars": 5,
+        "oil": 15,
+        "max_level": 100,
+        "stats": {
+          "hp": 2053,
+          "fp": 124,
+          "trp": 0,
+          "aa": 101,
+          "av": 0,
+          "rld": 53,
+          "acc": 15,
+          "eva": 7,
+          "spd": 32,
+          "luk": 28,
+          "asw": 0
+        }
+      },
+      "9704034": {
+        "id": 9704034,
+        "tags": ["RepulseMETA", "bunao"],
+        "type": 4,
+        "rarity": 5,
+        "stars": 6,
+        "oil": 15,
+        "max_level": 100,
+        "stats": {
+          "hp": 2921,
+          "fp": 177,
+          "trp": 0,
+          "aa": 144,
+          "av": 0,
+          "rld": 53,
+          "acc": 15,
+          "eva": 7,
+          "spd": 32,
+          "luk": 28,
           "asw": 0
         }
       }
