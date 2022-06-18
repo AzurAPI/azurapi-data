@@ -11441,6 +11441,7 @@
     "data": {
       "107011": {
         "id": 107011,
+        "tags": ["Eagle Union-CVL"],
         "type": 6,
         "rarity": 2,
         "stars": 1,
@@ -11462,6 +11463,7 @@
       },
       "107012": {
         "id": 107012,
+        "tags": ["Eagle Union-CVL"],
         "type": 6,
         "rarity": 2,
         "stars": 2,
@@ -11484,6 +11486,7 @@
       },
       "107013": {
         "id": 107013,
+        "tags": ["Eagle Union-CVL"],
         "type": 6,
         "rarity": 2,
         "stars": 3,
@@ -11506,6 +11509,7 @@
       },
       "107014": {
         "id": 107014,
+        "tags": ["Eagle Union-CVL"],
         "type": 6,
         "rarity": 2,
         "stars": 4,
@@ -11786,6 +11790,7 @@
     "data": {
       "107041": {
         "id": 107041,
+        "tags": ["Eagle Union-CVL"],
         "type": 6,
         "rarity": 2,
         "stars": 1,
@@ -11807,6 +11812,7 @@
       },
       "107042": {
         "id": 107042,
+        "tags": ["Eagle Union-CVL"],
         "type": 6,
         "rarity": 2,
         "stars": 2,
@@ -11828,6 +11834,7 @@
       },
       "107043": {
         "id": 107043,
+        "tags": ["Eagle Union-CVL"],
         "type": 6,
         "rarity": 2,
         "stars": 3,
@@ -11849,6 +11856,7 @@
       },
       "107044": {
         "id": 107044,
+        "tags": ["Eagle Union-CVL"],
         "type": 6,
         "rarity": 2,
         "stars": 4,
@@ -42157,7 +42165,8 @@
       "code": "KMS Z26",
       "cn": "Z26",
       "jp": "Z26",
-      "kr": "Z26"
+      "kr": "Z26",
+      "tw": "Z26"
     },
     "property_hexagon": [4, 2, 0, 3, 1, 1],
     "type": 1,
@@ -47164,7 +47173,8 @@
       "code": "KMS U-96",
       "cn": "U-96",
       "jp": "U-96",
-      "kr": "U-96"
+      "kr": "U-96",
+      "tw": "U-96"
     },
     "property_hexagon": [1, 5, 0, 1, 0, 1],
     "type": 8,
