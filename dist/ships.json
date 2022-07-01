@@ -14591,7 +14591,8 @@
       "code": "USS Anchorage",
       "cn": "安克雷奇",
       "jp": "アンカレッジ",
-      "kr": "앵커리지"
+      "kr": "앵커리지",
+      "tw": "安克拉治"
     },
     "property_hexagon": [4, 2, 0, 2, 2, 4],
     "type": 3,
@@ -20517,6 +20518,112 @@
           "spd": 32.25,
           "luk": 56,
           "asw": 84
+        }
+      }
+    },
+    "stars": 5
+  },
+  "20232": {
+    "id": 20232,
+    "code": 557,
+    "name": {
+      "en": "Enterprise",
+      "code": "HMS Enterprise",
+      "cn": "进取",
+      "jp": "エンタープライズ"
+    },
+    "property_hexagon": [3, 3, 0, 3, 2, 2],
+    "type": 2,
+    "armor": 1,
+    "slots": [[2], [5], [6], [10, 14], [10, 14]],
+    "nationality": 2,
+    "data": {
+      "202321": {
+        "id": 202321,
+        "tags": ["Emerald-Class"],
+        "type": 2,
+        "rarity": 4,
+        "stars": 2,
+        "oil": 4,
+        "max_level": 70,
+        "stats": {
+          "hp": 603,
+          "fp": 28,
+          "trp": 53,
+          "aa": 65,
+          "av": 0,
+          "rld": 68,
+          "acc": 58,
+          "eva": 30,
+          "spd": 33,
+          "luk": 83,
+          "asw": 34
+        }
+      },
+      "202322": {
+        "id": 202322,
+        "tags": ["Emerald-Class"],
+        "type": 2,
+        "rarity": 4,
+        "stars": 3,
+        "oil": 6,
+        "max_level": 80,
+        "stats": {
+          "hp": 750,
+          "fp": 35,
+          "trp": 66,
+          "aa": 81,
+          "av": 0,
+          "rld": 68,
+          "acc": 58,
+          "eva": 30,
+          "spd": 33,
+          "luk": 83,
+          "asw": 43
+        }
+      },
+      "202323": {
+        "id": 202323,
+        "tags": ["Emerald-Class"],
+        "type": 2,
+        "rarity": 4,
+        "stars": 4,
+        "oil": 8,
+        "max_level": 90,
+        "stats": {
+          "hp": 1044,
+          "fp": 49,
+          "trp": 92,
+          "aa": 113,
+          "av": 0,
+          "rld": 68,
+          "acc": 58,
+          "eva": 30,
+          "spd": 33,
+          "luk": 83,
+          "asw": 60
+        }
+      },
+      "202324": {
+        "id": 202324,
+        "tags": ["Emerald-Class"],
+        "type": 2,
+        "rarity": 4,
+        "stars": 5,
+        "oil": 10,
+        "max_level": 100,
+        "stats": {
+          "hp": 1485,
+          "fp": 69,
+          "trp": 132,
+          "aa": 160,
+          "av": 0,
+          "rld": 68,
+          "acc": 58,
+          "eva": 30,
+          "spd": 33,
+          "luk": 83,
+          "asw": 85
         }
       }
     },
@@ -41062,7 +41169,8 @@
       "code": "IJN Hakuryuu",
       "cn": "白龙",
       "jp": "白龍",
-      "kr": "하쿠류"
+      "kr": "하쿠류",
+      "tw": "白龍"
     },
     "property_hexagon": [0, 0, 5, 3, 3, 5],
     "type": 7,
@@ -48058,7 +48166,8 @@
       "code": "KMS Ägir",
       "cn": "埃吉尔",
       "jp": "エーギル",
-      "kr": "에기르"
+      "kr": "에기르",
+      "tw": "埃吉爾"
     },
     "property_hexagon": [4, 2, 0, 2, 2, 5],
     "type": 18,
@@ -48187,7 +48296,8 @@
       "code": "KMS August von Parseval",
       "cn": "奥古斯特·冯·帕塞瓦尔",
       "jp": "アウグスト・フォン・パーセヴァル",
-      "kr": "아우구스트 폰 파르제팔"
+      "kr": "아우구스트 폰 파르제팔",
+      "tw": "奧古斯特·馮·帕塞瓦爾"
     },
     "property_hexagon": [0, 0, 5, 2, 3, 4],
     "type": 7,
@@ -51670,7 +51780,8 @@
       "code": "RN Marco Polo",
       "cn": "马可波罗",
       "jp": "マルコ・ポーロ",
-      "kr": "마르코 폴로"
+      "kr": "마르코 폴로",
+      "tw": "馬可波羅"
     },
     "property_hexagon": [5, 0, 0, 1, 2, 5],
     "type": 5,
@@ -56184,6 +56295,112 @@
     },
     "stars": 6
   },
+  "90113": {
+    "id": 90113,
+    "code": 556,
+    "name": {
+      "en": "L'Indomptable",
+      "code": "MNF LIndomptable",
+      "cn": "不屈",
+      "jp": "ランドンターブル"
+    },
+    "property_hexagon": [4, 2, 0, 4, 1, 1],
+    "type": 1,
+    "armor": 1,
+    "slots": [[1], [5], [6], [10, 14], [10, 14]],
+    "nationality": 9,
+    "data": {
+      "901131": {
+        "id": 901131,
+        "tags": ["Le Fantasque-Class", "buqu"],
+        "type": 1,
+        "rarity": 5,
+        "stars": 3,
+        "oil": 4,
+        "max_level": 70,
+        "stats": {
+          "hp": 351,
+          "fp": 26,
+          "trp": 50,
+          "aa": 30,
+          "av": 0,
+          "rld": 76,
+          "acc": 69,
+          "eva": 83,
+          "spd": 54,
+          "luk": 23,
+          "asw": 49
+        }
+      },
+      "901132": {
+        "id": 901132,
+        "tags": ["Le Fantasque-Class", "buqu"],
+        "type": 1,
+        "rarity": 5,
+        "stars": 4,
+        "oil": 6,
+        "max_level": 80,
+        "stats": {
+          "hp": 437,
+          "fp": 32,
+          "trp": 62,
+          "aa": 37,
+          "av": 0,
+          "rld": 76,
+          "acc": 69,
+          "eva": 83,
+          "spd": 54,
+          "luk": 23,
+          "asw": 61
+        }
+      },
+      "901133": {
+        "id": 901133,
+        "tags": ["Le Fantasque-Class", "buqu"],
+        "type": 1,
+        "rarity": 5,
+        "stars": 5,
+        "oil": 8,
+        "max_level": 90,
+        "stats": {
+          "hp": 608,
+          "fp": 45,
+          "trp": 87,
+          "aa": 52,
+          "av": 0,
+          "rld": 76,
+          "acc": 69,
+          "eva": 83,
+          "spd": 54,
+          "luk": 23,
+          "asw": 85
+        }
+      },
+      "901134": {
+        "id": 901134,
+        "tags": ["Le Fantasque-Class", "buqu"],
+        "type": 1,
+        "rarity": 5,
+        "stars": 6,
+        "oil": 10,
+        "max_level": 100,
+        "stats": {
+          "hp": 864,
+          "fp": 65,
+          "trp": 124,
+          "aa": 74,
+          "av": 0,
+          "rld": 76,
+          "acc": 69,
+          "eva": 83,
+          "spd": 54,
+          "luk": 23,
+          "asw": 122
+        }
+      }
+    },
+    "stars": 6
+  },
   "90201": {
     "id": 90201,
     "code": 456,
@@ -56817,6 +57034,107 @@
           "eva": 10,
           "spd": 32,
           "luk": 0,
+          "asw": 0
+        }
+      }
+    },
+    "stars": 6
+  },
+  "90701": {
+    "id": 90701,
+    "code": 555,
+    "name": {"en": "Joffre", "code": "MNF Joffre", "cn": "霞飞", "jp": "ジョッフル"},
+    "property_hexagon": [0, 0, 4, 1, 3, 4],
+    "type": 7,
+    "armor": 2,
+    "slots": [[7], [8], [9], [10], [10]],
+    "nationality": 9,
+    "data": {
+      "907011": {
+        "id": 907011,
+        "tags": ["Joffre-Class"],
+        "type": 7,
+        "rarity": 5,
+        "stars": 3,
+        "oil": 7,
+        "max_level": 70,
+        "stats": {
+          "hp": 1080,
+          "fp": 0,
+          "trp": 0,
+          "aa": 58,
+          "av": 79,
+          "rld": 47,
+          "acc": 33,
+          "eva": 14,
+          "spd": 33.5,
+          "luk": 28,
+          "asw": 0
+        }
+      },
+      "907012": {
+        "id": 907012,
+        "tags": ["Joffre-Class"],
+        "type": 7,
+        "rarity": 5,
+        "stars": 4,
+        "oil": 9,
+        "max_level": 80,
+        "stats": {
+          "hp": 1343,
+          "fp": 0,
+          "trp": 0,
+          "aa": 72,
+          "av": 98,
+          "rld": 47,
+          "acc": 33,
+          "eva": 14,
+          "spd": 33.5,
+          "luk": 28,
+          "asw": 0
+        }
+      },
+      "907013": {
+        "id": 907013,
+        "tags": ["Joffre-Class"],
+        "type": 7,
+        "rarity": 5,
+        "stars": 5,
+        "oil": 11,
+        "max_level": 90,
+        "stats": {
+          "hp": 1870,
+          "fp": 0,
+          "trp": 0,
+          "aa": 101,
+          "av": 137,
+          "rld": 47,
+          "acc": 33,
+          "eva": 14,
+          "spd": 33.5,
+          "luk": 28,
+          "asw": 0
+        }
+      },
+      "907014": {
+        "id": 907014,
+        "tags": ["Joffre-Class"],
+        "type": 7,
+        "rarity": 5,
+        "stars": 6,
+        "oil": 13,
+        "max_level": 100,
+        "stats": {
+          "hp": 2661,
+          "fp": 0,
+          "trp": 0,
+          "aa": 143,
+          "av": 196,
+          "rld": 47,
+          "acc": 33,
+          "eva": 14,
+          "spd": 33.5,
+          "luk": 28,
           "asw": 0
         }
       }
