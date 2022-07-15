@@ -9249,7 +9249,8 @@
       "code": "USS Baltimore",
       "cn": "巴尔的摩(μ兵装)",
       "jp": "ボルチモア（μ兵装）",
-      "kr": "볼티모어(μ장비)"
+      "kr": "볼티모어(μ장비)",
+      "tw": "巴爾的摩(μ兵裝)"
     },
     "property_hexagon": [3, 0, 0, 2, 3, 4],
     "type": 3,
@@ -13947,7 +13948,8 @@
       "code": "USS Albacore",
       "cn": "大青花鱼(μ兵装)",
       "jp": "アルバコア（μ兵装）",
-      "kr": "알바코어(μ장비)"
+      "kr": "알바코어(μ장비)",
+      "tw": "大青花魚(μ兵裝)"
     },
     "property_hexagon": [1, 5, 0, 1, 0, 1],
     "type": 8,
@@ -20102,7 +20104,8 @@
       "code": "HMS Dido",
       "cn": "黛朵(μ兵装)",
       "jp": "ダイドー（μ兵装）",
-      "kr": "다이도(μ장비)"
+      "kr": "다이도(μ장비)",
+      "tw": "黛朵(μ兵裝)"
     },
     "property_hexagon": [3, 1, 0, 3, 4, 2],
     "type": 2,
@@ -25190,7 +25193,8 @@
       "code": "HMS Illustrious",
       "cn": "光辉(μ兵装)",
       "jp": "イラストリアス（μ兵装）",
-      "kr": "일러스트리어스(μ장비)"
+      "kr": "일러스트리어스(μ장비)",
+      "tw": "光輝(μ兵裝)"
     },
     "property_hexagon": [0, 0, 4, 1, 3, 5],
     "type": 7,
@@ -26147,6 +26151,112 @@
           "spd": 26.6,
           "luk": 0,
           "asw": 0
+        }
+      }
+    },
+    "stars": 6
+  },
+  "29905": {
+    "id": 29905,
+    "code": 20023,
+    "name": {
+      "en": "Plymouth",
+      "code": "HMS Plymouth",
+      "cn": "普利茅斯",
+      "jp": "プリマス"
+    },
+    "property_hexagon": [3, 4, 0, 3, 3, 3],
+    "type": 2,
+    "armor": 1,
+    "slots": [[2], [5], [6], [10, 14], [10, 14]],
+    "nationality": 2,
+    "data": {
+      "299051": {
+        "id": 299051,
+        "tags": ["Plan-Class"],
+        "type": 2,
+        "rarity": 6,
+        "stars": 3,
+        "oil": 14,
+        "max_level": 100,
+        "stats": {
+          "hp": 930,
+          "fp": 36,
+          "trp": 75,
+          "aa": 63,
+          "av": 0,
+          "rld": 66,
+          "acc": 60,
+          "eva": 29,
+          "spd": 31.5,
+          "luk": 0,
+          "asw": 37
+        }
+      },
+      "299052": {
+        "id": 299052,
+        "tags": ["Plan-Class"],
+        "type": 2,
+        "rarity": 6,
+        "stars": 4,
+        "oil": 14,
+        "max_level": 100,
+        "stats": {
+          "hp": 930,
+          "fp": 36,
+          "trp": 75,
+          "aa": 63,
+          "av": 0,
+          "rld": 66,
+          "acc": 60,
+          "eva": 29,
+          "spd": 31.5,
+          "luk": 0,
+          "asw": 46
+        }
+      },
+      "299053": {
+        "id": 299053,
+        "tags": ["Plan-Class"],
+        "type": 2,
+        "rarity": 6,
+        "stars": 5,
+        "oil": 14,
+        "max_level": 100,
+        "stats": {
+          "hp": 930,
+          "fp": 36,
+          "trp": 75,
+          "aa": 63,
+          "av": 0,
+          "rld": 66,
+          "acc": 60,
+          "eva": 29,
+          "spd": 31.5,
+          "luk": 0,
+          "asw": 65
+        }
+      },
+      "299054": {
+        "id": 299054,
+        "tags": ["Plan-Class"],
+        "type": 2,
+        "rarity": 6,
+        "stars": 6,
+        "oil": 14,
+        "max_level": 100,
+        "stats": {
+          "hp": 930,
+          "fp": 36,
+          "trp": 75,
+          "aa": 63,
+          "av": 0,
+          "rld": 66,
+          "acc": 60,
+          "eva": 29,
+          "spd": 31.5,
+          "luk": 0,
+          "asw": 92
         }
       }
     },
@@ -39530,7 +39640,8 @@
       "code": "IJN Taihou",
       "cn": "大凤(μ兵装)",
       "jp": "大鳳（μ兵装）",
-      "kr": "다이호(μ장비)"
+      "kr": "다이호(μ장비)",
+      "tw": "大鳳(μ兵裝)"
     },
     "property_hexagon": [0, 0, 5, 3, 3, 5],
     "type": 7,
@@ -44267,7 +44378,8 @@
       "code": "KMS Roon",
       "cn": "罗恩(μ兵装)",
       "jp": "ローン（μ兵装）",
-      "kr": "론(μ장비)"
+      "kr": "론(μ장비)",
+      "tw": "羅恩(μ兵裝)"
     },
     "property_hexagon": [4, 2, 0, 2, 3, 5],
     "type": 3,
@@ -48397,6 +48509,112 @@
     },
     "stars": 6
   },
+  "49907": {
+    "id": 49907,
+    "code": 20024,
+    "name": {
+      "en": "Prinz Rupprecht",
+      "code": "KMS Prinz Rupprecht",
+      "cn": "鲁普雷希特亲王",
+      "jp": "プリンツ・ループレヒト"
+    },
+    "property_hexagon": [4, 2, 0, 1, 2, 5],
+    "type": 4,
+    "armor": 3,
+    "slots": [[4], [1, 2], [6], [10], [10]],
+    "nationality": 4,
+    "data": {
+      "499071": {
+        "id": 499071,
+        "tags": ["Plan-Class"],
+        "type": 4,
+        "rarity": 5,
+        "stars": 3,
+        "oil": 16,
+        "max_level": 100,
+        "stats": {
+          "hp": 1410,
+          "fp": 71,
+          "trp": 56,
+          "aa": 60,
+          "av": 0,
+          "rld": 55,
+          "acc": 21,
+          "eva": 9,
+          "spd": 32,
+          "luk": 0,
+          "asw": 0
+        }
+      },
+      "499072": {
+        "id": 499072,
+        "tags": ["Plan-Class"],
+        "type": 4,
+        "rarity": 5,
+        "stars": 4,
+        "oil": 16,
+        "max_level": 100,
+        "stats": {
+          "hp": 1410,
+          "fp": 71,
+          "trp": 56,
+          "aa": 60,
+          "av": 0,
+          "rld": 55,
+          "acc": 21,
+          "eva": 9,
+          "spd": 32,
+          "luk": 0,
+          "asw": 0
+        }
+      },
+      "499073": {
+        "id": 499073,
+        "tags": ["Plan-Class"],
+        "type": 4,
+        "rarity": 5,
+        "stars": 5,
+        "oil": 16,
+        "max_level": 100,
+        "stats": {
+          "hp": 1410,
+          "fp": 71,
+          "trp": 56,
+          "aa": 60,
+          "av": 0,
+          "rld": 55,
+          "acc": 21,
+          "eva": 9,
+          "spd": 32,
+          "luk": 0,
+          "asw": 0
+        }
+      },
+      "499074": {
+        "id": 499074,
+        "tags": ["Plan-Class"],
+        "type": 4,
+        "rarity": 5,
+        "stars": 6,
+        "oil": 16,
+        "max_level": 100,
+        "stats": {
+          "hp": 1410,
+          "fp": 71,
+          "trp": 56,
+          "aa": 60,
+          "av": 0,
+          "rld": 55,
+          "acc": 21,
+          "eva": 9,
+          "spd": 32,
+          "luk": 0,
+          "asw": 0
+        }
+      }
+    },
+    "stars": 6
+  },
   "50101": {
     "id": 50101,
     "code": 253,
@@ -49831,6 +50049,107 @@
       }
     },
     "stars": 5
+  },
+  "59901": {
+    "id": 59901,
+    "code": 20025,
+    "name": {"en": "Harbin", "code": "PRAN Harbin", "cn": "哈尔滨", "jp": "ハルビン"},
+    "property_hexagon": [3, 4, 0, 4, 3, 2],
+    "type": 2,
+    "armor": 1,
+    "slots": [[1], [5], [6], [10, 14], [10, 14]],
+    "nationality": 5,
+    "data": {
+      "599011": {
+        "id": 599011,
+        "tags": ["Plan-Class"],
+        "type": 2,
+        "rarity": 5,
+        "stars": 3,
+        "oil": 12,
+        "max_level": 100,
+        "stats": {
+          "hp": 624,
+          "fp": 28,
+          "trp": 69,
+          "aa": 78,
+          "av": 0,
+          "rld": 71,
+          "acc": 57,
+          "eva": 54,
+          "spd": 33.4,
+          "luk": 0,
+          "asw": 36
+        }
+      },
+      "599012": {
+        "id": 599012,
+        "tags": ["Plan-Class"],
+        "type": 2,
+        "rarity": 5,
+        "stars": 4,
+        "oil": 12,
+        "max_level": 100,
+        "stats": {
+          "hp": 624,
+          "fp": 28,
+          "trp": 69,
+          "aa": 78,
+          "av": 0,
+          "rld": 71,
+          "acc": 57,
+          "eva": 54,
+          "spd": 33.4,
+          "luk": 0,
+          "asw": 45
+        }
+      },
+      "599013": {
+        "id": 599013,
+        "tags": ["Plan-Class"],
+        "type": 2,
+        "rarity": 5,
+        "stars": 5,
+        "oil": 12,
+        "max_level": 100,
+        "stats": {
+          "hp": 624,
+          "fp": 28,
+          "trp": 69,
+          "aa": 78,
+          "av": 0,
+          "rld": 71,
+          "acc": 57,
+          "eva": 54,
+          "spd": 33.4,
+          "luk": 0,
+          "asw": 62
+        }
+      },
+      "599014": {
+        "id": 599014,
+        "tags": ["Plan-Class"],
+        "type": 2,
+        "rarity": 5,
+        "stars": 6,
+        "oil": 12,
+        "max_level": 100,
+        "stats": {
+          "hp": 624,
+          "fp": 28,
+          "trp": 69,
+          "aa": 78,
+          "av": 0,
+          "rld": 71,
+          "acc": 57,
+          "eva": 54,
+          "spd": 33.4,
+          "luk": 0,
+          "asw": 89
+        }
+      }
+    },
+    "stars": 6
   },
   "60102": {
     "id": 60102,
@@ -52213,7 +52532,8 @@
       "code": "SN Tashkent",
       "cn": "塔什干(μ兵装)",
       "jp": "タシュケント（μ兵装）",
-      "kr": "타슈켄트(μ장비)"
+      "kr": "타슈켄트(μ장비)",
+      "tw": "塔什干(μ兵裝)"
     },
     "property_hexagon": [4, 1, 0, 4, 2, 1],
     "type": 1,
@@ -54216,6 +54536,107 @@
     },
     "stars": 6
   },
+  "79901": {
+    "id": 79901,
+    "code": 20026,
+    "name": {"en": "Chkalov", "code": "SN Chkalov", "cn": "契卡洛夫", "jp": "チカロフ"},
+    "property_hexagon": [0, 0, 5, 2, 3, 4],
+    "type": 7,
+    "armor": 2,
+    "slots": [[9], [9], [8], [10], [10]],
+    "nationality": 7,
+    "data": {
+      "799011": {
+        "id": 799011,
+        "tags": ["Plan-Class"],
+        "type": 7,
+        "rarity": 5,
+        "stars": 3,
+        "oil": 14,
+        "max_level": 100,
+        "stats": {
+          "hp": 1105,
+          "fp": 0,
+          "trp": 0,
+          "aa": 61,
+          "av": 84,
+          "rld": 44,
+          "acc": 36,
+          "eva": 13,
+          "spd": 32.3,
+          "luk": 0,
+          "asw": 0
+        }
+      },
+      "799012": {
+        "id": 799012,
+        "tags": ["Plan-Class"],
+        "type": 7,
+        "rarity": 5,
+        "stars": 4,
+        "oil": 14,
+        "max_level": 100,
+        "stats": {
+          "hp": 1105,
+          "fp": 0,
+          "trp": 0,
+          "aa": 61,
+          "av": 84,
+          "rld": 44,
+          "acc": 36,
+          "eva": 13,
+          "spd": 32.3,
+          "luk": 0,
+          "asw": 0
+        }
+      },
+      "799013": {
+        "id": 799013,
+        "tags": ["Plan-Class"],
+        "type": 7,
+        "rarity": 5,
+        "stars": 5,
+        "oil": 14,
+        "max_level": 100,
+        "stats": {
+          "hp": 1105,
+          "fp": 0,
+          "trp": 0,
+          "aa": 61,
+          "av": 84,
+          "rld": 44,
+          "acc": 36,
+          "eva": 13,
+          "spd": 32.3,
+          "luk": 0,
+          "asw": 0
+        }
+      },
+      "799014": {
+        "id": 799014,
+        "tags": ["Plan-Class"],
+        "type": 7,
+        "rarity": 5,
+        "stars": 6,
+        "oil": 14,
+        "max_level": 100,
+        "stats": {
+          "hp": 1105,
+          "fp": 0,
+          "trp": 0,
+          "aa": 61,
+          "av": 84,
+          "rld": 44,
+          "acc": 36,
+          "eva": 13,
+          "spd": 32.3,
+          "luk": 0,
+          "asw": 0
+        }
+      }
+    },
+    "stars": 6
+  },
   "80101": {
     "id": 80101,
     "code": 347,
@@ -55757,6 +56178,107 @@
     },
     "stars": 6
   },
+  "89903": {
+    "id": 89903,
+    "code": 20027,
+    "name": {"en": "Brest", "code": "FFNF Brest", "cn": "布雷斯特", "jp": "ブレスト"},
+    "property_hexagon": [4, 0, 0, 2, 2, 5],
+    "type": 18,
+    "armor": 2,
+    "slots": [[3, 11], [1], [6], [10], [10]],
+    "nationality": 8,
+    "data": {
+      "899031": {
+        "id": 899031,
+        "tags": ["Plan-Class"],
+        "type": 18,
+        "rarity": 6,
+        "stars": 3,
+        "oil": 16,
+        "max_level": 100,
+        "stats": {
+          "hp": 1259,
+          "fp": 56,
+          "trp": 0,
+          "aa": 47,
+          "av": 0,
+          "rld": 70,
+          "acc": 45,
+          "eva": 11,
+          "spd": 24.8,
+          "luk": 0,
+          "asw": 0
+        }
+      },
+      "899032": {
+        "id": 899032,
+        "tags": ["Plan-Class"],
+        "type": 18,
+        "rarity": 6,
+        "stars": 4,
+        "oil": 16,
+        "max_level": 100,
+        "stats": {
+          "hp": 1259,
+          "fp": 56,
+          "trp": 0,
+          "aa": 47,
+          "av": 0,
+          "rld": 70,
+          "acc": 45,
+          "eva": 11,
+          "spd": 24.8,
+          "luk": 0,
+          "asw": 0
+        }
+      },
+      "899033": {
+        "id": 899033,
+        "tags": ["Plan-Class"],
+        "type": 18,
+        "rarity": 6,
+        "stars": 5,
+        "oil": 16,
+        "max_level": 100,
+        "stats": {
+          "hp": 1259,
+          "fp": 56,
+          "trp": 0,
+          "aa": 47,
+          "av": 0,
+          "rld": 70,
+          "acc": 45,
+          "eva": 11,
+          "spd": 24.8,
+          "luk": 0,
+          "asw": 0
+        }
+      },
+      "899034": {
+        "id": 899034,
+        "tags": ["Plan-Class"],
+        "type": 18,
+        "rarity": 6,
+        "stars": 6,
+        "oil": 16,
+        "max_level": 100,
+        "stats": {
+          "hp": 1259,
+          "fp": 56,
+          "trp": 0,
+          "aa": 47,
+          "av": 0,
+          "rld": 70,
+          "acc": 45,
+          "eva": 11,
+          "spd": 24.8,
+          "luk": 0,
+          "asw": 0
+        }
+      }
+    },
+    "stars": 6
+  },
   "90101": {
     "id": 90101,
     "code": 351,
@@ -56197,7 +56719,8 @@
       "code": "MNF Le Malin",
       "cn": "恶毒(μ兵装)",
       "jp": "ル・マラン（μ兵装）",
-      "kr": "르 말랭(μ장비)"
+      "kr": "르 말랭(μ장비)",
+      "tw": "惡毒(μ兵裝)"
     },
     "property_hexagon": [4, 2, 0, 4, 1, 1],
     "type": 1,
