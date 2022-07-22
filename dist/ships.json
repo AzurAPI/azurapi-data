@@ -26163,7 +26163,8 @@
       "en": "Plymouth",
       "code": "HMS Plymouth",
       "cn": "普利茅斯",
-      "jp": "プリマス"
+      "jp": "プリマス",
+      "kr": "플리머스"
     },
     "property_hexagon": [3, 4, 0, 3, 3, 3],
     "type": 2,
@@ -48516,7 +48517,8 @@
       "en": "Prinz Rupprecht",
       "code": "KMS Prinz Rupprecht",
       "cn": "鲁普雷希特亲王",
-      "jp": "プリンツ・ループレヒト"
+      "jp": "プリンツ・ループレヒト",
+      "kr": "프린츠 루프레히트"
     },
     "property_hexagon": [4, 2, 0, 1, 2, 5],
     "type": 4,
@@ -50053,7 +50055,13 @@
   "59901": {
     "id": 59901,
     "code": 20025,
-    "name": {"en": "Harbin", "code": "PRAN Harbin", "cn": "哈尔滨", "jp": "ハルビン"},
+    "name": {
+      "en": "Harbin",
+      "code": "PRAN Harbin",
+      "cn": "哈尔滨",
+      "jp": "ハルビン",
+      "kr": "하얼빈"
+    },
     "property_hexagon": [3, 4, 0, 4, 3, 2],
     "type": 2,
     "armor": 1,
@@ -50076,7 +50084,7 @@
           "av": 0,
           "rld": 71,
           "acc": 57,
-          "eva": 54,
+          "eva": 61,
           "spd": 33.4,
           "luk": 0,
           "asw": 36
@@ -50098,7 +50106,7 @@
           "av": 0,
           "rld": 71,
           "acc": 57,
-          "eva": 54,
+          "eva": 61,
           "spd": 33.4,
           "luk": 0,
           "asw": 45
@@ -50120,7 +50128,7 @@
           "av": 0,
           "rld": 71,
           "acc": 57,
-          "eva": 54,
+          "eva": 61,
           "spd": 33.4,
           "luk": 0,
           "asw": 62
@@ -50142,7 +50150,7 @@
           "av": 0,
           "rld": 71,
           "acc": 57,
-          "eva": 54,
+          "eva": 61,
           "spd": 33.4,
           "luk": 0,
           "asw": 89
@@ -51354,7 +51362,7 @@
     "data": {
       "605011": {
         "id": 605011,
-        "tags": ["Vittorio Veneto-Class"],
+        "tags": ["Vittorio Veneto-Class", "Vittorio Veneto"],
         "type": 5,
         "rarity": 5,
         "stars": 3,
@@ -51376,7 +51384,7 @@
       },
       "605012": {
         "id": 605012,
-        "tags": ["Vittorio Veneto-Class"],
+        "tags": ["Vittorio Veneto-Class", "Vittorio Veneto"],
         "type": 5,
         "rarity": 5,
         "stars": 4,
@@ -51398,7 +51406,7 @@
       },
       "605013": {
         "id": 605013,
-        "tags": ["Vittorio Veneto-Class"],
+        "tags": ["Vittorio Veneto-Class", "Vittorio Veneto"],
         "type": 5,
         "rarity": 5,
         "stars": 5,
@@ -51420,7 +51428,7 @@
       },
       "605014": {
         "id": 605014,
-        "tags": ["Vittorio Veneto-Class"],
+        "tags": ["Vittorio Veneto-Class", "Vittorio Veneto"],
         "type": 5,
         "rarity": 5,
         "stars": 6,
@@ -54539,7 +54547,13 @@
   "79901": {
     "id": 79901,
     "code": 20026,
-    "name": {"en": "Chkalov", "code": "SN Chkalov", "cn": "契卡洛夫", "jp": "チカロフ"},
+    "name": {
+      "en": "Chkalov",
+      "code": "SN Chkalov",
+      "cn": "契卡洛夫",
+      "jp": "チカロフ",
+      "kr": "치칼로프"
+    },
     "property_hexagon": [0, 0, 5, 2, 3, 4],
     "type": 7,
     "armor": 2,
@@ -56181,7 +56195,13 @@
   "89903": {
     "id": 89903,
     "code": 20027,
-    "name": {"en": "Brest", "code": "FFNF Brest", "cn": "布雷斯特", "jp": "ブレスト"},
+    "name": {
+      "en": "Brest",
+      "code": "FFNF Brest",
+      "cn": "布雷斯特",
+      "jp": "ブレスト",
+      "kr": "브레스트"
+    },
     "property_hexagon": [4, 0, 0, 2, 2, 5],
     "type": 18,
     "armor": 2,
