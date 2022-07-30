@@ -8666,7 +8666,8 @@
       "code": "USS New Orleans",
       "cn": "新奥尔良",
       "jp": "ニューオリンズ",
-      "kr": "뉴올리언스"
+      "kr": "뉴올리언스",
+      "tw": "紐奧良"
     },
     "property_hexagon": [3, 0, 0, 2, 3, 4],
     "type": 3,
@@ -50805,6 +50806,218 @@
     },
     "stars": 6
   },
+  "60108": {
+    "id": 60108,
+    "code": 562,
+    "name": {
+      "en": "Alfredo Oriani",
+      "code": "RN Alfredo Oriani",
+      "cn": "阿尔弗雷多·奥里亚尼",
+      "jp": "アルフレード・オリアーニ"
+    },
+    "property_hexagon": [4, 1, 0, 4, 2, 1],
+    "type": 1,
+    "armor": 1,
+    "slots": [[1], [5], [6], [10, 14], [10, 14]],
+    "nationality": 6,
+    "data": {
+      "601081": {
+        "id": 601081,
+        "tags": ["Poeti-Class"],
+        "type": 1,
+        "rarity": 4,
+        "stars": 2,
+        "oil": 3,
+        "max_level": 70,
+        "stats": {
+          "hp": 300,
+          "fp": 21,
+          "trp": 55,
+          "aa": 29,
+          "av": 0,
+          "rld": 78,
+          "acc": 73,
+          "eva": 79,
+          "spd": 45.6,
+          "luk": 55,
+          "asw": 53
+        }
+      },
+      "601082": {
+        "id": 601082,
+        "tags": ["Poeti-Class"],
+        "type": 1,
+        "rarity": 4,
+        "stars": 3,
+        "oil": 5,
+        "max_level": 80,
+        "stats": {
+          "hp": 373,
+          "fp": 26,
+          "trp": 69,
+          "aa": 36,
+          "av": 0,
+          "rld": 78,
+          "acc": 73,
+          "eva": 79,
+          "spd": 45.6,
+          "luk": 55,
+          "asw": 66
+        }
+      },
+      "601083": {
+        "id": 601083,
+        "tags": ["Poeti-Class"],
+        "type": 1,
+        "rarity": 4,
+        "stars": 4,
+        "oil": 7,
+        "max_level": 90,
+        "stats": {
+          "hp": 520,
+          "fp": 36,
+          "trp": 96,
+          "aa": 50,
+          "av": 0,
+          "rld": 78,
+          "acc": 73,
+          "eva": 79,
+          "spd": 45.6,
+          "luk": 55,
+          "asw": 92
+        }
+      },
+      "601084": {
+        "id": 601084,
+        "tags": ["Poeti-Class"],
+        "type": 1,
+        "rarity": 4,
+        "stars": 5,
+        "oil": 9,
+        "max_level": 100,
+        "stats": {
+          "hp": 739,
+          "fp": 52,
+          "trp": 136,
+          "aa": 72,
+          "av": 0,
+          "rld": 78,
+          "acc": 73,
+          "eva": 79,
+          "spd": 45.6,
+          "luk": 55,
+          "asw": 132
+        }
+      }
+    },
+    "stars": 5
+  },
+  "60109": {
+    "id": 60109,
+    "code": 563,
+    "name": {
+      "en": "Emanuele Pessagno",
+      "code": "RN Emanuele Pessagno",
+      "cn": "埃曼努埃尔·佩萨格诺",
+      "jp": "エマヌエーレ・ペッサーニョ"
+    },
+    "property_hexagon": [4, 1, 0, 4, 2, 1],
+    "type": 1,
+    "armor": 1,
+    "slots": [[1], [5], [6], [10, 14], [10, 14]],
+    "nationality": 6,
+    "data": {
+      "601091": {
+        "id": 601091,
+        "tags": ["Navigatori-Class"],
+        "type": 1,
+        "rarity": 4,
+        "stars": 2,
+        "oil": 3,
+        "max_level": 70,
+        "stats": {
+          "hp": 301,
+          "fp": 22,
+          "trp": 52,
+          "aa": 31,
+          "av": 0,
+          "rld": 75,
+          "acc": 69,
+          "eva": 77,
+          "spd": 39.6,
+          "luk": 46,
+          "asw": 51
+        }
+      },
+      "601092": {
+        "id": 601092,
+        "tags": ["Navigatori-Class"],
+        "type": 1,
+        "rarity": 4,
+        "stars": 3,
+        "oil": 5,
+        "max_level": 80,
+        "stats": {
+          "hp": 374,
+          "fp": 27,
+          "trp": 65,
+          "aa": 39,
+          "av": 0,
+          "rld": 75,
+          "acc": 69,
+          "eva": 77,
+          "spd": 39.6,
+          "luk": 46,
+          "asw": 64
+        }
+      },
+      "601093": {
+        "id": 601093,
+        "tags": ["Navigatori-Class"],
+        "type": 1,
+        "rarity": 4,
+        "stars": 4,
+        "oil": 7,
+        "max_level": 90,
+        "stats": {
+          "hp": 521,
+          "fp": 38,
+          "trp": 91,
+          "aa": 54,
+          "av": 0,
+          "rld": 75,
+          "acc": 69,
+          "eva": 77,
+          "spd": 39.6,
+          "luk": 46,
+          "asw": 89
+        }
+      },
+      "601094": {
+        "id": 601094,
+        "tags": ["Navigatori-Class"],
+        "type": 1,
+        "rarity": 4,
+        "stars": 5,
+        "oil": 9,
+        "max_level": 100,
+        "stats": {
+          "hp": 741,
+          "fp": 55,
+          "trp": 130,
+          "aa": 77,
+          "av": 0,
+          "rld": 75,
+          "acc": 69,
+          "eva": 77,
+          "spd": 39.6,
+          "luk": 46,
+          "asw": 126
+        }
+      }
+    },
+    "stars": 5
+  },
   "60201": {
     "id": 60201,
     "code": 501,
@@ -50907,6 +51120,112 @@
           "eva": 31,
           "spd": 35.56,
           "luk": 85,
+          "asw": 58
+        }
+      }
+    },
+    "stars": 6
+  },
+  "60202": {
+    "id": 60202,
+    "code": 559,
+    "name": {
+      "en": "Giuseppe Garibaldi",
+      "code": "RN Giuseppe Garibaldi",
+      "cn": "朱塞佩·加里波第",
+      "jp": "ジュゼッペ・ガリバルディ"
+    },
+    "property_hexagon": [3, 3, 0, 3, 3, 3],
+    "type": 2,
+    "armor": 1,
+    "slots": [[2], [5], [6], [10, 14], [10, 14]],
+    "nationality": 6,
+    "data": {
+      "602021": {
+        "id": 602021,
+        "tags": ["Condottieri-Class", "V"],
+        "type": 2,
+        "rarity": 5,
+        "stars": 3,
+        "oil": 5,
+        "max_level": 70,
+        "stats": {
+          "hp": 749,
+          "fp": 33,
+          "trp": 60,
+          "aa": 70,
+          "av": 0,
+          "rld": 66,
+          "acc": 62,
+          "eva": 31,
+          "spd": 35.56,
+          "luk": 88,
+          "asw": 23
+        }
+      },
+      "602022": {
+        "id": 602022,
+        "tags": ["Condottieri-Class", "V"],
+        "type": 2,
+        "rarity": 5,
+        "stars": 4,
+        "oil": 7,
+        "max_level": 80,
+        "stats": {
+          "hp": 932,
+          "fp": 41,
+          "trp": 75,
+          "aa": 87,
+          "av": 0,
+          "rld": 66,
+          "acc": 62,
+          "eva": 31,
+          "spd": 35.56,
+          "luk": 88,
+          "asw": 29
+        }
+      },
+      "602023": {
+        "id": 602023,
+        "tags": ["Condottieri-Class", "V"],
+        "type": 2,
+        "rarity": 5,
+        "stars": 5,
+        "oil": 9,
+        "max_level": 90,
+        "stats": {
+          "hp": 1297,
+          "fp": 57,
+          "trp": 104,
+          "aa": 122,
+          "av": 0,
+          "rld": 66,
+          "acc": 62,
+          "eva": 31,
+          "spd": 35.56,
+          "luk": 88,
+          "asw": 40
+        }
+      },
+      "602024": {
+        "id": 602024,
+        "tags": ["Condottieri-Class", "V"],
+        "type": 2,
+        "rarity": 5,
+        "stars": 6,
+        "oil": 11,
+        "max_level": 100,
+        "stats": {
+          "hp": 1846,
+          "fp": 82,
+          "trp": 149,
+          "aa": 173,
+          "av": 0,
+          "rld": 66,
+          "acc": 62,
+          "eva": 31,
+          "spd": 35.56,
+          "luk": 88,
           "asw": 58
         }
       }
@@ -51343,6 +51662,112 @@
     },
     "stars": 5
   },
+  "60305": {
+    "id": 60305,
+    "code": 560,
+    "name": {
+      "en": "Bolzano",
+      "code": "RN Bolzano",
+      "cn": "博尔扎诺",
+      "jp": "ボルツァーノ"
+    },
+    "property_hexagon": [3, 2, 0, 2, 3, 2],
+    "type": 3,
+    "armor": 1,
+    "slots": [[3], [5], [6], [10], [10]],
+    "nationality": 6,
+    "data": {
+      "603051": {
+        "id": 603051,
+        "tags": ["Bolzano-Class"],
+        "type": 3,
+        "rarity": 4,
+        "stars": 2,
+        "oil": 5,
+        "max_level": 70,
+        "stats": {
+          "hp": 762,
+          "fp": 43,
+          "trp": 29,
+          "aa": 42,
+          "av": 0,
+          "rld": 62,
+          "acc": 39,
+          "eva": 14,
+          "spd": 28.8,
+          "luk": 46,
+          "asw": 0
+        }
+      },
+      "603052": {
+        "id": 603052,
+        "tags": ["Bolzano-Class"],
+        "type": 3,
+        "rarity": 4,
+        "stars": 3,
+        "oil": 7,
+        "max_level": 80,
+        "stats": {
+          "hp": 948,
+          "fp": 54,
+          "trp": 36,
+          "aa": 52,
+          "av": 0,
+          "rld": 62,
+          "acc": 39,
+          "eva": 14,
+          "spd": 28.8,
+          "luk": 46,
+          "asw": 0
+        }
+      },
+      "603053": {
+        "id": 603053,
+        "tags": ["Bolzano-Class"],
+        "type": 3,
+        "rarity": 4,
+        "stars": 4,
+        "oil": 9,
+        "max_level": 90,
+        "stats": {
+          "hp": 1320,
+          "fp": 75,
+          "trp": 51,
+          "aa": 73,
+          "av": 0,
+          "rld": 62,
+          "acc": 39,
+          "eva": 14,
+          "spd": 28.8,
+          "luk": 46,
+          "asw": 0
+        }
+      },
+      "603054": {
+        "id": 603054,
+        "tags": ["Bolzano-Class"],
+        "type": 3,
+        "rarity": 4,
+        "stars": 5,
+        "oil": 11,
+        "max_level": 100,
+        "stats": {
+          "hp": 1877,
+          "fp": 107,
+          "trp": 73,
+          "aa": 104,
+          "av": 0,
+          "rld": 62,
+          "acc": 39,
+          "eva": 14,
+          "spd": 28.8,
+          "luk": 46,
+          "asw": 0
+        }
+      }
+    },
+    "stars": 5
+  },
   "60501": {
     "id": 60501,
     "code": 500,
@@ -51553,6 +51978,107 @@
           "eva": 8,
           "spd": 30,
           "luk": 79,
+          "asw": 0
+        }
+      }
+    },
+    "stars": 6
+  },
+  "60503": {
+    "id": 60503,
+    "code": 561,
+    "name": {"en": "Roma", "code": "RN Roma", "cn": "罗马", "jp": "ローマ"},
+    "property_hexagon": [5, 0, 0, 1, 2, 5],
+    "type": 5,
+    "armor": 3,
+    "slots": [[4], [1, 2], [6], [10], [10]],
+    "nationality": 6,
+    "data": {
+      "605031": {
+        "id": 605031,
+        "tags": ["Vittorio Veneto-Class"],
+        "type": 5,
+        "rarity": 5,
+        "stars": 3,
+        "oil": 9,
+        "max_level": 70,
+        "stats": {
+          "hp": 1451,
+          "fp": 81,
+          "trp": 0,
+          "aa": 45,
+          "av": 0,
+          "rld": 57,
+          "acc": 19,
+          "eva": 8,
+          "spd": 30,
+          "luk": 40,
+          "asw": 0
+        }
+      },
+      "605032": {
+        "id": 605032,
+        "tags": ["Vittorio Veneto-Class"],
+        "type": 5,
+        "rarity": 5,
+        "stars": 4,
+        "oil": 11,
+        "max_level": 80,
+        "stats": {
+          "hp": 1805,
+          "fp": 101,
+          "trp": 0,
+          "aa": 56,
+          "av": 0,
+          "rld": 57,
+          "acc": 19,
+          "eva": 8,
+          "spd": 30,
+          "luk": 40,
+          "asw": 0
+        }
+      },
+      "605033": {
+        "id": 605033,
+        "tags": ["Vittorio Veneto-Class"],
+        "type": 5,
+        "rarity": 5,
+        "stars": 5,
+        "oil": 13,
+        "max_level": 90,
+        "stats": {
+          "hp": 2512,
+          "fp": 141,
+          "trp": 0,
+          "aa": 78,
+          "av": 0,
+          "rld": 57,
+          "acc": 19,
+          "eva": 8,
+          "spd": 30,
+          "luk": 40,
+          "asw": 0
+        }
+      },
+      "605034": {
+        "id": 605034,
+        "tags": ["Vittorio Veneto-Class"],
+        "type": 5,
+        "rarity": 5,
+        "stars": 6,
+        "oil": 15,
+        "max_level": 100,
+        "stats": {
+          "hp": 3574,
+          "fp": 202,
+          "trp": 0,
+          "aa": 111,
+          "av": 0,
+          "rld": 57,
+          "acc": 19,
+          "eva": 8,
+          "spd": 30,
+          "luk": 40,
           "asw": 0
         }
       }
@@ -52099,6 +52625,112 @@
       }
     },
     "stars": 5
+  },
+  "60802": {
+    "id": 60802,
+    "code": 558,
+    "name": {
+      "en": "Leonardo da Vinci",
+      "code": "RN Leonardo da Vinci",
+      "cn": "莱昂纳多·达·芬奇",
+      "jp": "レオナルド・ダ・ヴィンチ"
+    },
+    "property_hexagon": [1, 5, 0, 1, 0, 1],
+    "type": 8,
+    "armor": 1,
+    "slots": [[13], [13], [1], [10], [10]],
+    "nationality": 6,
+    "data": {
+      "608021": {
+        "id": 608021,
+        "tags": ["Marconi-class"],
+        "type": 8,
+        "rarity": 5,
+        "stars": 3,
+        "oil": 5,
+        "max_level": 70,
+        "stats": {
+          "hp": 275,
+          "fp": 9,
+          "trp": 104,
+          "aa": 0,
+          "av": 0,
+          "rld": 37,
+          "acc": 66,
+          "eva": 7,
+          "spd": 18,
+          "luk": 57,
+          "asw": 0
+        }
+      },
+      "608022": {
+        "id": 608022,
+        "tags": ["Marconi-class"],
+        "type": 8,
+        "rarity": 5,
+        "stars": 4,
+        "oil": 6,
+        "max_level": 80,
+        "stats": {
+          "hp": 342,
+          "fp": 11,
+          "trp": 130,
+          "aa": 0,
+          "av": 0,
+          "rld": 37,
+          "acc": 66,
+          "eva": 7,
+          "spd": 18,
+          "luk": 57,
+          "asw": 0
+        }
+      },
+      "608023": {
+        "id": 608023,
+        "tags": ["Marconi-class"],
+        "type": 8,
+        "rarity": 5,
+        "stars": 5,
+        "oil": 7,
+        "max_level": 90,
+        "stats": {
+          "hp": 476,
+          "fp": 15,
+          "trp": 181,
+          "aa": 0,
+          "av": 0,
+          "rld": 37,
+          "acc": 66,
+          "eva": 7,
+          "spd": 18,
+          "luk": 57,
+          "asw": 0
+        }
+      },
+      "608024": {
+        "id": 608024,
+        "tags": ["Marconi-class"],
+        "type": 8,
+        "rarity": 5,
+        "stars": 6,
+        "oil": 8,
+        "max_level": 100,
+        "stats": {
+          "hp": 678,
+          "fp": 22,
+          "trp": 258,
+          "aa": 0,
+          "av": 0,
+          "rld": 37,
+          "acc": 66,
+          "eva": 7,
+          "spd": 18,
+          "luk": 57,
+          "asw": 0
+        }
+      }
+    },
+    "stars": 6
   },
   "69901": {
     "id": 69901,
@@ -58015,6 +58647,112 @@
     },
     "stars": 5
   },
+  "970301": {
+    "id": 970301,
+    "code": 30013,
+    "name": {
+      "en": "Trento META",
+      "code": "Terento META",
+      "cn": "特伦托·META",
+      "jp": "トレント(META)"
+    },
+    "property_hexagon": [3, 2, 0, 2, 3, 2],
+    "type": 3,
+    "armor": 1,
+    "slots": [[3], [5], [6], [10], [10]],
+    "nationality": 97,
+    "data": {
+      "9703011": {
+        "id": 9703011,
+        "tags": ["TrentoMETA", "Trento-Class"],
+        "type": 3,
+        "rarity": 4,
+        "stars": 2,
+        "oil": 12,
+        "max_level": 100,
+        "stats": {
+          "hp": 630,
+          "fp": 44,
+          "trp": 32,
+          "aa": 36,
+          "av": 0,
+          "rld": 61,
+          "acc": 29,
+          "eva": 8,
+          "spd": 29,
+          "luk": 42,
+          "asw": 0
+        }
+      },
+      "9703012": {
+        "id": 9703012,
+        "tags": ["TrentoMETA", "Trento-Class"],
+        "type": 3,
+        "rarity": 4,
+        "stars": 3,
+        "oil": 12,
+        "max_level": 100,
+        "stats": {
+          "hp": 784,
+          "fp": 55,
+          "trp": 40,
+          "aa": 45,
+          "av": 0,
+          "rld": 61,
+          "acc": 29,
+          "eva": 8,
+          "spd": 29,
+          "luk": 42,
+          "asw": 0
+        }
+      },
+      "9703013": {
+        "id": 9703013,
+        "tags": ["TrentoMETA", "Trento-Class"],
+        "type": 3,
+        "rarity": 4,
+        "stars": 4,
+        "oil": 12,
+        "max_level": 100,
+        "stats": {
+          "hp": 1091,
+          "fp": 77,
+          "trp": 56,
+          "aa": 62,
+          "av": 0,
+          "rld": 61,
+          "acc": 29,
+          "eva": 8,
+          "spd": 29,
+          "luk": 42,
+          "asw": 0
+        }
+      },
+      "9703014": {
+        "id": 9703014,
+        "tags": ["TrentoMETA", "Trento-Class"],
+        "type": 3,
+        "rarity": 4,
+        "stars": 5,
+        "oil": 12,
+        "max_level": 100,
+        "stats": {
+          "hp": 1552,
+          "fp": 109,
+          "trp": 80,
+          "aa": 89,
+          "av": 0,
+          "rld": 61,
+          "acc": 29,
+          "eva": 8,
+          "spd": 29,
+          "luk": 42,
+          "asw": 0
+        }
+      }
+    },
+    "stars": 5
+  },
   "970401": {
     "id": 970401,
     "code": 30007,
@@ -58452,7 +59190,8 @@
       "code": "Yamashiro META",
       "cn": "山城·META",
       "jp": "山城(META)",
-      "kr": "야마시로·META"
+      "kr": "야마시로·META",
+      "tw": "山城·META"
     },
     "property_hexagon": [4, 0, 0, 1, 1, 4],
     "type": 5,
@@ -59043,7 +59782,8 @@
       "code": "Souryuu META",
       "cn": "苍龙·META",
       "jp": "蒼龍(META)",
-      "kr": "소류·META"
+      "kr": "소류·META",
+      "tw": "蒼龍·META"
     },
     "property_hexagon": [0, 0, 5, 3, 4, 3],
     "type": 7,
