@@ -50813,7 +50813,8 @@
       "en": "Alfredo Oriani",
       "code": "RN Alfredo Oriani",
       "cn": "阿尔弗雷多·奥里亚尼",
-      "jp": "アルフレード・オリアーニ"
+      "jp": "アルフレード・オリアーニ",
+      "kr": "알프레도 오리아니"
     },
     "property_hexagon": [4, 1, 0, 4, 2, 1],
     "type": 1,
@@ -50919,7 +50920,8 @@
       "en": "Emanuele Pessagno",
       "code": "RN Emanuele Pessagno",
       "cn": "埃曼努埃尔·佩萨格诺",
-      "jp": "エマヌエーレ・ペッサーニョ"
+      "jp": "エマヌエーレ・ペッサーニョ",
+      "kr": "에마누엘레 페사노"
     },
     "property_hexagon": [4, 1, 0, 4, 2, 1],
     "type": 1,
@@ -51133,7 +51135,8 @@
       "en": "Giuseppe Garibaldi",
       "code": "RN Giuseppe Garibaldi",
       "cn": "朱塞佩·加里波第",
-      "jp": "ジュゼッペ・ガリバルディ"
+      "jp": "ジュゼッペ・ガリバルディ",
+      "kr": "주세페 가리발디"
     },
     "property_hexagon": [3, 3, 0, 3, 3, 3],
     "type": 2,
@@ -51669,7 +51672,8 @@
       "en": "Bolzano",
       "code": "RN Bolzano",
       "cn": "博尔扎诺",
-      "jp": "ボルツァーノ"
+      "jp": "ボルツァーノ",
+      "kr": "볼차노"
     },
     "property_hexagon": [3, 2, 0, 2, 3, 2],
     "type": 3,
@@ -51987,7 +51991,13 @@
   "60503": {
     "id": 60503,
     "code": 561,
-    "name": {"en": "Roma", "code": "RN Roma", "cn": "罗马", "jp": "ローマ"},
+    "name": {
+      "en": "Roma",
+      "code": "RN Roma",
+      "cn": "罗马",
+      "jp": "ローマ",
+      "kr": "로마"
+    },
     "property_hexagon": [5, 0, 0, 1, 2, 5],
     "type": 5,
     "armor": 3,
@@ -52633,7 +52643,8 @@
       "en": "Leonardo da Vinci",
       "code": "RN Leonardo da Vinci",
       "cn": "莱昂纳多·达·芬奇",
-      "jp": "レオナルド・ダ・ヴィンチ"
+      "jp": "レオナルド・ダ・ヴィンチ",
+      "kr": "레오나르도 다 빈치"
     },
     "property_hexagon": [1, 5, 0, 1, 0, 1],
     "type": 8,
@@ -55765,7 +55776,8 @@
       "code": "FFNF Le Terrible",
       "cn": "可怖",
       "jp": "ル・テリブル",
-      "kr": "르 테리블"
+      "kr": "르 테리블",
+      "tw": "可怖"
     },
     "property_hexagon": [4, 2, 0, 4, 1, 1],
     "type": 1,
@@ -55872,7 +55884,8 @@
       "code": "FFNF Maillé Brézé",
       "cn": "马耶·布雷泽",
       "jp": "マイレ・ブレゼ",
-      "kr": "마이예 브레제"
+      "kr": "마이예 브레제",
+      "tw": "馬耶·布雷澤"
     },
     "property_hexagon": [4, 2, 0, 4, 1, 1],
     "type": 1,
@@ -58654,7 +58667,8 @@
       "en": "Trento META",
       "code": "Terento META",
       "cn": "特伦托·META",
-      "jp": "トレント(META)"
+      "jp": "トレント(META)",
+      "kr": "트렌토·META"
     },
     "property_hexagon": [3, 2, 0, 2, 3, 2],
     "type": 3,
