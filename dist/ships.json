@@ -48754,7 +48754,7 @@
       },
       "521014": {
         "id": 521014,
-        "tags": ["Qinglong", "Anshan-Class"],
+        "tags": ["Qinglong", "Anshan-Class", "PRE"],
         "type": 21,
         "rarity": 4,
         "stars": 5,
@@ -49028,7 +49028,7 @@
       },
       "521034": {
         "id": 521034,
-        "tags": ["Baihu", "Anshan-Class"],
+        "tags": ["Baihu", "Anshan-Class", "PRE"],
         "type": 21,
         "rarity": 4,
         "stars": 5,
@@ -56258,7 +56258,7 @@
       },
       "805012": {
         "id": 805012,
-        "tags": ["Richelieu-Class", "Richelieu"],
+        "tags": ["Richelieu-Class", "Richelieu", "PRE"],
         "type": 5,
         "rarity": 5,
         "stars": 4,
@@ -56280,7 +56280,7 @@
       },
       "805013": {
         "id": 805013,
-        "tags": ["Richelieu-Class", "Richelieu"],
+        "tags": ["Richelieu-Class", "Richelieu", "PRE"],
         "type": 5,
         "rarity": 5,
         "stars": 5,
@@ -56302,7 +56302,7 @@
       },
       "805014": {
         "id": 805014,
-        "tags": ["Richelieu-Class", "Richelieu"],
+        "tags": ["Richelieu-Class", "Richelieu", "PRE"],
         "type": 5,
         "rarity": 5,
         "stars": 6,
@@ -56770,7 +56770,7 @@
       },
       "899022": {
         "id": 899022,
-        "tags": ["Plan-Class"],
+        "tags": ["Plan-Class", "PRE"],
         "type": 5,
         "rarity": 5,
         "stars": 4,
@@ -56792,7 +56792,7 @@
       },
       "899023": {
         "id": 899023,
-        "tags": ["Plan-Class"],
+        "tags": ["Plan-Class", "PRE"],
         "type": 5,
         "rarity": 5,
         "stars": 5,
@@ -56814,7 +56814,7 @@
       },
       "899024": {
         "id": 899024,
-        "tags": ["Plan-Class"],
+        "tags": ["Plan-Class", "PRE"],
         "type": 5,
         "rarity": 5,
         "stars": 6,
@@ -57947,7 +57947,7 @@
       },
       "904012": {
         "id": 904012,
-        "tags": ["Dunkerque-Class"],
+        "tags": ["Dunkerque-Class", "PRE"],
         "type": 4,
         "rarity": 4,
         "stars": 3,
@@ -57969,7 +57969,7 @@
       },
       "904013": {
         "id": 904013,
-        "tags": ["Dunkerque-Class"],
+        "tags": ["Dunkerque-Class", "PRE"],
         "type": 4,
         "rarity": 4,
         "stars": 4,
@@ -57991,7 +57991,7 @@
       },
       "904014": {
         "id": 904014,
-        "tags": ["Dunkerque-Class"],
+        "tags": ["Dunkerque-Class", "PRE"],
         "type": 4,
         "rarity": 4,
         "stars": 5,
@@ -58055,7 +58055,7 @@
       },
       "905012": {
         "id": 905012,
-        "tags": ["Richelieu-Class"],
+        "tags": ["Richelieu-Class", "PRE"],
         "type": 5,
         "rarity": 5,
         "stars": 4,
@@ -58077,7 +58077,7 @@
       },
       "905013": {
         "id": 905013,
-        "tags": ["Richelieu-Class"],
+        "tags": ["Richelieu-Class", "PRE"],
         "type": 5,
         "rarity": 5,
         "stars": 5,
@@ -58099,7 +58099,7 @@
       },
       "905014": {
         "id": 905014,
-        "tags": ["Richelieu-Class"],
+        "tags": ["Richelieu-Class", "PRE"],
         "type": 5,
         "rarity": 5,
         "stars": 6,
