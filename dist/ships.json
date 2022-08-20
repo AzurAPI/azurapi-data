@@ -1005,7 +1005,7 @@
     "data": {
       "101111": {
         "id": 101111,
-        "tags": ["Fletcher-Class"],
+        "tags": ["Fletcher-Class", "Little-Beavers"],
         "type": 1,
         "rarity": 4,
         "stars": 2,
@@ -1027,7 +1027,7 @@
       },
       "101112": {
         "id": 101112,
-        "tags": ["Fletcher-Class"],
+        "tags": ["Fletcher-Class", "Little-Beavers"],
         "type": 1,
         "rarity": 4,
         "stars": 3,
@@ -1049,7 +1049,7 @@
       },
       "101113": {
         "id": 101113,
-        "tags": ["Fletcher-Class"],
+        "tags": ["Fletcher-Class", "Little-Beavers"],
         "type": 1,
         "rarity": 4,
         "stars": 4,
@@ -1071,7 +1071,7 @@
       },
       "101114": {
         "id": 101114,
-        "tags": ["Fletcher-Class"],
+        "tags": ["Fletcher-Class", "Little-Beavers"],
         "type": 1,
         "rarity": 4,
         "stars": 5,
@@ -1113,7 +1113,7 @@
     "data": {
       "101121": {
         "id": 101121,
-        "tags": ["Fletcher-Class"],
+        "tags": ["Fletcher-Class", "Little-Beavers"],
         "type": 1,
         "rarity": 3,
         "stars": 2,
@@ -1135,7 +1135,7 @@
       },
       "101122": {
         "id": 101122,
-        "tags": ["Fletcher-Class"],
+        "tags": ["Fletcher-Class", "Little-Beavers"],
         "type": 1,
         "rarity": 3,
         "stars": 3,
@@ -1157,7 +1157,7 @@
       },
       "101123": {
         "id": 101123,
-        "tags": ["Fletcher-Class"],
+        "tags": ["Fletcher-Class", "Little-Beavers"],
         "type": 1,
         "rarity": 3,
         "stars": 4,
@@ -1179,7 +1179,7 @@
       },
       "101124": {
         "id": 101124,
-        "tags": ["Fletcher-Class"],
+        "tags": ["Fletcher-Class", "Little-Beavers"],
         "type": 1,
         "rarity": 3,
         "stars": 5,
@@ -1221,7 +1221,7 @@
     "data": {
       "101131": {
         "id": 101131,
-        "tags": ["Fletcher-Class"],
+        "tags": ["Fletcher-Class", "Little-Beavers"],
         "type": 1,
         "rarity": 2,
         "stars": 1,
@@ -1243,7 +1243,7 @@
       },
       "101132": {
         "id": 101132,
-        "tags": ["Fletcher-Class"],
+        "tags": ["Fletcher-Class", "Little-Beavers"],
         "type": 1,
         "rarity": 2,
         "stars": 2,
@@ -1265,7 +1265,7 @@
       },
       "101133": {
         "id": 101133,
-        "tags": ["Fletcher-Class"],
+        "tags": ["Fletcher-Class", "Little-Beavers"],
         "type": 1,
         "rarity": 2,
         "stars": 3,
@@ -1287,7 +1287,7 @@
       },
       "101134": {
         "id": 101134,
-        "tags": ["Fletcher-Class"],
+        "tags": ["Fletcher-Class", "Little-Beavers"],
         "type": 1,
         "rarity": 2,
         "stars": 4,
@@ -1329,7 +1329,7 @@
     "data": {
       "101141": {
         "id": 101141,
-        "tags": ["Fletcher-Class"],
+        "tags": ["Fletcher-Class", "Little-Beavers"],
         "type": 1,
         "rarity": 2,
         "stars": 1,
@@ -1351,7 +1351,7 @@
       },
       "101142": {
         "id": 101142,
-        "tags": ["Fletcher-Class"],
+        "tags": ["Fletcher-Class", "Little-Beavers"],
         "type": 1,
         "rarity": 2,
         "stars": 2,
@@ -1373,7 +1373,7 @@
       },
       "101143": {
         "id": 101143,
-        "tags": ["Fletcher-Class"],
+        "tags": ["Fletcher-Class", "Little-Beavers"],
         "type": 1,
         "rarity": 2,
         "stars": 3,
@@ -1395,7 +1395,7 @@
       },
       "101144": {
         "id": 101144,
-        "tags": ["Fletcher-Class"],
+        "tags": ["Fletcher-Class", "Little-Beavers"],
         "type": 1,
         "rarity": 2,
         "stars": 4,
@@ -1437,7 +1437,7 @@
     "data": {
       "101151": {
         "id": 101151,
-        "tags": ["Fletcher-Class"],
+        "tags": ["Fletcher-Class", "Little-Beavers"],
         "type": 1,
         "rarity": 2,
         "stars": 1,
@@ -1459,7 +1459,7 @@
       },
       "101152": {
         "id": 101152,
-        "tags": ["Fletcher-Class"],
+        "tags": ["Fletcher-Class", "Little-Beavers"],
         "type": 1,
         "rarity": 2,
         "stars": 2,
@@ -1481,7 +1481,7 @@
       },
       "101153": {
         "id": 101153,
-        "tags": ["Fletcher-Class"],
+        "tags": ["Fletcher-Class", "Little-Beavers"],
         "type": 1,
         "rarity": 2,
         "stars": 3,
@@ -1503,7 +1503,7 @@
       },
       "101154": {
         "id": 101154,
-        "tags": ["Fletcher-Class"],
+        "tags": ["Fletcher-Class", "Little-Beavers"],
         "type": 1,
         "rarity": 2,
         "stars": 4,
@@ -41602,6 +41602,112 @@
     },
     "stars": 5
   },
+  "40116": {
+    "id": 40116,
+    "code": 564,
+    "name": {
+      "en": "Z16",
+      "code": "KMS Friedrich Eckoldt",
+      "cn": "Z16",
+      "jp": "Z16"
+    },
+    "property_hexagon": [1, 4, 0, 4, 1, 1],
+    "type": 1,
+    "armor": 1,
+    "slots": [[1], [5], [6], [10, 14], [10, 14]],
+    "nationality": 4,
+    "data": {
+      "401161": {
+        "id": 401161,
+        "tags": ["Z-Class"],
+        "type": 1,
+        "rarity": 4,
+        "stars": 2,
+        "oil": 3,
+        "max_level": 70,
+        "stats": {
+          "hp": 335,
+          "fp": 13,
+          "trp": 87,
+          "aa": 28,
+          "av": 0,
+          "rld": 78,
+          "acc": 69,
+          "eva": 55,
+          "spd": 43.2,
+          "luk": 51,
+          "asw": 47
+        }
+      },
+      "401162": {
+        "id": 401162,
+        "tags": ["Z-Class"],
+        "type": 1,
+        "rarity": 4,
+        "stars": 3,
+        "oil": 5,
+        "max_level": 80,
+        "stats": {
+          "hp": 417,
+          "fp": 16,
+          "trp": 109,
+          "aa": 35,
+          "av": 0,
+          "rld": 78,
+          "acc": 69,
+          "eva": 55,
+          "spd": 43.2,
+          "luk": 51,
+          "asw": 59
+        }
+      },
+      "401163": {
+        "id": 401163,
+        "tags": ["Z-Class"],
+        "type": 1,
+        "rarity": 4,
+        "stars": 4,
+        "oil": 7,
+        "max_level": 90,
+        "stats": {
+          "hp": 580,
+          "fp": 22,
+          "trp": 152,
+          "aa": 49,
+          "av": 0,
+          "rld": 78,
+          "acc": 69,
+          "eva": 55,
+          "spd": 43.2,
+          "luk": 51,
+          "asw": 82
+        }
+      },
+      "401164": {
+        "id": 401164,
+        "tags": ["Z-Class"],
+        "type": 1,
+        "rarity": 4,
+        "stars": 5,
+        "oil": 9,
+        "max_level": 100,
+        "stats": {
+          "hp": 825,
+          "fp": 32,
+          "trp": 217,
+          "aa": 69,
+          "av": 0,
+          "rld": 78,
+          "acc": 69,
+          "eva": 55,
+          "spd": 43.2,
+          "luk": 51,
+          "asw": 117
+        }
+      }
+    },
+    "stars": 5
+  },
   "40118": {
     "id": 40118,
     "code": 346,
@@ -43829,7 +43935,7 @@
     "data": {
       "403011": {
         "id": 403011,
-        "tags": ["Admiral Hipper-Class"],
+        "tags": ["Admiral Hipper-Class", "Admiral Hipper"],
         "type": 3,
         "rarity": 4,
         "stars": 2,
@@ -43851,7 +43957,7 @@
       },
       "403012": {
         "id": 403012,
-        "tags": ["Admiral Hipper-Class"],
+        "tags": ["Admiral Hipper-Class", "Admiral Hipper"],
         "type": 3,
         "rarity": 4,
         "stars": 3,
@@ -43873,7 +43979,7 @@
       },
       "403013": {
         "id": 403013,
-        "tags": ["Admiral Hipper-Class"],
+        "tags": ["Admiral Hipper-Class", "Admiral Hipper"],
         "type": 3,
         "rarity": 4,
         "stars": 4,
@@ -43895,7 +44001,7 @@
       },
       "403014": {
         "id": 403014,
-        "tags": ["Admiral Hipper-Class"],
+        "tags": ["Admiral Hipper-Class", "Admiral Hipper"],
         "type": 3,
         "rarity": 4,
         "stars": 5,
@@ -43917,6 +44023,112 @@
       }
     },
     "stars": 5
+  },
+  "40302": {
+    "id": 40302,
+    "code": 243,
+    "name": {
+      "en": "Blücher",
+      "code": "KMS Blücher",
+      "cn": "布吕歇尔",
+      "jp": "ブリュッヒャー"
+    },
+    "property_hexagon": [4, 2, 0, 2, 3, 4],
+    "type": 3,
+    "armor": 2,
+    "slots": [[3], [5], [6], [10], [10]],
+    "nationality": 4,
+    "data": {
+      "403021": {
+        "id": 403021,
+        "tags": ["Admiral Hipper-Class"],
+        "type": 3,
+        "rarity": 5,
+        "stars": 3,
+        "oil": 6,
+        "max_level": 70,
+        "stats": {
+          "hp": 811,
+          "fp": 54,
+          "trp": 44,
+          "aa": 39,
+          "av": 0,
+          "rld": 67,
+          "acc": 44,
+          "eva": 9,
+          "spd": 25.6,
+          "luk": 17,
+          "asw": 0
+        }
+      },
+      "403022": {
+        "id": 403022,
+        "tags": ["Admiral Hipper-Class"],
+        "type": 3,
+        "rarity": 5,
+        "stars": 4,
+        "oil": 8,
+        "max_level": 80,
+        "stats": {
+          "hp": 1009,
+          "fp": 67,
+          "trp": 55,
+          "aa": 49,
+          "av": 0,
+          "rld": 67,
+          "acc": 44,
+          "eva": 9,
+          "spd": 25.6,
+          "luk": 17,
+          "asw": 0
+        }
+      },
+      "403023": {
+        "id": 403023,
+        "tags": ["Admiral Hipper-Class"],
+        "type": 3,
+        "rarity": 5,
+        "stars": 5,
+        "oil": 10,
+        "max_level": 90,
+        "stats": {
+          "hp": 1404,
+          "fp": 94,
+          "trp": 77,
+          "aa": 68,
+          "av": 0,
+          "rld": 67,
+          "acc": 44,
+          "eva": 9,
+          "spd": 25.6,
+          "luk": 17,
+          "asw": 0
+        }
+      },
+      "403024": {
+        "id": 403024,
+        "tags": ["Admiral Hipper-Class"],
+        "type": 3,
+        "rarity": 5,
+        "stars": 6,
+        "oil": 12,
+        "max_level": 100,
+        "stats": {
+          "hp": 1998,
+          "fp": 134,
+          "trp": 110,
+          "aa": 96,
+          "av": 0,
+          "rld": 67,
+          "acc": 44,
+          "eva": 9,
+          "spd": 25.6,
+          "luk": 17,
+          "asw": 0
+        }
+      }
+    },
+    "stars": 6
   },
   "40303": {
     "id": 40303,
@@ -44283,7 +44495,7 @@
     "data": {
       "403071": {
         "id": 403071,
-        "tags": ["Admiral Hipper-Class", "μ", "special"],
+        "tags": ["Admiral Hipper-Class", "Admiral Hipper", "μ", "special"],
         "type": 3,
         "rarity": 4,
         "stars": 2,
@@ -44305,7 +44517,7 @@
       },
       "403072": {
         "id": 403072,
-        "tags": ["Admiral Hipper-Class", "μ", "special"],
+        "tags": ["Admiral Hipper-Class", "Admiral Hipper", "μ", "special"],
         "type": 3,
         "rarity": 4,
         "stars": 3,
@@ -44327,7 +44539,7 @@
       },
       "403073": {
         "id": 403073,
-        "tags": ["Admiral Hipper-Class", "μ", "special"],
+        "tags": ["Admiral Hipper-Class", "Admiral Hipper", "μ", "special"],
         "type": 3,
         "rarity": 4,
         "stars": 4,
@@ -44349,7 +44561,7 @@
       },
       "403074": {
         "id": 403074,
-        "tags": ["Admiral Hipper-Class", "μ", "special"],
+        "tags": ["Admiral Hipper-Class", "Admiral Hipper", "μ", "special"],
         "type": 3,
         "rarity": 4,
         "stars": 5,
@@ -45398,6 +45610,112 @@
           "eva": 9,
           "spd": 31,
           "luk": 64,
+          "asw": 0
+        }
+      }
+    },
+    "stars": 6
+  },
+  "40405": {
+    "id": 40405,
+    "code": 566,
+    "name": {
+      "en": "Brünhilde",
+      "code": "KMS Brünhilde",
+      "cn": "布伦希尔德",
+      "jp": "ブリュンヒルデ"
+    },
+    "property_hexagon": [4, 2, 0, 1, 2, 4],
+    "type": 4,
+    "armor": 3,
+    "slots": [[4], [1, 2], [6], [10], [10]],
+    "nationality": 4,
+    "data": {
+      "404051": {
+        "id": 404051,
+        "tags": ["O-Class"],
+        "type": 4,
+        "rarity": 5,
+        "stars": 3,
+        "oil": 8,
+        "max_level": 70,
+        "stats": {
+          "hp": 1235,
+          "fp": 71,
+          "trp": 44,
+          "aa": 58,
+          "av": 0,
+          "rld": 60,
+          "acc": 20,
+          "eva": 10,
+          "spd": 33.5,
+          "luk": 50,
+          "asw": 0
+        }
+      },
+      "404052": {
+        "id": 404052,
+        "tags": ["O-Class"],
+        "type": 4,
+        "rarity": 5,
+        "stars": 4,
+        "oil": 10,
+        "max_level": 80,
+        "stats": {
+          "hp": 1536,
+          "fp": 89,
+          "trp": 55,
+          "aa": 72,
+          "av": 0,
+          "rld": 60,
+          "acc": 20,
+          "eva": 10,
+          "spd": 33.5,
+          "luk": 50,
+          "asw": 0
+        }
+      },
+      "404053": {
+        "id": 404053,
+        "tags": ["O-Class"],
+        "type": 4,
+        "rarity": 5,
+        "stars": 5,
+        "oil": 12,
+        "max_level": 90,
+        "stats": {
+          "hp": 2139,
+          "fp": 124,
+          "trp": 77,
+          "aa": 101,
+          "av": 0,
+          "rld": 60,
+          "acc": 20,
+          "eva": 10,
+          "spd": 33.5,
+          "luk": 50,
+          "asw": 0
+        }
+      },
+      "404054": {
+        "id": 404054,
+        "tags": ["O-Class"],
+        "type": 4,
+        "rarity": 5,
+        "stars": 6,
+        "oil": 14,
+        "max_level": 100,
+        "stats": {
+          "hp": 3043,
+          "fp": 176,
+          "trp": 110,
+          "aa": 144,
+          "av": 0,
+          "rld": 60,
+          "acc": 20,
+          "eva": 10,
+          "spd": 33.5,
+          "luk": 50,
           "asw": 0
         }
       }
@@ -48292,7 +48610,7 @@
     "data": {
       "499051": {
         "id": 499051,
-        "tags": ["Plan-Class"],
+        "tags": ["Plan-Class", "O-Class"],
         "type": 18,
         "rarity": 6,
         "stars": 3,
@@ -48314,7 +48632,7 @@
       },
       "499052": {
         "id": 499052,
-        "tags": ["Plan-Class"],
+        "tags": ["Plan-Class", "O-Class"],
         "type": 18,
         "rarity": 6,
         "stars": 4,
@@ -48336,7 +48654,7 @@
       },
       "499053": {
         "id": 499053,
-        "tags": ["Plan-Class"],
+        "tags": ["Plan-Class", "O-Class"],
         "type": 18,
         "rarity": 6,
         "stars": 5,
@@ -48358,7 +48676,7 @@
       },
       "499054": {
         "id": 499054,
-        "tags": ["Plan-Class"],
+        "tags": ["Plan-Class", "O-Class"],
         "type": 18,
         "rarity": 6,
         "stars": 6,
@@ -50707,7 +51025,8 @@
       "code": "RN Pompeo Magno",
       "cn": "庞培·马格诺",
       "jp": "ポンペオ・マーニョ",
-      "kr": "폼페오 마뇨"
+      "kr": "폼페오 마뇨",
+      "tw": "龐培·馬格諾"
     },
     "property_hexagon": [4, 1, 0, 4, 2, 2],
     "type": 1,
@@ -51566,7 +51885,8 @@
       "code": "RN Trieste",
       "cn": "的里雅斯特",
       "jp": "トリエステ",
-      "kr": "트리에스테"
+      "kr": "트리에스테",
+      "tw": "的里雅斯德"
     },
     "property_hexagon": [3, 2, 0, 2, 3, 2],
     "type": 3,
@@ -52428,7 +52748,8 @@
       "code": "RN Impero",
       "cn": "帝国",
       "jp": "インペロ",
-      "kr": "임페로"
+      "kr": "임페로",
+      "tw": "帝國"
     },
     "property_hexagon": [0, 0, 4, 1, 3, 5],
     "type": 7,
