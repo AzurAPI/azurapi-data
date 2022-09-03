@@ -59409,6 +59409,112 @@
     },
     "stars": 6
   },
+  "970404": {
+    "id": 970404,
+    "code": 30014,
+    "name": {
+      "en": "Renown META",
+      "code": "Renown META",
+      "cn": "声望·META",
+      "jp": "レナウン(META)"
+    },
+    "property_hexagon": [4, 0, 0, 1, 2, 4],
+    "type": 4,
+    "armor": 2,
+    "slots": [[4], [1], [6], [10], [10]],
+    "nationality": 97,
+    "data": {
+      "9704041": {
+        "id": 9704041,
+        "tags": ["RenownMETA"],
+        "type": 4,
+        "rarity": 5,
+        "stars": 3,
+        "oil": 15,
+        "max_level": 100,
+        "stats": {
+          "hp": 1196,
+          "fp": 72,
+          "trp": 0,
+          "aa": 61,
+          "av": 0,
+          "rld": 57,
+          "acc": 17,
+          "eva": 7,
+          "spd": 33,
+          "luk": 85,
+          "asw": 0
+        }
+      },
+      "9704042": {
+        "id": 9704042,
+        "tags": ["RenownMETA"],
+        "type": 4,
+        "rarity": 5,
+        "stars": 4,
+        "oil": 15,
+        "max_level": 100,
+        "stats": {
+          "hp": 1488,
+          "fp": 90,
+          "trp": 0,
+          "aa": 76,
+          "av": 0,
+          "rld": 57,
+          "acc": 17,
+          "eva": 7,
+          "spd": 33,
+          "luk": 85,
+          "asw": 0
+        }
+      },
+      "9704043": {
+        "id": 9704043,
+        "tags": ["RenownMETA"],
+        "type": 4,
+        "rarity": 5,
+        "stars": 5,
+        "oil": 15,
+        "max_level": 100,
+        "stats": {
+          "hp": 2071,
+          "fp": 125,
+          "trp": 0,
+          "aa": 106,
+          "av": 0,
+          "rld": 57,
+          "acc": 17,
+          "eva": 7,
+          "spd": 33,
+          "luk": 85,
+          "asw": 0
+        }
+      },
+      "9704044": {
+        "id": 9704044,
+        "tags": ["RenownMETA"],
+        "type": 4,
+        "rarity": 5,
+        "stars": 6,
+        "oil": 15,
+        "max_level": 100,
+        "stats": {
+          "hp": 2946,
+          "fp": 179,
+          "trp": 0,
+          "aa": 150,
+          "av": 0,
+          "rld": 57,
+          "acc": 17,
+          "eva": 7,
+          "spd": 33,
+          "luk": 85,
+          "asw": 0
+        }
+      }
+    },
+    "stars": 6
+  },
   "970501": {
     "id": 970501,
     "code": 30005,
