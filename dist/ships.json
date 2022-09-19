@@ -5149,6 +5149,29 @@
           "luk": 18,
           "asw": 114
         }
+      },
+      "102304": {
+        "id": 102304,
+        "tags": ["Atlanta-Class"],
+        "type": 2,
+        "rarity": 3,
+        "stars": 5,
+        "oil": 9,
+        "max_level": 100,
+        "stats": {
+          "hp": 1490,
+          "fp": 59,
+          "trp": 72,
+          "aa": 201,
+          "av": 0,
+          "rld": 66,
+          "acc": 58,
+          "eva": 28,
+          "spd": 32.5,
+          "luk": 18,
+          "asw": 114
+        },
+        "name": {"en": "Juneau Retrofit", "cn": "朱诺.改", "jp": "ジュノー改"}
       }
     },
     "stars": 5
@@ -20876,6 +20899,30 @@
           "luk": 75,
           "asw": 0
         }
+      },
+      "203124": {
+        "id": 203124,
+        "tags": ["County-Class"],
+        "type": 3,
+        "rarity": 3,
+        "stars": 5,
+        "oil": 10,
+        "max_level": 100,
+        "stats": {
+          "hp": 1453,
+          "fp": 100,
+          "trp": 99,
+          "aa": 96,
+          "av": 0,
+          "rld": 59,
+          "acc": 38,
+          "eva": 9,
+          "spd": 25.6,
+          "luk": 75,
+          "asw": 0
+        },
+        "slots": [[3], [1, 5], [6], [10], [10]],
+        "name": {"en": "Shropshire Retrofit", "cn": "什罗普郡.改", "jp": "シュロップシャー改"}
       }
     },
     "stars": 5
@@ -26479,6 +26526,107 @@
     },
     "stars": 5
   },
+  "30104": {
+    "id": 30104,
+    "code": 154,
+    "name": {"en": "Miyuki", "code": "IJN Miyuki", "cn": "深雪", "jp": "深雪"},
+    "property_hexagon": [1, 4, 0, 4, 1, 1],
+    "type": 1,
+    "armor": 1,
+    "slots": [[1], [5], [6], [10, 14], [10, 14]],
+    "nationality": 3,
+    "data": {
+      "301041": {
+        "id": 301041,
+        "tags": ["Special Type", "Musashi-Game"],
+        "type": 1,
+        "rarity": 4,
+        "stars": 2,
+        "oil": 3,
+        "max_level": 70,
+        "stats": {
+          "hp": 290,
+          "fp": 12,
+          "trp": 98,
+          "aa": 27,
+          "av": 0,
+          "rld": 78,
+          "acc": 67,
+          "eva": 72,
+          "spd": 45.6,
+          "luk": 10,
+          "asw": 47
+        }
+      },
+      "301042": {
+        "id": 301042,
+        "tags": ["Special Type", "Musashi-Game"],
+        "type": 1,
+        "rarity": 4,
+        "stars": 3,
+        "oil": 5,
+        "max_level": 80,
+        "stats": {
+          "hp": 361,
+          "fp": 15,
+          "trp": 122,
+          "aa": 34,
+          "av": 0,
+          "rld": 78,
+          "acc": 67,
+          "eva": 72,
+          "spd": 45.6,
+          "luk": 10,
+          "asw": 59
+        }
+      },
+      "301043": {
+        "id": 301043,
+        "tags": ["Special Type", "Musashi-Game"],
+        "type": 1,
+        "rarity": 4,
+        "stars": 4,
+        "oil": 7,
+        "max_level": 90,
+        "stats": {
+          "hp": 502,
+          "fp": 21,
+          "trp": 171,
+          "aa": 47,
+          "av": 0,
+          "rld": 78,
+          "acc": 67,
+          "eva": 72,
+          "spd": 45.6,
+          "luk": 10,
+          "asw": 82
+        }
+      },
+      "301044": {
+        "id": 301044,
+        "tags": ["Special Type", "Musashi-Game"],
+        "type": 1,
+        "rarity": 4,
+        "stars": 5,
+        "oil": 9,
+        "max_level": 100,
+        "stats": {
+          "hp": 714,
+          "fp": 30,
+          "trp": 244,
+          "aa": 67,
+          "av": 0,
+          "rld": 78,
+          "acc": 67,
+          "eva": 72,
+          "spd": 45.6,
+          "luk": 10,
+          "asw": 117
+        }
+      }
+    },
+    "stars": 5
+  },
   "30105": {
     "id": 30105,
     "code": 155,
@@ -28647,7 +28795,8 @@
       "code": "IJN Shimakaze",
       "cn": "岛风",
       "jp": "島風",
-      "kr": "시마카제"
+      "kr": "시마카제",
+      "tw": "島風"
     },
     "property_hexagon": [2, 5, 0, 4, 2, 2],
     "type": 1,
@@ -29748,7 +29897,8 @@
       "code": "IJN Umikaze",
       "cn": "海风",
       "jp": "海風",
-      "kr": "우미카제"
+      "kr": "우미카제",
+      "tw": "海風"
     },
     "property_hexagon": [1, 4, 0, 4, 1, 1],
     "type": 1,
@@ -29855,7 +30005,8 @@
       "code": "IJN Yamakaze",
       "cn": "山风",
       "jp": "山風",
-      "kr": "야마카제"
+      "kr": "야마카제",
+      "tw": "山風"
     },
     "property_hexagon": [1, 4, 0, 4, 1, 1],
     "type": 1,
@@ -29973,7 +30124,7 @@
     "data": {
       "301491": {
         "id": 301491,
-        "tags": ["Shiratsuyu-Class"],
+        "tags": ["Shiratsuyu-Class", "Musashi-Game"],
         "type": 1,
         "rarity": 5,
         "stars": 3,
@@ -29995,7 +30146,7 @@
       },
       "301492": {
         "id": 301492,
-        "tags": ["Shiratsuyu-Class"],
+        "tags": ["Shiratsuyu-Class", "Musashi-Game"],
         "type": 1,
         "rarity": 5,
         "stars": 4,
@@ -30017,7 +30168,7 @@
       },
       "301493": {
         "id": 301493,
-        "tags": ["Shiratsuyu-Class"],
+        "tags": ["Shiratsuyu-Class", "Musashi-Game"],
         "type": 1,
         "rarity": 5,
         "stars": 5,
@@ -30039,7 +30190,7 @@
       },
       "301494": {
         "id": 301494,
-        "tags": ["Shiratsuyu-Class"],
+        "tags": ["Shiratsuyu-Class", "Musashi-Game"],
         "type": 1,
         "rarity": 5,
         "stars": 6,
@@ -30297,7 +30448,7 @@
     "data": {
       "301571": {
         "id": 301571,
-        "tags": ["Akizuki-Class"],
+        "tags": ["Akizuki-Class", "Musashi-Game"],
         "type": 1,
         "rarity": 4,
         "stars": 2,
@@ -30319,7 +30470,7 @@
       },
       "301572": {
         "id": 301572,
-        "tags": ["Akizuki-Class"],
+        "tags": ["Akizuki-Class", "Musashi-Game"],
         "type": 1,
         "rarity": 4,
         "stars": 3,
@@ -30341,7 +30492,7 @@
       },
       "301573": {
         "id": 301573,
-        "tags": ["Akizuki-Class"],
+        "tags": ["Akizuki-Class", "Musashi-Game"],
         "type": 1,
         "rarity": 4,
         "stars": 4,
@@ -30363,7 +30514,7 @@
       },
       "301574": {
         "id": 301574,
-        "tags": ["Akizuki-Class"],
+        "tags": ["Akizuki-Class", "Musashi-Game"],
         "type": 1,
         "rarity": 4,
         "stars": 5,
@@ -31485,7 +31636,7 @@
     "data": {
       "301791": {
         "id": 301791,
-        "tags": ["Kamikaze-Class"],
+        "tags": ["Kamikaze-Class", "Musashi-Game"],
         "type": 1,
         "rarity": 3,
         "stars": 2,
@@ -31507,7 +31658,7 @@
       },
       "301792": {
         "id": 301792,
-        "tags": ["Kamikaze-Class"],
+        "tags": ["Kamikaze-Class", "Musashi-Game"],
         "type": 1,
         "rarity": 3,
         "stars": 3,
@@ -31529,7 +31680,7 @@
       },
       "301793": {
         "id": 301793,
-        "tags": ["Kamikaze-Class"],
+        "tags": ["Kamikaze-Class", "Musashi-Game"],
         "type": 1,
         "rarity": 3,
         "stars": 4,
@@ -31551,7 +31702,7 @@
       },
       "301794": {
         "id": 301794,
-        "tags": ["Kamikaze-Class"],
+        "tags": ["Kamikaze-Class", "Musashi-Game"],
         "type": 1,
         "rarity": 3,
         "stars": 5,
@@ -32053,7 +32204,7 @@
     "data": {
       "301841": {
         "id": 301841,
-        "tags": ["Akizuki-Class"],
+        "tags": ["Akizuki-Class", "Musashi-Game"],
         "type": 1,
         "rarity": 5,
         "stars": 3,
@@ -32075,7 +32226,7 @@
       },
       "301842": {
         "id": 301842,
-        "tags": ["Akizuki-Class"],
+        "tags": ["Akizuki-Class", "Musashi-Game"],
         "type": 1,
         "rarity": 5,
         "stars": 4,
@@ -32097,7 +32248,7 @@
       },
       "301843": {
         "id": 301843,
-        "tags": ["Akizuki-Class"],
+        "tags": ["Akizuki-Class", "Musashi-Game"],
         "type": 1,
         "rarity": 5,
         "stars": 5,
@@ -32119,7 +32270,7 @@
       },
       "301844": {
         "id": 301844,
-        "tags": ["Akizuki-Class"],
+        "tags": ["Akizuki-Class", "Musashi-Game"],
         "type": 1,
         "rarity": 5,
         "stars": 6,
@@ -32352,6 +32503,112 @@
           "spd": 42,
           "luk": 51,
           "asw": 110
+        }
+      }
+    },
+    "stars": 6
+  },
+  "30188": {
+    "id": 30188,
+    "code": 567,
+    "name": {
+      "en": "Wakatsuki",
+      "code": "IJN Wakatsuki",
+      "cn": "若月",
+      "jp": "若月"
+    },
+    "property_hexagon": [2, 3, 0, 4, 3, 2],
+    "type": 1,
+    "armor": 1,
+    "slots": [[1], [5], [6], [10, 14], [10, 14]],
+    "nationality": 3,
+    "data": {
+      "301881": {
+        "id": 301881,
+        "tags": ["Akizuki-Class", "Musashi-Game"],
+        "type": 1,
+        "rarity": 5,
+        "stars": 3,
+        "oil": 4,
+        "max_level": 70,
+        "stats": {
+          "hp": 409,
+          "fp": 16,
+          "trp": 74,
+          "aa": 37,
+          "av": 0,
+          "rld": 80,
+          "acc": 67,
+          "eva": 67,
+          "spd": 39.6,
+          "luk": 43,
+          "asw": 52
+        }
+      },
+      "301882": {
+        "id": 301882,
+        "tags": ["Akizuki-Class", "Musashi-Game"],
+        "type": 1,
+        "rarity": 5,
+        "stars": 4,
+        "oil": 6,
+        "max_level": 80,
+        "stats": {
+          "hp": 509,
+          "fp": 20,
+          "trp": 92,
+          "aa": 46,
+          "av": 0,
+          "rld": 80,
+          "acc": 67,
+          "eva": 67,
+          "spd": 39.6,
+          "luk": 43,
+          "asw": 65
+        }
+      },
+      "301883": {
+        "id": 301883,
+        "tags": ["Akizuki-Class", "Musashi-Game"],
+        "type": 1,
+        "rarity": 5,
+        "stars": 5,
+        "oil": 8,
+        "max_level": 90,
+        "stats": {
+          "hp": 708,
+          "fp": 28,
+          "trp": 129,
+          "aa": 64,
+          "av": 0,
+          "rld": 80,
+          "acc": 67,
+          "eva": 67,
+          "spd": 39.6,
+          "luk": 43,
+          "asw": 91
+        }
+      },
+      "301884": {
+        "id": 301884,
+        "tags": ["Akizuki-Class", "Musashi-Game"],
+        "type": 1,
+        "rarity": 5,
+        "stars": 6,
+        "oil": 10,
+        "max_level": 100,
+        "stats": {
+          "hp": 1008,
+          "fp": 39,
+          "trp": 184,
+          "aa": 91,
+          "av": 0,
+          "rld": 80,
+          "acc": 67,
+          "eva": 67,
+          "spd": 39.6,
+          "luk": 43,
+          "asw": 130
         }
       }
     },
@@ -32687,7 +32944,8 @@
       "code": "IJN Yura",
       "cn": "由良",
       "jp": "由良",
-      "kr": "유라"
+      "kr": "유라",
+      "tw": "由良"
     },
     "property_hexagon": [2, 3, 0, 3, 3, 2],
     "type": 2,
@@ -32805,7 +33063,7 @@
     "data": {
       "302081": {
         "id": 302081,
-        "tags": ["Nagara-Class"],
+        "tags": ["Nagara-Class", "Musashi-Game"],
         "type": 2,
         "rarity": 4,
         "stars": 2,
@@ -32827,7 +33085,7 @@
       },
       "302082": {
         "id": 302082,
-        "tags": ["Nagara-Class"],
+        "tags": ["Nagara-Class", "Musashi-Game"],
         "type": 2,
         "rarity": 4,
         "stars": 3,
@@ -32849,7 +33107,7 @@
       },
       "302083": {
         "id": 302083,
-        "tags": ["Nagara-Class"],
+        "tags": ["Nagara-Class", "Musashi-Game"],
         "type": 2,
         "rarity": 4,
         "stars": 4,
@@ -32871,7 +33129,7 @@
       },
       "302084": {
         "id": 302084,
-        "tags": ["Nagara-Class"],
+        "tags": ["Nagara-Class", "Musashi-Game"],
         "type": 2,
         "rarity": 4,
         "stars": 5,
@@ -33375,7 +33633,7 @@
     "data": {
       "302131": {
         "id": 302131,
-        "tags": ["Sendai-Class"],
+        "tags": ["Sendai-Class", "Musashi-Game"],
         "type": 2,
         "rarity": 4,
         "stars": 2,
@@ -33397,7 +33655,7 @@
       },
       "302132": {
         "id": 302132,
-        "tags": ["Sendai-Class"],
+        "tags": ["Sendai-Class", "Musashi-Game"],
         "type": 2,
         "rarity": 4,
         "stars": 3,
@@ -33419,7 +33677,7 @@
       },
       "302133": {
         "id": 302133,
-        "tags": ["Sendai-Class"],
+        "tags": ["Sendai-Class", "Musashi-Game"],
         "type": 2,
         "rarity": 4,
         "stars": 4,
@@ -33441,7 +33699,7 @@
       },
       "302134": {
         "id": 302134,
-        "tags": ["Sendai-Class"],
+        "tags": ["Sendai-Class", "Musashi-Game"],
         "type": 2,
         "rarity": 4,
         "stars": 5,
@@ -33805,6 +34063,107 @@
           "spd": 35.56,
           "luk": 55,
           "asw": 58
+        }
+      }
+    },
+    "stars": 6
+  },
+  "30223": {
+    "id": 30223,
+    "code": 324,
+    "name": {"en": "Sakawa", "code": "IJN Sakawa", "cn": "酒匂", "jp": "酒匂"},
+    "property_hexagon": [2, 4, 0, 3, 3, 2],
+    "type": 2,
+    "armor": 1,
+    "slots": [[2], [5], [6], [10, 14], [10, 14]],
+    "nationality": 3,
+    "data": {
+      "302231": {
+        "id": 302231,
+        "tags": ["Agano-Class", "Musashi-Game"],
+        "type": 2,
+        "rarity": 5,
+        "stars": 3,
+        "oil": 5,
+        "max_level": 70,
+        "stats": {
+          "hp": 576,
+          "fp": 31,
+          "trp": 71,
+          "aa": 63,
+          "av": 0,
+          "rld": 66,
+          "acc": 60,
+          "eva": 32,
+          "spd": 35.56,
+          "luk": 74,
+          "asw": 24
+        }
+      },
+      "302232": {
+        "id": 302232,
+        "tags": ["Agano-Class", "Musashi-Game"],
+        "type": 2,
+        "rarity": 5,
+        "stars": 4,
+        "oil": 7,
+        "max_level": 80,
+        "stats": {
+          "hp": 717,
+          "fp": 39,
+          "trp": 89,
+          "aa": 79,
+          "av": 0,
+          "rld": 66,
+          "acc": 60,
+          "eva": 32,
+          "spd": 35.56,
+          "luk": 74,
+          "asw": 30
+        }
+      },
+      "302233": {
+        "id": 302233,
+        "tags": ["Agano-Class", "Musashi-Game"],
+        "type": 2,
+        "rarity": 5,
+        "stars": 5,
+        "oil": 9,
+        "max_level": 90,
+        "stats": {
+          "hp": 998,
+          "fp": 54,
+          "trp": 124,
+          "aa": 110,
+          "av": 0,
+          "rld": 66,
+          "acc": 60,
+          "eva": 32,
+          "spd": 35.56,
+          "luk": 74,
+          "asw": 42
+        }
+      },
+      "302234": {
+        "id": 302234,
+        "tags": ["Agano-Class", "Musashi-Game"],
+        "type": 2,
+        "rarity": 5,
+        "stars": 6,
+        "oil": 11,
+        "max_level": 100,
+        "stats": {
+          "hp": 1420,
+          "fp": 78,
+          "trp": 177,
+          "aa": 156,
+          "av": 0,
+          "rld": 66,
+          "acc": 60,
+          "eva": 32,
+          "spd": 35.56,
+          "luk": 74,
+          "asw": 60
         }
       }
     },
@@ -34250,7 +34609,8 @@
       "code": "IJN Chikuma",
       "cn": "筑摩",
       "jp": "筑摩",
-      "kr": "치쿠마"
+      "kr": "치쿠마",
+      "tw": "築摩"
     },
     "property_hexagon": [4, 2, 0, 2, 2, 4],
     "type": 3,
@@ -34689,6 +35049,107 @@
           "eva": 13,
           "spd": 28.8,
           "luk": 60,
+          "asw": 0
+        }
+      }
+    },
+    "stars": 5
+  },
+  "30310": {
+    "id": 30310,
+    "code": 199,
+    "name": {"en": "Haguro", "code": "IJN Haguro", "cn": "羽黑", "jp": "羽黒"},
+    "property_hexagon": [3, 2, 0, 2, 2, 4],
+    "type": 3,
+    "armor": 2,
+    "slots": [[3], [5], [6], [10], [10]],
+    "nationality": 3,
+    "data": {
+      "303101": {
+        "id": 303101,
+        "tags": ["Myoko-Class", "Musashi-Game", "Haguro"],
+        "type": 3,
+        "rarity": 4,
+        "stars": 2,
+        "oil": 5,
+        "max_level": 70,
+        "stats": {
+          "hp": 817,
+          "fp": 44,
+          "trp": 39,
+          "aa": 38,
+          "av": 0,
+          "rld": 60,
+          "acc": 43,
+          "eva": 13,
+          "spd": 28.8,
+          "luk": 82,
+          "asw": 0
+        }
+      },
+      "303102": {
+        "id": 303102,
+        "tags": ["Myoko-Class", "Musashi-Game", "Haguro"],
+        "type": 3,
+        "rarity": 4,
+        "stars": 3,
+        "oil": 7,
+        "max_level": 80,
+        "stats": {
+          "hp": 1016,
+          "fp": 55,
+          "trp": 49,
+          "aa": 47,
+          "av": 0,
+          "rld": 60,
+          "acc": 43,
+          "eva": 13,
+          "spd": 28.8,
+          "luk": 82,
+          "asw": 0
+        }
+      },
+      "303103": {
+        "id": 303103,
+        "tags": ["Myoko-Class", "Musashi-Game", "Haguro"],
+        "type": 3,
+        "rarity": 4,
+        "stars": 4,
+        "oil": 9,
+        "max_level": 90,
+        "stats": {
+          "hp": 1415,
+          "fp": 77,
+          "trp": 68,
+          "aa": 66,
+          "av": 0,
+          "rld": 60,
+          "acc": 43,
+          "eva": 13,
+          "spd": 28.8,
+          "luk": 82,
+          "asw": 0
+        }
+      },
+      "303104": {
+        "id": 303104,
+        "tags": ["Myoko-Class", "Musashi-Game", "Haguro"],
+        "type": 3,
+        "rarity": 4,
+        "stars": 5,
+        "oil": 11,
+        "max_level": 100,
+        "stats": {
+          "hp": 2013,
+          "fp": 109,
+          "trp": 96,
+          "aa": 94,
+          "av": 0,
+          "rld": 60,
+          "acc": 43,
+          "eva": 13,
+          "spd": 28.8,
+          "luk": 82,
           "asw": 0
         }
       }
@@ -35384,7 +35845,7 @@
     "data": {
       "304011": {
         "id": 304011,
-        "tags": ["Kongo-Class"],
+        "tags": ["Kongo-Class", "Musashi-Game"],
         "type": 4,
         "rarity": 4,
         "stars": 2,
@@ -35406,7 +35867,7 @@
       },
       "304012": {
         "id": 304012,
-        "tags": ["Kongo-Class"],
+        "tags": ["Kongo-Class", "Musashi-Game"],
         "type": 4,
         "rarity": 4,
         "stars": 3,
@@ -35428,7 +35889,7 @@
       },
       "304013": {
         "id": 304013,
-        "tags": ["Kongo-Class"],
+        "tags": ["Kongo-Class", "Musashi-Game"],
         "type": 4,
         "rarity": 4,
         "stars": 4,
@@ -35450,7 +35911,7 @@
       },
       "304014": {
         "id": 304014,
-        "tags": ["Kongo-Class"],
+        "tags": ["Kongo-Class", "Musashi-Game"],
         "type": 4,
         "rarity": 4,
         "stars": 5,
@@ -35492,7 +35953,7 @@
     "data": {
       "304021": {
         "id": 304021,
-        "tags": ["Kongo-Class"],
+        "tags": ["Kongo-Class", "Musashi-Game"],
         "type": 4,
         "rarity": 4,
         "stars": 2,
@@ -35514,7 +35975,7 @@
       },
       "304022": {
         "id": 304022,
-        "tags": ["Kongo-Class"],
+        "tags": ["Kongo-Class", "Musashi-Game"],
         "type": 4,
         "rarity": 4,
         "stars": 3,
@@ -35536,7 +35997,7 @@
       },
       "304023": {
         "id": 304023,
-        "tags": ["Kongo-Class"],
+        "tags": ["Kongo-Class", "Musashi-Game"],
         "type": 4,
         "rarity": 4,
         "stars": 4,
@@ -35558,7 +36019,7 @@
       },
       "304024": {
         "id": 304024,
-        "tags": ["Kongo-Class"],
+        "tags": ["Kongo-Class", "Musashi-Game"],
         "type": 4,
         "rarity": 4,
         "stars": 5,
@@ -35600,7 +36061,7 @@
     "data": {
       "304031": {
         "id": 304031,
-        "tags": ["Kongo-Class"],
+        "tags": ["Kongo-Class", "Musashi-Game"],
         "type": 4,
         "rarity": 4,
         "stars": 2,
@@ -35622,7 +36083,7 @@
       },
       "304032": {
         "id": 304032,
-        "tags": ["Kongo-Class"],
+        "tags": ["Kongo-Class", "Musashi-Game"],
         "type": 4,
         "rarity": 4,
         "stars": 3,
@@ -35644,7 +36105,7 @@
       },
       "304033": {
         "id": 304033,
-        "tags": ["Kongo-Class"],
+        "tags": ["Kongo-Class", "Musashi-Game"],
         "type": 4,
         "rarity": 4,
         "stars": 4,
@@ -35666,7 +36127,7 @@
       },
       "304034": {
         "id": 304034,
-        "tags": ["Kongo-Class"],
+        "tags": ["Kongo-Class", "Musashi-Game"],
         "type": 4,
         "rarity": 4,
         "stars": 5,
@@ -35708,7 +36169,7 @@
     "data": {
       "304041": {
         "id": 304041,
-        "tags": ["Kongo-Class"],
+        "tags": ["Kongo-Class", "Musashi-Game"],
         "type": 4,
         "rarity": 4,
         "stars": 2,
@@ -35730,7 +36191,7 @@
       },
       "304042": {
         "id": 304042,
-        "tags": ["Kongo-Class"],
+        "tags": ["Kongo-Class", "Musashi-Game"],
         "type": 4,
         "rarity": 4,
         "stars": 3,
@@ -35752,7 +36213,7 @@
       },
       "304043": {
         "id": 304043,
-        "tags": ["Kongo-Class"],
+        "tags": ["Kongo-Class", "Musashi-Game"],
         "type": 4,
         "rarity": 4,
         "stars": 4,
@@ -35774,7 +36235,7 @@
       },
       "304044": {
         "id": 304044,
-        "tags": ["Kongo-Class"],
+        "tags": ["Kongo-Class", "Musashi-Game"],
         "type": 4,
         "rarity": 4,
         "stars": 5,
@@ -36278,7 +36739,7 @@
     "data": {
       "305021": {
         "id": 305021,
-        "tags": ["Fuso-Class"],
+        "tags": ["Fuso-Class", "Musashi-Game"],
         "type": 5,
         "rarity": 3,
         "stars": 2,
@@ -36300,7 +36761,7 @@
       },
       "305022": {
         "id": 305022,
-        "tags": ["Fuso-Class"],
+        "tags": ["Fuso-Class", "Musashi-Game"],
         "type": 5,
         "rarity": 3,
         "stars": 3,
@@ -36322,7 +36783,7 @@
       },
       "305023": {
         "id": 305023,
-        "tags": ["Fuso-Class"],
+        "tags": ["Fuso-Class", "Musashi-Game"],
         "type": 5,
         "rarity": 3,
         "stars": 4,
@@ -36344,7 +36805,7 @@
       },
       "305024": {
         "id": 305024,
-        "tags": ["Fuso-Class"],
+        "tags": ["Fuso-Class", "Musashi-Game"],
         "type": 5,
         "rarity": 3,
         "stars": 5,
@@ -36715,7 +37176,7 @@
     "data": {
       "305051": {
         "id": 305051,
-        "tags": ["Nagato-Class", "Big Seven"],
+        "tags": ["Nagato-Class", "Big Seven", "Musashi-Game"],
         "type": 5,
         "rarity": 5,
         "stars": 3,
@@ -36737,7 +37198,7 @@
       },
       "305052": {
         "id": 305052,
-        "tags": ["Nagato-Class", "Big Seven"],
+        "tags": ["Nagato-Class", "Big Seven", "Musashi-Game"],
         "type": 5,
         "rarity": 5,
         "stars": 4,
@@ -36759,7 +37220,7 @@
       },
       "305053": {
         "id": 305053,
-        "tags": ["Nagato-Class", "Big Seven"],
+        "tags": ["Nagato-Class", "Big Seven", "Musashi-Game"],
         "type": 5,
         "rarity": 5,
         "stars": 5,
@@ -36781,7 +37242,7 @@
       },
       "305054": {
         "id": 305054,
-        "tags": ["Nagato-Class", "Big Seven"],
+        "tags": ["Nagato-Class", "Big Seven", "Musashi-Game"],
         "type": 5,
         "rarity": 5,
         "stars": 6,
@@ -37172,6 +37633,107 @@
     },
     "stars": 6
   },
+  "30510": {
+    "id": 30510,
+    "code": 217,
+    "name": {"en": "Musashi", "code": "IJN Musashi", "cn": "武藏", "jp": "武蔵"},
+    "property_hexagon": [5, 0, 0, 1, 2, 5],
+    "type": 5,
+    "armor": 3,
+    "slots": [[4], [1, 2], [6], [10], [10]],
+    "nationality": 3,
+    "data": {
+      "305101": {
+        "id": 305101,
+        "tags": ["Yamato-Class", "Musashi", "Musashi-Game"],
+        "type": 5,
+        "rarity": 6,
+        "stars": 3,
+        "oil": 17,
+        "max_level": 100,
+        "stats": {
+          "hp": 1819,
+          "fp": 91,
+          "trp": 0,
+          "aa": 43,
+          "av": 0,
+          "rld": 57,
+          "acc": 22,
+          "eva": 7,
+          "spd": 26.5,
+          "luk": 33,
+          "asw": 0
+        }
+      },
+      "305102": {
+        "id": 305102,
+        "tags": ["Yamato-Class", "Musashi", "Musashi-Game"],
+        "type": 5,
+        "rarity": 6,
+        "stars": 4,
+        "oil": 17,
+        "max_level": 100,
+        "stats": {
+          "hp": 2263,
+          "fp": 114,
+          "trp": 0,
+          "aa": 53,
+          "av": 0,
+          "rld": 57,
+          "acc": 22,
+          "eva": 7,
+          "spd": 26.5,
+          "luk": 33,
+          "asw": 0
+        }
+      },
+      "305103": {
+        "id": 305103,
+        "tags": ["Yamato-Class", "Musashi", "Musashi-Game"],
+        "type": 5,
+        "rarity": 6,
+        "stars": 5,
+        "oil": 17,
+        "max_level": 100,
+        "stats": {
+          "hp": 3150,
+          "fp": 159,
+          "trp": 0,
+          "aa": 74,
+          "av": 0,
+          "rld": 57,
+          "acc": 22,
+          "eva": 7,
+          "spd": 26.5,
+          "luk": 33,
+          "asw": 0
+        }
+      },
+      "305104": {
+        "id": 305104,
+        "tags": ["Yamato-Class", "Musashi", "Musashi-Game"],
+        "type": 5,
+        "rarity": 6,
+        "stars": 6,
+        "oil": 17,
+        "max_level": 100,
+        "stats": {
+          "hp": 4480,
+          "fp": 226,
+          "trp": 0,
+          "aa": 106,
+          "av": 0,
+          "rld": 57,
+          "acc": 22,
+          "eva": 7,
+          "spd": 26.5,
+          "luk": 33,
+          "asw": 0
+        }
+      }
+    },
+    "stars": 6
+  },
   "30511": {
     "id": 30511,
     "code": 320,
@@ -37191,7 +37753,7 @@
     "data": {
       "305111": {
         "id": 305111,
-        "tags": ["Mikasa"],
+        "tags": ["Mikasa", "Musashi-Game"],
         "type": 5,
         "rarity": 5,
         "stars": 3,
@@ -37213,7 +37775,7 @@
       },
       "305112": {
         "id": 305112,
-        "tags": ["Mikasa"],
+        "tags": ["Mikasa", "Musashi-Game"],
         "type": 5,
         "rarity": 5,
         "stars": 4,
@@ -37235,7 +37797,7 @@
       },
       "305113": {
         "id": 305113,
-        "tags": ["Mikasa"],
+        "tags": ["Mikasa", "Musashi-Game"],
         "type": 5,
         "rarity": 5,
         "stars": 5,
@@ -37257,7 +37819,7 @@
       },
       "305114": {
         "id": 305114,
-        "tags": ["Mikasa"],
+        "tags": ["Mikasa", "Musashi-Game"],
         "type": 5,
         "rarity": 5,
         "stars": 6,
@@ -38112,7 +38674,7 @@
     "data": {
       "306071": {
         "id": 306071,
-        "tags": ["Ryuhou"],
+        "tags": ["Ryuhou", "Musashi-Game"],
         "type": 6,
         "rarity": 5,
         "stars": 3,
@@ -38134,7 +38696,7 @@
       },
       "306072": {
         "id": 306072,
-        "tags": ["Ryuhou"],
+        "tags": ["Ryuhou", "Musashi-Game"],
         "type": 6,
         "rarity": 5,
         "stars": 4,
@@ -38156,7 +38718,7 @@
       },
       "306073": {
         "id": 306073,
-        "tags": ["Ryuhou"],
+        "tags": ["Ryuhou", "Musashi-Game"],
         "type": 6,
         "rarity": 5,
         "stars": 5,
@@ -38178,7 +38740,7 @@
       },
       "306074": {
         "id": 306074,
-        "tags": ["Ryuhou"],
+        "tags": ["Ryuhou", "Musashi-Game"],
         "type": 6,
         "rarity": 5,
         "stars": 6,
@@ -38220,7 +38782,7 @@
     "data": {
       "306081": {
         "id": 306081,
-        "tags": ["Zuihou-Class"],
+        "tags": ["Zuihou-Class", "Musashi-Game"],
         "type": 6,
         "rarity": 4,
         "stars": 2,
@@ -38242,7 +38804,7 @@
       },
       "306082": {
         "id": 306082,
-        "tags": ["Zuihou-Class"],
+        "tags": ["Zuihou-Class", "Musashi-Game"],
         "type": 6,
         "rarity": 4,
         "stars": 3,
@@ -38264,7 +38826,7 @@
       },
       "306083": {
         "id": 306083,
-        "tags": ["Zuihou-Class"],
+        "tags": ["Zuihou-Class", "Musashi-Game"],
         "type": 6,
         "rarity": 4,
         "stars": 4,
@@ -38286,7 +38848,7 @@
       },
       "306084": {
         "id": 306084,
-        "tags": ["Zuihou-Class"],
+        "tags": ["Zuihou-Class", "Musashi-Game"],
         "type": 6,
         "rarity": 4,
         "stars": 5,
@@ -38328,7 +38890,7 @@
     "data": {
       "306091": {
         "id": 306091,
-        "tags": ["Zuihou-Class"],
+        "tags": ["Zuihou-Class", "Musashi-Game"],
         "type": 6,
         "rarity": 4,
         "stars": 2,
@@ -38350,7 +38912,7 @@
       },
       "306092": {
         "id": 306092,
-        "tags": ["Zuihou-Class"],
+        "tags": ["Zuihou-Class", "Musashi-Game"],
         "type": 6,
         "rarity": 4,
         "stars": 3,
@@ -38372,7 +38934,7 @@
       },
       "306093": {
         "id": 306093,
-        "tags": ["Zuihou-Class"],
+        "tags": ["Zuihou-Class", "Musashi-Game"],
         "type": 6,
         "rarity": 4,
         "stars": 4,
@@ -38394,7 +38956,7 @@
       },
       "306094": {
         "id": 306094,
-        "tags": ["Zuihou-Class"],
+        "tags": ["Zuihou-Class", "Musashi-Game"],
         "type": 6,
         "rarity": 4,
         "stars": 5,
@@ -38436,7 +38998,7 @@
     "data": {
       "307011": {
         "id": 307011,
-        "tags": ["Amagi-Class", "1st-airfleet", "Akagi"],
+        "tags": ["Amagi-Class", "1st-airfleet", "Akagi", "Musashi-Game"],
         "type": 7,
         "rarity": 5,
         "stars": 3,
@@ -38458,7 +39020,7 @@
       },
       "307012": {
         "id": 307012,
-        "tags": ["Amagi-Class", "1st-airfleet", "Akagi"],
+        "tags": ["Amagi-Class", "1st-airfleet", "Akagi", "Musashi-Game"],
         "type": 7,
         "rarity": 5,
         "stars": 4,
@@ -38480,7 +39042,7 @@
       },
       "307013": {
         "id": 307013,
-        "tags": ["Amagi-Class", "1st-airfleet", "Akagi"],
+        "tags": ["Amagi-Class", "1st-airfleet", "Akagi", "Musashi-Game"],
         "type": 7,
         "rarity": 5,
         "stars": 5,
@@ -38502,7 +39064,7 @@
       },
       "307014": {
         "id": 307014,
-        "tags": ["Amagi-Class", "1st-airfleet", "Akagi"],
+        "tags": ["Amagi-Class", "1st-airfleet", "Akagi", "Musashi-Game"],
         "type": 7,
         "rarity": 5,
         "stars": 6,
@@ -38566,7 +39128,7 @@
     "data": {
       "307021": {
         "id": 307021,
-        "tags": ["Tosa-Class", "1st-airfleet", "Kaga"],
+        "tags": ["Tosa-Class", "1st-airfleet", "Kaga", "Musashi-Game"],
         "type": 7,
         "rarity": 5,
         "stars": 3,
@@ -38588,7 +39150,7 @@
       },
       "307022": {
         "id": 307022,
-        "tags": ["Tosa-Class", "1st-airfleet", "Kaga"],
+        "tags": ["Tosa-Class", "1st-airfleet", "Kaga", "Musashi-Game"],
         "type": 7,
         "rarity": 5,
         "stars": 4,
@@ -38610,7 +39172,7 @@
       },
       "307023": {
         "id": 307023,
-        "tags": ["Tosa-Class", "1st-airfleet", "Kaga"],
+        "tags": ["Tosa-Class", "1st-airfleet", "Kaga", "Musashi-Game"],
         "type": 7,
         "rarity": 5,
         "stars": 5,
@@ -38632,7 +39194,7 @@
       },
       "307024": {
         "id": 307024,
-        "tags": ["Tosa-Class", "1st-airfleet", "Kaga"],
+        "tags": ["Tosa-Class", "1st-airfleet", "Kaga", "Musashi-Game"],
         "type": 7,
         "rarity": 5,
         "stars": 6,
@@ -38913,7 +39475,7 @@
     "data": {
       "307051": {
         "id": 307051,
-        "tags": ["5th-airfleet", "Shokaku"],
+        "tags": ["5th-airfleet", "Shokaku", "Musashi-Game"],
         "type": 7,
         "rarity": 5,
         "stars": 3,
@@ -38935,7 +39497,7 @@
       },
       "307052": {
         "id": 307052,
-        "tags": ["5th-airfleet", "Shokaku"],
+        "tags": ["5th-airfleet", "Shokaku", "Musashi-Game"],
         "type": 7,
         "rarity": 5,
         "stars": 4,
@@ -38957,7 +39519,7 @@
       },
       "307053": {
         "id": 307053,
-        "tags": ["5th-airfleet", "Shokaku"],
+        "tags": ["5th-airfleet", "Shokaku", "Musashi-Game"],
         "type": 7,
         "rarity": 5,
         "stars": 5,
@@ -38979,7 +39541,7 @@
       },
       "307054": {
         "id": 307054,
-        "tags": ["5th-airfleet", "Shokaku"],
+        "tags": ["5th-airfleet", "Shokaku", "Musashi-Game"],
         "type": 7,
         "rarity": 5,
         "stars": 6,
@@ -39750,7 +40312,8 @@
       "code": "IJN Katsuragi",
       "cn": "葛城",
       "jp": "葛城",
-      "kr": "카츠라기"
+      "kr": "카츠라기",
+      "tw": "葛城"
     },
     "property_hexagon": [0, 0, 5, 2, 3, 3],
     "type": 7,
@@ -43152,7 +43715,7 @@
     "data": {
       "402021": {
         "id": 402021,
-        "tags": ["Konigsberg-Class"],
+        "tags": ["Konigsberg-Class", "Karlsruhe"],
         "type": 2,
         "rarity": 2,
         "stars": 1,
@@ -43174,7 +43737,7 @@
       },
       "402022": {
         "id": 402022,
-        "tags": ["Konigsberg-Class"],
+        "tags": ["Konigsberg-Class", "Karlsruhe"],
         "type": 2,
         "rarity": 2,
         "stars": 2,
@@ -43196,7 +43759,7 @@
       },
       "402023": {
         "id": 402023,
-        "tags": ["Konigsberg-Class"],
+        "tags": ["Konigsberg-Class", "Karlsruhe"],
         "type": 2,
         "rarity": 2,
         "stars": 3,
@@ -43218,7 +43781,7 @@
       },
       "402024": {
         "id": 402024,
-        "tags": ["Konigsberg-Class"],
+        "tags": ["Konigsberg-Class", "Karlsruhe"],
         "type": 2,
         "rarity": 2,
         "stars": 4,
