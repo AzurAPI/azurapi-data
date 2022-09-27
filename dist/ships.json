@@ -5171,7 +5171,12 @@
           "luk": 18,
           "asw": 114
         },
-        "name": {"en": "Juneau Retrofit", "cn": "朱诺.改", "jp": "ジュノー改"}
+        "name": {
+          "en": "Juneau Retrofit",
+          "cn": "朱诺.改",
+          "jp": "ジュノー改",
+          "kr": "쥬노·改"
+        }
       }
     },
     "stars": 5
@@ -20922,7 +20927,12 @@
           "asw": 0
         },
         "slots": [[3], [1, 5], [6], [10], [10]],
-        "name": {"en": "Shropshire Retrofit", "cn": "什罗普郡.改", "jp": "シュロップシャー改"}
+        "name": {
+          "en": "Shropshire Retrofit",
+          "cn": "什罗普郡.改",
+          "jp": "シュロップシャー改",
+          "kr": "슈롭셔·改"
+        }
       }
     },
     "stars": 5
@@ -26529,7 +26539,13 @@
   "30104": {
     "id": 30104,
     "code": 154,
-    "name": {"en": "Miyuki", "code": "IJN Miyuki", "cn": "深雪", "jp": "深雪"},
+    "name": {
+      "en": "Miyuki",
+      "code": "IJN Miyuki",
+      "cn": "深雪",
+      "jp": "深雪",
+      "kr": "미유키"
+    },
     "property_hexagon": [1, 4, 0, 4, 1, 1],
     "type": 1,
     "armor": 1,
@@ -32515,7 +32531,8 @@
       "en": "Wakatsuki",
       "code": "IJN Wakatsuki",
       "cn": "若月",
-      "jp": "若月"
+      "jp": "若月",
+      "kr": "와카츠키"
     },
     "property_hexagon": [2, 3, 0, 4, 3, 2],
     "type": 1,
@@ -34071,7 +34088,13 @@
   "30223": {
     "id": 30223,
     "code": 324,
-    "name": {"en": "Sakawa", "code": "IJN Sakawa", "cn": "酒匂", "jp": "酒匂"},
+    "name": {
+      "en": "Sakawa",
+      "code": "IJN Sakawa",
+      "cn": "酒匂",
+      "jp": "酒匂",
+      "kr": "사카와"
+    },
     "property_hexagon": [2, 4, 0, 3, 3, 2],
     "type": 2,
     "armor": 1,
@@ -35058,7 +35081,13 @@
   "30310": {
     "id": 30310,
     "code": 199,
-    "name": {"en": "Haguro", "code": "IJN Haguro", "cn": "羽黑", "jp": "羽黒"},
+    "name": {
+      "en": "Haguro",
+      "code": "IJN Haguro",
+      "cn": "羽黑",
+      "jp": "羽黒",
+      "kr": "하구로"
+    },
     "property_hexagon": [3, 2, 0, 2, 2, 4],
     "type": 3,
     "armor": 2,
@@ -37636,7 +37665,13 @@
   "30510": {
     "id": 30510,
     "code": 217,
-    "name": {"en": "Musashi", "code": "IJN Musashi", "cn": "武藏", "jp": "武蔵"},
+    "name": {
+      "en": "Musashi",
+      "code": "IJN Musashi",
+      "cn": "武藏",
+      "jp": "武蔵",
+      "kr": "무사시"
+    },
     "property_hexagon": [5, 0, 0, 1, 2, 5],
     "type": 5,
     "armor": 3,
@@ -42172,7 +42207,8 @@
       "en": "Z16",
       "code": "KMS Friedrich Eckoldt",
       "cn": "Z16",
-      "jp": "Z16"
+      "jp": "Z16",
+      "kr": "Z16"
     },
     "property_hexagon": [1, 4, 0, 4, 1, 1],
     "type": 1,
@@ -44594,7 +44630,8 @@
       "en": "Blücher",
       "code": "KMS Blücher",
       "cn": "布吕歇尔",
-      "jp": "ブリュッヒャー"
+      "jp": "ブリュッヒャー",
+      "kr": "블뤼허"
     },
     "property_hexagon": [4, 2, 0, 2, 3, 4],
     "type": 3,
@@ -46186,7 +46223,8 @@
       "en": "Brünhilde",
       "code": "KMS Brünhilde",
       "cn": "布伦希尔德",
-      "jp": "ブリュンヒルデ"
+      "jp": "ブリュンヒルデ",
+      "kr": "브륀힐드"
     },
     "property_hexagon": [4, 2, 0, 1, 2, 4],
     "type": 4,
