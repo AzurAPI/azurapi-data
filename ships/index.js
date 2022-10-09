@@ -85,6 +85,7 @@ function readFilesFromLanguage(lang = "EN") {
             .replace(/'/g, '')
             .replace('.META', ' META')
             .replace('Hiryu ', 'Hiryuu ')
+            .replace('Trento ', 'Terento ')
             .replace(/Fuso($| )/, 'Fusou$1')
         ;// special cases
         stat.name = stat.name.trim();
