@@ -1759,6 +1759,29 @@
           "luk": 65,
           "asw": 0
         }
+      },
+      "900358": {
+        "id": 900358,
+        "tags": ["Benson-Class"],
+        "type": 5,
+        "rarity": 4,
+        "stars": 5,
+        "oil": 9,
+        "max_level": 100,
+        "stats": {
+          "hp": 786,
+          "fp": 47,
+          "trp": 140,
+          "aa": 81,
+          "av": 0,
+          "rld": 81,
+          "acc": 75,
+          "eva": 60,
+          "spd": 45,
+          "luk": 18,
+          "asw": 122
+        },
+        "slots": [[1], [1], [6], [10, 14], [10, 14]]
       }
     },
     "stars": 5
@@ -6526,6 +6549,29 @@
           "luk": 33,
           "asw": 64
         }
+      },
+      "900353": {
+        "id": 900353,
+        "tags": ["Brooklyn-Class", "Helena-Chan", "Helena", "special"],
+        "type": 2,
+        "rarity": 4,
+        "stars": 5,
+        "oil": 10,
+        "max_level": 100,
+        "stats": {
+          "hp": 1375,
+          "fp": 77,
+          "trp": 0,
+          "aa": 148,
+          "av": 0,
+          "rld": 68,
+          "acc": 59,
+          "eva": 28,
+          "spd": 32.5,
+          "luk": 33,
+          "asw": 64
+        },
+        "name": {"jp": "リトル·ヘレナ"}
       }
     },
     "stars": 5
@@ -6634,6 +6680,29 @@
           "luk": 71,
           "asw": 60
         }
+      },
+      "900352": {
+        "id": 900352,
+        "tags": ["Cleveland-Class", "Cleveland-Chan", "special"],
+        "type": 2,
+        "rarity": 4,
+        "stars": 5,
+        "oil": 10,
+        "max_level": 100,
+        "stats": {
+          "hp": 1546,
+          "fp": 74,
+          "trp": 0,
+          "aa": 151,
+          "av": 0,
+          "rld": 66,
+          "acc": 54,
+          "eva": 30,
+          "spd": 32.5,
+          "luk": 71,
+          "asw": 60
+        },
+        "name": {"jp": "リトル·クリーブランド"}
       }
     },
     "stars": 5
@@ -6742,6 +6811,29 @@
           "luk": 85,
           "asw": 117
         }
+      },
+      "900354": {
+        "id": 900354,
+        "tags": ["Atlanta-Class", "Helena-Chan", "Cleveland-Chan", "special"],
+        "type": 2,
+        "rarity": 4,
+        "stars": 5,
+        "oil": 10,
+        "max_level": 100,
+        "stats": {
+          "hp": 1367,
+          "fp": 60,
+          "trp": 74,
+          "aa": 207,
+          "av": 0,
+          "rld": 67,
+          "acc": 58,
+          "eva": 28,
+          "spd": 32.5,
+          "luk": 85,
+          "asw": 117
+        },
+        "name": {"jp": "リトル·サンディエゴ"}
       }
     },
     "stars": 5
@@ -13533,6 +13625,29 @@
           "luk": 93,
           "asw": 0
         }
+      },
+      "900355": {
+        "id": 900355,
+        "tags": ["Yorktown-Class", "special"],
+        "type": 7,
+        "rarity": 4,
+        "stars": 5,
+        "oil": 12,
+        "max_level": 100,
+        "stats": {
+          "hp": 2422,
+          "fp": 0,
+          "trp": 0,
+          "aa": 139,
+          "av": 192,
+          "rld": 43,
+          "acc": 32,
+          "eva": 13,
+          "spd": 32.5,
+          "luk": 93,
+          "asw": 0
+        },
+        "name": {"jp": "リトル·エンタープライズ"}
       }
     },
     "stars": 5
@@ -16384,6 +16499,28 @@
           "asw": 0
         },
         "name": {"tw": "标枪"}
+      },
+      "900359": {
+        "id": 900359,
+        "tags": ["J-Class", "Jersey Skill"],
+        "type": 1,
+        "rarity": 4,
+        "stars": 5,
+        "oil": 9,
+        "max_level": 100,
+        "stats": {
+          "hp": 628,
+          "fp": 37,
+          "trp": 176,
+          "aa": 74,
+          "av": 0,
+          "rld": 76,
+          "acc": 71,
+          "eva": 78,
+          "spd": 43.2,
+          "luk": 65,
+          "asw": 132
+        }
       }
     },
     "stars": 5
@@ -25239,6 +25376,29 @@
           "luk": 44,
           "asw": 0
         }
+      },
+      "900357": {
+        "id": 900357,
+        "tags": ["Illustrious-Class", "Armor-CV", "special"],
+        "type": 7,
+        "rarity": 4,
+        "stars": 5,
+        "oil": 12,
+        "max_level": 100,
+        "stats": {
+          "hp": 2507,
+          "fp": 0,
+          "trp": 0,
+          "aa": 123,
+          "av": 179,
+          "rld": 41,
+          "acc": 29,
+          "eva": 13,
+          "spd": 30.5,
+          "luk": 44,
+          "asw": 0
+        },
+        "name": {"jp": "リトル·イラストリアス"}
       }
     },
     "stars": 5
@@ -26790,6 +26950,28 @@
           "asw": 0
         },
         "name": {"tw": "绫波"}
+      },
+      "900360": {
+        "id": 900360,
+        "tags": ["Special Type"],
+        "type": 1,
+        "rarity": 4,
+        "stars": 5,
+        "oil": 9,
+        "max_level": 100,
+        "stats": {
+          "hp": 714,
+          "fp": 30,
+          "trp": 244,
+          "aa": 67,
+          "av": 0,
+          "rld": 78,
+          "acc": 67,
+          "eva": 72,
+          "spd": 45.6,
+          "luk": 36,
+          "asw": 124
+        }
       }
     },
     "stars": 5
@@ -40119,6 +40301,28 @@
           "luk": 42,
           "asw": 0
         }
+      },
+      "900356": {
+        "id": 900356,
+        "tags": ["Amagi-Class", "1st-airfleet", "special", "Akagi"],
+        "type": 7,
+        "rarity": 4,
+        "stars": 5,
+        "oil": 12,
+        "max_level": 100,
+        "stats": {
+          "hp": 2654,
+          "fp": 0,
+          "trp": 0,
+          "aa": 145,
+          "av": 186,
+          "rld": 46,
+          "acc": 31,
+          "eva": 13,
+          "spd": 31.5,
+          "luk": 42,
+          "asw": 0
+        }
       }
     },
     "stars": 5
@@ -42863,6 +43067,28 @@
           "spd": 45,
           "luk": 65,
           "asw": 0
+        }
+      },
+      "900361": {
+        "id": 900361,
+        "tags": ["Z-Class"],
+        "type": 1,
+        "rarity": 4,
+        "stars": 5,
+        "oil": 9,
+        "max_level": 100,
+        "stats": {
+          "hp": 851,
+          "fp": 55,
+          "trp": 152,
+          "aa": 69,
+          "av": 0,
+          "rld": 73,
+          "acc": 64,
+          "eva": 58,
+          "spd": 42,
+          "luk": 65,
+          "asw": 123
         }
       }
     },
@@ -45715,6 +45941,112 @@
           "eva": 9,
           "spd": 25.6,
           "luk": 78,
+          "asw": 0
+        }
+      }
+    },
+    "stars": 5
+  },
+  "40313": {
+    "id": 40313,
+    "code": 568,
+    "name": {
+      "en": "Little Spee",
+      "code": "KMS Admiral Graf Spee",
+      "cn": "小斯佩",
+      "jp": "シュペーちゃん"
+    },
+    "property_hexagon": [4, 2, 0, 2, 2, 4],
+    "type": 3,
+    "armor": 2,
+    "slots": [[3, 11], [5], [6], [10], [10]],
+    "nationality": 4,
+    "data": {
+      "403131": {
+        "id": 403131,
+        "tags": ["Deutschland-Class", "special"],
+        "type": 3,
+        "rarity": 4,
+        "stars": 2,
+        "oil": 5,
+        "max_level": 100,
+        "stats": {
+          "hp": 740,
+          "fp": 56,
+          "trp": 41,
+          "aa": 29,
+          "av": 0,
+          "rld": 64,
+          "acc": 43,
+          "eva": 7,
+          "spd": 22.8,
+          "luk": 36,
+          "asw": 0
+        }
+      },
+      "403132": {
+        "id": 403132,
+        "tags": ["Deutschland-Class", "special"],
+        "type": 3,
+        "rarity": 4,
+        "stars": 3,
+        "oil": 7,
+        "max_level": 100,
+        "stats": {
+          "hp": 920,
+          "fp": 70,
+          "trp": 51,
+          "aa": 36,
+          "av": 0,
+          "rld": 64,
+          "acc": 43,
+          "eva": 7,
+          "spd": 22.8,
+          "luk": 36,
+          "asw": 0
+        }
+      },
+      "403133": {
+        "id": 403133,
+        "tags": ["Deutschland-Class", "special"],
+        "type": 3,
+        "rarity": 4,
+        "stars": 4,
+        "oil": 9,
+        "max_level": 100,
+        "stats": {
+          "hp": 1281,
+          "fp": 97,
+          "trp": 71,
+          "aa": 50,
+          "av": 0,
+          "rld": 64,
+          "acc": 43,
+          "eva": 7,
+          "spd": 22.8,
+          "luk": 36,
+          "asw": 0
+        }
+      },
+      "403134": {
+        "id": 403134,
+        "tags": ["Deutschland-Class", "special"],
+        "type": 3,
+        "rarity": 4,
+        "stars": 5,
+        "oil": 11,
+        "max_level": 100,
+        "stats": {
+          "hp": 1822,
+          "fp": 139,
+          "trp": 101,
+          "aa": 71,
+          "av": 0,
+          "rld": 64,
+          "acc": 43,
+          "eva": 7,
+          "spd": 22.8,
+          "luk": 36,
           "asw": 0
         }
       }
