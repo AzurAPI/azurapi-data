@@ -17520,7 +17520,7 @@
     "data": {
       "201341": {
         "id": 201341,
-        "tags": ["J-Class", "Jervis"],
+        "tags": ["J-Class", "Jervis", "Jersey Skill"],
         "type": 1,
         "rarity": 5,
         "stars": 3,
@@ -17542,7 +17542,7 @@
       },
       "201342": {
         "id": 201342,
-        "tags": ["J-Class", "Jervis"],
+        "tags": ["J-Class", "Jervis", "Jersey Skill"],
         "type": 1,
         "rarity": 5,
         "stars": 4,
@@ -17564,7 +17564,7 @@
       },
       "201343": {
         "id": 201343,
-        "tags": ["J-Class", "Jervis"],
+        "tags": ["J-Class", "Jervis", "Jersey Skill"],
         "type": 1,
         "rarity": 5,
         "stars": 5,
@@ -17586,7 +17586,7 @@
       },
       "201344": {
         "id": 201344,
-        "tags": ["J-Class", "Jervis"],
+        "tags": ["J-Class", "Jervis", "Jersey Skill"],
         "type": 1,
         "rarity": 5,
         "stars": 6,
@@ -17604,6 +17604,107 @@
           "spd": 43.2,
           "luk": 92,
           "asw": 150
+        }
+      }
+    },
+    "stars": 6
+  },
+  "20135": {
+    "id": 20135,
+    "code": 569,
+    "name": {"en": "Janus", "code": "HMS Janus", "cn": "雅努斯", "jp": "ジェーナス"},
+    "property_hexagon": [2, 4, 0, 4, 1, 1],
+    "type": 1,
+    "armor": 1,
+    "slots": [[1], [5], [6], [10, 14], [10, 14]],
+    "nationality": 2,
+    "data": {
+      "201351": {
+        "id": 201351,
+        "tags": ["J-Class", "Jersey Skill"],
+        "type": 1,
+        "rarity": 5,
+        "stars": 3,
+        "oil": 4,
+        "max_level": 70,
+        "stats": {
+          "hp": 333,
+          "fp": 22,
+          "trp": 90,
+          "aa": 35,
+          "av": 0,
+          "rld": 86,
+          "acc": 74,
+          "eva": 78,
+          "spd": 43.2,
+          "luk": 53,
+          "asw": 64
+        }
+      },
+      "201352": {
+        "id": 201352,
+        "tags": ["J-Class", "Jersey Skill"],
+        "type": 1,
+        "rarity": 5,
+        "stars": 4,
+        "oil": 6,
+        "max_level": 80,
+        "stats": {
+          "hp": 414,
+          "fp": 28,
+          "trp": 112,
+          "aa": 44,
+          "av": 0,
+          "rld": 86,
+          "acc": 74,
+          "eva": 78,
+          "spd": 43.2,
+          "luk": 53,
+          "asw": 80
+        }
+      },
+      "201353": {
+        "id": 201353,
+        "tags": ["J-Class", "Jersey Skill"],
+        "type": 1,
+        "rarity": 5,
+        "stars": 5,
+        "oil": 8,
+        "max_level": 90,
+        "stats": {
+          "hp": 576,
+          "fp": 39,
+          "trp": 157,
+          "aa": 61,
+          "av": 0,
+          "rld": 86,
+          "acc": 74,
+          "eva": 78,
+          "spd": 43.2,
+          "luk": 53,
+          "asw": 112
+        }
+      },
+      "201354": {
+        "id": 201354,
+        "tags": ["J-Class", "Jersey Skill"],
+        "type": 1,
+        "rarity": 5,
+        "stars": 6,
+        "oil": 10,
+        "max_level": 100,
+        "stats": {
+          "hp": 820,
+          "fp": 55,
+          "trp": 223,
+          "aa": 86,
+          "av": 0,
+          "rld": 86,
+          "acc": 74,
+          "eva": 78,
+          "spd": 43.2,
+          "luk": 53,
+          "asw": 159
         }
       }
     },
@@ -18252,6 +18353,112 @@
           "spd": 32,
           "luk": 78,
           "asw": 52
+        }
+      }
+    },
+    "stars": 5
+  },
+  "20209": {
+    "id": 20209,
+    "code": 112,
+    "name": {
+      "en": "Manchester",
+      "code": "HMS Manchester",
+      "cn": "曼彻斯特",
+      "jp": "マンチェスター"
+    },
+    "property_hexagon": [3, 3, 0, 3, 2, 2],
+    "type": 2,
+    "armor": 1,
+    "slots": [[2], [5], [6], [10, 14], [10, 14]],
+    "nationality": 2,
+    "data": {
+      "202091": {
+        "id": 202091,
+        "tags": ["Town-Class"],
+        "type": 2,
+        "rarity": 4,
+        "stars": 2,
+        "oil": 4,
+        "max_level": 70,
+        "stats": {
+          "hp": 640,
+          "fp": 26,
+          "trp": 51,
+          "aa": 63,
+          "av": 0,
+          "rld": 64,
+          "acc": 54,
+          "eva": 29,
+          "spd": 32,
+          "luk": 41,
+          "asw": 33
+        }
+      },
+      "202092": {
+        "id": 202092,
+        "tags": ["Town-Class"],
+        "type": 2,
+        "rarity": 4,
+        "stars": 3,
+        "oil": 6,
+        "max_level": 80,
+        "stats": {
+          "hp": 796,
+          "fp": 32,
+          "trp": 64,
+          "aa": 78,
+          "av": 0,
+          "rld": 64,
+          "acc": 54,
+          "eva": 29,
+          "spd": 32,
+          "luk": 41,
+          "asw": 41
+        }
+      },
+      "202093": {
+        "id": 202093,
+        "tags": ["Town-Class"],
+        "type": 2,
+        "rarity": 4,
+        "stars": 4,
+        "oil": 8,
+        "max_level": 90,
+        "stats": {
+          "hp": 1109,
+          "fp": 45,
+          "trp": 89,
+          "aa": 109,
+          "av": 0,
+          "rld": 64,
+          "acc": 54,
+          "eva": 29,
+          "spd": 32,
+          "luk": 41,
+          "asw": 57
+        }
+      },
+      "202094": {
+        "id": 202094,
+        "tags": ["Town-Class"],
+        "type": 2,
+        "rarity": 4,
+        "stars": 5,
+        "oil": 10,
+        "max_level": 100,
+        "stats": {
+          "hp": 1577,
+          "fp": 65,
+          "trp": 126,
+          "aa": 155,
+          "av": 0,
+          "rld": 64,
+          "acc": 54,
+          "eva": 29,
+          "spd": 32,
+          "luk": 41,
+          "asw": 82
         }
       }
     },
@@ -24483,6 +24690,108 @@
           "asw": 0
         },
         "name": {"kr": "체이서"}
+      }
+    },
+    "stars": 6
+  },
+  "20607": {
+    "id": 20607,
+    "code": 570,
+    "name": {"en": "Albion", "code": "HMS Albion", "cn": "阿尔比恩", "jp": "アルビオン"},
+    "property_hexagon": [0, 0, 4, 2, 3, 5],
+    "type": 6,
+    "armor": 2,
+    "slots": [[7], [7], [8], [10, 15], [10, 15]],
+    "nationality": 2,
+    "data": {
+      "206071": {
+        "id": 206071,
+        "tags": ["Centaur-Class", "Royal Fleet-CVL"],
+        "type": 6,
+        "rarity": 5,
+        "stars": 3,
+        "oil": 7,
+        "max_level": 70,
+        "stats": {
+          "hp": 1105,
+          "fp": 0,
+          "trp": 0,
+          "aa": 51,
+          "av": 81,
+          "rld": 60,
+          "acc": 32,
+          "eva": 19,
+          "spd": 28,
+          "luk": 78,
+          "asw": 31
+        }
+      },
+      "206072": {
+        "id": 206072,
+        "tags": ["Centaur-Class", "Royal Fleet-CVL"],
+        "type": 6,
+        "rarity": 5,
+        "stars": 4,
+        "oil": 9,
+        "max_level": 80,
+        "stats": {
+          "hp": 1374,
+          "fp": 0,
+          "trp": 0,
+          "aa": 63,
+          "av": 101,
+          "rld": 60,
+          "acc": 32,
+          "eva": 19,
+          "spd": 28,
+          "luk": 78,
+          "asw": 39
+        }
+      },
+      "206073": {
+        "id": 206073,
+        "tags": ["Centaur-Class", "Royal Fleet-CVL"],
+        "type": 6,
+        "rarity": 5,
+        "stars": 5,
+        "oil": 11,
+        "max_level": 90,
+        "stats": {
+          "hp": 1913,
+          "fp": 0,
+          "trp": 0,
+          "aa": 88,
+          "av": 141,
+          "rld": 60,
+          "acc": 32,
+          "eva": 19,
+          "spd": 28,
+          "luk": 78,
+          "asw": 54
+        }
+      },
+      "206074": {
+        "id": 206074,
+        "tags": ["Centaur-Class", "Royal Fleet-CVL"],
+        "type": 6,
+        "rarity": 5,
+        "stars": 6,
+        "oil": 13,
+        "max_level": 100,
+        "stats": {
+          "hp": 2722,
+          "fp": 0,
+          "trp": 0,
+          "aa": 125,
+          "av": 202,
+          "rld": 60,
+          "acc": 32,
+          "eva": 19,
+          "spd": 28,
+          "luk": 78,
+          "asw": 77
+        },
+        "slots": [[7], [7], [8, 9], [10, 15], [10, 15]]
       }
     },
     "stars": 6
@@ -45978,7 +46287,7 @@
         "rarity": 4,
         "stars": 2,
         "oil": 5,
-        "max_level": 100,
+        "max_level": 70,
         "stats": {
           "hp": 740,
           "fp": 56,
@@ -46000,7 +46309,7 @@
         "rarity": 4,
         "stars": 3,
         "oil": 7,
-        "max_level": 100,
+        "max_level": 80,
         "stats": {
           "hp": 920,
           "fp": 70,
@@ -46022,7 +46331,7 @@
         "rarity": 4,
         "stars": 4,
         "oil": 9,
-        "max_level": 100,
+        "max_level": 90,
         "stats": {
           "hp": 1281,
           "fp": 97,
@@ -59704,6 +60013,109 @@
           "eva": 10,
           "spd": 32,
           "luk": 0,
+          "asw": 0
+        }
+      }
+    },
+    "stars": 6
+  },
+  "960001": {
+    "id": 960001,
+    "code": 571,
+    "name": {
+      "en": "Royal Fortune",
+      "code": "MOT Royal Fortune",
+      "cn": "皇家财富号",
+      "jp": "ロイヤル・フォーチュン",
+      "tw": "皇家幸運號"
+    },
+    "property_hexagon": [2, 0, 0, 2, 0, 3],
+    "type": 22,
+    "armor": 1,
+    "slots": [[1], [1], [10], [10], [10]],
+    "nationality": 96,
+    "data": {
+      "9600011": {
+        "id": 9600011,
+        "type": 22,
+        "rarity": 5,
+        "stars": 3,
+        "oil": 4,
+        "max_level": 70,
+        "stats": {
+          "hp": 388,
+          "fp": 37,
+          "trp": 0,
+          "aa": 0,
+          "av": 0,
+          "rld": 66,
+          "acc": 57,
+          "eva": 31,
+          "spd": 18,
+          "luk": 51,
+          "asw": 0
+        }
+      },
+      "9600012": {
+        "id": 9600012,
+        "type": 22,
+        "rarity": 5,
+        "stars": 4,
+        "oil": 5,
+        "max_level": 80,
+        "stats": {
+          "hp": 483,
+          "fp": 46,
+          "trp": 0,
+          "aa": 0,
+          "av": 0,
+          "rld": 66,
+          "acc": 57,
+          "eva": 31,
+          "spd": 18,
+          "luk": 51,
+          "asw": 0
+        }
+      },
+      "9600013": {
+        "id": 9600013,
+        "type": 22,
+        "rarity": 5,
+        "stars": 5,
+        "oil": 6,
+        "max_level": 90,
+        "stats": {
+          "hp": 672,
+          "fp": 64,
+          "trp": 0,
+          "aa": 0,
+          "av": 0,
+          "rld": 66,
+          "acc": 57,
+          "eva": 31,
+          "spd": 18,
+          "luk": 51,
+          "asw": 0
+        }
+      },
+      "9600014": {
+        "id": 9600014,
+        "type": 22,
+        "rarity": 5,
+        "stars": 6,
+        "oil": 7,
+        "max_level": 100,
+        "stats": {
+          "hp": 955,
+          "fp": 91,
+          "trp": 0,
+          "aa": 0,
+          "av": 0,
+          "rld": 66,
+          "acc": 57,
+          "eva": 31,
+          "spd": 18,
+          "luk": 51,
           "asw": 0
         }
       }
