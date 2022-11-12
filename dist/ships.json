@@ -14968,7 +14968,7 @@
           "cn": "女将.改",
           "jp": "アマゾン改",
           "kr": "아마존·改",
-          "tw": "女将.改"
+          "tw": "女將.改"
         }
       }
     },
@@ -17612,7 +17612,13 @@
   "20135": {
     "id": 20135,
     "code": 569,
-    "name": {"en": "Janus", "code": "HMS Janus", "cn": "雅努斯", "jp": "ジェーナス"},
+    "name": {
+      "en": "Janus",
+      "code": "HMS Janus",
+      "cn": "雅努斯",
+      "jp": "ジェーナス",
+      "kr": "재너스"
+    },
     "property_hexagon": [2, 4, 0, 4, 1, 1],
     "type": 1,
     "armor": 1,
@@ -18365,7 +18371,8 @@
       "en": "Manchester",
       "code": "HMS Manchester",
       "cn": "曼彻斯特",
-      "jp": "マンチェスター"
+      "jp": "マンチェスター",
+      "kr": "맨체스터"
     },
     "property_hexagon": [3, 3, 0, 3, 2, 2],
     "type": 2,
@@ -24697,7 +24704,13 @@
   "20607": {
     "id": 20607,
     "code": 570,
-    "name": {"en": "Albion", "code": "HMS Albion", "cn": "阿尔比恩", "jp": "アルビオン"},
+    "name": {
+      "en": "Albion",
+      "code": "HMS Albion",
+      "cn": "阿尔比恩",
+      "jp": "アルビオン",
+      "kr": "알비온"
+    },
     "property_hexagon": [0, 0, 4, 2, 3, 5],
     "type": 6,
     "armor": 2,
@@ -59281,7 +59294,8 @@
       "code": "MNF Foch",
       "cn": "福煦",
       "jp": "フォッシュ",
-      "kr": "포슈"
+      "kr": "포슈",
+      "tw": "福煦"
     },
     "property_hexagon": [3, 3, 0, 2, 3, 3],
     "type": 3,
@@ -60027,6 +60041,7 @@
       "code": "MOT Royal Fortune",
       "cn": "皇家财富号",
       "jp": "ロイヤル・フォーチュン",
+      "kr": "로열 포춘",
       "tw": "皇家幸運號"
     },
     "property_hexagon": [2, 0, 0, 2, 0, 3],
