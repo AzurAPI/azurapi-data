@@ -3842,7 +3842,8 @@
       "code": "USS Allen M. Sumner",
       "cn": "艾伦·萨姆纳",
       "jp": "アレン・M・サムナー",
-      "kr": "알렌 M. 섬너"
+      "kr": "알렌 M. 섬너",
+      "tw": "艾倫·M·桑拿"
     },
     "property_hexagon": [3, 3, 0, 3, 4, 2],
     "type": 1,
@@ -3949,7 +3950,8 @@
       "code": "USS Stephen Potter",
       "cn": "史蒂芬·波特",
       "jp": "ステフェン・ポッター",
-      "kr": "스테판 포터"
+      "kr": "스테판 포터",
+      "tw": "史蒂芬·波特"
     },
     "property_hexagon": [2, 2, 0, 3, 2, 2],
     "type": 1,
@@ -46285,7 +46287,8 @@
       "code": "KMS Admiral Graf Spee",
       "cn": "小斯佩",
       "jp": "シュペーちゃん",
-      "kr": "꼬마 슈피"
+      "kr": "꼬마 슈피",
+      "tw": "小施佩"
     },
     "property_hexagon": [4, 2, 0, 2, 2, 4],
     "type": 3,
@@ -60468,7 +60471,8 @@
       "code": "Terento META",
       "cn": "特伦托·META",
       "jp": "トレント(META)",
-      "kr": "트렌토·META"
+      "kr": "트렌토·META",
+      "tw": "特倫托·META"
     },
     "property_hexagon": [3, 2, 0, 2, 3, 2],
     "type": 3,
