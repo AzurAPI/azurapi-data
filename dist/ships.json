@@ -60247,6 +60247,112 @@
     },
     "stars": 5
   },
+  "970102": {
+    "id": 970102,
+    "code": 30016,
+    "name": {
+      "en": "Fortune META",
+      "code": "Fortune META",
+      "cn": "命运女神·META",
+      "jp": "フォーチュン(META)"
+    },
+    "property_hexagon": [1, 3, 0, 4, 1, 1],
+    "type": 1,
+    "armor": 1,
+    "slots": [[1], [5], [6], [10, 14], [10, 14]],
+    "nationality": 97,
+    "data": {
+      "9701021": {
+        "id": 9701021,
+        "tags": ["FortuneMETA", "F-Class"],
+        "type": 1,
+        "rarity": 4,
+        "stars": 2,
+        "oil": 10,
+        "max_level": 100,
+        "stats": {
+          "hp": 301,
+          "fp": 27,
+          "trp": 73,
+          "aa": 30,
+          "av": 0,
+          "rld": 77,
+          "acc": 55,
+          "eva": 69,
+          "spd": 43,
+          "luk": 68,
+          "asw": 47
+        }
+      },
+      "9701022": {
+        "id": 9701022,
+        "tags": ["FortuneMETA", "F-Class"],
+        "type": 1,
+        "rarity": 4,
+        "stars": 3,
+        "oil": 10,
+        "max_level": 100,
+        "stats": {
+          "hp": 374,
+          "fp": 34,
+          "trp": 91,
+          "aa": 37,
+          "av": 0,
+          "rld": 77,
+          "acc": 55,
+          "eva": 69,
+          "spd": 43,
+          "luk": 68,
+          "asw": 59
+        }
+      },
+      "9701023": {
+        "id": 9701023,
+        "tags": ["FortuneMETA", "F-Class"],
+        "type": 1,
+        "rarity": 4,
+        "stars": 4,
+        "oil": 10,
+        "max_level": 100,
+        "stats": {
+          "hp": 521,
+          "fp": 47,
+          "trp": 127,
+          "aa": 52,
+          "av": 0,
+          "rld": 77,
+          "acc": 55,
+          "eva": 69,
+          "spd": 43,
+          "luk": 68,
+          "asw": 82
+        }
+      },
+      "9701024": {
+        "id": 9701024,
+        "tags": ["FortuneMETA", "F-Class"],
+        "type": 1,
+        "rarity": 4,
+        "stars": 5,
+        "oil": 10,
+        "max_level": 100,
+        "stats": {
+          "hp": 741,
+          "fp": 68,
+          "trp": 181,
+          "aa": 74,
+          "av": 0,
+          "rld": 77,
+          "acc": 55,
+          "eva": 69,
+          "spd": 43,
+          "luk": 68,
+          "asw": 117
+        }
+      }
+    },
+    "stars": 5
+  },
   "970201": {
     "id": 970201,
     "code": 30003,
@@ -67029,6 +67135,642 @@
           "eva": 8,
           "spd": 30,
           "luk": 55,
+          "asw": 0
+        }
+      }
+    },
+    "stars": 5
+  },
+  "1090001": {
+    "id": 1090001,
+    "code": 10091,
+    "name": {
+      "en": "Reisalin Stout",
+      "code": "Reisalin Stout",
+      "cn": "莱莎琳·斯托特",
+      "jp": "ライザリン・シュタウト"
+    },
+    "property_hexagon": [3, 4, 0, 3, 3, 2],
+    "type": 2,
+    "armor": 1,
+    "slots": [[2], [5, 10], [6, 10], [10, 14], [10, 14]],
+    "nationality": 109,
+    "data": {
+      "10900011": {
+        "id": 10900011,
+        "tags": ["RYZA", "RyzaSelf"],
+        "type": 2,
+        "rarity": 5,
+        "stars": 3,
+        "oil": 5,
+        "max_level": 70,
+        "stats": {
+          "hp": 740,
+          "fp": 27,
+          "trp": 71,
+          "aa": 72,
+          "av": 0,
+          "rld": 73,
+          "acc": 56,
+          "eva": 30,
+          "spd": 35,
+          "luk": 66,
+          "asw": 40
+        }
+      },
+      "10900012": {
+        "id": 10900012,
+        "tags": ["RYZA", "RyzaSelf"],
+        "type": 2,
+        "rarity": 5,
+        "stars": 4,
+        "oil": 7,
+        "max_level": 80,
+        "stats": {
+          "hp": 920,
+          "fp": 34,
+          "trp": 89,
+          "aa": 90,
+          "av": 0,
+          "rld": 73,
+          "acc": 56,
+          "eva": 30,
+          "spd": 35,
+          "luk": 66,
+          "asw": 50
+        }
+      },
+      "10900013": {
+        "id": 10900013,
+        "tags": ["RYZA", "RyzaSelf"],
+        "type": 2,
+        "rarity": 5,
+        "stars": 5,
+        "oil": 9,
+        "max_level": 90,
+        "stats": {
+          "hp": 1281,
+          "fp": 47,
+          "trp": 124,
+          "aa": 125,
+          "av": 0,
+          "rld": 73,
+          "acc": 56,
+          "eva": 30,
+          "spd": 35,
+          "luk": 66,
+          "asw": 70
+        }
+      },
+      "10900014": {
+        "id": 10900014,
+        "tags": ["RYZA", "RyzaSelf"],
+        "type": 2,
+        "rarity": 5,
+        "stars": 6,
+        "oil": 11,
+        "max_level": 100,
+        "stats": {
+          "hp": 1823,
+          "fp": 67,
+          "trp": 177,
+          "aa": 179,
+          "av": 0,
+          "rld": 73,
+          "acc": 56,
+          "eva": 30,
+          "spd": 35,
+          "luk": 66,
+          "asw": 99
+        }
+      }
+    },
+    "stars": 6
+  },
+  "1090002": {
+    "id": 1090002,
+    "code": 10092,
+    "name": {
+      "en": "Klaudia Valentz",
+      "code": "Klaudia Valentz",
+      "cn": "科洛蒂娅·巴兰茨",
+      "jp": "クラウディア・バレンツ"
+    },
+    "property_hexagon": [0, 0, 4, 2, 3, 4],
+    "type": 6,
+    "armor": 2,
+    "slots": [[7], [8], [8], [10, 15], [10, 15]],
+    "nationality": 109,
+    "data": {
+      "10900021": {
+        "id": 10900021,
+        "tags": ["RYZA", "KlaudiaHA"],
+        "type": 6,
+        "rarity": 5,
+        "stars": 3,
+        "oil": 6,
+        "max_level": 70,
+        "stats": {
+          "hp": 1008,
+          "fp": 0,
+          "trp": 0,
+          "aa": 49,
+          "av": 77,
+          "rld": 71,
+          "acc": 32,
+          "eva": 19,
+          "spd": 28,
+          "luk": 54,
+          "asw": 20
+        }
+      },
+      "10900022": {
+        "id": 10900022,
+        "tags": ["RYZA", "KlaudiaHA"],
+        "type": 6,
+        "rarity": 5,
+        "stars": 4,
+        "oil": 8,
+        "max_level": 80,
+        "stats": {
+          "hp": 1254,
+          "fp": 0,
+          "trp": 0,
+          "aa": 61,
+          "av": 96,
+          "rld": 71,
+          "acc": 32,
+          "eva": 19,
+          "spd": 28,
+          "luk": 54,
+          "asw": 25
+        }
+      },
+      "10900023": {
+        "id": 10900023,
+        "tags": ["RYZA", "KlaudiaHA"],
+        "type": 6,
+        "rarity": 5,
+        "stars": 5,
+        "oil": 10,
+        "max_level": 90,
+        "stats": {
+          "hp": 1746,
+          "fp": 0,
+          "trp": 0,
+          "aa": 85,
+          "av": 134,
+          "rld": 71,
+          "acc": 32,
+          "eva": 19,
+          "spd": 28,
+          "luk": 54,
+          "asw": 35
+        }
+      },
+      "10900024": {
+        "id": 10900024,
+        "tags": ["RYZA", "KlaudiaHA"],
+        "type": 6,
+        "rarity": 5,
+        "stars": 6,
+        "oil": 12,
+        "max_level": 100,
+        "stats": {
+          "hp": 2484,
+          "fp": 0,
+          "trp": 0,
+          "aa": 122,
+          "av": 191,
+          "rld": 71,
+          "acc": 32,
+          "eva": 19,
+          "spd": 28,
+          "luk": 54,
+          "asw": 50
+        }
+      }
+    },
+    "stars": 6
+  },
+  "1090003": {
+    "id": 1090003,
+    "code": 10093,
+    "name": {
+      "en": "Patricia Abelheim",
+      "code": "Patricia Abelheim",
+      "cn": "帕特莉夏·阿贝尔海姆",
+      "jp": "パトリツィア・アーベルハイム"
+    },
+    "property_hexagon": [5, 0, 0, 1, 2, 3],
+    "type": 5,
+    "armor": 3,
+    "slots": [[4], [1, 2], [6], [10], [10]],
+    "nationality": 109,
+    "data": {
+      "10900031": {
+        "id": 10900031,
+        "tags": ["RYZA"],
+        "type": 5,
+        "rarity": 5,
+        "stars": 3,
+        "oil": 9,
+        "max_level": 70,
+        "stats": {
+          "hp": 1390,
+          "fp": 83,
+          "trp": 0,
+          "aa": 66,
+          "av": 0,
+          "rld": 57,
+          "acc": 24,
+          "eva": 8,
+          "spd": 30,
+          "luk": 52,
+          "asw": 0
+        }
+      },
+      "10900032": {
+        "id": 10900032,
+        "tags": ["RYZA"],
+        "type": 5,
+        "rarity": 5,
+        "stars": 4,
+        "oil": 11,
+        "max_level": 80,
+        "stats": {
+          "hp": 1729,
+          "fp": 104,
+          "trp": 0,
+          "aa": 82,
+          "av": 0,
+          "rld": 57,
+          "acc": 24,
+          "eva": 8,
+          "spd": 30,
+          "luk": 52,
+          "asw": 0
+        }
+      },
+      "10900033": {
+        "id": 10900033,
+        "tags": ["RYZA"],
+        "type": 5,
+        "rarity": 5,
+        "stars": 5,
+        "oil": 13,
+        "max_level": 90,
+        "stats": {
+          "hp": 2407,
+          "fp": 145,
+          "trp": 0,
+          "aa": 115,
+          "av": 0,
+          "rld": 57,
+          "acc": 24,
+          "eva": 8,
+          "spd": 30,
+          "luk": 52,
+          "asw": 0
+        }
+      },
+      "10900034": {
+        "id": 10900034,
+        "tags": ["RYZA"],
+        "type": 5,
+        "rarity": 5,
+        "stars": 6,
+        "oil": 15,
+        "max_level": 100,
+        "stats": {
+          "hp": 3424,
+          "fp": 207,
+          "trp": 0,
+          "aa": 164,
+          "av": 0,
+          "rld": 57,
+          "acc": 24,
+          "eva": 8,
+          "spd": 30,
+          "luk": 52,
+          "asw": 0
+        }
+      }
+    },
+    "stars": 6
+  },
+  "1090004": {
+    "id": 1090004,
+    "code": 10094,
+    "name": {
+      "en": "Lila Decyrus",
+      "code": "Lila Decyrus",
+      "cn": "莉拉·德西亚斯",
+      "jp": "リラ・ディザイアス"
+    },
+    "property_hexagon": [3, 2, 0, 2, 2, 3],
+    "type": 3,
+    "armor": 2,
+    "slots": [[3], [5], [6], [10], [10]],
+    "nationality": 109,
+    "data": {
+      "10900041": {
+        "id": 10900041,
+        "tags": ["RYZA"],
+        "type": 3,
+        "rarity": 4,
+        "stars": 2,
+        "oil": 5,
+        "max_level": 70,
+        "stats": {
+          "hp": 701,
+          "fp": 51,
+          "trp": 47,
+          "aa": 39,
+          "av": 0,
+          "rld": 66,
+          "acc": 43,
+          "eva": 19,
+          "spd": 24,
+          "luk": 46,
+          "asw": 0
+        }
+      },
+      "10900042": {
+        "id": 10900042,
+        "tags": ["RYZA"],
+        "type": 3,
+        "rarity": 4,
+        "stars": 3,
+        "oil": 7,
+        "max_level": 80,
+        "stats": {
+          "hp": 872,
+          "fp": 64,
+          "trp": 59,
+          "aa": 49,
+          "av": 0,
+          "rld": 66,
+          "acc": 43,
+          "eva": 19,
+          "spd": 24,
+          "luk": 46,
+          "asw": 0
+        }
+      },
+      "10900043": {
+        "id": 10900043,
+        "tags": ["RYZA"],
+        "type": 3,
+        "rarity": 4,
+        "stars": 4,
+        "oil": 9,
+        "max_level": 90,
+        "stats": {
+          "hp": 1214,
+          "fp": 89,
+          "trp": 82,
+          "aa": 68,
+          "av": 0,
+          "rld": 66,
+          "acc": 43,
+          "eva": 19,
+          "spd": 24,
+          "luk": 46,
+          "asw": 0
+        }
+      },
+      "10900044": {
+        "id": 10900044,
+        "tags": ["RYZA"],
+        "type": 3,
+        "rarity": 4,
+        "stars": 5,
+        "oil": 11,
+        "max_level": 100,
+        "stats": {
+          "hp": 1726,
+          "fp": 126,
+          "trp": 117,
+          "aa": 96,
+          "av": 0,
+          "rld": 66,
+          "acc": 43,
+          "eva": 19,
+          "spd": 24,
+          "luk": 46,
+          "asw": 0
+        }
+      }
+    },
+    "stars": 5
+  },
+  "1090005": {
+    "id": 1090005,
+    "code": 10095,
+    "name": {
+      "en": "Serri Glaus",
+      "code": "Serri Glaus",
+      "cn": "赛莉·古劳斯",
+      "jp": "セリ・グロース"
+    },
+    "property_hexagon": [0, 0, 4, 2, 3, 4],
+    "type": 7,
+    "armor": 2,
+    "slots": [[7], [9], [8], [10], [10]],
+    "nationality": 109,
+    "data": {
+      "10900051": {
+        "id": 10900051,
+        "tags": ["RYZA", "serri_spw_off"],
+        "type": 7,
+        "rarity": 4,
+        "stars": 2,
+        "oil": 6,
+        "max_level": 70,
+        "stats": {
+          "hp": 1097,
+          "fp": 0,
+          "trp": 0,
+          "aa": 56,
+          "av": 75,
+          "rld": 51,
+          "acc": 35,
+          "eva": 11,
+          "spd": 28,
+          "luk": 40,
+          "asw": 0
+        }
+      },
+      "10900052": {
+        "id": 10900052,
+        "tags": ["RYZA", "serri_spw_off"],
+        "type": 7,
+        "rarity": 4,
+        "stars": 3,
+        "oil": 8,
+        "max_level": 80,
+        "stats": {
+          "hp": 1365,
+          "fp": 0,
+          "trp": 0,
+          "aa": 70,
+          "av": 94,
+          "rld": 51,
+          "acc": 35,
+          "eva": 11,
+          "spd": 28,
+          "luk": 40,
+          "asw": 0
+        }
+      },
+      "10900053": {
+        "id": 10900053,
+        "tags": ["RYZA", "serri_spw_off"],
+        "type": 7,
+        "rarity": 4,
+        "stars": 4,
+        "oil": 10,
+        "max_level": 90,
+        "stats": {
+          "hp": 1900,
+          "fp": 0,
+          "trp": 0,
+          "aa": 97,
+          "av": 131,
+          "rld": 51,
+          "acc": 35,
+          "eva": 11,
+          "spd": 28,
+          "luk": 40,
+          "asw": 0
+        }
+      },
+      "10900054": {
+        "id": 10900054,
+        "tags": ["RYZA", "serri_spw_off"],
+        "type": 7,
+        "rarity": 4,
+        "stars": 5,
+        "oil": 12,
+        "max_level": 100,
+        "stats": {
+          "hp": 2703,
+          "fp": 0,
+          "trp": 0,
+          "aa": 139,
+          "av": 186,
+          "rld": 51,
+          "acc": 35,
+          "eva": 11,
+          "spd": 28,
+          "luk": 40,
+          "asw": 0
+        }
+      }
+    },
+    "stars": 5
+  },
+  "1090006": {
+    "id": 1090006,
+    "code": 10096,
+    "name": {
+      "en": "Kala Ideas",
+      "code": "Kala Ideas",
+      "cn": "卡菈·伊迪亚斯",
+      "jp": "カラ・イデアス"
+    },
+    "property_hexagon": [3, 0, 0, 2, 2, 4],
+    "type": 18,
+    "armor": 2,
+    "slots": [[3, 11], [2], [6], [10], [10]],
+    "nationality": 109,
+    "data": {
+      "10900061": {
+        "id": 10900061,
+        "tags": ["RYZA", "KalaSelf"],
+        "type": 18,
+        "rarity": 5,
+        "stars": 3,
+        "oil": 7,
+        "max_level": 70,
+        "stats": {
+          "hp": 1099,
+          "fp": 52,
+          "trp": 0,
+          "aa": 43,
+          "av": 0,
+          "rld": 60,
+          "acc": 43,
+          "eva": 7,
+          "spd": 22.4,
+          "luk": 59,
+          "asw": 0
+        }
+      },
+      "10900062": {
+        "id": 10900062,
+        "tags": ["RYZA", "KalaSelf"],
+        "type": 18,
+        "rarity": 5,
+        "stars": 4,
+        "oil": 9,
+        "max_level": 80,
+        "stats": {
+          "hp": 1367,
+          "fp": 65,
+          "trp": 0,
+          "aa": 53,
+          "av": 0,
+          "rld": 60,
+          "acc": 43,
+          "eva": 7,
+          "spd": 22.4,
+          "luk": 59,
+          "asw": 0
+        }
+      },
+      "10900063": {
+        "id": 10900063,
+        "tags": ["RYZA", "KalaSelf"],
+        "type": 18,
+        "rarity": 5,
+        "stars": 5,
+        "oil": 11,
+        "max_level": 90,
+        "stats": {
+          "hp": 1903,
+          "fp": 90,
+          "trp": 0,
+          "aa": 74,
+          "av": 0,
+          "rld": 60,
+          "acc": 43,
+          "eva": 7,
+          "spd": 22.4,
+          "luk": 59,
+          "asw": 0
+        }
+      },
+      "10900064": {
+        "id": 10900064,
+        "tags": ["RYZA", "KalaSelf"],
+        "type": 18,
+        "rarity": 5,
+        "stars": 6,
+        "oil": 13,
+        "max_level": 100,
+        "stats": {
+          "hp": 2708,
+          "fp": 129,
+          "trp": 0,
+          "aa": 106,
+          "av": 0,
+          "rld": 60,
+          "acc": 43,
+          "eva": 7,
+          "spd": 22.4,
+          "luk": 59,
           "asw": 0
         }
       }
