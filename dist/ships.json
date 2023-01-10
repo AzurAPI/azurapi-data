@@ -1781,7 +1781,7 @@
           "luk": 18,
           "asw": 122
         },
-        "slots": [[1], [1], [6], [10, 14], [10, 14]]
+        "slots": [[1], [1], [6, 21], [10, 14], [10, 14]]
       }
     },
     "stars": 5
@@ -4371,6 +4371,113 @@
       }
     },
     "stars": 6
+  },
+  "10150": {
+    "id": 10150,
+    "code": 576,
+    "name": {
+      "en": "Hammann II",
+      "code": "USS Hammann II",
+      "cn": "哈曼II",
+      "jp": "ハムマンⅡ",
+      "kr": "허먼Ⅱ"
+    },
+    "property_hexagon": [2, 3, 0, 5, 2, 2],
+    "type": 1,
+    "armor": 1,
+    "slots": [[1], [5], [6], [10, 14], [10, 14]],
+    "nationality": 1,
+    "data": {
+      "101501": {
+        "id": 101501,
+        "tags": ["Edsall-Class", "Hammann", "II"],
+        "type": 1,
+        "rarity": 4,
+        "stars": 2,
+        "oil": 3,
+        "max_level": 70,
+        "stats": {
+          "hp": 267,
+          "fp": 15,
+          "trp": 70,
+          "aa": 47,
+          "av": 0,
+          "rld": 82,
+          "acc": 71,
+          "eva": 71,
+          "spd": 25.2,
+          "luk": 55,
+          "asw": 57
+        }
+      },
+      "101502": {
+        "id": 101502,
+        "tags": ["Edsall-Class", "Hammann", "II"],
+        "type": 1,
+        "rarity": 4,
+        "stars": 3,
+        "oil": 5,
+        "max_level": 80,
+        "stats": {
+          "hp": 332,
+          "fp": 19,
+          "trp": 87,
+          "aa": 58,
+          "av": 0,
+          "rld": 82,
+          "acc": 71,
+          "eva": 71,
+          "spd": 25.2,
+          "luk": 55,
+          "asw": 71
+        }
+      },
+      "101503": {
+        "id": 101503,
+        "tags": ["Edsall-Class", "Hammann", "II"],
+        "type": 1,
+        "rarity": 4,
+        "stars": 4,
+        "oil": 7,
+        "max_level": 90,
+        "stats": {
+          "hp": 462,
+          "fp": 26,
+          "trp": 122,
+          "aa": 81,
+          "av": 0,
+          "rld": 82,
+          "acc": 71,
+          "eva": 71,
+          "spd": 25.2,
+          "luk": 55,
+          "asw": 99
+        }
+      },
+      "101504": {
+        "id": 101504,
+        "tags": ["Edsall-Class", "Hammann", "II"],
+        "type": 1,
+        "rarity": 4,
+        "stars": 5,
+        "oil": 9,
+        "max_level": 100,
+        "stats": {
+          "hp": 657,
+          "fp": 37,
+          "trp": 174,
+          "aa": 115,
+          "av": 0,
+          "rld": 82,
+          "acc": 71,
+          "eva": 71,
+          "spd": 25.2,
+          "luk": 55,
+          "asw": 141
+        }
+      }
+    },
+    "stars": 5
   },
   "10201": {
     "id": 10201,
@@ -9475,6 +9582,113 @@
     },
     "stars": 5
   },
+  "10326": {
+    "id": 10326,
+    "code": 575,
+    "name": {
+      "en": "Northampton II",
+      "code": "USS Northampton II",
+      "cn": "北安普敦II",
+      "jp": "ノーザンプトンⅡ",
+      "kr": "노샘프턴Ⅱ"
+    },
+    "property_hexagon": [3, 0, 0, 2, 3, 4],
+    "type": 3,
+    "armor": 2,
+    "slots": [[3], [1], [6], [10], [10]],
+    "nationality": 1,
+    "data": {
+      "103261": {
+        "id": 103261,
+        "tags": ["OregonCity-Class", "NASELF"],
+        "type": 3,
+        "rarity": 5,
+        "stars": 3,
+        "oil": 6,
+        "max_level": 70,
+        "stats": {
+          "hp": 804,
+          "fp": 47,
+          "trp": 0,
+          "aa": 55,
+          "av": 0,
+          "rld": 69,
+          "acc": 45,
+          "eva": 9,
+          "spd": 26.4,
+          "luk": 80,
+          "asw": 0
+        }
+      },
+      "103262": {
+        "id": 103262,
+        "tags": ["OregonCity-Class", "NASELF"],
+        "type": 3,
+        "rarity": 5,
+        "stars": 4,
+        "oil": 8,
+        "max_level": 80,
+        "stats": {
+          "hp": 1000,
+          "fp": 59,
+          "trp": 0,
+          "aa": 69,
+          "av": 0,
+          "rld": 69,
+          "acc": 45,
+          "eva": 9,
+          "spd": 26.4,
+          "luk": 80,
+          "asw": 0
+        }
+      },
+      "103263": {
+        "id": 103263,
+        "tags": ["OregonCity-Class", "NASELF"],
+        "type": 3,
+        "rarity": 5,
+        "stars": 5,
+        "oil": 10,
+        "max_level": 90,
+        "stats": {
+          "hp": 1392,
+          "fp": 82,
+          "trp": 0,
+          "aa": 96,
+          "av": 0,
+          "rld": 69,
+          "acc": 45,
+          "eva": 9,
+          "spd": 26.4,
+          "luk": 80,
+          "asw": 0
+        }
+      },
+      "103264": {
+        "id": 103264,
+        "tags": ["OregonCity-Class", "NASELF"],
+        "type": 3,
+        "rarity": 5,
+        "stars": 6,
+        "oil": 12,
+        "max_level": 100,
+        "stats": {
+          "hp": 1980,
+          "fp": 117,
+          "trp": 0,
+          "aa": 136,
+          "av": 0,
+          "rld": 69,
+          "acc": 45,
+          "eva": 9,
+          "spd": 26.4,
+          "luk": 80,
+          "asw": 0
+        }
+      }
+    },
+    "stars": 6
+  },
   "10501": {
     "id": 10501,
     "code": 52,
@@ -9489,7 +9703,7 @@
     "property_hexagon": [4, 0, 0, 1, 1, 4],
     "type": 5,
     "armor": 3,
-    "slots": [[4], [1], [6], [10], [10]],
+    "slots": [[4], [1], [6, 21], [10], [10]],
     "nationality": 1,
     "data": {
       "105011": {
@@ -9597,7 +9811,7 @@
     "property_hexagon": [4, 0, 0, 1, 1, 4],
     "type": 5,
     "armor": 3,
-    "slots": [[4], [1], [6], [10], [10]],
+    "slots": [[4], [1], [6, 21], [10], [10]],
     "nationality": 1,
     "data": {
       "105021": {
@@ -9705,7 +9919,7 @@
     "property_hexagon": [4, 0, 0, 1, 1, 4],
     "type": 5,
     "armor": 3,
-    "slots": [[4], [1], [6], [10], [10]],
+    "slots": [[4], [1], [6, 21], [10], [10]],
     "nationality": 1,
     "data": {
       "105031": {
@@ -9813,7 +10027,7 @@
     "property_hexagon": [4, 0, 0, 1, 1, 4],
     "type": 5,
     "armor": 3,
-    "slots": [[4], [1], [6], [10], [10]],
+    "slots": [[4], [1], [6, 21], [10], [10]],
     "nationality": 1,
     "data": {
       "105041": {
@@ -9921,7 +10135,7 @@
     "property_hexagon": [4, 0, 0, 1, 1, 4],
     "type": 5,
     "armor": 3,
-    "slots": [[4], [1], [6], [10], [10]],
+    "slots": [[4], [1], [6, 21], [10], [10]],
     "nationality": 1,
     "data": {
       "105071": {
@@ -10029,7 +10243,7 @@
     "property_hexagon": [4, 0, 0, 1, 1, 4],
     "type": 5,
     "armor": 3,
-    "slots": [[4], [1], [6], [10], [10]],
+    "slots": [[4], [1], [6, 21], [10], [10]],
     "nationality": 1,
     "data": {
       "105081": {
@@ -10137,7 +10351,7 @@
     "property_hexagon": [4, 0, 0, 1, 1, 4],
     "type": 5,
     "armor": 3,
-    "slots": [[4], [1], [6], [10], [10]],
+    "slots": [[4], [1], [6, 21], [10], [10]],
     "nationality": 1,
     "data": {
       "105091": {
@@ -10245,7 +10459,7 @@
     "property_hexagon": [4, 0, 0, 1, 1, 4],
     "type": 5,
     "armor": 3,
-    "slots": [[4], [1], [6], [10], [10]],
+    "slots": [[4], [1], [6, 21], [10], [10]],
     "nationality": 1,
     "data": {
       "105101": {
@@ -10353,7 +10567,7 @@
     "property_hexagon": [4, 0, 0, 1, 1, 4],
     "type": 5,
     "armor": 3,
-    "slots": [[4], [1], [6], [10], [10]],
+    "slots": [[4], [1], [6, 21], [10], [10]],
     "nationality": 1,
     "data": {
       "105111": {
@@ -10461,7 +10675,7 @@
     "property_hexagon": [4, 0, 0, 1, 3, 5],
     "type": 5,
     "armor": 3,
-    "slots": [[4], [1], [6], [10], [10]],
+    "slots": [[4], [1], [6, 21], [10], [10]],
     "nationality": 1,
     "data": {
       "105121": {
@@ -10612,7 +10826,7 @@
     "property_hexagon": [4, 0, 0, 1, 3, 5],
     "type": 5,
     "armor": 3,
-    "slots": [[4], [1], [6], [10], [10]],
+    "slots": [[4], [1], [6, 21], [10], [10]],
     "nationality": 1,
     "data": {
       "105131": {
@@ -10763,7 +10977,7 @@
     "property_hexagon": [4, 0, 0, 1, 3, 5],
     "type": 5,
     "armor": 3,
-    "slots": [[4], [1], [6], [10], [10]],
+    "slots": [[4], [1], [6, 21], [10], [10]],
     "nationality": 1,
     "data": {
       "105141": {
@@ -10871,7 +11085,7 @@
     "property_hexagon": [5, 0, 0, 1, 4, 5],
     "type": 5,
     "armor": 3,
-    "slots": [[4], [1], [6], [10], [10]],
+    "slots": [[4], [1], [6, 21], [10], [10]],
     "nationality": 1,
     "data": {
       "105171": {
@@ -11001,7 +11215,7 @@
     "property_hexagon": [4, 0, 0, 1, 3, 5],
     "type": 5,
     "armor": 3,
-    "slots": [[4], [1], [6], [10], [10]],
+    "slots": [[4], [1], [6, 21], [10], [10]],
     "nationality": 1,
     "data": {
       "105191": {
@@ -11131,7 +11345,7 @@
     "property_hexagon": [4, 0, 0, 1, 3, 5],
     "type": 5,
     "armor": 3,
-    "slots": [[4], [1], [6], [10], [10]],
+    "slots": [[4], [1], [6, 21], [10], [10]],
     "nationality": 1,
     "data": {
       "105201": {
@@ -12542,7 +12756,7 @@
     "data": {
       "107091": {
         "id": 107091,
-        "tags": ["Essex-Class"],
+        "tags": ["Essex-Class", "Essex-Class-No-Yorktown"],
         "type": 7,
         "rarity": 5,
         "stars": 3,
@@ -12564,7 +12778,7 @@
       },
       "107092": {
         "id": 107092,
-        "tags": ["Essex-Class"],
+        "tags": ["Essex-Class", "Essex-Class-No-Yorktown"],
         "type": 7,
         "rarity": 5,
         "stars": 4,
@@ -12586,7 +12800,7 @@
       },
       "107093": {
         "id": 107093,
-        "tags": ["Essex-Class"],
+        "tags": ["Essex-Class", "Essex-Class-No-Yorktown"],
         "type": 7,
         "rarity": 5,
         "stars": 5,
@@ -12608,7 +12822,7 @@
       },
       "107094": {
         "id": 107094,
-        "tags": ["Essex-Class"],
+        "tags": ["Essex-Class", "Essex-Class-No-Yorktown"],
         "type": 7,
         "rarity": 5,
         "stars": 6,
@@ -12653,7 +12867,7 @@
       },
       "900343": {
         "id": 900343,
-        "tags": ["Essex-Class"],
+        "tags": ["Essex-Class", "Essex-Class-No-Yorktown"],
         "type": 7,
         "rarity": 5,
         "stars": 6,
@@ -12677,6 +12891,116 @@
     },
     "stars": 6
   },
+  "10710": {
+    "id": 10710,
+    "code": 574,
+    "name": {
+      "en": "Yorktown II",
+      "code": "USS Yorktown II",
+      "cn": "约克城II",
+      "jp": "ヨークタウンⅡ",
+      "kr": "요크타운Ⅱ"
+    },
+    "property_hexagon": [0, 0, 5, 3, 4, 4],
+    "type": 7,
+    "armor": 2,
+    "slots": [[7], [9], [8], [10], [10]],
+    "nationality": 1,
+    "data": {
+      "107101": {
+        "id": 107101,
+        "tags": ["Essex-Class", "Yorktown II", "Yorktown"],
+        "type": 7,
+        "rarity": 6,
+        "stars": 3,
+        "oil": 15,
+        "max_level": 100,
+        "stats": {
+          "hp": 1248,
+          "fp": 0,
+          "trp": 0,
+          "aa": 69,
+          "av": 87,
+          "rld": 50,
+          "acc": 32,
+          "eva": 13,
+          "spd": 33,
+          "luk": 70,
+          "asw": 0
+        }
+      },
+      "107102": {
+        "id": 107102,
+        "tags": ["Essex-Class", "Yorktown II", "Yorktown"],
+        "type": 7,
+        "rarity": 6,
+        "stars": 4,
+        "oil": 15,
+        "max_level": 100,
+        "stats": {
+          "hp": 1552,
+          "fp": 0,
+          "trp": 0,
+          "aa": 86,
+          "av": 109,
+          "rld": 50,
+          "acc": 32,
+          "eva": 13,
+          "spd": 33,
+          "luk": 70,
+          "asw": 0
+        },
+        "slots": [[7], [9], [7, 8, 9], [10], [10]]
+      },
+      "107103": {
+        "id": 107103,
+        "tags": ["Essex-Class", "Yorktown II", "Yorktown"],
+        "type": 7,
+        "rarity": 6,
+        "stars": 5,
+        "oil": 15,
+        "max_level": 100,
+        "stats": {
+          "hp": 2161,
+          "fp": 0,
+          "trp": 0,
+          "aa": 120,
+          "av": 152,
+          "rld": 50,
+          "acc": 32,
+          "eva": 13,
+          "spd": 33,
+          "luk": 70,
+          "asw": 0
+        },
+        "slots": [[7], [9], [7, 8, 9], [10], [10]]
+      },
+      "107104": {
+        "id": 107104,
+        "tags": ["Essex-Class", "Yorktown II", "Yorktown"],
+        "type": 7,
+        "rarity": 6,
+        "stars": 6,
+        "oil": 15,
+        "max_level": 100,
+        "stats": {
+          "hp": 3074,
+          "fp": 0,
+          "trp": 0,
+          "aa": 171,
+          "av": 216,
+          "rld": 50,
+          "acc": 32,
+          "eva": 13,
+          "spd": 33,
+          "luk": 70,
+          "asw": 0
+        },
+        "slots": [[7], [9], [7, 8, 9], [10], [10]]
+      }
+    },
+    "stars": 6
+  },
   "10711": {
     "id": 10711,
     "code": 442,
@@ -12696,7 +13020,7 @@
     "data": {
       "107111": {
         "id": 107111,
-        "tags": ["Essex-Class"],
+        "tags": ["Essex-Class", "Essex-Class-No-Yorktown"],
         "type": 7,
         "rarity": 5,
         "stars": 3,
@@ -12718,7 +13042,7 @@
       },
       "107112": {
         "id": 107112,
-        "tags": ["Essex-Class"],
+        "tags": ["Essex-Class", "Essex-Class-No-Yorktown"],
         "type": 7,
         "rarity": 5,
         "stars": 4,
@@ -12740,7 +13064,7 @@
       },
       "107113": {
         "id": 107113,
-        "tags": ["Essex-Class"],
+        "tags": ["Essex-Class", "Essex-Class-No-Yorktown"],
         "type": 7,
         "rarity": 5,
         "stars": 5,
@@ -12762,7 +13086,7 @@
       },
       "107114": {
         "id": 107114,
-        "tags": ["Essex-Class"],
+        "tags": ["Essex-Class", "Essex-Class-No-Yorktown"],
         "type": 7,
         "rarity": 5,
         "stars": 6,
@@ -12807,6 +13131,113 @@
     },
     "stars": 6
   },
+  "10712": {
+    "id": 10712,
+    "code": 572,
+    "name": {
+      "en": "Hornet II",
+      "code": "USS Hornet II",
+      "cn": "大黄蜂II",
+      "jp": "ホーネットⅡ",
+      "kr": "호넷Ⅱ"
+    },
+    "property_hexagon": [0, 0, 5, 3, 3, 3],
+    "type": 7,
+    "armor": 2,
+    "slots": [[7], [9], [8], [10], [10]],
+    "nationality": 1,
+    "data": {
+      "107121": {
+        "id": 107121,
+        "tags": ["Essex-Class", "Essex-Class-No-Yorktown"],
+        "type": 7,
+        "rarity": 5,
+        "stars": 3,
+        "oil": 7,
+        "max_level": 70,
+        "stats": {
+          "hp": 1106,
+          "fp": 0,
+          "trp": 0,
+          "aa": 63,
+          "av": 83,
+          "rld": 48,
+          "acc": 31,
+          "eva": 13,
+          "spd": 33,
+          "luk": 76,
+          "asw": 0
+        }
+      },
+      "107122": {
+        "id": 107122,
+        "tags": ["Essex-Class", "Essex-Class-No-Yorktown"],
+        "type": 7,
+        "rarity": 5,
+        "stars": 4,
+        "oil": 9,
+        "max_level": 80,
+        "stats": {
+          "hp": 1376,
+          "fp": 0,
+          "trp": 0,
+          "aa": 79,
+          "av": 104,
+          "rld": 48,
+          "acc": 31,
+          "eva": 13,
+          "spd": 33,
+          "luk": 76,
+          "asw": 0
+        }
+      },
+      "107123": {
+        "id": 107123,
+        "tags": ["Essex-Class", "Essex-Class-No-Yorktown"],
+        "type": 7,
+        "rarity": 5,
+        "stars": 5,
+        "oil": 11,
+        "max_level": 90,
+        "stats": {
+          "hp": 1915,
+          "fp": 0,
+          "trp": 0,
+          "aa": 110,
+          "av": 145,
+          "rld": 48,
+          "acc": 31,
+          "eva": 13,
+          "spd": 33,
+          "luk": 76,
+          "asw": 0
+        }
+      },
+      "107124": {
+        "id": 107124,
+        "tags": ["Essex-Class", "Essex-Class-No-Yorktown"],
+        "type": 7,
+        "rarity": 5,
+        "stars": 6,
+        "oil": 13,
+        "max_level": 100,
+        "stats": {
+          "hp": 2725,
+          "fp": 0,
+          "trp": 0,
+          "aa": 156,
+          "av": 206,
+          "rld": 48,
+          "acc": 31,
+          "eva": 13,
+          "spd": 33,
+          "luk": 76,
+          "asw": 0
+        }
+      }
+    },
+    "stars": 6
+  },
   "10714": {
     "id": 10714,
     "code": 511,
@@ -12826,7 +13257,7 @@
     "data": {
       "107141": {
         "id": 107141,
-        "tags": ["Essex-Class"],
+        "tags": ["Essex-Class", "Essex-Class-No-Yorktown"],
         "type": 7,
         "rarity": 5,
         "stars": 3,
@@ -12848,7 +13279,7 @@
       },
       "107142": {
         "id": 107142,
-        "tags": ["Essex-Class"],
+        "tags": ["Essex-Class", "Essex-Class-No-Yorktown"],
         "type": 7,
         "rarity": 5,
         "stars": 4,
@@ -12870,7 +13301,7 @@
       },
       "107143": {
         "id": 107143,
-        "tags": ["Essex-Class"],
+        "tags": ["Essex-Class", "Essex-Class-No-Yorktown"],
         "type": 7,
         "rarity": 5,
         "stars": 5,
@@ -12892,7 +13323,7 @@
       },
       "107144": {
         "id": 107144,
-        "tags": ["Essex-Class"],
+        "tags": ["Essex-Class", "Essex-Class-No-Yorktown"],
         "type": 7,
         "rarity": 5,
         "stars": 6,
@@ -12934,7 +13365,7 @@
     "data": {
       "107171": {
         "id": 107171,
-        "tags": ["Essex-Class"],
+        "tags": ["Essex-Class", "Essex-Class-No-Yorktown"],
         "type": 7,
         "rarity": 5,
         "stars": 3,
@@ -12956,7 +13387,7 @@
       },
       "107172": {
         "id": 107172,
-        "tags": ["Essex-Class"],
+        "tags": ["Essex-Class", "Essex-Class-No-Yorktown"],
         "type": 7,
         "rarity": 5,
         "stars": 4,
@@ -12978,7 +13409,7 @@
       },
       "107173": {
         "id": 107173,
-        "tags": ["Essex-Class"],
+        "tags": ["Essex-Class", "Essex-Class-No-Yorktown"],
         "type": 7,
         "rarity": 5,
         "stars": 5,
@@ -13000,7 +13431,7 @@
       },
       "107174": {
         "id": 107174,
-        "tags": ["Essex-Class"],
+        "tags": ["Essex-Class", "Essex-Class-No-Yorktown"],
         "type": 7,
         "rarity": 5,
         "stars": 6,
@@ -13290,6 +13721,113 @@
     },
     "stars": 5
   },
+  "10727": {
+    "id": 10727,
+    "code": 573,
+    "name": {
+      "en": "Langley II",
+      "code": "USS Langley II",
+      "cn": "兰利II",
+      "jp": "ラングレーⅡ",
+      "kr": "랭글리Ⅱ"
+    },
+    "property_hexagon": [0, 0, 4, 2, 3, 3],
+    "type": 6,
+    "armor": 2,
+    "slots": [[7], [8], [6], [10, 15], [10, 15]],
+    "nationality": 1,
+    "data": {
+      "107271": {
+        "id": 107271,
+        "tags": ["Independence-Class", "Eagle Union-CVL"],
+        "type": 6,
+        "rarity": 4,
+        "stars": 2,
+        "oil": 5,
+        "max_level": 70,
+        "stats": {
+          "hp": 799,
+          "fp": 0,
+          "trp": 0,
+          "aa": 51,
+          "av": 64,
+          "rld": 70,
+          "acc": 29,
+          "eva": 21,
+          "spd": 31,
+          "luk": 70,
+          "asw": 24
+        }
+      },
+      "107272": {
+        "id": 107272,
+        "tags": ["Independence-Class", "Eagle Union-CVL"],
+        "type": 6,
+        "rarity": 4,
+        "stars": 3,
+        "oil": 7,
+        "max_level": 80,
+        "stats": {
+          "hp": 994,
+          "fp": 0,
+          "trp": 0,
+          "aa": 63,
+          "av": 80,
+          "rld": 70,
+          "acc": 29,
+          "eva": 21,
+          "spd": 31,
+          "luk": 70,
+          "asw": 30
+        }
+      },
+      "107273": {
+        "id": 107273,
+        "tags": ["Independence-Class", "Eagle Union-CVL"],
+        "type": 6,
+        "rarity": 4,
+        "stars": 4,
+        "oil": 9,
+        "max_level": 90,
+        "stats": {
+          "hp": 1383,
+          "fp": 0,
+          "trp": 0,
+          "aa": 88,
+          "av": 112,
+          "rld": 70,
+          "acc": 29,
+          "eva": 21,
+          "spd": 31,
+          "luk": 70,
+          "asw": 42
+        }
+      },
+      "107274": {
+        "id": 107274,
+        "tags": ["Independence-Class", "Eagle Union-CVL"],
+        "type": 6,
+        "rarity": 4,
+        "stars": 5,
+        "oil": 11,
+        "max_level": 100,
+        "stats": {
+          "hp": 1968,
+          "fp": 0,
+          "trp": 0,
+          "aa": 126,
+          "av": 159,
+          "rld": 70,
+          "acc": 29,
+          "eva": 21,
+          "spd": 31,
+          "luk": 70,
+          "asw": 59
+        }
+      }
+    },
+    "stars": 5
+  },
   "10729": {
     "id": 10729,
     "code": 403,
@@ -13417,7 +13955,7 @@
     "data": {
       "107381": {
         "id": 107381,
-        "tags": ["Essex-Class"],
+        "tags": ["Essex-Class", "Essex-Class-No-Yorktown"],
         "type": 7,
         "rarity": 5,
         "stars": 3,
@@ -13439,7 +13977,7 @@
       },
       "107382": {
         "id": 107382,
-        "tags": ["Essex-Class"],
+        "tags": ["Essex-Class", "Essex-Class-No-Yorktown"],
         "type": 7,
         "rarity": 5,
         "stars": 4,
@@ -13461,7 +13999,7 @@
       },
       "107383": {
         "id": 107383,
-        "tags": ["Essex-Class"],
+        "tags": ["Essex-Class", "Essex-Class-No-Yorktown"],
         "type": 7,
         "rarity": 5,
         "stars": 5,
@@ -13483,7 +14021,7 @@
       },
       "107384": {
         "id": 107384,
-        "tags": ["Essex-Class"],
+        "tags": ["Essex-Class", "Essex-Class-No-Yorktown"],
         "type": 7,
         "rarity": 5,
         "stars": 6,
@@ -13505,7 +14043,7 @@
       },
       "900344": {
         "id": 900344,
-        "tags": ["Essex-Class"],
+        "tags": ["Essex-Class", "Essex-Class-No-Yorktown"],
         "type": 7,
         "rarity": 5,
         "stars": 6,
@@ -14642,7 +15180,7 @@
     "property_hexagon": [5, 0, 0, 2, 3, 5],
     "type": 5,
     "armor": 3,
-    "slots": [[4], [1], [6], [10], [10]],
+    "slots": [[4], [1], [6, 21], [10], [10]],
     "nationality": 1,
     "data": {
       "199021": {
@@ -14755,7 +15293,7 @@
     "data": {
       "199031": {
         "id": 199031,
-        "tags": ["Plan-Class"],
+        "tags": ["Plan-Class", "Anchorage"],
         "type": 3,
         "rarity": 5,
         "stars": 3,
@@ -14777,7 +15315,7 @@
       },
       "199032": {
         "id": 199032,
-        "tags": ["Plan-Class"],
+        "tags": ["Plan-Class", "Anchorage"],
         "type": 3,
         "rarity": 5,
         "stars": 4,
@@ -14799,7 +15337,7 @@
       },
       "199033": {
         "id": 199033,
-        "tags": ["Plan-Class"],
+        "tags": ["Plan-Class", "Anchorage"],
         "type": 3,
         "rarity": 5,
         "stars": 5,
@@ -14821,7 +15359,7 @@
       },
       "199034": {
         "id": 199034,
-        "tags": ["Plan-Class"],
+        "tags": ["Plan-Class", "Anchorage"],
         "type": 3,
         "rarity": 5,
         "stars": 6,
@@ -22220,7 +22758,7 @@
     "property_hexagon": [5, 0, 0, 2, 2, 3],
     "type": 4,
     "armor": 2,
-    "slots": [[4], [1], [6], [10], [10]],
+    "slots": [[4], [1], [6, 21], [10], [10]],
     "nationality": 2,
     "data": {
       "204011": {
@@ -22350,7 +22888,7 @@
     "property_hexagon": [4, 0, 0, 2, 2, 3],
     "type": 4,
     "armor": 2,
-    "slots": [[4], [1], [6], [10], [10]],
+    "slots": [[4], [1], [6, 21], [10], [10]],
     "nationality": 2,
     "data": {
       "204021": {
@@ -22458,7 +22996,7 @@
     "property_hexagon": [4, 0, 0, 2, 3, 4],
     "type": 4,
     "armor": 2,
-    "slots": [[4], [1], [6], [10], [10]],
+    "slots": [[4], [1], [6, 21], [10], [10]],
     "nationality": 2,
     "data": {
       "204031": {
@@ -22566,7 +23104,7 @@
           "luk": 38,
           "asw": 0
         },
-        "slots": [[4], [1], [6], [10, 14], [10, 14]]
+        "slots": [[4], [1], [6, 21], [10, 14], [10, 14]]
       },
       "900257": {
         "id": 900257,
@@ -22606,7 +23144,7 @@
     "property_hexagon": [4, 0, 0, 2, 2, 3],
     "type": 4,
     "armor": 2,
-    "slots": [[4], [1], [6], [10], [10]],
+    "slots": [[4], [1], [6, 21], [10], [10]],
     "nationality": 2,
     "data": {
       "204041": {
@@ -22714,7 +23252,7 @@
     "property_hexagon": [4, 0, 0, 1, 1, 4],
     "type": 5,
     "armor": 3,
-    "slots": [[4], [1, 2], [6], [10], [10]],
+    "slots": [[4], [1, 2], [6, 21], [10], [10]],
     "nationality": 2,
     "data": {
       "205011": {
@@ -22822,7 +23360,7 @@
     "property_hexagon": [5, 0, 0, 1, 1, 4],
     "type": 5,
     "armor": 3,
-    "slots": [[4], [1, 2], [6], [10], [10]],
+    "slots": [[4], [1, 2], [6, 21], [10], [10]],
     "nationality": 2,
     "data": {
       "205021": {
@@ -22934,7 +23472,7 @@
           "luk": 90,
           "asw": 58
         },
-        "slots": [[4], [1, 2], [6], [10, 15], [10]],
+        "slots": [[4], [1, 2], [6, 21], [10, 15], [10]],
         "name": {
           "en": "Warspite Retrofit",
           "cn": "厌战.改",
@@ -23027,7 +23565,7 @@
     "property_hexagon": [4, 0, 0, 1, 2, 4],
     "type": 5,
     "armor": 3,
-    "slots": [[4], [1, 2], [6], [10], [10]],
+    "slots": [[4], [1, 2], [6, 21], [10], [10]],
     "nationality": 2,
     "data": {
       "205031": {
@@ -23135,7 +23673,7 @@
     "property_hexagon": [4, 0, 0, 1, 2, 4],
     "type": 5,
     "armor": 3,
-    "slots": [[4], [1, 2], [6], [10], [10]],
+    "slots": [[4], [1, 2], [6, 21], [10], [10]],
     "nationality": 2,
     "data": {
       "205041": {
@@ -23265,7 +23803,7 @@
     "property_hexagon": [5, 0, 0, 1, 1, 4],
     "type": 5,
     "armor": 3,
-    "slots": [[4], [1, 2], [6], [10], [10]],
+    "slots": [[4], [1, 2], [6, 21], [10], [10]],
     "nationality": 2,
     "data": {
       "205051": {
@@ -23395,7 +23933,7 @@
     "property_hexagon": [5, 0, 0, 1, 1, 4],
     "type": 5,
     "armor": 3,
-    "slots": [[4], [1, 2], [6], [10], [10]],
+    "slots": [[4], [1, 2], [6, 21], [10], [10]],
     "nationality": 2,
     "data": {
       "205061": {
@@ -23506,7 +24044,7 @@
           "luk": 14,
           "asw": 0
         },
-        "slots": [[4], [1], [6], [10, 14], [10, 14]]
+        "slots": [[4], [1], [6, 21], [10, 14], [10, 14]]
       }
     },
     "stars": 5
@@ -23525,7 +24063,7 @@
     "property_hexagon": [5, 0, 0, 1, 1, 4],
     "type": 5,
     "armor": 3,
-    "slots": [[4], [1, 2], [6], [10], [10]],
+    "slots": [[4], [1, 2], [6, 21], [10], [10]],
     "nationality": 2,
     "data": {
       "205071": {
@@ -23655,7 +24193,7 @@
     "property_hexagon": [5, 0, 0, 1, 1, 4],
     "type": 5,
     "armor": 3,
-    "slots": [[4], [1, 2], [6], [10], [10]],
+    "slots": [[4], [1, 2], [6, 21], [10], [10]],
     "nationality": 2,
     "data": {
       "205091": {
@@ -23784,7 +24322,7 @@
     "property_hexagon": [4, 0, 0, 1, 1, 4],
     "type": 5,
     "armor": 3,
-    "slots": [[4], [1, 2], [6], [10], [10]],
+    "slots": [[4], [1, 2], [6, 21], [10], [10]],
     "nationality": 2,
     "data": {
       "205101": {
@@ -23912,7 +24450,7 @@
     "property_hexagon": [4, 0, 0, 1, 1, 4],
     "type": 5,
     "armor": 3,
-    "slots": [[4], [1, 2], [6], [10], [10]],
+    "slots": [[4], [1, 2], [6, 21], [10], [10]],
     "nationality": 2,
     "data": {
       "205111": {
@@ -24019,7 +24557,7 @@
     "property_hexagon": [5, 0, 0, 1, 4, 5],
     "type": 5,
     "armor": 3,
-    "slots": [[4], [1, 2], [6], [10], [10]],
+    "slots": [[4], [1, 2], [6, 21], [10], [10]],
     "nationality": 2,
     "data": {
       "205131": {
@@ -26396,7 +26934,7 @@
     "property_hexagon": [5, 0, 0, 2, 1, 5],
     "type": 5,
     "armor": 3,
-    "slots": [[4], [1, 2], [6], [10], [10]],
+    "slots": [[4], [1, 2], [6, 21], [10], [10]],
     "nationality": 2,
     "data": {
       "299021": {
@@ -36383,7 +36921,7 @@
     "property_hexagon": [4, 0, 0, 2, 2, 3],
     "type": 4,
     "armor": 2,
-    "slots": [[4], [1, 2], [6], [10], [10]],
+    "slots": [[4], [1, 2], [6, 21], [10], [10]],
     "nationality": 3,
     "data": {
       "304011": {
@@ -36491,7 +37029,7 @@
     "property_hexagon": [4, 0, 0, 2, 2, 3],
     "type": 4,
     "armor": 2,
-    "slots": [[4], [1, 2], [6], [10], [10]],
+    "slots": [[4], [1, 2], [6, 21], [10], [10]],
     "nationality": 3,
     "data": {
       "304021": {
@@ -36599,7 +37137,7 @@
     "property_hexagon": [4, 0, 0, 2, 2, 3],
     "type": 4,
     "armor": 2,
-    "slots": [[4], [1, 2], [6], [10], [10]],
+    "slots": [[4], [1, 2], [6, 21], [10], [10]],
     "nationality": 3,
     "data": {
       "304031": {
@@ -36707,7 +37245,7 @@
     "property_hexagon": [4, 0, 0, 2, 2, 3],
     "type": 4,
     "armor": 2,
-    "slots": [[4], [1, 2], [6], [10], [10]],
+    "slots": [[4], [1, 2], [6, 21], [10], [10]],
     "nationality": 3,
     "data": {
       "304041": {
@@ -36815,7 +37353,7 @@
     "property_hexagon": [4, 2, 0, 2, 1, 3],
     "type": 4,
     "armor": 2,
-    "slots": [[4], [1, 2], [6], [10], [10]],
+    "slots": [[4], [1, 2], [6, 21], [10], [10]],
     "nationality": 3,
     "data": {
       "304051": {
@@ -36923,7 +37461,7 @@
     "property_hexagon": [4, 1, 0, 2, 1, 3],
     "type": 4,
     "armor": 2,
-    "slots": [[4], [1, 2], [6], [10], [10]],
+    "slots": [[4], [1, 2], [6, 21], [10], [10]],
     "nationality": 3,
     "data": {
       "304061": {
@@ -37031,7 +37569,7 @@
     "property_hexagon": [4, 1, 0, 2, 1, 3],
     "type": 4,
     "armor": 2,
-    "slots": [[4], [1, 2], [6], [10], [10]],
+    "slots": [[4], [1, 2], [6, 21], [10], [10]],
     "nationality": 3,
     "data": {
       "304071": {
@@ -37139,7 +37677,7 @@
     "property_hexagon": [4, 0, 0, 1, 1, 3],
     "type": 5,
     "armor": 3,
-    "slots": [[4], [1, 2], [6], [10], [10]],
+    "slots": [[4], [1, 2], [6, 21], [10], [10]],
     "nationality": 3,
     "data": {
       "305011": {
@@ -37251,7 +37789,7 @@
           "luk": 13,
           "asw": 0
         },
-        "slots": [[4], [7, 8, 9, 12], [6], [10], [10]],
+        "slots": [[4], [7, 8, 9, 12], [6, 21], [10], [10]],
         "name": {
           "en": "Fusou Retrofit",
           "cn": "扶桑.改",
@@ -37277,7 +37815,7 @@
     "property_hexagon": [4, 0, 0, 1, 1, 3],
     "type": 5,
     "armor": 3,
-    "slots": [[4], [1, 2], [6], [10], [10]],
+    "slots": [[4], [1, 2], [6, 21], [10], [10]],
     "nationality": 3,
     "data": {
       "305021": {
@@ -37389,7 +37927,7 @@
           "luk": 14,
           "asw": 0
         },
-        "slots": [[4], [7, 8, 9, 12], [6], [10], [10]],
+        "slots": [[4], [7, 8, 9, 12], [6, 21], [10], [10]],
         "name": {
           "en": "Yamashiro Retrofit",
           "cn": "山城.改",
@@ -37438,7 +37976,7 @@
     "property_hexagon": [4, 0, 0, 1, 1, 3],
     "type": 5,
     "armor": 3,
-    "slots": [[4], [1, 2], [6], [10], [10]],
+    "slots": [[4], [1, 2], [6, 21], [10], [10]],
     "nationality": 3,
     "data": {
       "305031": {
@@ -37550,7 +38088,7 @@
           "luk": 60,
           "asw": 0
         },
-        "slots": [[4], [7, 8, 9, 12], [6], [10], [10]],
+        "slots": [[4], [7, 8, 9, 12], [6, 21], [10], [10]],
         "name": {
           "en": "Ise Retrofit",
           "cn": "伊势.改",
@@ -37576,7 +38114,7 @@
     "property_hexagon": [4, 0, 0, 1, 1, 3],
     "type": 5,
     "armor": 3,
-    "slots": [[4], [1, 2], [6], [10], [10]],
+    "slots": [[4], [1, 2], [6, 21], [10], [10]],
     "nationality": 3,
     "data": {
       "305041": {
@@ -37688,7 +38226,7 @@
           "luk": 60,
           "asw": 0
         },
-        "slots": [[4], [7, 8, 9, 12], [6], [10], [10]],
+        "slots": [[4], [7, 8, 9, 12], [6, 21], [10], [10]],
         "name": {
           "en": "Hyuuga Retrofit",
           "cn": "日向.改",
@@ -37714,7 +38252,7 @@
     "property_hexagon": [4, 0, 0, 1, 1, 3],
     "type": 5,
     "armor": 3,
-    "slots": [[4], [1, 2], [6], [10], [10]],
+    "slots": [[4], [1, 2], [6, 21], [10], [10]],
     "nationality": 3,
     "data": {
       "305051": {
@@ -37844,7 +38382,7 @@
     "property_hexagon": [4, 0, 0, 1, 1, 3],
     "type": 5,
     "armor": 3,
-    "slots": [[4], [1, 2], [6], [10], [10]],
+    "slots": [[4], [1, 2], [6, 21], [10], [10]],
     "nationality": 3,
     "data": {
       "305061": {
@@ -37952,7 +38490,7 @@
     "property_hexagon": [4, 2, 0, 1, 1, 3],
     "type": 5,
     "armor": 3,
-    "slots": [[4], [1, 2], [6], [10], [10]],
+    "slots": [[4], [1, 2], [6, 21], [10], [10]],
     "nationality": 3,
     "data": {
       "305071": {
@@ -38082,7 +38620,7 @@
     "property_hexagon": [4, 2, 0, 1, 1, 3],
     "type": 5,
     "armor": 3,
-    "slots": [[4], [1, 2], [6], [10], [10]],
+    "slots": [[4], [1, 2], [6, 21], [10], [10]],
     "nationality": 3,
     "data": {
       "305081": {
@@ -38189,7 +38727,7 @@
     "property_hexagon": [5, 0, 0, 1, 2, 5],
     "type": 5,
     "armor": 3,
-    "slots": [[4], [1, 2], [6], [10], [10]],
+    "slots": [[4], [1, 2], [6, 21], [10], [10]],
     "nationality": 3,
     "data": {
       "305101": {
@@ -38426,7 +38964,7 @@
     "property_hexagon": [4, 2, 0, 1, 2, 3],
     "type": 5,
     "armor": 3,
-    "slots": [[4], [1, 2], [6], [10], [10]],
+    "slots": [[4], [1, 2], [6, 21], [10], [10]],
     "nationality": 3,
     "data": {
       "305121": {
@@ -38534,7 +39072,7 @@
     "property_hexagon": [4, 2, 0, 1, 2, 3],
     "type": 5,
     "armor": 3,
-    "slots": [[4], [1, 2], [6], [10], [10]],
+    "slots": [[4], [1, 2], [6, 21], [10], [10]],
     "nationality": 3,
     "data": {
       "305141": {
@@ -42099,7 +42637,7 @@
     "property_hexagon": [5, 0, 0, 2, 1, 5],
     "type": 5,
     "armor": 3,
-    "slots": [[4], [1, 2], [6], [10], [10]],
+    "slots": [[4], [1, 2], [6, 21], [10], [10]],
     "nationality": 3,
     "data": {
       "399021": {
@@ -44760,7 +45298,8 @@
       "code": "KMS Magdeburg",
       "cn": "马格德堡",
       "jp": "マクデブルク",
-      "kr": "마그데부르크"
+      "kr": "마그데부르크",
+      "tw": "馬德堡"
     },
     "property_hexagon": [3, 4, 0, 3, 3, 2],
     "type": 2,
@@ -45966,7 +46505,8 @@
       "code": "KMS Prinz Adalbert",
       "cn": "阿达尔伯特亲王",
       "jp": "プリンツ・アーダルベルト",
-      "kr": "프린츠 아달베르트"
+      "kr": "프린츠 아달베르트",
+      "tw": "阿達爾貝特親王"
     },
     "property_hexagon": [4, 2, 0, 2, 3, 5],
     "type": 3,
@@ -46401,7 +46941,7 @@
     "property_hexagon": [4, 1, 0, 1, 2, 4],
     "type": 4,
     "armor": 2,
-    "slots": [[4], [1, 2], [6], [10], [10]],
+    "slots": [[4], [1, 2], [6, 21], [10], [10]],
     "nationality": 4,
     "data": {
       "404011": {
@@ -46509,7 +47049,7 @@
     "property_hexagon": [4, 1, 0, 1, 2, 4],
     "type": 4,
     "armor": 2,
-    "slots": [[4], [1, 2], [6], [10], [10]],
+    "slots": [[4], [1, 2], [6, 21], [10], [10]],
     "nationality": 4,
     "data": {
       "404021": {
@@ -46637,7 +47177,7 @@
     "property_hexagon": [4, 1, 0, 1, 2, 4],
     "type": 4,
     "armor": 3,
-    "slots": [[4], [1, 2], [1, 6], [10], [10]],
+    "slots": [[4], [1, 2], [1, 6, 21], [10], [10]],
     "nationality": 4,
     "data": {
       "404031": {
@@ -46766,7 +47306,7 @@
     "property_hexagon": [4, 1, 0, 1, 2, 4],
     "type": 4,
     "armor": 3,
-    "slots": [[4], [1, 2], [1, 6], [10], [10]],
+    "slots": [[4], [1, 2], [1, 6, 21], [10], [10]],
     "nationality": 4,
     "data": {
       "404041": {
@@ -46895,7 +47435,7 @@
     "property_hexagon": [4, 2, 0, 1, 2, 4],
     "type": 4,
     "armor": 3,
-    "slots": [[4], [1, 2], [6], [10], [10]],
+    "slots": [[4], [1, 2], [6, 21], [10], [10]],
     "nationality": 4,
     "data": {
       "404051": {
@@ -47003,7 +47543,7 @@
     "property_hexagon": [5, 0, 0, 1, 2, 5],
     "type": 5,
     "armor": 3,
-    "slots": [[4], [1, 2], [6], [10], [10]],
+    "slots": [[4], [1, 2], [6, 21], [10], [10]],
     "nationality": 4,
     "data": {
       "405011": {
@@ -47111,7 +47651,7 @@
     "property_hexagon": [4, 2, 0, 1, 2, 5],
     "type": 5,
     "armor": 3,
-    "slots": [[4], [1, 2], [6], [10], [10]],
+    "slots": [[4], [1, 2], [6, 21], [10], [10]],
     "nationality": 4,
     "data": {
       "405021": {
@@ -47235,12 +47775,13 @@
       "code": "KMS Ulrich von Hutten",
       "cn": "乌尔里希·冯·胡滕",
       "jp": "ウルリッヒ・フォン・フッテン",
-      "kr": "울리히 폰 후텐"
+      "kr": "울리히 폰 후텐",
+      "tw": "烏爾里希·馮·胡滕"
     },
     "property_hexagon": [5, 0, 0, 2, 2, 5],
     "type": 5,
     "armor": 3,
-    "slots": [[4], [1, 2], [6], [10], [10]],
+    "slots": [[4], [1, 2], [6, 21], [10], [10]],
     "nationality": 4,
     "data": {
       "405031": {
@@ -47347,7 +47888,7 @@
     "property_hexagon": [4, 1, 0, 1, 1, 3],
     "type": 5,
     "armor": 3,
-    "slots": [[4], [1, 2], [1, 6], [10], [10]],
+    "slots": [[4], [1, 2], [1, 6, 21], [10], [10]],
     "nationality": 4,
     "data": {
       "405041": {
@@ -47557,7 +48098,8 @@
       "code": "KMS Elbe",
       "cn": "易北",
       "jp": "エルベ",
-      "kr": "엘베"
+      "kr": "엘베",
+      "tw": "易北"
     },
     "property_hexagon": [0, 0, 4, 2, 3, 3],
     "type": 6,
@@ -49305,7 +49847,8 @@
       "code": "KMS U-1206",
       "cn": "U-1206",
       "jp": "U-1206",
-      "kr": "U-1206"
+      "kr": "U-1206",
+      "tw": "U-1206"
     },
     "property_hexagon": [1, 4, 0, 1, 0, 1],
     "type": 8,
@@ -49526,7 +50069,7 @@
     "property_hexagon": [5, 0, 0, 2, 2, 5],
     "type": 5,
     "armor": 3,
-    "slots": [[4], [1, 2], [6], [10], [10]],
+    "slots": [[4], [1, 2], [6, 21], [10], [10]],
     "nationality": 4,
     "data": {
       "499021": {
@@ -49742,7 +50285,7 @@
     "property_hexagon": [4, 2, 0, 1, 2, 4],
     "type": 4,
     "armor": 3,
-    "slots": [[4], [5], [6], [10], [10]],
+    "slots": [[4], [5], [6, 21], [10], [10]],
     "nationality": 4,
     "data": {
       "499041": {
@@ -50109,7 +50652,7 @@
     "property_hexagon": [4, 2, 0, 1, 2, 5],
     "type": 4,
     "armor": 3,
-    "slots": [[4], [1, 2], [6], [10], [10]],
+    "slots": [[4], [1, 2], [6, 21], [10], [10]],
     "nationality": 4,
     "data": {
       "499071": {
@@ -53375,7 +53918,7 @@
     "property_hexagon": [5, 0, 0, 1, 2, 5],
     "type": 5,
     "armor": 3,
-    "slots": [[4], [1, 2], [6], [10], [10]],
+    "slots": [[4], [1, 2], [6, 21], [10], [10]],
     "nationality": 6,
     "data": {
       "605011": {
@@ -53483,7 +54026,7 @@
     "property_hexagon": [5, 0, 0, 1, 2, 5],
     "type": 5,
     "armor": 3,
-    "slots": [[4], [1, 2], [6], [10], [10]],
+    "slots": [[4], [1, 2], [6, 21], [10], [10]],
     "nationality": 6,
     "data": {
       "605021": {
@@ -53590,7 +54133,7 @@
     "property_hexagon": [5, 0, 0, 1, 2, 5],
     "type": 5,
     "armor": 3,
-    "slots": [[4], [1, 2], [6], [10], [10]],
+    "slots": [[4], [1, 2], [6, 21], [10], [10]],
     "nationality": 6,
     "data": {
       "605031": {
@@ -53698,7 +54241,7 @@
     "property_hexagon": [4, 1, 0, 1, 1, 3],
     "type": 5,
     "armor": 3,
-    "slots": [[4], [1], [6], [10], [10]],
+    "slots": [[4], [1], [6, 21], [10], [10]],
     "nationality": 6,
     "data": {
       "605051": {
@@ -53806,7 +54349,7 @@
     "property_hexagon": [4, 1, 0, 1, 1, 3],
     "type": 5,
     "armor": 3,
-    "slots": [[4], [1], [6], [10], [10]],
+    "slots": [[4], [1], [6, 21], [10], [10]],
     "nationality": 6,
     "data": {
       "605061": {
@@ -54347,7 +54890,7 @@
     "property_hexagon": [5, 0, 0, 1, 2, 5],
     "type": 5,
     "armor": 3,
-    "slots": [[4], [1, 2], [6], [10], [10]],
+    "slots": [[4], [1, 2], [6, 21], [10], [10]],
     "nationality": 6,
     "data": {
       "699011": {
@@ -56103,7 +56646,7 @@
     "property_hexagon": [4, 0, 0, 1, 1, 3],
     "type": 5,
     "armor": 3,
-    "slots": [[4], [1, 2], [6], [10], [10]],
+    "slots": [[4], [1, 2], [6, 21], [10], [10]],
     "nationality": 7,
     "data": {
       "705011": {
@@ -56232,7 +56775,7 @@
     "property_hexagon": [5, 0, 0, 1, 2, 5],
     "type": 5,
     "armor": 3,
-    "slots": [[4], [1, 2], [6], [10], [10]],
+    "slots": [[4], [1, 2], [6, 21], [10], [10]],
     "nationality": 7,
     "data": {
       "705041": {
@@ -56340,7 +56883,7 @@
     "property_hexagon": [5, 0, 0, 1, 2, 5],
     "type": 5,
     "armor": 3,
-    "slots": [[4], [1, 2], [6], [10], [10]],
+    "slots": [[4], [1, 2], [6, 21], [10], [10]],
     "nationality": 7,
     "data": {
       "705051": {
@@ -56469,7 +57012,7 @@
     "property_hexagon": [4, 0, 0, 1, 1, 4],
     "type": 5,
     "armor": 3,
-    "slots": [[4], [1, 2], [6], [10], [10]],
+    "slots": [[4], [1, 2], [6, 21], [10], [10]],
     "nationality": 7,
     "data": {
       "705061": {
@@ -57821,7 +58364,7 @@
     "property_hexagon": [5, 0, 0, 2, 1, 4],
     "type": 5,
     "armor": 3,
-    "slots": [[4], [1, 2], [6], [10], [10]],
+    "slots": [[4], [1, 2], [6, 21], [10], [10]],
     "nationality": 8,
     "data": {
       "805011": {
@@ -58333,7 +58876,7 @@
     "property_hexagon": [5, 0, 0, 2, 1, 4],
     "type": 5,
     "armor": 2,
-    "slots": [[4], [1, 2], [6], [10], [10]],
+    "slots": [[4], [1, 2], [6, 21], [10], [10]],
     "nationality": 8,
     "data": {
       "899021": {
@@ -59511,7 +60054,7 @@
     "property_hexagon": [4, 0, 0, 2, 1, 3],
     "type": 4,
     "armor": 2,
-    "slots": [[4], [1], [6], [10], [10]],
+    "slots": [[4], [1], [6, 21], [10], [10]],
     "nationality": 9,
     "data": {
       "904011": {
@@ -59619,7 +60162,7 @@
     "property_hexagon": [4, 0, 0, 2, 1, 4],
     "type": 5,
     "armor": 3,
-    "slots": [[4], [1, 2], [6], [10], [10]],
+    "slots": [[4], [1, 2], [6, 21], [10], [10]],
     "nationality": 9,
     "data": {
       "905011": {
@@ -59727,7 +60270,7 @@
     "property_hexagon": [5, 0, 0, 2, 1, 4],
     "type": 5,
     "armor": 3,
-    "slots": [[4], [1, 2], [6], [10], [10]],
+    "slots": [[4], [1, 2], [6, 21], [10], [10]],
     "nationality": 9,
     "data": {
       "905031": {
@@ -59942,7 +60485,7 @@
     "property_hexagon": [5, 0, 0, 2, 1, 4],
     "type": 5,
     "armor": 3,
-    "slots": [[4], [1, 2], [6], [10], [10]],
+    "slots": [[4], [1, 2], [6, 21], [10], [10]],
     "nationality": 9,
     "data": {
       "999011": {
@@ -60692,7 +61235,7 @@
     "property_hexagon": [4, 2, 0, 1, 2, 4],
     "type": 4,
     "armor": 2,
-    "slots": [[4], [1, 2], [6], [10], [10]],
+    "slots": [[4], [1, 2], [6, 21], [10], [10]],
     "nationality": 97,
     "data": {
       "9704011": {
@@ -60799,7 +61342,7 @@
     "property_hexagon": [4, 2, 0, 1, 2, 4],
     "type": 4,
     "armor": 2,
-    "slots": [[4], [5], [6], [10], [10]],
+    "slots": [[4], [5], [6, 21], [10], [10]],
     "nationality": 97,
     "data": {
       "9704021": {
@@ -60906,7 +61449,7 @@
     "property_hexagon": [4, 0, 0, 1, 2, 4],
     "type": 4,
     "armor": 2,
-    "slots": [[4], [1], [6], [10], [10]],
+    "slots": [[4], [1], [6, 21], [10], [10]],
     "nationality": 97,
     "data": {
       "9704031": {
@@ -61013,7 +61556,7 @@
     "property_hexagon": [4, 0, 0, 1, 2, 4],
     "type": 4,
     "armor": 2,
-    "slots": [[4], [1], [6], [10], [10]],
+    "slots": [[4], [1], [6, 21], [10], [10]],
     "nationality": 97,
     "data": {
       "9704041": {
@@ -61121,7 +61664,7 @@
     "property_hexagon": [4, 0, 0, 1, 1, 4],
     "type": 5,
     "armor": 3,
-    "slots": [[4], [1, 2], [6], [10], [10]],
+    "slots": [[4], [1, 2], [6, 21], [10], [10]],
     "nationality": 97,
     "data": {
       "9705011": {
@@ -61229,7 +61772,7 @@
     "property_hexagon": [4, 0, 0, 1, 1, 4],
     "type": 5,
     "armor": 3,
-    "slots": [[4], [1, 2], [6], [10], [10]],
+    "slots": [[4], [1, 2], [6, 21], [10], [10]],
     "nationality": 97,
     "data": {
       "9705021": {
@@ -61322,6 +61865,113 @@
       }
     },
     "stars": 5
+  },
+  "970503": {
+    "id": 970503,
+    "code": 30017,
+    "name": {
+      "en": "Arizona META",
+      "code": "Arizona META",
+      "cn": "亚利桑那·META",
+      "jp": "アリゾナ(META)",
+      "kr": "애리조나·META"
+    },
+    "property_hexagon": [4, 0, 0, 1, 1, 4],
+    "type": 4,
+    "armor": 3,
+    "slots": [[4], [1], [6, 21], [10], [10]],
+    "nationality": 97,
+    "data": {
+      "9705031": {
+        "id": 9705031,
+        "tags": ["ArizonaMETA", "TOC", "Pennsylvania-Class"],
+        "type": 5,
+        "rarity": 5,
+        "stars": 3,
+        "oil": 16,
+        "max_level": 100,
+        "stats": {
+          "hp": 1242,
+          "fp": 82,
+          "trp": 0,
+          "aa": 49,
+          "av": 0,
+          "rld": 55,
+          "acc": 16,
+          "eva": 3,
+          "spd": 21,
+          "luk": 28,
+          "asw": 0
+        }
+      },
+      "9705032": {
+        "id": 9705032,
+        "tags": ["ArizonaMETA", "TOC", "Pennsylvania-Class"],
+        "type": 5,
+        "rarity": 5,
+        "stars": 4,
+        "oil": 16,
+        "max_level": 100,
+        "stats": {
+          "hp": 1545,
+          "fp": 102,
+          "trp": 0,
+          "aa": 61,
+          "av": 0,
+          "rld": 55,
+          "acc": 16,
+          "eva": 3,
+          "spd": 21,
+          "luk": 28,
+          "asw": 0
+        }
+      },
+      "9705033": {
+        "id": 9705033,
+        "tags": ["ArizonaMETA", "TOC", "Pennsylvania-Class"],
+        "type": 5,
+        "rarity": 5,
+        "stars": 5,
+        "oil": 16,
+        "max_level": 100,
+        "stats": {
+          "hp": 2151,
+          "fp": 143,
+          "trp": 0,
+          "aa": 85,
+          "av": 0,
+          "rld": 55,
+          "acc": 16,
+          "eva": 3,
+          "spd": 21,
+          "luk": 28,
+          "asw": 0
+        }
+      },
+      "9705034": {
+        "id": 9705034,
+        "tags": ["ArizonaMETA", "TOC", "Pennsylvania-Class"],
+        "type": 5,
+        "rarity": 5,
+        "stars": 6,
+        "oil": 16,
+        "max_level": 100,
+        "stats": {
+          "hp": 3059,
+          "fp": 204,
+          "trp": 0,
+          "aa": 121,
+          "av": 0,
+          "rld": 55,
+          "acc": 16,
+          "eva": 3,
+          "spd": 21,
+          "luk": 28,
+          "asw": 0
+        }
+      }
+    },
+    "stars": 6
   },
   "970601": {
     "id": 970601,
@@ -63873,7 +64523,7 @@
     "property_hexagon": [4, 1, 0, 1, 1, 3],
     "type": 5,
     "armor": 3,
-    "slots": [[4], [1, 2], [6], [10], [10]],
+    "slots": [[4], [1, 2], [6, 21], [10], [10]],
     "nationality": 104,
     "data": {
       "10400041": {
@@ -64996,7 +65646,7 @@
     "property_hexagon": [4, 0, 0, 1, 1, 4],
     "type": 5,
     "armor": 3,
-    "slots": [[4], [1, 2], [6], [10], [10]],
+    "slots": [[4], [1, 2], [6, 21], [10], [10]],
     "nationality": 106,
     "data": {
       "10600021": {
@@ -65320,7 +65970,7 @@
     "property_hexagon": [4, 0, 0, 1, 1, 4],
     "type": 5,
     "armor": 3,
-    "slots": [[4], [1, 2], [6], [10], [10]],
+    "slots": [[4], [1, 2], [6, 21], [10], [10]],
     "nationality": 106,
     "data": {
       "10600051": {
@@ -65860,7 +66510,7 @@
     "property_hexagon": [4, 0, 0, 1, 3, 4],
     "type": 5,
     "armor": 3,
-    "slots": [[4], [1], [6], [10], [10]],
+    "slots": [[4], [1], [6, 21], [10], [10]],
     "nationality": 107,
     "data": {
       "10700031": {
@@ -66508,7 +67158,7 @@
     "property_hexagon": [4, 0, 0, 1, 1, 4],
     "type": 5,
     "armor": 3,
-    "slots": [[4], [1, 2], [6], [10], [10]],
+    "slots": [[4], [1, 2], [6, 21], [10], [10]],
     "nationality": 108,
     "data": {
       "10800021": {
@@ -67048,7 +67698,7 @@
     "property_hexagon": [4, 0, 0, 1, 1, 4],
     "type": 5,
     "armor": 3,
-    "slots": [[4], [1, 2], [6], [10], [10]],
+    "slots": [[4], [1, 2], [6, 21], [10], [10]],
     "nationality": 108,
     "data": {
       "10800071": {
@@ -67150,7 +67800,7 @@
       "code": "Reisalin Stout",
       "cn": "莱莎琳·斯托特",
       "jp": "ライザリン・シュタウト",
-      "kr": "라이잘린 슈타우트",
+      "kr": "라이잘린 스타우트",
       "tw": "萊莎琳·斯托特"
     },
     "property_hexagon": [3, 4, 0, 3, 3, 2],
@@ -67372,7 +68022,7 @@
     "property_hexagon": [5, 0, 0, 1, 2, 3],
     "type": 5,
     "armor": 3,
-    "slots": [[4], [1, 2], [6], [10], [10]],
+    "slots": [[4], [1, 2], [6, 21], [10], [10]],
     "nationality": 109,
     "data": {
       "10900031": {
