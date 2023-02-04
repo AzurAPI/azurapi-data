@@ -4273,7 +4273,8 @@
       "code": "USS Bristol",
       "cn": "布里斯托尔",
       "jp": "ブリストル",
-      "kr": "브리스톨"
+      "kr": "브리스톨",
+      "tw": "布里斯托爾"
     },
     "property_hexagon": [3, 3, 0, 3, 4, 2],
     "type": 1,
@@ -21247,7 +21248,8 @@
       "code": "HMS Charybdis",
       "cn": "卡律布狄斯",
       "jp": "カリブディス",
-      "kr": "카리브디스"
+      "kr": "카리브디스",
+      "tw": "卡律布狄斯"
     },
     "property_hexagon": [3, 1, 0, 3, 4, 2],
     "type": 2,
@@ -25345,6 +25347,113 @@
           "asw": 77
         },
         "slots": [[7], [7], [8, 9], [10, 15], [10, 15]]
+      }
+    },
+    "stars": 6
+  },
+  "20608": {
+    "id": 20608,
+    "code": 578,
+    "name": {
+      "en": "Theseus",
+      "code": "HMS Theseus",
+      "cn": "忒修斯",
+      "jp": "シーシュース",
+      "kr": "테세우스"
+    },
+    "property_hexagon": [0, 0, 4, 1, 3, 3],
+    "type": 6,
+    "armor": 2,
+    "slots": [[7], [9], [8], [10, 15], [10, 15]],
+    "nationality": 2,
+    "data": {
+      "206081": {
+        "id": 206081,
+        "tags": ["Colossus-Class", "Royal Fleet-CVL"],
+        "type": 6,
+        "rarity": 5,
+        "stars": 3,
+        "oil": 7,
+        "max_level": 70,
+        "stats": {
+          "hp": 826,
+          "fp": 0,
+          "trp": 0,
+          "aa": 49,
+          "av": 81,
+          "rld": 61,
+          "acc": 32,
+          "eva": 18,
+          "spd": 25,
+          "luk": 71,
+          "asw": 30
+        }
+      },
+      "206082": {
+        "id": 206082,
+        "tags": ["Colossus-Class", "Royal Fleet-CVL"],
+        "type": 6,
+        "rarity": 5,
+        "stars": 4,
+        "oil": 9,
+        "max_level": 80,
+        "stats": {
+          "hp": 1027,
+          "fp": 0,
+          "trp": 0,
+          "aa": 61,
+          "av": 101,
+          "rld": 61,
+          "acc": 32,
+          "eva": 18,
+          "spd": 25,
+          "luk": 71,
+          "asw": 37
+        }
+      },
+      "206083": {
+        "id": 206083,
+        "tags": ["Colossus-Class", "Royal Fleet-CVL"],
+        "type": 6,
+        "rarity": 5,
+        "stars": 5,
+        "oil": 11,
+        "max_level": 90,
+        "stats": {
+          "hp": 1430,
+          "fp": 0,
+          "trp": 0,
+          "aa": 85,
+          "av": 141,
+          "rld": 61,
+          "acc": 32,
+          "eva": 18,
+          "spd": 25,
+          "luk": 71,
+          "asw": 52
+        }
+      },
+      "206084": {
+        "id": 206084,
+        "tags": ["Colossus-Class", "Royal Fleet-CVL"],
+        "type": 6,
+        "rarity": 5,
+        "stars": 6,
+        "oil": 13,
+        "max_level": 100,
+        "stats": {
+          "hp": 2034,
+          "fp": 0,
+          "trp": 0,
+          "aa": 122,
+          "av": 201,
+          "rld": 61,
+          "acc": 32,
+          "eva": 18,
+          "spd": 25,
+          "luk": 71,
+          "asw": 75
+        }
       }
     },
     "stars": 6
@@ -50877,7 +50986,8 @@
           "en": "An Shan (Retrofit)",
           "cn": "鞍山.改",
           "jp": "鞍山改",
-          "kr": "안샨·改"
+          "kr": "안샨·改",
+          "tw": "鞍山.改"
         }
       },
       "521014": {
@@ -50906,7 +51016,8 @@
           "en": "An Shan (Retrofit)",
           "cn": "鞍山.改",
           "jp": "鞍山改",
-          "kr": "안샨·改"
+          "kr": "안샨·改",
+          "tw": "鞍山.改"
         }
       }
     },
@@ -51151,7 +51262,8 @@
           "en": "Chang Chun (Retrofit)",
           "cn": "长春.改",
           "jp": "長春改",
-          "kr": "창춘·改"
+          "kr": "창춘·改",
+          "tw": "長春.改"
         }
       },
       "521034": {
@@ -51180,7 +51292,8 @@
           "en": "Chang Chun (Retrofit)",
           "cn": "长春.改",
           "jp": "長春改",
-          "kr": "창춘·改"
+          "kr": "창춘·改",
+          "tw": "長春.改"
         }
       }
     },
@@ -51397,6 +51510,34 @@
           "spd": 19,
           "luk": 64,
           "asw": 33
+        }
+      },
+      "502114": {
+        "id": 502114,
+        "tags": ["Yat sen"],
+        "type": 2,
+        "rarity": 4,
+        "stars": 5,
+        "oil": 10,
+        "max_level": 100,
+        "stats": {
+          "hp": 809,
+          "fp": 55,
+          "trp": 0,
+          "aa": 163,
+          "av": 0,
+          "rld": 67,
+          "acc": 50,
+          "eva": 24,
+          "spd": 19,
+          "luk": 64,
+          "asw": 33
+        },
+        "name": {
+          "en": "Yat Sen (Retrofit)",
+          "cn": "逸仙.改",
+          "jp": "逸仙改",
+          "kr": "얏센·改"
         }
       },
       "900020": {
@@ -51865,7 +52006,8 @@
       "code": "Hai Tien",
       "cn": "海天",
       "jp": "海天",
-      "kr": "하이티엔"
+      "kr": "하이티엔",
+      "tw": "海天"
     },
     "property_hexagon": [2, 2, 0, 2, 1, 2],
     "type": 2,
@@ -51972,7 +52114,8 @@
       "code": "Hai Chi",
       "cn": "海圻",
       "jp": "海圻",
-      "kr": "하이치"
+      "kr": "하이치",
+      "tw": "海圻"
     },
     "property_hexagon": [2, 2, 0, 2, 1, 2],
     "type": 2,
@@ -52079,7 +52222,8 @@
       "code": "Chen Hai",
       "cn": "镇海",
       "jp": "鎮海",
-      "kr": "젠하이"
+      "kr": "젠하이",
+      "tw": "鎮海"
     },
     "property_hexagon": [1, 0, 3, 2, 2, 2],
     "type": 6,
@@ -52177,6 +52321,220 @@
           "asw": 0
         },
         "slots": [[12], [1, 12], [6], [10, 14], [10, 14]]
+      }
+    },
+    "stars": 5
+  },
+  "50602": {
+    "id": 50602,
+    "code": 579,
+    "name": {
+      "en": "Hwah Jah",
+      "code": "Hwah Jah",
+      "cn": "华甲",
+      "jp": "華甲",
+      "kr": "화지아"
+    },
+    "property_hexagon": [0, 0, 3, 2, 2, 3],
+    "type": 6,
+    "armor": 2,
+    "slots": [[12], [12], [6], [10, 14], [10, 14]],
+    "nationality": 5,
+    "data": {
+      "506021": {
+        "id": 506021,
+        "tags": ["Hwah Jahi"],
+        "type": 6,
+        "rarity": 4,
+        "stars": 2,
+        "oil": 5,
+        "max_level": 70,
+        "stats": {
+          "hp": 802,
+          "fp": 0,
+          "trp": 0,
+          "aa": 27,
+          "av": 62,
+          "rld": 64,
+          "acc": 28,
+          "eva": 13,
+          "spd": 12,
+          "luk": 53,
+          "asw": 0
+        }
+      },
+      "506022": {
+        "id": 506022,
+        "tags": ["Hwah Jahi"],
+        "type": 6,
+        "rarity": 4,
+        "stars": 3,
+        "oil": 7,
+        "max_level": 80,
+        "stats": {
+          "hp": 998,
+          "fp": 0,
+          "trp": 0,
+          "aa": 34,
+          "av": 77,
+          "rld": 64,
+          "acc": 28,
+          "eva": 13,
+          "spd": 12,
+          "luk": 53,
+          "asw": 0
+        }
+      },
+      "506023": {
+        "id": 506023,
+        "tags": ["Hwah Jahi"],
+        "type": 6,
+        "rarity": 4,
+        "stars": 4,
+        "oil": 9,
+        "max_level": 90,
+        "stats": {
+          "hp": 1389,
+          "fp": 0,
+          "trp": 0,
+          "aa": 47,
+          "av": 108,
+          "rld": 64,
+          "acc": 28,
+          "eva": 13,
+          "spd": 12,
+          "luk": 53,
+          "asw": 0
+        }
+      },
+      "506024": {
+        "id": 506024,
+        "tags": ["Hwah Jahi"],
+        "type": 6,
+        "rarity": 4,
+        "stars": 5,
+        "oil": 11,
+        "max_level": 100,
+        "stats": {
+          "hp": 1975,
+          "fp": 0,
+          "trp": 0,
+          "aa": 67,
+          "av": 154,
+          "rld": 64,
+          "acc": 28,
+          "eva": 13,
+          "spd": 12,
+          "luk": 53,
+          "asw": 0
+        }
+      }
+    },
+    "stars": 5
+  },
+  "51901": {
+    "id": 51901,
+    "code": 580,
+    "name": {
+      "en": "Ting An",
+      "code": "Ting An",
+      "cn": "定安",
+      "jp": "定安",
+      "kr": "딩안"
+    },
+    "property_hexagon": [0, 0, 2, 2, 2, 2],
+    "type": 19,
+    "armor": 1,
+    "slots": [[12], [10, 18], [10, 18], [10, 18], [10, 18]],
+    "nationality": 5,
+    "data": {
+      "519011": {
+        "id": 519011,
+        "tags": ["Ting An"],
+        "type": 19,
+        "rarity": 4,
+        "stars": 2,
+        "oil": 4,
+        "max_level": 70,
+        "stats": {
+          "hp": 382,
+          "fp": 0,
+          "trp": 0,
+          "aa": 25,
+          "av": 29,
+          "rld": 55,
+          "acc": 49,
+          "eva": 36,
+          "spd": 9,
+          "luk": 49,
+          "asw": 0
+        }
+      },
+      "519012": {
+        "id": 519012,
+        "tags": ["Ting An"],
+        "type": 19,
+        "rarity": 4,
+        "stars": 3,
+        "oil": 6,
+        "max_level": 80,
+        "stats": {
+          "hp": 475,
+          "fp": 0,
+          "trp": 0,
+          "aa": 31,
+          "av": 36,
+          "rld": 55,
+          "acc": 49,
+          "eva": 36,
+          "spd": 9,
+          "luk": 49,
+          "asw": 0
+        }
+      },
+      "519013": {
+        "id": 519013,
+        "tags": ["Ting An"],
+        "type": 19,
+        "rarity": 4,
+        "stars": 4,
+        "oil": 8,
+        "max_level": 90,
+        "stats": {
+          "hp": 661,
+          "fp": 0,
+          "trp": 0,
+          "aa": 43,
+          "av": 50,
+          "rld": 55,
+          "acc": 49,
+          "eva": 36,
+          "spd": 9,
+          "luk": 49,
+          "asw": 0
+        }
+      },
+      "519014": {
+        "id": 519014,
+        "tags": ["Ting An"],
+        "type": 19,
+        "rarity": 4,
+        "stars": 5,
+        "oil": 10,
+        "max_level": 100,
+        "stats": {
+          "hp": 940,
+          "fp": 0,
+          "trp": 0,
+          "aa": 62,
+          "av": 72,
+          "rld": 55,
+          "acc": 49,
+          "eva": 36,
+          "spd": 9,
+          "luk": 49,
+          "asw": 0
+        }
       }
     },
     "stars": 5
@@ -56411,6 +56769,113 @@
           "spd": 36.5,
           "luk": 52,
           "asw": 93
+        }
+      }
+    },
+    "stars": 6
+  },
+  "70205": {
+    "id": 70205,
+    "code": 577,
+    "name": {
+      "en": "Kuybyshev",
+      "code": "SN Kuybyshev",
+      "cn": "古比雪夫",
+      "jp": "クイビシェフ",
+      "kr": "쿠이비셰프"
+    },
+    "property_hexagon": [3, 0, 0, 3, 3, 3],
+    "type": 2,
+    "armor": 1,
+    "slots": [[2], [1], [6], [10, 14], [10, 14]],
+    "nationality": 7,
+    "data": {
+      "702051": {
+        "id": 702051,
+        "tags": ["Chapayev-Class", "Northern Union-CL"],
+        "type": 2,
+        "rarity": 5,
+        "stars": 3,
+        "oil": 5,
+        "max_level": 70,
+        "stats": {
+          "hp": 748,
+          "fp": 33,
+          "trp": 0,
+          "aa": 63,
+          "av": 0,
+          "rld": 72,
+          "acc": 57,
+          "eva": 30,
+          "spd": 33.5,
+          "luk": 73,
+          "asw": 36
+        }
+      },
+      "702052": {
+        "id": 702052,
+        "tags": ["Chapayev-Class", "Northern Union-CL"],
+        "type": 2,
+        "rarity": 5,
+        "stars": 4,
+        "oil": 7,
+        "max_level": 80,
+        "stats": {
+          "hp": 930,
+          "fp": 41,
+          "trp": 0,
+          "aa": 78,
+          "av": 0,
+          "rld": 72,
+          "acc": 57,
+          "eva": 30,
+          "spd": 33.5,
+          "luk": 73,
+          "asw": 45
+        }
+      },
+      "702053": {
+        "id": 702053,
+        "tags": ["Chapayev-Class", "Northern Union-CL"],
+        "type": 2,
+        "rarity": 5,
+        "stars": 5,
+        "oil": 9,
+        "max_level": 90,
+        "stats": {
+          "hp": 1295,
+          "fp": 57,
+          "trp": 0,
+          "aa": 109,
+          "av": 0,
+          "rld": 72,
+          "acc": 57,
+          "eva": 30,
+          "spd": 33.5,
+          "luk": 73,
+          "asw": 62
+        }
+      },
+      "702054": {
+        "id": 702054,
+        "tags": ["Chapayev-Class", "Northern Union-CL"],
+        "type": 2,
+        "rarity": 5,
+        "stars": 6,
+        "oil": 11,
+        "max_level": 100,
+        "stats": {
+          "hp": 1843,
+          "fp": 81,
+          "trp": 0,
+          "aa": 155,
+          "av": 0,
+          "rld": 72,
+          "acc": 57,
+          "eva": 30,
+          "spd": 33.5,
+          "luk": 73,
+          "asw": 89
         }
       }
     },
@@ -60691,7 +61156,8 @@
       "code": "Hunter META",
       "cn": "猎人·META",
       "jp": "ハンター(META)",
-      "kr": "헌터·META"
+      "kr": "헌터·META",
+      "tw": "獵人·META"
     },
     "property_hexagon": [1, 3, 0, 4, 1, 1],
     "type": 1,
@@ -61108,6 +61574,113 @@
           "spd": 35,
           "luk": 67,
           "asw": 50
+        }
+      }
+    },
+    "stars": 5
+  },
+  "970203": {
+    "id": 970203,
+    "code": 30018,
+    "name": {
+      "en": "Sheffield META",
+      "code": "Sheffield META",
+      "cn": "谢菲尔德·META",
+      "jp": "シェフィールド(META)",
+      "kr": "셰필드·META"
+    },
+    "property_hexagon": [3, 3, 0, 3, 2, 2],
+    "type": 2,
+    "armor": 1,
+    "slots": [[2], [5], [6], [10, 14], [10, 14]],
+    "nationality": 97,
+    "data": {
+      "9702031": {
+        "id": 9702031,
+        "tags": ["Sheffield.META", "Town-Class"],
+        "type": 2,
+        "rarity": 4,
+        "stars": 2,
+        "oil": 11,
+        "max_level": 100,
+        "stats": {
+          "hp": 652,
+          "fp": 30,
+          "trp": 56,
+          "aa": 66,
+          "av": 0,
+          "rld": 70,
+          "acc": 43,
+          "eva": 25,
+          "spd": 32,
+          "luk": 78,
+          "asw": 22
+        }
+      },
+      "9702032": {
+        "id": 9702032,
+        "tags": ["Sheffield.META", "Town-Class"],
+        "type": 2,
+        "rarity": 4,
+        "stars": 3,
+        "oil": 11,
+        "max_level": 100,
+        "stats": {
+          "hp": 811,
+          "fp": 37,
+          "trp": 70,
+          "aa": 82,
+          "av": 0,
+          "rld": 70,
+          "acc": 43,
+          "eva": 25,
+          "spd": 32,
+          "luk": 78,
+          "asw": 28
+        }
+      },
+      "9702033": {
+        "id": 9702033,
+        "tags": ["Sheffield.META", "Town-Class"],
+        "type": 2,
+        "rarity": 4,
+        "stars": 4,
+        "oil": 11,
+        "max_level": 100,
+        "stats": {
+          "hp": 1129,
+          "fp": 52,
+          "trp": 98,
+          "aa": 115,
+          "av": 0,
+          "rld": 70,
+          "acc": 43,
+          "eva": 25,
+          "spd": 32,
+          "luk": 78,
+          "asw": 39
+        }
+      },
+      "9702034": {
+        "id": 9702034,
+        "tags": ["Sheffield.META", "Town-Class"],
+        "type": 2,
+        "rarity": 4,
+        "stars": 5,
+        "oil": 11,
+        "max_level": 100,
+        "stats": {
+          "hp": 1606,
+          "fp": 74,
+          "trp": 139,
+          "aa": 164,
+          "av": 0,
+          "rld": 70,
+          "acc": 43,
+          "eva": 25,
+          "spd": 32,
+          "luk": 78,
+          "asw": 55
         }
       }
     },
