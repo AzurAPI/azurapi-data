@@ -40,7 +40,7 @@ function readFilesFromLanguage(lang = "EN") {
         if (!TYPES[type]) TYPES[type] = {};
         if (!TYPES[type][lang.toLowerCase()]) TYPES[type][lang.toLowerCase()] = types[type].type_name.trim();
     })
-    for (const id of groups.all) {
+    for (const id of Object.keys(groups)) {
         let group = groups[id];
         let ship = compiled[group.group_type];
         if (!ship) compiled[group.group_type] = ship = {
